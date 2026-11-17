@@ -53,7 +53,8 @@ if now < launch and buffer < 2:
     flags.append("LAUNCH GATE: launch needs a two-video buffer — " + ", ".join(f"{r['id']} READY by {r['finish_by']}" for r in need) + f"; launch {mains[0]['slot']} {mains[0]['time']} holds until then")
 for r in sched:
     if r["flag"] and r["when"] > now and r["when"] - now <= timedelta(days=21):
-        flags.append(f"{'NOTE' if 'KEEP' in r['flag'] or 'keep' in r['flag'] else 'DECISION'} {r['id']} {r['slot']}: {r['flag']}")
+        kind = 'NOTE' if 'KEEP' in r['flag'] or 'keep' in r['flag'] else 'TODO' if r['flag'].startswith('BEFORE UPLOAD') else 'DECISION'
+        flags.append(f"{kind} {r['id']} {r['slot']}: {r['flag']}")
 
 month = now.strftime("%Y-%m")
 spend, credits = 0.0, 0.0

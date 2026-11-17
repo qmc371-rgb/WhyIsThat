@@ -93,9 +93,9 @@ credits**. I won't top up without your approval.
 | Date (ET) | What |
 |---|---|
 | Thu Nov 19, 6 p.m. | ~~EP002 editorial draft due~~ **received Nov 16 (early)** |
-| Sun Nov 22 / Mon Nov 23 | EP002 review copy / your notes |
+| Sun Nov 22 / Mon Nov 23 | ~~EP002 review copy / your notes~~ done Nov 17 (approved, no notes) |
 | Tue Nov 24, 6 p.m. | **EP003 editorial draft due** (you) |
-| Wed Nov 25, noon | **EP002 READY** (buffer 1) |
+| Wed Nov 25, noon | ~~EP002 READY~~ **done Nov 17** (buffer 1) |
 | Fri Nov 27 / Sat Nov 28 | EP003 review copy / your notes · EP004 draft due Sat 6 p.m. |
 | Sun Nov 29, 6 p.m. | EP001 go/no-go (uploaded + scheduled?) |
 | Mon Nov 30, noon | **EP003 READY** (buffer 2 → launch confirmed) |

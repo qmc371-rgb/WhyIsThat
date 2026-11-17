@@ -24,5 +24,6 @@ File: `ep002_why_is_that_airplane_window_hole_1080p.mp4` (60.5 MB, 4:34.9)
 | Costs | 8 Higgsfield credits (≈ $0.39) of the $10 EP002 cap; $0 cash; November to date $1.18 of $100 | ✅ |
 | Release slot | **Confirmed by the owner (2026-11-17): Fri Dec 4, 2026, 6:00 p.m. ET** (23:00 UTC). The Short publishes the same day (time not given yet) | ✅ |
 | Higgsfield commercial terms | confirmed by the owner (2026-11-17) | ✅ |
+| **Sign-off** | **Approved by the owner 2026-11-17 → READY** (main + Short). The three 🔁 page checks move to before upload (go/no-go Wed Dec 2) | ✅ |
 
 Not done by Claude: uploading, scheduling, publishing (owner action in YouTube Studio).

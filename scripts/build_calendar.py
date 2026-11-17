@@ -140,8 +140,8 @@ def main() -> None:
     for r in schedule:
         r["status"] = prev_status.get(r["id"], r["status"])
         old_flag = prev_rows.get(r["id"], {}).get("flag", "")
-        if not r["flag"] and old_flag.startswith("SLOT NOT CONFIRMED"):
-            r["flag"] = old_flag  # owner hasn't confirmed this slot yet: keep the flag across regenerations
+        if not r["flag"] and old_flag and not old_flag.startswith("HOLIDAY"):
+            r["flag"] = old_flag  # manual flags (unconfirmed slot, before-upload checks) survive regeneration; clear them by hand
     schedule.sort(key=lambda r: r["utc"])
     milestones.sort(key=lambda r: datetime.strptime(r["date"][4:] + " " + r["time"].replace(" ET", ""), "%Y-%m-%d %I:%M %p"))
     with open(OUT / "release_schedule.csv", "w", newline="", encoding="utf-8") as f:
