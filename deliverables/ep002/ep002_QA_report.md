@@ -20,10 +20,10 @@ File: `ep002_why_is_that_airplane_window_hole_1080p.mp4` (60.5 MB, 4:34.9)
 | Thumbnail | 1280×720, PNG 1.02 MB / JPG 0.11 MB | ✅ < 2 MB |
 | Chapters | 10, first at 0:00, all ≥ 10 s | ✅ |
 | Description | 1,547 characters incl. chapters, sources, illustration note, credits | ✅ < 5,000 |
-| Sources | claim map complete. **L42 "maintain cabin pressure" confirmed on the live Airbus page by the owner (2026-11-17).** Still 🔁 (pages blocked from this container): L41 wording on the Airbus page, the Smithsonian page, the patent. The Trelleborg citation (L24) isn't verified; L24 is covered by Airbus + the patent | ⚠️ quick owner check |
+| Sources | claim map complete; **every live page re-checked by the owner (2026-11-17)**: Airbus (L41 + L42 wording), Smithsonian, patent. Trelleborg (draft citation for L24) isn't cited; L24 is covered by Airbus + the patent | ✅ |
 | Costs | 8 Higgsfield credits (≈ $0.39) of the $10 EP002 cap; $0 cash; November to date $1.18 of $100 | ✅ |
 | Release slot | **Confirmed by the owner (2026-11-17): Fri Dec 4, 2026, 6:00 p.m. ET** (23:00 UTC). The Short publishes the same day (time not given yet) | ✅ |
 | Higgsfield commercial terms | confirmed by the owner (2026-11-17) | ✅ |
-| **Sign-off** | **Approved by the owner 2026-11-17 → READY** (main + Short). The three 🔁 page checks move to before upload (go/no-go Wed Dec 2) | ✅ |
+| **Sign-off** | **Approved by the owner 2026-11-17 → READY** (main + Short). Page checks completed by the owner the same day | ✅ |
 
 Not done by Claude: uploading, scheduling, publishing (owner action in YouTube Studio).

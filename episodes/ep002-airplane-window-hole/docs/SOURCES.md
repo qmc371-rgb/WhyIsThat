@@ -1,6 +1,7 @@
 # EP002 source list: claim → source
 
-Status key: ✅ supported by the source as found · 🔁 re-check the live page before publishing (these
+Status key: ✅ supported by the source as found. **All live pages were re-checked by the owner on
+2026-11-17** (Airbus incl. L41 + L42 wording, Smithsonian, patent); earlier 🔁 marks meant "re-check the live page" (these
 hosts are blocked from the production container, so they were checked through search results and
 excerpts, not by opening the page).
 Line numbers refer to paragraphs of `narration/editorial_draft_v1.txt` (L01–L61). The owner's
@@ -8,7 +9,7 @@ draft cited sources inline (`narration/draft_citations.json`); they are kept bel
 
 ## Sources
 
-1. **Airbus, *Safety First*, "Under the spotlights": cabin windows.** ✅ owner checked the live page (2026-11-17) for L42
+1. **Airbus, *Safety First*, "Under the spotlights": cabin windows.** ✅ owner checked the live page (2026-11-17), incl. L41 and L42 wording
    https://safetyfirst.airbus.com/under-the-spotlights/?airbus-iframe=true&airbus-post=2055
    Cited in the draft at L11, L42, L55. As found: an Airbus cabin window has two structural
    panes (inner and outer); **each can independently withstand the maximum pressure difference
@@ -17,12 +18,12 @@ draft cited sources inline (`narration/draft_citations.json`); they are kept bel
    inner pane out of the normal pressurisation cycle; if the outer pane fails, the inner pane
    takes the load.
 2. **Smithsonian National Air and Space Museum, *How Things Fly*, "Ask an Explainer: Why don't
-   windows on planes shatter due to the pressure difference inside and outside the cabin?"** 🔁
+   windows on planes shatter due to the pressure difference inside and outside the cabin?"** ✅ owner checked the live page (2026-11-17)
    https://howthingsfly.si.edu/ask-an-explainer/why-dont-windows-planes-shatter-due-pressure-difference-inside-and-outside-cabin
    As found: airliner windows have several panes; a small **bleed hole** in the **middle** pane
    lets the outer pane take the pressure difference; the cabin is pressurised above the outside
    air at altitude.
-3. **U.S. Patent 7,267,302 B2, "Window airflow damper"** (The Boeing Company). 🔁
+3. **U.S. Patent 7,267,302 B2, "Window airflow damper"** (The Boeing Company). ✅ owner checked the live page (2026-11-17)
    https://patents.google.com/patent/US7267302B2/en
    Cited in the draft at L29. As found: a passenger window assembly has inner and outer
    structural panes with a cavity between them; a **breather (vent) hole, usually in the inner
@@ -56,7 +57,7 @@ draft cited sources inline (`narration/draft_citations.json`); they are kept bel
 | L30–L36 | Two-barrier analogy | Illustration of L24–L28 | n/a |
 | L37–L38 | The hole connects two spaces inside the window system; no clear route into the sky | 1, 2, 3 | ✅ |
 | L39–L40 | The arrangement is also a backup; the inner pane isn't just for thickness | 1 | ✅ |
-| L41 | "Airbus explains that each of its two structural cabin-window panes can independently withstand the maximum pressure difference normally experienced during flight." | 1 | ✅ 🔁 attributed to Airbus on screen; check the live wording |
+| L41 | "Airbus explains that each of its two structural cabin-window panes can independently withstand the maximum pressure difference normally experienced during flight." | 1 | ✅ attributed to Airbus on screen; wording checked on the live page by the owner (2026-11-17) |
 | L42 | If the outer pane fails, the inner pane is designed to take the pressure load and maintain cabin pressure | 1 | ✅ **confirmed on the live Airbus page by the owner (2026-11-17)**: it says "maintain cabin pressure" |
 | L43–L47 | Jobs: protective panel (everyday contact), outer pane (normal load), inner pane (backup), hole (manages pressure between them) | 1, 2, 3 | ✅ |
 | L48–L54 | Some sources say "inner pane" (1, 3), others "middle pane" (2); they can mean the same layer | 1, 2, 3 | ✅ |

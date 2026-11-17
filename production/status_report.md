@@ -1,4 +1,4 @@
-# Why Is That? — production status (Tue 2026-11-17 3:39 AM ET)
+# Why Is That? — production status (Tue 2026-11-17 3:40 AM ET)
 
 - **Next release:** EP001 Tue 2026-12-01 6:00 PM ET — status SCHEDULED
 - **Buffer (finished mains beyond the next release):** 1 of 2 → **AMBER**
@@ -6,7 +6,6 @@
 
 ## Flags
 - LAUNCH GATE: launch needs a two-video buffer — EP003 READY by Mon 2026-11-30 12:00 PM ET; launch Tue 2026-12-01 6:00 PM ET holds until then
-- TODO EP002 Fri 2026-12-04: BEFORE RELEASE: re-check 3 live pages Claude cannot open (Airbus page L41 wording, Smithsonian page, Boeing patent); fix the description in Studio if anything differs
 - DECISION S-EP002 Fri 2026-12-04: Scheduled by you 2026-11-17, but the date/time came through as '12//2026 :00pm': calendar shows Dec 4, 6:00 PM ET until you confirm
 
 ## Next 7 days
