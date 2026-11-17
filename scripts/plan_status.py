@@ -65,7 +65,7 @@ for f in glob.glob(str(ROOT / "episodes/*/docs/production_cost_log.csv")):
                 credits += float(row["quantity"] or 0)
 budget = "OK" if spend < WARN else "WARN (>=50% of cap)" if spend < STOP else "STOP — ask before any further spend (>=80% of cap)"
 
-week = [m for m in miles if now <= parse_et(m["date"], m["time"]) <= now + timedelta(days=7)]
+week = [m for m in miles if now <= parse_et(m["date"], m["time"]) <= now + timedelta(days=7) and m.get("done", "").lower() != "yes"]
 lines = [
     f"# Why Is That? — production status ({now.strftime('%a %Y-%m-%d %-I:%M %p ET')})",
     "",
