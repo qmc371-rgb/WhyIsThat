@@ -34,7 +34,7 @@ MODEL = ROOT / "tools/models/kokoro-v1.0.int8.onnx"
 VOICES = ROOT / "tools/models/voices-v1.0.bin"
 DRAFT = ROOT / "episodes/ep001-microwave-leftovers/narration/editorial_draft_v1.txt"
 OUT_WAV = ROOT / "public/audio/temp/ep001_opening_TEMP_kokoro.wav"
-OUT_JSON = ROOT / "src/data/narration_timing.json"
+OUT_JSON = ROOT / "src/data/ep001/narration_timing.json"  # legacy EP001 preview
 
 # Silence (seconds) inserted BEFORE each line; index 0 is the lead-in that leaves
 # room for the establishing shot. A longer beat precedes the title question.

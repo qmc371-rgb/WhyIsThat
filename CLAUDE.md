@@ -35,17 +35,20 @@ mkdir -p tools/models && for f in kokoro-v1.0.int8.onnx voices-v1.0.bin; do
 ```
 Remotion renders with the preinstalled headless shell (`remotion.config.ts`; override with `REMOTION_BROWSER`).
 
-## Pipeline
+## Pipeline (per episode; `<ep>` = ep002, ep003, …)
 | Step | Command |
 |---|---|
-| Voice (EP001 script; copy and adapt per episode) | `tools/.venv/bin/python scripts/tts_kokoro_final.py` |
-| Captions | `python3 scripts/make_captions.py --out episodes/<ep>/captions/<ep>_FINAL` |
-| Cue check (must be 0 unresolved) | `python3 scripts/check_cues.py` |
-| Review stills | `node scripts/stills.mjs Ep001Full 0.5 <seconds…>` |
-| Render + loudness master | `bash scripts/render_full.sh` |
-| QA (format, loudness, black/frozen, filmstrip) | `bash scripts/qa_final.sh` |
+| Scaffold the episode | `python3 scripts/new_episode.py <ep> <slug> "<working title>"` |
+| Paste the owner's draft | `episodes/<ep>-<slug>/narration/editorial_draft_v1.txt` (one paragraph per line) |
+| Voice (approved Kokoro voice) | `tools/.venv/bin/python scripts/tts_kokoro.py --episode <ep>` |
+| Captions | `python3 scripts/make_captions.py --timing src/data/<ep>/narration_timing.json --out episodes/<ep>-<slug>/captions/<ep>_FINAL` |
+| Scenes | `src/scenes/<ep>/` — import `cue`/`line` from `./timing` (`src/lib/timing.ts` exports are EP001's) |
+| Cue check (0 unresolved) | `python3 scripts/check_cues.py` (each `src/scenes/<ep>/` vs `src/data/<ep>/`) |
+| Review stills | `node scripts/stills.mjs <CompositionId> 0.5 <seconds…>` |
+| Render + loudness master | adapt `scripts/render_full.sh` (EP001: `Ep001Full`) |
+| QA | `bash scripts/qa_final.sh <master.mp4>` |
 | Status / flags / spend | `python3 scripts/plan_status.py` |
-| Calendar regeneration | `python3 scripts/build_calendar.py` |
+| Calendar regeneration | `python3 scripts/build_calendar.py` (keeps status, done marks and topics) |
 
 ## Repo hygiene
 Don't commit `out/` renders, `node_modules/`, `tools/.venv/`, `tools/models/` or Higgsfield

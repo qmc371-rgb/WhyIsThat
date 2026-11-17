@@ -117,7 +117,12 @@ def main() -> None:
     prev_status = {}
     if (OUT / "release_schedule.csv").exists():
         with open(OUT / "release_schedule.csv", encoding="utf-8") as f:
-            prev_status = {r["id"]: r["status"] for r in csv.DictReader(f)}
+            prev_rows = {r["id"]: r for r in csv.DictReader(f)}
+        prev_status = {k: v["status"] for k, v in prev_rows.items()}
+        for r in schedule:  # keep topics set by new_episode.py
+            old = prev_rows.get(r["id"], {}).get("topic", "")
+            if old and not old.startswith("TBD"):
+                r["topic"] = old
     for r in schedule:
         r["status"] = prev_status.get(r["id"], r["status"])
     schedule.sort(key=lambda r: r["utc"])

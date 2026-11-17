@@ -103,7 +103,7 @@ def main() -> None:
     ap.add_argument("--min-gap", type=float, default=0.18)
     ap.add_argument("--gap", type=float, default=0.55, help="--dir mode: silence between takes (s)")
     ap.add_argument("--lead", type=float, default=1.2, help="--dir mode: lead-in silence (s)")
-    ap.add_argument("--out", type=Path, default=ROOT / "src/data/narration_timing.json")
+    ap.add_argument("--out", type=Path, default=ROOT / "src/data/ep001/narration_timing.json", help="src/data/<ep>/narration_timing.json")
     ap.add_argument("--audio-out", default="audio/final/ep001_narration_FINAL.wav", help="path under public/")
     a = ap.parse_args()
 

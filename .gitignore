@@ -14,3 +14,5 @@ public/assets/higgsfield/H3_bowl_top.png
 public/assets/higgsfield/H4_hands_switch.png
 # superseded scratch narration (opening preview only)
 public/audio/temp/
+__pycache__/
+*.pyc

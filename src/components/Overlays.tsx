@@ -4,12 +4,18 @@ import React from 'react';
 import {AbsoluteFill, useCurrentFrame, useVideoConfig} from 'remotion';
 import {C, FONT} from '../brand/tokens';
 import {timing, unresolvedCues} from '../lib/timing';
-import captions from '../data/captions.json';
+import ep001Captions from '../data/ep001/captions.json';
 
-export const DraftBug: React.FC<{shotAt: (t: number) => string; show: boolean; label?: string}> = ({shotAt, show, label = 'EP001 OPENING · PREVIEW'}) => {
+export const DraftBug: React.FC<{
+  shotAt: (t: number) => string;
+  show: boolean;
+  label?: string;
+  notForPublication?: boolean; // defaults to EP001's timing flag
+  unresolved?: string[];
+}> = ({shotAt, show, label = 'EP001 OPENING · PREVIEW', notForPublication, unresolved = unresolvedCues}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
-  const temp = timing.notForPublication === true;
+  const temp = (notForPublication ?? timing.notForPublication) === true;
   if (!show && !temp) return null;
   const t = frame / fps;
   const pill: React.CSSProperties = {
@@ -28,7 +34,7 @@ export const DraftBug: React.FC<{shotAt: (t: number) => string; show: boolean; l
       <div style={{position: 'absolute', left: 28, top: 24, ...pill}}>
         <div style={{color: C.gold, fontWeight: 800}}>WHY IS THAT? · {label}</div>
         <div>{temp ? 'TEMP VOICE (KOKORO TTS) · PLACEHOLDER ART · NOT FOR PUBLICATION' : 'REVIEW COPY'}</div>
-        {unresolvedCues.length > 0 && <div style={{color: C.goldLight}}>UNRESOLVED CUES: {unresolvedCues.join(' | ')}</div>}
+        {unresolved.length > 0 && <div style={{color: C.goldLight}}>UNRESOLVED CUES: {unresolved.join(' | ')}</div>}
       </div>
       <div style={{position: 'absolute', right: 28, top: 24, ...pill, fontVariantNumeric: 'tabular-nums'}}>
         {t.toFixed(1).padStart(5, '0')} s · {shotAt(t)}
@@ -39,11 +45,11 @@ export const DraftBug: React.FC<{shotAt: (t: number) => string; show: boolean; l
 
 type Cap = {text: string; startMs: number; endMs: number};
 
-export const CaptionOverlay: React.FC = () => {
+export const CaptionOverlay: React.FC<{captions?: Cap[]}> = ({captions = ep001Captions as Cap[]}) => {
   const frame = useCurrentFrame();
   const {fps} = useVideoConfig();
   const ms = (frame / fps) * 1000;
-  const cap = (captions as Cap[]).find((c) => ms >= c.startMs && ms < c.endMs);
+  const cap = captions.find((c) => ms >= c.startMs && ms < c.endMs);
   if (!cap) return null;
   return (
     <AbsoluteFill style={{justifyContent: 'flex-end', alignItems: 'center', paddingBottom: 70}}>

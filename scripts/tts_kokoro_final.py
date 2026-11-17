@@ -27,7 +27,7 @@ VOICES = ROOT / "tools/models/voices-v1.0.bin"
 DRAFT = ROOT / "episodes/ep001-microwave-leftovers/narration/editorial_draft_v1.txt"
 AUDIO_REL = "audio/final/ep001_narration_FINAL_kokoro.wav"
 OUT_WAV = ROOT / "public" / AUDIO_REL
-OUT_JSON = ROOT / "src/data/narration_timing.json"
+OUT_JSON = ROOT / "src/data/ep001/narration_timing.json"
 VOICE, SPEED = "af_heart", 0.88
 
 # Silence before each line (s). Opening values match the approved preview exactly.

@@ -74,7 +74,7 @@ def ts(t: float, sep: str) -> str:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--timing", default=str(ROOT / "src/data/narration_timing.json"))
+    ap.add_argument("--timing", default=str(ROOT / "src/data/ep001/narration_timing.json"), help="src/data/<ep>/narration_timing.json")
     ap.add_argument("--out", default=str(ROOT / "episodes/ep001-microwave-leftovers/captions/ep001_opening_TEMP"))
     args = ap.parse_args()
 
@@ -99,8 +99,9 @@ def main() -> None:
          "timestampMs": round(b["start"] * 1000), "confidence": None}
         for b in blocks
     ]
-    (ROOT / "src/data/captions.json").write_text(json.dumps(remotion, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(f"{len(blocks)} captions -> {out.with_suffix('.srt')}, .vtt, src/data/captions.json")
+    json_out = Path(args.timing).resolve().parent / "captions.json"  # next to the episode timing
+    json_out.write_text(json.dumps(remotion, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    print(f"{len(blocks)} captions -> {out.with_suffix('.srt')}, .vtt, {json_out.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":
