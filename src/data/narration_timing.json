@@ -1,0 +1,4113 @@
+{
+  "source": "FINAL_kokoro",
+  "notForPublication": false,
+  "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88 (Apache-2.0; approved as final 2026-11-16)",
+  "audio": "audio/final/ep001_narration_FINAL_kokoro.wav",
+  "durationSec": 279.5,
+  "wordTimingMethod": "exact line boundaries (per-paragraph synthesis); phrases pause-anchored; words proportional",
+  "sections": [
+    "L10",
+    "L13",
+    "L15",
+    "L20",
+    "L23",
+    "L25",
+    "L29",
+    "L35",
+    "L40",
+    "L47",
+    "L55"
+  ],
+  "lines": [
+    {
+      "id": "L01",
+      "text": "You put yesterday’s dinner in the microwave.",
+      "start": 1.2,
+      "end": 3.75,
+      "phrases": [
+        {
+          "text": "You put yesterday’s dinner in the microwave.",
+          "start": 1.2,
+          "end": 3.75
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 1.2,
+          "end": 1.447
+        },
+        {
+          "text": "put",
+          "start": 1.447,
+          "end": 1.694
+        },
+        {
+          "text": "yesterday’s",
+          "start": 1.694,
+          "end": 2.324
+        },
+        {
+          "text": "dinner",
+          "start": 2.324,
+          "end": 2.735
+        },
+        {
+          "text": "in",
+          "start": 2.735,
+          "end": 2.927
+        },
+        {
+          "text": "the",
+          "start": 2.927,
+          "end": 3.174
+        },
+        {
+          "text": "microwave.",
+          "start": 3.174,
+          "end": 3.75
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "text": "Two minutes later, the bowl is hot enough to make you switch hands.",
+      "start": 4.5,
+      "end": 8.0,
+      "phrases": [
+        {
+          "text": "Two minutes later,",
+          "start": 4.5,
+          "end": 5.39
+        },
+        {
+          "text": "the bowl is hot enough to make you switch hands.",
+          "start": 5.71,
+          "end": 8.0
+        }
+      ],
+      "words": [
+        {
+          "text": "Two",
+          "start": 4.5,
+          "end": 4.705
+        },
+        {
+          "text": "minutes",
+          "start": 4.705,
+          "end": 5.093
+        },
+        {
+          "text": "later,",
+          "start": 5.093,
+          "end": 5.39
+        },
+        {
+          "text": "the",
+          "start": 5.71,
+          "end": 5.904
+        },
+        {
+          "text": "bowl",
+          "start": 5.904,
+          "end": 6.142
+        },
+        {
+          "text": "is",
+          "start": 6.142,
+          "end": 6.293
+        },
+        {
+          "text": "hot",
+          "start": 6.293,
+          "end": 6.488
+        },
+        {
+          "text": "enough",
+          "start": 6.488,
+          "end": 6.812
+        },
+        {
+          "text": "to",
+          "start": 6.812,
+          "end": 6.963
+        },
+        {
+          "text": "make",
+          "start": 6.963,
+          "end": 7.201
+        },
+        {
+          "text": "you",
+          "start": 7.201,
+          "end": 7.395
+        },
+        {
+          "text": "switch",
+          "start": 7.395,
+          "end": 7.719
+        },
+        {
+          "text": "hands.",
+          "start": 7.719,
+          "end": 8.0
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "text": "The food? Somehow, the middle still tastes like it came straight from the refrigerator.",
+      "start": 8.6,
+      "end": 13.73,
+      "phrases": [
+        {
+          "text": "The food?",
+          "start": 8.6,
+          "end": 9.23
+        },
+        {
+          "text": "Somehow,",
+          "start": 9.53,
+          "end": 9.965
+        },
+        {
+          "text": "the middle still tastes like it came straight from the refrigerator.",
+          "start": 9.965,
+          "end": 13.73
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 8.6,
+          "end": 8.883
+        },
+        {
+          "text": "food?",
+          "start": 8.883,
+          "end": 9.23
+        },
+        {
+          "text": "Somehow,",
+          "start": 9.53,
+          "end": 9.965
+        },
+        {
+          "text": "the",
+          "start": 9.965,
+          "end": 10.196
+        },
+        {
+          "text": "middle",
+          "start": 10.196,
+          "end": 10.58
+        },
+        {
+          "text": "still",
+          "start": 10.58,
+          "end": 10.913
+        },
+        {
+          "text": "tastes",
+          "start": 10.913,
+          "end": 11.297
+        },
+        {
+          "text": "like",
+          "start": 11.297,
+          "end": 11.579
+        },
+        {
+          "text": "it",
+          "start": 11.579,
+          "end": 11.758
+        },
+        {
+          "text": "came",
+          "start": 11.758,
+          "end": 12.04
+        },
+        {
+          "text": "straight",
+          "start": 12.04,
+          "end": 12.526
+        },
+        {
+          "text": "from",
+          "start": 12.526,
+          "end": 12.808
+        },
+        {
+          "text": "the",
+          "start": 12.808,
+          "end": 13.039
+        },
+        {
+          "text": "refrigerator.",
+          "start": 13.039,
+          "end": 13.73
+        }
+      ]
+    },
+    {
+      "id": "L04",
+      "text": "So you put it back.",
+      "start": 14.58,
+      "end": 15.76,
+      "phrases": [
+        {
+          "text": "So you put it back.",
+          "start": 14.58,
+          "end": 15.76
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 14.58,
+          "end": 14.772
+        },
+        {
+          "text": "you",
+          "start": 14.772,
+          "end": 15.019
+        },
+        {
+          "text": "put",
+          "start": 15.019,
+          "end": 15.266
+        },
+        {
+          "text": "it",
+          "start": 15.266,
+          "end": 15.458
+        },
+        {
+          "text": "back.",
+          "start": 15.458,
+          "end": 15.76
+        }
+      ]
+    },
+    {
+      "id": "L05",
+      "text": "Now the edges are furious, the bowl is even hotter, and the center is only slightly less disappointing.",
+      "start": 16.71,
+      "end": 23.29,
+      "phrases": [
+        {
+          "text": "Now the edges are furious,",
+          "start": 16.71,
+          "end": 18.4
+        },
+        {
+          "text": "the bowl is even hotter,",
+          "start": 18.69,
+          "end": 20.09
+        },
+        {
+          "text": "and the center is only slightly less disappointing.",
+          "start": 20.56,
+          "end": 23.29
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 16.71,
+          "end": 16.977
+        },
+        {
+          "text": "the",
+          "start": 16.977,
+          "end": 17.244
+        },
+        {
+          "text": "edges",
+          "start": 17.244,
+          "end": 17.629
+        },
+        {
+          "text": "are",
+          "start": 17.629,
+          "end": 17.896
+        },
+        {
+          "text": "furious,",
+          "start": 17.896,
+          "end": 18.4
+        },
+        {
+          "text": "the",
+          "start": 18.69,
+          "end": 18.928
+        },
+        {
+          "text": "bowl",
+          "start": 18.928,
+          "end": 19.218
+        },
+        {
+          "text": "is",
+          "start": 19.218,
+          "end": 19.403
+        },
+        {
+          "text": "even",
+          "start": 19.403,
+          "end": 19.694
+        },
+        {
+          "text": "hotter,",
+          "start": 19.694,
+          "end": 20.09
+        },
+        {
+          "text": "and",
+          "start": 20.56,
+          "end": 20.783
+        },
+        {
+          "text": "the",
+          "start": 20.783,
+          "end": 21.007
+        },
+        {
+          "text": "center",
+          "start": 21.007,
+          "end": 21.379
+        },
+        {
+          "text": "is",
+          "start": 21.379,
+          "end": 21.553
+        },
+        {
+          "text": "only",
+          "start": 21.553,
+          "end": 21.826
+        },
+        {
+          "text": "slightly",
+          "start": 21.826,
+          "end": 22.297
+        },
+        {
+          "text": "less",
+          "start": 22.297,
+          "end": 22.57
+        },
+        {
+          "text": "disappointing.",
+          "start": 22.57,
+          "end": 23.29
+        }
+      ]
+    },
+    {
+      "id": "L06",
+      "text": "Why is that?",
+      "start": 24.29,
+      "end": 25.21,
+      "phrases": [
+        {
+          "text": "Why is that?",
+          "start": 24.29,
+          "end": 25.21
+        }
+      ],
+      "words": [
+        {
+          "text": "Why",
+          "start": 24.29,
+          "end": 24.597
+        },
+        {
+          "text": "is",
+          "start": 24.597,
+          "end": 24.835
+        },
+        {
+          "text": "that?",
+          "start": 24.835,
+          "end": 25.21
+        }
+      ]
+    },
+    {
+      "id": "L07",
+      "text": "There are two questions hiding in this tiny kitchen argument.",
+      "start": 27.81,
+      "end": 31.53,
+      "phrases": [
+        {
+          "text": "There are two questions hiding in this tiny kitchen argument.",
+          "start": 27.81,
+          "end": 31.53
+        }
+      ],
+      "words": [
+        {
+          "text": "There",
+          "start": 27.81,
+          "end": 28.176
+        },
+        {
+          "text": "are",
+          "start": 28.176,
+          "end": 28.43
+        },
+        {
+          "text": "two",
+          "start": 28.43,
+          "end": 28.684
+        },
+        {
+          "text": "questions",
+          "start": 28.684,
+          "end": 29.275
+        },
+        {
+          "text": "hiding",
+          "start": 29.275,
+          "end": 29.698
+        },
+        {
+          "text": "in",
+          "start": 29.698,
+          "end": 29.895
+        },
+        {
+          "text": "this",
+          "start": 29.895,
+          "end": 30.205
+        },
+        {
+          "text": "tiny",
+          "start": 30.205,
+          "end": 30.515
+        },
+        {
+          "text": "kitchen",
+          "start": 30.515,
+          "end": 30.995
+        },
+        {
+          "text": "argument.",
+          "start": 30.995,
+          "end": 31.53
+        }
+      ]
+    },
+    {
+      "id": "L08",
+      "text": "Why does the food heat unevenly?",
+      "start": 32.23,
+      "end": 34.16,
+      "phrases": [
+        {
+          "text": "Why does the food heat unevenly?",
+          "start": 32.23,
+          "end": 34.16
+        }
+      ],
+      "words": [
+        {
+          "text": "Why",
+          "start": 32.23,
+          "end": 32.478
+        },
+        {
+          "text": "does",
+          "start": 32.478,
+          "end": 32.781
+        },
+        {
+          "text": "the",
+          "start": 32.781,
+          "end": 33.03
+        },
+        {
+          "text": "food",
+          "start": 33.03,
+          "end": 33.333
+        },
+        {
+          "text": "heat",
+          "start": 33.333,
+          "end": 33.636
+        },
+        {
+          "text": "unevenly?",
+          "start": 33.636,
+          "end": 34.16
+        }
+      ]
+    },
+    {
+      "id": "L09",
+      "text": "And why doesn’t the temperature of the bowl tell you whether dinner is ready?",
+      "start": 34.71,
+      "end": 38.32,
+      "phrases": [
+        {
+          "text": "And why doesn’t the temperature of the bowl tell you whether dinner is ready?",
+          "start": 34.71,
+          "end": 38.32
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 34.71,
+          "end": 34.906
+        },
+        {
+          "text": "why",
+          "start": 34.906,
+          "end": 35.101
+        },
+        {
+          "text": "doesn’t",
+          "start": 35.101,
+          "end": 35.428
+        },
+        {
+          "text": "the",
+          "start": 35.428,
+          "end": 35.623
+        },
+        {
+          "text": "temperature",
+          "start": 35.623,
+          "end": 36.167
+        },
+        {
+          "text": "of",
+          "start": 36.167,
+          "end": 36.319
+        },
+        {
+          "text": "the",
+          "start": 36.319,
+          "end": 36.515
+        },
+        {
+          "text": "bowl",
+          "start": 36.515,
+          "end": 36.754
+        },
+        {
+          "text": "tell",
+          "start": 36.754,
+          "end": 36.993
+        },
+        {
+          "text": "you",
+          "start": 36.993,
+          "end": 37.189
+        },
+        {
+          "text": "whether",
+          "start": 37.189,
+          "end": 37.559
+        },
+        {
+          "text": "dinner",
+          "start": 37.559,
+          "end": 37.885
+        },
+        {
+          "text": "is",
+          "start": 37.885,
+          "end": 38.037
+        },
+        {
+          "text": "ready?",
+          "start": 38.037,
+          "end": 38.32
+        }
+      ]
+    },
+    {
+      "id": "L10",
+      "text": "Start with what the microwave actually does.",
+      "start": 39.32,
+      "end": 41.89,
+      "phrases": [
+        {
+          "text": "Start with what the microwave actually does.",
+          "start": 39.32,
+          "end": 41.89
+        }
+      ],
+      "words": [
+        {
+          "text": "Start",
+          "start": 39.32,
+          "end": 39.672
+        },
+        {
+          "text": "with",
+          "start": 39.672,
+          "end": 39.969
+        },
+        {
+          "text": "what",
+          "start": 39.969,
+          "end": 40.267
+        },
+        {
+          "text": "the",
+          "start": 40.267,
+          "end": 40.51
+        },
+        {
+          "text": "microwave",
+          "start": 40.51,
+          "end": 41.078
+        },
+        {
+          "text": "actually",
+          "start": 41.078,
+          "end": 41.592
+        },
+        {
+          "text": "does.",
+          "start": 41.592,
+          "end": 41.89
+        }
+      ]
+    },
+    {
+      "id": "L11",
+      "text": "Inside the appliance, a component called a magnetron produces microwaves. Those waves carry energy into the cooking chamber, where they reflect off the metal walls and interact with the food.",
+      "start": 42.49,
+      "end": 55.1,
+      "phrases": [
+        {
+          "text": "Inside the appliance,",
+          "start": 42.49,
+          "end": 43.74
+        },
+        {
+          "text": "a component called a magnetron produces microwaves.",
+          "start": 44.03,
+          "end": 47.372
+        },
+        {
+          "text": "Those waves carry energy into the cooking chamber,",
+          "start": 47.372,
+          "end": 50.684
+        },
+        {
+          "text": "where they reflect off the metal walls and interact with the food.",
+          "start": 50.684,
+          "end": 55.1
+        }
+      ],
+      "words": [
+        {
+          "text": "Inside",
+          "start": 42.49,
+          "end": 42.907
+        },
+        {
+          "text": "the",
+          "start": 42.907,
+          "end": 43.157
+        },
+        {
+          "text": "appliance,",
+          "start": 43.157,
+          "end": 43.74
+        },
+        {
+          "text": "a",
+          "start": 44.03,
+          "end": 44.183
+        },
+        {
+          "text": "component",
+          "start": 44.183,
+          "end": 44.827
+        },
+        {
+          "text": "called",
+          "start": 44.827,
+          "end": 45.287
+        },
+        {
+          "text": "a",
+          "start": 45.287,
+          "end": 45.441
+        },
+        {
+          "text": "magnetron",
+          "start": 45.441,
+          "end": 46.085
+        },
+        {
+          "text": "produces",
+          "start": 46.085,
+          "end": 46.667
+        },
+        {
+          "text": "microwaves.",
+          "start": 46.667,
+          "end": 47.372
+        },
+        {
+          "text": "Those",
+          "start": 47.372,
+          "end": 47.771
+        },
+        {
+          "text": "waves",
+          "start": 47.771,
+          "end": 48.17
+        },
+        {
+          "text": "carry",
+          "start": 48.17,
+          "end": 48.568
+        },
+        {
+          "text": "energy",
+          "start": 48.568,
+          "end": 49.028
+        },
+        {
+          "text": "into",
+          "start": 49.028,
+          "end": 49.366
+        },
+        {
+          "text": "the",
+          "start": 49.366,
+          "end": 49.642
+        },
+        {
+          "text": "cooking",
+          "start": 49.642,
+          "end": 50.163
+        },
+        {
+          "text": "chamber,",
+          "start": 50.163,
+          "end": 50.684
+        },
+        {
+          "text": "where",
+          "start": 50.684,
+          "end": 51.083
+        },
+        {
+          "text": "they",
+          "start": 51.083,
+          "end": 51.42
+        },
+        {
+          "text": "reflect",
+          "start": 51.42,
+          "end": 51.942
+        },
+        {
+          "text": "off",
+          "start": 51.942,
+          "end": 52.218
+        },
+        {
+          "text": "the",
+          "start": 52.218,
+          "end": 52.493
+        },
+        {
+          "text": "metal",
+          "start": 52.493,
+          "end": 52.892
+        },
+        {
+          "text": "walls",
+          "start": 52.892,
+          "end": 53.291
+        },
+        {
+          "text": "and",
+          "start": 53.291,
+          "end": 53.567
+        },
+        {
+          "text": "interact",
+          "start": 53.567,
+          "end": 54.149
+        },
+        {
+          "text": "with",
+          "start": 54.149,
+          "end": 54.487
+        },
+        {
+          "text": "the",
+          "start": 54.487,
+          "end": 54.763
+        },
+        {
+          "text": "food.",
+          "start": 54.763,
+          "end": 55.1
+        }
+      ]
+    },
+    {
+      "id": "L12",
+      "text": "Water molecules respond to the changing electric field. Energy is absorbed and becomes heat.",
+      "start": 55.7,
+      "end": 62.32,
+      "phrases": [
+        {
+          "text": "Water molecules respond to the changing electric field.",
+          "start": 55.7,
+          "end": 59.686
+        },
+        {
+          "text": "Energy is absorbed and becomes heat.",
+          "start": 59.686,
+          "end": 62.32
+        }
+      ],
+      "words": [
+        {
+          "text": "Water",
+          "start": 55.7,
+          "end": 56.139
+        },
+        {
+          "text": "molecules",
+          "start": 56.139,
+          "end": 56.848
+        },
+        {
+          "text": "respond",
+          "start": 56.848,
+          "end": 57.423
+        },
+        {
+          "text": "to",
+          "start": 57.423,
+          "end": 57.659
+        },
+        {
+          "text": "the",
+          "start": 57.659,
+          "end": 57.963
+        },
+        {
+          "text": "changing",
+          "start": 57.963,
+          "end": 58.605
+        },
+        {
+          "text": "electric",
+          "start": 58.605,
+          "end": 59.246
+        },
+        {
+          "text": "field.",
+          "start": 59.246,
+          "end": 59.686
+        },
+        {
+          "text": "Energy",
+          "start": 59.686,
+          "end": 60.192
+        },
+        {
+          "text": "is",
+          "start": 60.192,
+          "end": 60.429
+        },
+        {
+          "text": "absorbed",
+          "start": 60.429,
+          "end": 61.07
+        },
+        {
+          "text": "and",
+          "start": 61.07,
+          "end": 61.374
+        },
+        {
+          "text": "becomes",
+          "start": 61.374,
+          "end": 61.948
+        },
+        {
+          "text": "heat.",
+          "start": 61.948,
+          "end": 62.32
+        }
+      ]
+    },
+    {
+      "id": "L13",
+      "text": "But this isn’t a little oven blowing an even blanket of hot air over your leftovers.",
+      "start": 63.32,
+      "end": 68.27,
+      "phrases": [
+        {
+          "text": "But this isn’t a little oven blowing an even blanket of hot air over your leftovers.",
+          "start": 63.32,
+          "end": 68.27
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 63.32,
+          "end": 63.565
+        },
+        {
+          "text": "this",
+          "start": 63.565,
+          "end": 63.864
+        },
+        {
+          "text": "isn’t",
+          "start": 63.864,
+          "end": 64.163
+        },
+        {
+          "text": "a",
+          "start": 64.163,
+          "end": 64.299
+        },
+        {
+          "text": "little",
+          "start": 64.299,
+          "end": 64.707
+        },
+        {
+          "text": "oven",
+          "start": 64.707,
+          "end": 65.006
+        },
+        {
+          "text": "blowing",
+          "start": 65.006,
+          "end": 65.469
+        },
+        {
+          "text": "an",
+          "start": 65.469,
+          "end": 65.659
+        },
+        {
+          "text": "even",
+          "start": 65.659,
+          "end": 65.958
+        },
+        {
+          "text": "blanket",
+          "start": 65.958,
+          "end": 66.421
+        },
+        {
+          "text": "of",
+          "start": 66.421,
+          "end": 66.611
+        },
+        {
+          "text": "hot",
+          "start": 66.611,
+          "end": 66.856
+        },
+        {
+          "text": "air",
+          "start": 66.856,
+          "end": 67.1
+        },
+        {
+          "text": "over",
+          "start": 67.1,
+          "end": 67.4
+        },
+        {
+          "text": "your",
+          "start": 67.4,
+          "end": 67.699
+        },
+        {
+          "text": "leftovers.",
+          "start": 67.699,
+          "end": 68.27
+        }
+      ]
+    },
+    {
+      "id": "L14",
+      "text": "And it isn’t heating every part of your dinner equally.",
+      "start": 68.87,
+      "end": 71.53,
+      "phrases": [
+        {
+          "text": "And it isn’t heating every part of your dinner equally.",
+          "start": 68.87,
+          "end": 71.53
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 68.87,
+          "end": 69.073
+        },
+        {
+          "text": "it",
+          "start": 69.073,
+          "end": 69.231
+        },
+        {
+          "text": "isn’t",
+          "start": 69.231,
+          "end": 69.479
+        },
+        {
+          "text": "heating",
+          "start": 69.479,
+          "end": 69.862
+        },
+        {
+          "text": "every",
+          "start": 69.862,
+          "end": 70.155
+        },
+        {
+          "text": "part",
+          "start": 70.155,
+          "end": 70.403
+        },
+        {
+          "text": "of",
+          "start": 70.403,
+          "end": 70.561
+        },
+        {
+          "text": "your",
+          "start": 70.561,
+          "end": 70.809
+        },
+        {
+          "text": "dinner",
+          "start": 70.809,
+          "end": 71.147
+        },
+        {
+          "text": "equally.",
+          "start": 71.147,
+          "end": 71.53
+        }
+      ]
+    },
+    {
+      "id": "L15",
+      "text": "Imagine an invisible map inside the cooking chamber.",
+      "start": 72.53,
+      "end": 75.98,
+      "phrases": [
+        {
+          "text": "Imagine an invisible map inside the cooking chamber.",
+          "start": 72.53,
+          "end": 75.98
+        }
+      ],
+      "words": [
+        {
+          "text": "Imagine",
+          "start": 72.53,
+          "end": 73.054
+        },
+        {
+          "text": "an",
+          "start": 73.054,
+          "end": 73.269
+        },
+        {
+          "text": "invisible",
+          "start": 73.269,
+          "end": 73.916
+        },
+        {
+          "text": "map",
+          "start": 73.916,
+          "end": 74.193
+        },
+        {
+          "text": "inside",
+          "start": 74.193,
+          "end": 74.655
+        },
+        {
+          "text": "the",
+          "start": 74.655,
+          "end": 74.933
+        },
+        {
+          "text": "cooking",
+          "start": 74.933,
+          "end": 75.456
+        },
+        {
+          "text": "chamber.",
+          "start": 75.456,
+          "end": 75.98
+        }
+      ]
+    },
+    {
+      "id": "L16",
+      "text": "Some regions deliver more microwave energy. Others deliver less.",
+      "start": 76.58,
+      "end": 81.12,
+      "phrases": [
+        {
+          "text": "Some regions deliver more microwave energy.",
+          "start": 76.58,
+          "end": 79.27
+        },
+        {
+          "text": "Others deliver less.",
+          "start": 79.79,
+          "end": 81.12
+        }
+      ],
+      "words": [
+        {
+          "text": "Some",
+          "start": 76.58,
+          "end": 76.902
+        },
+        {
+          "text": "regions",
+          "start": 76.902,
+          "end": 77.399
+        },
+        {
+          "text": "deliver",
+          "start": 77.399,
+          "end": 77.896
+        },
+        {
+          "text": "more",
+          "start": 77.896,
+          "end": 78.217
+        },
+        {
+          "text": "microwave",
+          "start": 78.217,
+          "end": 78.831
+        },
+        {
+          "text": "energy.",
+          "start": 78.831,
+          "end": 79.27
+        },
+        {
+          "text": "Others",
+          "start": 79.79,
+          "end": 80.254
+        },
+        {
+          "text": "deliver",
+          "start": 80.254,
+          "end": 80.78
+        },
+        {
+          "text": "less.",
+          "start": 80.78,
+          "end": 81.12
+        }
+      ]
+    },
+    {
+      "id": "L17",
+      "text": "Waves reflecting around the chamber overlap, helping create that uneven pattern.",
+      "start": 81.72,
+      "end": 86.82,
+      "phrases": [
+        {
+          "text": "Waves reflecting around the chamber overlap,",
+          "start": 81.72,
+          "end": 84.23
+        },
+        {
+          "text": "helping create that uneven pattern.",
+          "start": 84.65,
+          "end": 86.82
+        }
+      ],
+      "words": [
+        {
+          "text": "Waves",
+          "start": 81.72,
+          "end": 82.067
+        },
+        {
+          "text": "reflecting",
+          "start": 82.067,
+          "end": 82.681
+        },
+        {
+          "text": "around",
+          "start": 82.681,
+          "end": 83.082
+        },
+        {
+          "text": "the",
+          "start": 83.082,
+          "end": 83.322
+        },
+        {
+          "text": "chamber",
+          "start": 83.322,
+          "end": 83.776
+        },
+        {
+          "text": "overlap,",
+          "start": 83.776,
+          "end": 84.23
+        },
+        {
+          "text": "helping",
+          "start": 84.65,
+          "end": 85.142
+        },
+        {
+          "text": "create",
+          "start": 85.142,
+          "end": 85.576
+        },
+        {
+          "text": "that",
+          "start": 85.576,
+          "end": 85.894
+        },
+        {
+          "text": "uneven",
+          "start": 85.894,
+          "end": 86.328
+        },
+        {
+          "text": "pattern.",
+          "start": 86.328,
+          "end": 86.82
+        }
+      ]
+    },
+    {
+      "id": "L18",
+      "text": "Our animation makes stronger regions bright and weaker ones dark. Real patterns are more complicated, and the food itself changes them.",
+      "start": 87.42,
+      "end": 96.38,
+      "phrases": [
+        {
+          "text": "Our animation makes stronger regions bright and weaker ones dark.",
+          "start": 87.42,
+          "end": 91.57
+        },
+        {
+          "text": "Real patterns are more complicated,",
+          "start": 92.23,
+          "end": 94.28
+        },
+        {
+          "text": "and the food itself changes them.",
+          "start": 94.64,
+          "end": 96.38
+        }
+      ],
+      "words": [
+        {
+          "text": "Our",
+          "start": 87.42,
+          "end": 87.687
+        },
+        {
+          "text": "animation",
+          "start": 87.687,
+          "end": 88.309
+        },
+        {
+          "text": "makes",
+          "start": 88.309,
+          "end": 88.695
+        },
+        {
+          "text": "stronger",
+          "start": 88.695,
+          "end": 89.258
+        },
+        {
+          "text": "regions",
+          "start": 89.258,
+          "end": 89.762
+        },
+        {
+          "text": "bright",
+          "start": 89.762,
+          "end": 90.206
+        },
+        {
+          "text": "and",
+          "start": 90.206,
+          "end": 90.473
+        },
+        {
+          "text": "weaker",
+          "start": 90.473,
+          "end": 90.918
+        },
+        {
+          "text": "ones",
+          "start": 90.918,
+          "end": 91.244
+        },
+        {
+          "text": "dark.",
+          "start": 91.244,
+          "end": 91.57
+        },
+        {
+          "text": "Real",
+          "start": 92.23,
+          "end": 92.531
+        },
+        {
+          "text": "patterns",
+          "start": 92.531,
+          "end": 93.05
+        },
+        {
+          "text": "are",
+          "start": 93.05,
+          "end": 93.296
+        },
+        {
+          "text": "more",
+          "start": 93.296,
+          "end": 93.597
+        },
+        {
+          "text": "complicated,",
+          "start": 93.597,
+          "end": 94.28
+        },
+        {
+          "text": "and",
+          "start": 94.64,
+          "end": 94.857
+        },
+        {
+          "text": "the",
+          "start": 94.857,
+          "end": 95.075
+        },
+        {
+          "text": "food",
+          "start": 95.075,
+          "end": 95.341
+        },
+        {
+          "text": "itself",
+          "start": 95.341,
+          "end": 95.703
+        },
+        {
+          "text": "changes",
+          "start": 95.703,
+          "end": 96.114
+        },
+        {
+          "text": "them.",
+          "start": 96.114,
+          "end": 96.38
+        }
+      ]
+    },
+    {
+      "id": "L19",
+      "text": "But the important idea is simple: different places can receive different amounts of energy.",
+      "start": 96.98,
+      "end": 102.76,
+      "phrases": [
+        {
+          "text": "But the important idea is simple:",
+          "start": 96.98,
+          "end": 99.08
+        },
+        {
+          "text": "different places can receive different amounts of energy.",
+          "start": 99.63,
+          "end": 102.76
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 96.98,
+          "end": 97.242
+        },
+        {
+          "text": "the",
+          "start": 97.242,
+          "end": 97.505
+        },
+        {
+          "text": "important",
+          "start": 97.505,
+          "end": 98.117
+        },
+        {
+          "text": "idea",
+          "start": 98.117,
+          "end": 98.438
+        },
+        {
+          "text": "is",
+          "start": 98.438,
+          "end": 98.642
+        },
+        {
+          "text": "simple:",
+          "start": 98.642,
+          "end": 99.08
+        },
+        {
+          "text": "different",
+          "start": 99.63,
+          "end": 100.169
+        },
+        {
+          "text": "places",
+          "start": 100.169,
+          "end": 100.554
+        },
+        {
+          "text": "can",
+          "start": 100.554,
+          "end": 100.785
+        },
+        {
+          "text": "receive",
+          "start": 100.785,
+          "end": 101.221
+        },
+        {
+          "text": "different",
+          "start": 101.221,
+          "end": 101.759
+        },
+        {
+          "text": "amounts",
+          "start": 101.759,
+          "end": 102.196
+        },
+        {
+          "text": "of",
+          "start": 102.196,
+          "end": 102.375
+        },
+        {
+          "text": "energy.",
+          "start": 102.375,
+          "end": 102.76
+        }
+      ]
+    },
+    {
+      "id": "L20",
+      "text": "That explains why the plate spins.",
+      "start": 103.76,
+      "end": 105.73,
+      "phrases": [
+        {
+          "text": "That explains why the plate spins.",
+          "start": 103.76,
+          "end": 105.73
+        }
+      ],
+      "words": [
+        {
+          "text": "That",
+          "start": 103.76,
+          "end": 104.053
+        },
+        {
+          "text": "explains",
+          "start": 104.053,
+          "end": 104.559
+        },
+        {
+          "text": "why",
+          "start": 104.559,
+          "end": 104.798
+        },
+        {
+          "text": "the",
+          "start": 104.798,
+          "end": 105.038
+        },
+        {
+          "text": "plate",
+          "start": 105.038,
+          "end": 105.384
+        },
+        {
+          "text": "spins.",
+          "start": 105.384,
+          "end": 105.73
+        }
+      ]
+    },
+    {
+      "id": "L21",
+      "text": "The turntable carries parts of your meal through different regions, helping spread out the energy they receive.",
+      "start": 106.33,
+      "end": 112.58,
+      "phrases": [
+        {
+          "text": "The turntable carries parts of your meal through different regions,",
+          "start": 106.33,
+          "end": 109.69
+        },
+        {
+          "text": "helping spread out the energy they receive.",
+          "start": 110.15,
+          "end": 112.58
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 106.33,
+          "end": 106.54
+        },
+        {
+          "text": "turntable",
+          "start": 106.54,
+          "end": 107.03
+        },
+        {
+          "text": "carries",
+          "start": 107.03,
+          "end": 107.427
+        },
+        {
+          "text": "parts",
+          "start": 107.427,
+          "end": 107.73
+        },
+        {
+          "text": "of",
+          "start": 107.73,
+          "end": 107.893
+        },
+        {
+          "text": "your",
+          "start": 107.893,
+          "end": 108.15
+        },
+        {
+          "text": "meal",
+          "start": 108.15,
+          "end": 108.407
+        },
+        {
+          "text": "through",
+          "start": 108.407,
+          "end": 108.803
+        },
+        {
+          "text": "different",
+          "start": 108.803,
+          "end": 109.293
+        },
+        {
+          "text": "regions,",
+          "start": 109.293,
+          "end": 109.69
+        },
+        {
+          "text": "helping",
+          "start": 110.15,
+          "end": 110.594
+        },
+        {
+          "text": "spread",
+          "start": 110.594,
+          "end": 110.986
+        },
+        {
+          "text": "out",
+          "start": 110.986,
+          "end": 111.221
+        },
+        {
+          "text": "the",
+          "start": 111.221,
+          "end": 111.456
+        },
+        {
+          "text": "energy",
+          "start": 111.456,
+          "end": 111.848
+        },
+        {
+          "text": "they",
+          "start": 111.848,
+          "end": 112.136
+        },
+        {
+          "text": "receive.",
+          "start": 112.136,
+          "end": 112.58
+        }
+      ]
+    },
+    {
+      "id": "L22",
+      "text": "It improves the situation. It doesn’t promise identical temperatures everywhere.",
+      "start": 113.18,
+      "end": 118.49,
+      "phrases": [
+        {
+          "text": "It improves the situation.",
+          "start": 113.18,
+          "end": 115.02
+        },
+        {
+          "text": "It doesn’t promise identical temperatures everywhere.",
+          "start": 115.55,
+          "end": 118.49
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 113.18,
+          "end": 113.41
+        },
+        {
+          "text": "improves",
+          "start": 113.41,
+          "end": 114.034
+        },
+        {
+          "text": "the",
+          "start": 114.034,
+          "end": 114.33
+        },
+        {
+          "text": "situation.",
+          "start": 114.33,
+          "end": 115.02
+        },
+        {
+          "text": "It",
+          "start": 115.55,
+          "end": 115.737
+        },
+        {
+          "text": "doesn’t",
+          "start": 115.737,
+          "end": 116.138
+        },
+        {
+          "text": "promise",
+          "start": 116.138,
+          "end": 116.592
+        },
+        {
+          "text": "identical",
+          "start": 116.592,
+          "end": 117.154
+        },
+        {
+          "text": "temperatures",
+          "start": 117.154,
+          "end": 117.875
+        },
+        {
+          "text": "everywhere.",
+          "start": 117.875,
+          "end": 118.49
+        }
+      ]
+    },
+    {
+      "id": "L23",
+      "text": "Think of people taking turns standing near a heater.",
+      "start": 119.49,
+      "end": 122.55,
+      "phrases": [
+        {
+          "text": "Think of people taking turns standing near a heater.",
+          "start": 119.49,
+          "end": 122.55
+        }
+      ],
+      "words": [
+        {
+          "text": "Think",
+          "start": 119.49,
+          "end": 119.842
+        },
+        {
+          "text": "of",
+          "start": 119.842,
+          "end": 120.032
+        },
+        {
+          "text": "people",
+          "start": 120.032,
+          "end": 120.438
+        },
+        {
+          "text": "taking",
+          "start": 120.438,
+          "end": 120.844
+        },
+        {
+          "text": "turns",
+          "start": 120.844,
+          "end": 121.196
+        },
+        {
+          "text": "standing",
+          "start": 121.196,
+          "end": 121.711
+        },
+        {
+          "text": "near",
+          "start": 121.711,
+          "end": 122.008
+        },
+        {
+          "text": "a",
+          "start": 122.008,
+          "end": 122.144
+        },
+        {
+          "text": "heater.",
+          "start": 122.144,
+          "end": 122.55
+        }
+      ]
+    },
+    {
+      "id": "L24",
+      "text": "Moving everyone around helps. It doesn’t make everyone equally warm at exactly the same moment.",
+      "start": 123.15,
+      "end": 129.41,
+      "phrases": [
+        {
+          "text": "Moving everyone around helps.",
+          "start": 123.15,
+          "end": 125.04
+        },
+        {
+          "text": "It doesn’t make everyone equally warm at exactly the same moment.",
+          "start": 125.57,
+          "end": 129.41
+        }
+      ],
+      "words": [
+        {
+          "text": "Moving",
+          "start": 123.15,
+          "end": 123.607
+        },
+        {
+          "text": "everyone",
+          "start": 123.607,
+          "end": 124.186
+        },
+        {
+          "text": "around",
+          "start": 124.186,
+          "end": 124.644
+        },
+        {
+          "text": "helps.",
+          "start": 124.644,
+          "end": 125.04
+        },
+        {
+          "text": "It",
+          "start": 125.57,
+          "end": 125.763
+        },
+        {
+          "text": "doesn’t",
+          "start": 125.763,
+          "end": 126.178
+        },
+        {
+          "text": "make",
+          "start": 126.178,
+          "end": 126.482
+        },
+        {
+          "text": "everyone",
+          "start": 126.482,
+          "end": 127.007
+        },
+        {
+          "text": "equally",
+          "start": 127.007,
+          "end": 127.476
+        },
+        {
+          "text": "warm",
+          "start": 127.476,
+          "end": 127.78
+        },
+        {
+          "text": "at",
+          "start": 127.78,
+          "end": 127.973
+        },
+        {
+          "text": "exactly",
+          "start": 127.973,
+          "end": 128.443
+        },
+        {
+          "text": "the",
+          "start": 128.443,
+          "end": 128.692
+        },
+        {
+          "text": "same",
+          "start": 128.692,
+          "end": 128.996
+        },
+        {
+          "text": "moment.",
+          "start": 128.996,
+          "end": 129.41
+        }
+      ]
+    },
+    {
+      "id": "L25",
+      "text": "And dinner has another complication.",
+      "start": 130.41,
+      "end": 132.71,
+      "phrases": [
+        {
+          "text": "And dinner has another complication.",
+          "start": 130.41,
+          "end": 132.71
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 130.41,
+          "end": 130.679
+        },
+        {
+          "text": "dinner",
+          "start": 130.679,
+          "end": 131.127
+        },
+        {
+          "text": "has",
+          "start": 131.127,
+          "end": 131.396
+        },
+        {
+          "text": "another",
+          "start": 131.396,
+          "end": 131.904
+        },
+        {
+          "text": "complication.",
+          "start": 131.904,
+          "end": 132.71
+        }
+      ]
+    },
+    {
+      "id": "L26",
+      "text": "It isn’t one uniform material.",
+      "start": 133.31,
+      "end": 135.25,
+      "phrases": [
+        {
+          "text": "It isn’t one uniform material.",
+          "start": 133.31,
+          "end": 135.25
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 133.31,
+          "end": 133.526
+        },
+        {
+          "text": "isn’t",
+          "start": 133.526,
+          "end": 133.864
+        },
+        {
+          "text": "one",
+          "start": 133.864,
+          "end": 134.141
+        },
+        {
+          "text": "uniform",
+          "start": 134.141,
+          "end": 134.665
+        },
+        {
+          "text": "material.",
+          "start": 134.665,
+          "end": 135.25
+        }
+      ]
+    },
+    {
+      "id": "L27",
+      "text": "A thick piece of food, a pool of sauce, and a drier section can respond differently. Their composition, shape, and ability to pass heat along all matter.",
+      "start": 135.85,
+      "end": 146.11,
+      "phrases": [
+        {
+          "text": "A thick piece of food,",
+          "start": 135.85,
+          "end": 137.13
+        },
+        {
+          "text": "a pool of sauce,",
+          "start": 137.28,
+          "end": 138.27
+        },
+        {
+          "text": "and a drier section can respond differently.",
+          "start": 138.66,
+          "end": 141.13
+        },
+        {
+          "text": "Their composition,",
+          "start": 141.83,
+          "end": 142.635
+        },
+        {
+          "text": "shape,",
+          "start": 142.635,
+          "end": 142.91
+        },
+        {
+          "text": "and ability to pass heat along all matter.",
+          "start": 143.12,
+          "end": 146.11
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 135.85,
+          "end": 135.981
+        },
+        {
+          "text": "thick",
+          "start": 135.981,
+          "end": 136.32
+        },
+        {
+          "text": "piece",
+          "start": 136.32,
+          "end": 136.66
+        },
+        {
+          "text": "of",
+          "start": 136.66,
+          "end": 136.843
+        },
+        {
+          "text": "food,",
+          "start": 136.843,
+          "end": 137.13
+        },
+        {
+          "text": "a",
+          "start": 137.28,
+          "end": 137.417
+        },
+        {
+          "text": "pool",
+          "start": 137.417,
+          "end": 137.72
+        },
+        {
+          "text": "of",
+          "start": 137.72,
+          "end": 137.912
+        },
+        {
+          "text": "sauce,",
+          "start": 137.912,
+          "end": 138.27
+        },
+        {
+          "text": "and",
+          "start": 138.66,
+          "end": 138.894
+        },
+        {
+          "text": "a",
+          "start": 138.894,
+          "end": 139.024
+        },
+        {
+          "text": "drier",
+          "start": 139.024,
+          "end": 139.362
+        },
+        {
+          "text": "section",
+          "start": 139.362,
+          "end": 139.804
+        },
+        {
+          "text": "can",
+          "start": 139.804,
+          "end": 140.038
+        },
+        {
+          "text": "respond",
+          "start": 140.038,
+          "end": 140.48
+        },
+        {
+          "text": "differently.",
+          "start": 140.48,
+          "end": 141.13
+        },
+        {
+          "text": "Their",
+          "start": 141.83,
+          "end": 142.105
+        },
+        {
+          "text": "composition,",
+          "start": 142.105,
+          "end": 142.635
+        },
+        {
+          "text": "shape,",
+          "start": 142.635,
+          "end": 142.91
+        },
+        {
+          "text": "and",
+          "start": 143.12,
+          "end": 143.412
+        },
+        {
+          "text": "ability",
+          "start": 143.412,
+          "end": 143.965
+        },
+        {
+          "text": "to",
+          "start": 143.965,
+          "end": 144.192
+        },
+        {
+          "text": "pass",
+          "start": 144.192,
+          "end": 144.55
+        },
+        {
+          "text": "heat",
+          "start": 144.55,
+          "end": 144.907
+        },
+        {
+          "text": "along",
+          "start": 144.907,
+          "end": 145.33
+        },
+        {
+          "text": "all",
+          "start": 145.33,
+          "end": 145.622
+        },
+        {
+          "text": "matter.",
+          "start": 145.622,
+          "end": 146.11
+        }
+      ]
+    },
+    {
+      "id": "L28",
+      "text": "That’s why a spinning plate can still deliver a meal with very different temperatures from one bite to the next.",
+      "start": 146.71,
+      "end": 153.23,
+      "phrases": [
+        {
+          "text": "That’s why a spinning plate can still deliver a meal with very different temperatures from one bite to the next.",
+          "start": 146.71,
+          "end": 153.23
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 146.71,
+          "end": 147.06
+        },
+        {
+          "text": "why",
+          "start": 147.06,
+          "end": 147.303
+        },
+        {
+          "text": "a",
+          "start": 147.303,
+          "end": 147.437
+        },
+        {
+          "text": "spinning",
+          "start": 147.437,
+          "end": 147.949
+        },
+        {
+          "text": "plate",
+          "start": 147.949,
+          "end": 148.3
+        },
+        {
+          "text": "can",
+          "start": 148.3,
+          "end": 148.542
+        },
+        {
+          "text": "still",
+          "start": 148.542,
+          "end": 148.892
+        },
+        {
+          "text": "deliver",
+          "start": 148.892,
+          "end": 149.35
+        },
+        {
+          "text": "a",
+          "start": 149.35,
+          "end": 149.485
+        },
+        {
+          "text": "meal",
+          "start": 149.485,
+          "end": 149.781
+        },
+        {
+          "text": "with",
+          "start": 149.781,
+          "end": 150.078
+        },
+        {
+          "text": "very",
+          "start": 150.078,
+          "end": 150.374
+        },
+        {
+          "text": "different",
+          "start": 150.374,
+          "end": 150.94
+        },
+        {
+          "text": "temperatures",
+          "start": 150.94,
+          "end": 151.667
+        },
+        {
+          "text": "from",
+          "start": 151.667,
+          "end": 151.964
+        },
+        {
+          "text": "one",
+          "start": 151.964,
+          "end": 152.206
+        },
+        {
+          "text": "bite",
+          "start": 152.206,
+          "end": 152.503
+        },
+        {
+          "text": "to",
+          "start": 152.503,
+          "end": 152.691
+        },
+        {
+          "text": "the",
+          "start": 152.691,
+          "end": 152.934
+        },
+        {
+          "text": "next.",
+          "start": 152.934,
+          "end": 153.23
+        }
+      ]
+    },
+    {
+      "id": "L29",
+      "text": "Now for the bowl.",
+      "start": 154.23,
+      "end": 155.29,
+      "phrases": [
+        {
+          "text": "Now for the bowl.",
+          "start": 154.23,
+          "end": 155.29
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 154.23,
+          "end": 154.481
+        },
+        {
+          "text": "for",
+          "start": 154.481,
+          "end": 154.732
+        },
+        {
+          "text": "the",
+          "start": 154.732,
+          "end": 154.983
+        },
+        {
+          "text": "bowl.",
+          "start": 154.983,
+          "end": 155.29
+        }
+      ]
+    },
+    {
+      "id": "L30",
+      "text": "Even microwave-safe containers can become hot as heat moves into them from the food.",
+      "start": 155.89,
+      "end": 161.19,
+      "phrases": [
+        {
+          "text": "Even microwave-safe containers can become hot as heat moves into them from the food.",
+          "start": 155.89,
+          "end": 161.19
+        }
+      ],
+      "words": [
+        {
+          "text": "Even",
+          "start": 155.89,
+          "end": 156.214
+        },
+        {
+          "text": "microwave-safe",
+          "start": 156.214,
+          "end": 157.068
+        },
+        {
+          "text": "containers",
+          "start": 157.068,
+          "end": 157.745
+        },
+        {
+          "text": "can",
+          "start": 157.745,
+          "end": 158.01
+        },
+        {
+          "text": "become",
+          "start": 158.01,
+          "end": 158.452
+        },
+        {
+          "text": "hot",
+          "start": 158.452,
+          "end": 158.717
+        },
+        {
+          "text": "as",
+          "start": 158.717,
+          "end": 158.923
+        },
+        {
+          "text": "heat",
+          "start": 158.923,
+          "end": 159.247
+        },
+        {
+          "text": "moves",
+          "start": 159.247,
+          "end": 159.629
+        },
+        {
+          "text": "into",
+          "start": 159.629,
+          "end": 159.953
+        },
+        {
+          "text": "them",
+          "start": 159.953,
+          "end": 160.277
+        },
+        {
+          "text": "from",
+          "start": 160.277,
+          "end": 160.601
+        },
+        {
+          "text": "the",
+          "start": 160.601,
+          "end": 160.866
+        },
+        {
+          "text": "food.",
+          "start": 160.866,
+          "end": 161.19
+        }
+      ]
+    },
+    {
+      "id": "L31",
+      "text": "So a hot bowl can tell you that heat has reached the container.",
+      "start": 161.79,
+      "end": 165.06,
+      "phrases": [
+        {
+          "text": "So a hot bowl can tell you that heat has reached the container.",
+          "start": 161.79,
+          "end": 165.06
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 161.79,
+          "end": 161.955
+        },
+        {
+          "text": "a",
+          "start": 161.955,
+          "end": 162.072
+        },
+        {
+          "text": "hot",
+          "start": 162.072,
+          "end": 162.284
+        },
+        {
+          "text": "bowl",
+          "start": 162.284,
+          "end": 162.543
+        },
+        {
+          "text": "can",
+          "start": 162.543,
+          "end": 162.755
+        },
+        {
+          "text": "tell",
+          "start": 162.755,
+          "end": 163.013
+        },
+        {
+          "text": "you",
+          "start": 163.013,
+          "end": 163.225
+        },
+        {
+          "text": "that",
+          "start": 163.225,
+          "end": 163.484
+        },
+        {
+          "text": "heat",
+          "start": 163.484,
+          "end": 163.743
+        },
+        {
+          "text": "has",
+          "start": 163.743,
+          "end": 163.954
+        },
+        {
+          "text": "reached",
+          "start": 163.954,
+          "end": 164.354
+        },
+        {
+          "text": "the",
+          "start": 164.354,
+          "end": 164.566
+        },
+        {
+          "text": "container.",
+          "start": 164.566,
+          "end": 165.06
+        }
+      ]
+    },
+    {
+      "id": "L32",
+      "text": "It cannot tell you that every part of the meal has reached the same temperature.",
+      "start": 165.66,
+      "end": 170.06,
+      "phrases": [
+        {
+          "text": "It cannot tell you that every part of the meal has reached the same temperature.",
+          "start": 165.66,
+          "end": 170.06
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 165.66,
+          "end": 165.836
+        },
+        {
+          "text": "cannot",
+          "start": 165.836,
+          "end": 166.213
+        },
+        {
+          "text": "tell",
+          "start": 166.213,
+          "end": 166.49
+        },
+        {
+          "text": "you",
+          "start": 166.49,
+          "end": 166.716
+        },
+        {
+          "text": "that",
+          "start": 166.716,
+          "end": 166.993
+        },
+        {
+          "text": "every",
+          "start": 166.993,
+          "end": 167.319
+        },
+        {
+          "text": "part",
+          "start": 167.319,
+          "end": 167.596
+        },
+        {
+          "text": "of",
+          "start": 167.596,
+          "end": 167.772
+        },
+        {
+          "text": "the",
+          "start": 167.772,
+          "end": 167.998
+        },
+        {
+          "text": "meal",
+          "start": 167.998,
+          "end": 168.275
+        },
+        {
+          "text": "has",
+          "start": 168.275,
+          "end": 168.501
+        },
+        {
+          "text": "reached",
+          "start": 168.501,
+          "end": 168.929
+        },
+        {
+          "text": "the",
+          "start": 168.929,
+          "end": 169.155
+        },
+        {
+          "text": "same",
+          "start": 169.155,
+          "end": 169.431
+        },
+        {
+          "text": "temperature.",
+          "start": 169.431,
+          "end": 170.06
+        }
+      ]
+    },
+    {
+      "id": "L33",
+      "text": "The outside of the container and the center of the food are different places.",
+      "start": 170.66,
+      "end": 175.0,
+      "phrases": [
+        {
+          "text": "The outside of the container and the center of the food are different places.",
+          "start": 170.66,
+          "end": 175.0
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 170.66,
+          "end": 170.892
+        },
+        {
+          "text": "outside",
+          "start": 170.892,
+          "end": 171.332
+        },
+        {
+          "text": "of",
+          "start": 171.332,
+          "end": 171.512
+        },
+        {
+          "text": "the",
+          "start": 171.512,
+          "end": 171.745
+        },
+        {
+          "text": "container",
+          "start": 171.745,
+          "end": 172.287
+        },
+        {
+          "text": "and",
+          "start": 172.287,
+          "end": 172.52
+        },
+        {
+          "text": "the",
+          "start": 172.52,
+          "end": 172.752
+        },
+        {
+          "text": "center",
+          "start": 172.752,
+          "end": 173.14
+        },
+        {
+          "text": "of",
+          "start": 173.14,
+          "end": 173.321
+        },
+        {
+          "text": "the",
+          "start": 173.321,
+          "end": 173.553
+        },
+        {
+          "text": "food",
+          "start": 173.553,
+          "end": 173.837
+        },
+        {
+          "text": "are",
+          "start": 173.837,
+          "end": 174.07
+        },
+        {
+          "text": "different",
+          "start": 174.07,
+          "end": 174.612
+        },
+        {
+          "text": "places.",
+          "start": 174.612,
+          "end": 175.0
+        }
+      ]
+    },
+    {
+      "id": "L34",
+      "text": "Judging the whole dinner by the rim is like judging an entire swimming pool by touching one corner.",
+      "start": 175.6,
+      "end": 181.81,
+      "phrases": [
+        {
+          "text": "Judging the whole dinner by the rim is like judging an entire swimming pool by touching one corner.",
+          "start": 175.6,
+          "end": 181.81
+        }
+      ],
+      "words": [
+        {
+          "text": "Judging",
+          "start": 175.6,
+          "end": 176.089
+        },
+        {
+          "text": "the",
+          "start": 176.089,
+          "end": 176.347
+        },
+        {
+          "text": "whole",
+          "start": 176.347,
+          "end": 176.721
+        },
+        {
+          "text": "dinner",
+          "start": 176.721,
+          "end": 177.152
+        },
+        {
+          "text": "by",
+          "start": 177.152,
+          "end": 177.354
+        },
+        {
+          "text": "the",
+          "start": 177.354,
+          "end": 177.612
+        },
+        {
+          "text": "rim",
+          "start": 177.612,
+          "end": 177.871
+        },
+        {
+          "text": "is",
+          "start": 177.871,
+          "end": 178.072
+        },
+        {
+          "text": "like",
+          "start": 178.072,
+          "end": 178.389
+        },
+        {
+          "text": "judging",
+          "start": 178.389,
+          "end": 178.877
+        },
+        {
+          "text": "an",
+          "start": 178.877,
+          "end": 179.079
+        },
+        {
+          "text": "entire",
+          "start": 179.079,
+          "end": 179.51
+        },
+        {
+          "text": "swimming",
+          "start": 179.51,
+          "end": 180.056
+        },
+        {
+          "text": "pool",
+          "start": 180.056,
+          "end": 180.372
+        },
+        {
+          "text": "by",
+          "start": 180.372,
+          "end": 180.574
+        },
+        {
+          "text": "touching",
+          "start": 180.574,
+          "end": 181.12
+        },
+        {
+          "text": "one",
+          "start": 181.12,
+          "end": 181.379
+        },
+        {
+          "text": "corner.",
+          "start": 181.379,
+          "end": 181.81
+        }
+      ]
+    },
+    {
+      "id": "L35",
+      "text": "And there’s one more misconception making this confusing.",
+      "start": 182.81,
+      "end": 186.11,
+      "phrases": [
+        {
+          "text": "And there’s one more misconception making this confusing.",
+          "start": 182.81,
+          "end": 186.11
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 182.81,
+          "end": 183.057
+        },
+        {
+          "text": "there’s",
+          "start": 183.057,
+          "end": 183.47
+        },
+        {
+          "text": "one",
+          "start": 183.47,
+          "end": 183.717
+        },
+        {
+          "text": "more",
+          "start": 183.717,
+          "end": 184.02
+        },
+        {
+          "text": "misconception",
+          "start": 184.02,
+          "end": 184.817
+        },
+        {
+          "text": "making",
+          "start": 184.817,
+          "end": 185.23
+        },
+        {
+          "text": "this",
+          "start": 185.23,
+          "end": 185.532
+        },
+        {
+          "text": "confusing.",
+          "start": 185.532,
+          "end": 186.11
+        }
+      ]
+    },
+    {
+      "id": "L36",
+      "text": "Microwaves don’t simply cook thick food from the inside out.",
+      "start": 186.71,
+      "end": 190.46,
+      "phrases": [
+        {
+          "text": "Microwaves don’t simply cook thick food from the inside out.",
+          "start": 186.71,
+          "end": 190.46
+        }
+      ],
+      "words": [
+        {
+          "text": "Microwaves",
+          "start": 186.71,
+          "end": 187.384
+        },
+        {
+          "text": "don’t",
+          "start": 187.384,
+          "end": 187.706
+        },
+        {
+          "text": "simply",
+          "start": 187.706,
+          "end": 188.146
+        },
+        {
+          "text": "cook",
+          "start": 188.146,
+          "end": 188.468
+        },
+        {
+          "text": "thick",
+          "start": 188.468,
+          "end": 188.849
+        },
+        {
+          "text": "food",
+          "start": 188.849,
+          "end": 189.171
+        },
+        {
+          "text": "from",
+          "start": 189.171,
+          "end": 189.493
+        },
+        {
+          "text": "the",
+          "start": 189.493,
+          "end": 189.757
+        },
+        {
+          "text": "inside",
+          "start": 189.757,
+          "end": 190.196
+        },
+        {
+          "text": "out.",
+          "start": 190.196,
+          "end": 190.46
+        }
+      ]
+    },
+    {
+      "id": "L37",
+      "text": "Energy heats regions it can reach and be absorbed in, while heat also spreads through the food by conduction.",
+      "start": 191.06,
+      "end": 197.77,
+      "phrases": [
+        {
+          "text": "Energy heats regions it can reach and be absorbed in,",
+          "start": 191.06,
+          "end": 194.33
+        },
+        {
+          "text": "while heat also spreads through the food by conduction.",
+          "start": 194.83,
+          "end": 197.77
+        }
+      ],
+      "words": [
+        {
+          "text": "Energy",
+          "start": 191.06,
+          "end": 191.483
+        },
+        {
+          "text": "heats",
+          "start": 191.483,
+          "end": 191.849
+        },
+        {
+          "text": "regions",
+          "start": 191.849,
+          "end": 192.329
+        },
+        {
+          "text": "it",
+          "start": 192.329,
+          "end": 192.526
+        },
+        {
+          "text": "can",
+          "start": 192.526,
+          "end": 192.78
+        },
+        {
+          "text": "reach",
+          "start": 192.78,
+          "end": 193.146
+        },
+        {
+          "text": "and",
+          "start": 193.146,
+          "end": 193.4
+        },
+        {
+          "text": "be",
+          "start": 193.4,
+          "end": 193.597
+        },
+        {
+          "text": "absorbed",
+          "start": 193.597,
+          "end": 194.133
+        },
+        {
+          "text": "in,",
+          "start": 194.133,
+          "end": 194.33
+        },
+        {
+          "text": "while",
+          "start": 194.83,
+          "end": 195.151
+        },
+        {
+          "text": "heat",
+          "start": 195.151,
+          "end": 195.423
+        },
+        {
+          "text": "also",
+          "start": 195.423,
+          "end": 195.695
+        },
+        {
+          "text": "spreads",
+          "start": 195.695,
+          "end": 196.115
+        },
+        {
+          "text": "through",
+          "start": 196.115,
+          "end": 196.535
+        },
+        {
+          "text": "the",
+          "start": 196.535,
+          "end": 196.757
+        },
+        {
+          "text": "food",
+          "start": 196.757,
+          "end": 197.029
+        },
+        {
+          "text": "by",
+          "start": 197.029,
+          "end": 197.202
+        },
+        {
+          "text": "conduction.",
+          "start": 197.202,
+          "end": 197.77
+        }
+      ]
+    },
+    {
+      "id": "L38",
+      "text": "The middle of a thick portion may still be catching up.",
+      "start": 198.37,
+      "end": 201.35,
+      "phrases": [
+        {
+          "text": "The middle of a thick portion may still be catching up.",
+          "start": 198.37,
+          "end": 201.35
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 198.37,
+          "end": 198.592
+        },
+        {
+          "text": "middle",
+          "start": 198.592,
+          "end": 198.961
+        },
+        {
+          "text": "of",
+          "start": 198.961,
+          "end": 199.133
+        },
+        {
+          "text": "a",
+          "start": 199.133,
+          "end": 199.257
+        },
+        {
+          "text": "thick",
+          "start": 199.257,
+          "end": 199.577
+        },
+        {
+          "text": "portion",
+          "start": 199.577,
+          "end": 199.995
+        },
+        {
+          "text": "may",
+          "start": 199.995,
+          "end": 200.217
+        },
+        {
+          "text": "still",
+          "start": 200.217,
+          "end": 200.537
+        },
+        {
+          "text": "be",
+          "start": 200.537,
+          "end": 200.71
+        },
+        {
+          "text": "catching",
+          "start": 200.71,
+          "end": 201.178
+        },
+        {
+          "text": "up.",
+          "start": 201.178,
+          "end": 201.35
+        }
+      ]
+    },
+    {
+      "id": "L39",
+      "text": "Adding more time can make already-hot regions hotter while that process continues.",
+      "start": 201.95,
+      "end": 207.3,
+      "phrases": [
+        {
+          "text": "Adding more time can make already-hot regions hotter while that process continues.",
+          "start": 201.95,
+          "end": 207.3
+        }
+      ],
+      "words": [
+        {
+          "text": "Adding",
+          "start": 201.95,
+          "end": 202.411
+        },
+        {
+          "text": "more",
+          "start": 202.411,
+          "end": 202.749
+        },
+        {
+          "text": "time",
+          "start": 202.749,
+          "end": 203.088
+        },
+        {
+          "text": "can",
+          "start": 203.088,
+          "end": 203.364
+        },
+        {
+          "text": "make",
+          "start": 203.364,
+          "end": 203.703
+        },
+        {
+          "text": "already-hot",
+          "start": 203.703,
+          "end": 204.41
+        },
+        {
+          "text": "regions",
+          "start": 204.41,
+          "end": 204.932
+        },
+        {
+          "text": "hotter",
+          "start": 204.932,
+          "end": 205.394
+        },
+        {
+          "text": "while",
+          "start": 205.394,
+          "end": 205.793
+        },
+        {
+          "text": "that",
+          "start": 205.793,
+          "end": 206.132
+        },
+        {
+          "text": "process",
+          "start": 206.132,
+          "end": 206.654
+        },
+        {
+          "text": "continues.",
+          "start": 206.654,
+          "end": 207.3
+        }
+      ]
+    },
+    {
+      "id": "L40",
+      "text": "So what helps?",
+      "start": 208.3,
+      "end": 209.28,
+      "phrases": [
+        {
+          "text": "So what helps?",
+          "start": 208.3,
+          "end": 209.28
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 208.3,
+          "end": 208.521
+        },
+        {
+          "text": "what",
+          "start": 208.521,
+          "end": 208.869
+        },
+        {
+          "text": "helps?",
+          "start": 208.869,
+          "end": 209.28
+        }
+      ]
+    },
+    {
+      "id": "L41",
+      "text": "When the instructions call for stirring, stir.",
+      "start": 209.88,
+      "end": 212.39,
+      "phrases": [
+        {
+          "text": "When the instructions call for stirring,",
+          "start": 209.88,
+          "end": 211.74
+        },
+        {
+          "text": "stir.",
+          "start": 211.89,
+          "end": 212.39
+        }
+      ],
+      "words": [
+        {
+          "text": "When",
+          "start": 209.88,
+          "end": 210.118
+        },
+        {
+          "text": "the",
+          "start": 210.118,
+          "end": 210.313
+        },
+        {
+          "text": "instructions",
+          "start": 210.313,
+          "end": 210.897
+        },
+        {
+          "text": "call",
+          "start": 210.897,
+          "end": 211.134
+        },
+        {
+          "text": "for",
+          "start": 211.134,
+          "end": 211.329
+        },
+        {
+          "text": "stirring,",
+          "start": 211.329,
+          "end": 211.74
+        },
+        {
+          "text": "stir.",
+          "start": 211.89,
+          "end": 212.39
+        }
+      ]
+    },
+    {
+      "id": "L42",
+      "text": "You’re moving warmer and cooler portions together, rather than leaving the same cold center in place.",
+      "start": 212.99,
+      "end": 218.89,
+      "phrases": [
+        {
+          "text": "You’re moving warmer and cooler portions together,",
+          "start": 212.99,
+          "end": 215.75
+        },
+        {
+          "text": "rather than leaving the same cold center in place.",
+          "start": 216.21,
+          "end": 218.89
+        }
+      ],
+      "words": [
+        {
+          "text": "You’re",
+          "start": 212.99,
+          "end": 213.332
+        },
+        {
+          "text": "moving",
+          "start": 213.332,
+          "end": 213.726
+        },
+        {
+          "text": "warmer",
+          "start": 213.726,
+          "end": 214.12
+        },
+        {
+          "text": "and",
+          "start": 214.12,
+          "end": 214.357
+        },
+        {
+          "text": "cooler",
+          "start": 214.357,
+          "end": 214.751
+        },
+        {
+          "text": "portions",
+          "start": 214.751,
+          "end": 215.251
+        },
+        {
+          "text": "together,",
+          "start": 215.251,
+          "end": 215.75
+        },
+        {
+          "text": "rather",
+          "start": 216.21,
+          "end": 216.579
+        },
+        {
+          "text": "than",
+          "start": 216.579,
+          "end": 216.849
+        },
+        {
+          "text": "leaving",
+          "start": 216.849,
+          "end": 217.267
+        },
+        {
+          "text": "the",
+          "start": 217.267,
+          "end": 217.489
+        },
+        {
+          "text": "same",
+          "start": 217.489,
+          "end": 217.759
+        },
+        {
+          "text": "cold",
+          "start": 217.759,
+          "end": 218.029
+        },
+        {
+          "text": "center",
+          "start": 218.029,
+          "end": 218.398
+        },
+        {
+          "text": "in",
+          "start": 218.398,
+          "end": 218.57
+        },
+        {
+          "text": "place.",
+          "start": 218.57,
+          "end": 218.89
+        }
+      ]
+    },
+    {
+      "id": "L43",
+      "text": "Follow the recommended covering and standing instructions, too.",
+      "start": 219.49,
+      "end": 223.08,
+      "phrases": [
+        {
+          "text": "Follow the recommended covering and standing instructions,",
+          "start": 219.49,
+          "end": 222.49
+        },
+        {
+          "text": "too.",
+          "start": 222.66,
+          "end": 223.08
+        }
+      ],
+      "words": [
+        {
+          "text": "Follow",
+          "start": 219.49,
+          "end": 219.856
+        },
+        {
+          "text": "the",
+          "start": 219.856,
+          "end": 220.075
+        },
+        {
+          "text": "recommended",
+          "start": 220.075,
+          "end": 220.685
+        },
+        {
+          "text": "covering",
+          "start": 220.685,
+          "end": 221.149
+        },
+        {
+          "text": "and",
+          "start": 221.149,
+          "end": 221.368
+        },
+        {
+          "text": "standing",
+          "start": 221.368,
+          "end": 221.831
+        },
+        {
+          "text": "instructions,",
+          "start": 221.831,
+          "end": 222.49
+        },
+        {
+          "text": "too.",
+          "start": 222.66,
+          "end": 223.08
+        }
+      ]
+    },
+    {
+      "id": "L44",
+      "text": "Standing time gives heat more opportunity to spread after the microwave stops.",
+      "start": 223.68,
+      "end": 228.6,
+      "phrases": [
+        {
+          "text": "Standing time gives heat more opportunity to spread after the microwave stops.",
+          "start": 223.68,
+          "end": 228.6
+        }
+      ],
+      "words": [
+        {
+          "text": "Standing",
+          "start": 223.68,
+          "end": 224.236
+        },
+        {
+          "text": "time",
+          "start": 224.236,
+          "end": 224.559
+        },
+        {
+          "text": "gives",
+          "start": 224.559,
+          "end": 224.939
+        },
+        {
+          "text": "heat",
+          "start": 224.939,
+          "end": 225.261
+        },
+        {
+          "text": "more",
+          "start": 225.261,
+          "end": 225.584
+        },
+        {
+          "text": "opportunity",
+          "start": 225.584,
+          "end": 226.316
+        },
+        {
+          "text": "to",
+          "start": 226.316,
+          "end": 226.521
+        },
+        {
+          "text": "spread",
+          "start": 226.521,
+          "end": 226.96
+        },
+        {
+          "text": "after",
+          "start": 226.96,
+          "end": 227.341
+        },
+        {
+          "text": "the",
+          "start": 227.341,
+          "end": 227.604
+        },
+        {
+          "text": "microwave",
+          "start": 227.604,
+          "end": 228.219
+        },
+        {
+          "text": "stops.",
+          "start": 228.219,
+          "end": 228.6
+        }
+      ]
+    },
+    {
+      "id": "L45",
+      "text": "Follow the food’s package instructions and your appliance manual, including any temperature checks they require.",
+      "start": 229.2,
+      "end": 236.06,
+      "phrases": [
+        {
+          "text": "Follow the food’s package instructions and your appliance manual,",
+          "start": 229.2,
+          "end": 233.11
+        },
+        {
+          "text": "including any temperature checks they require.",
+          "start": 233.57,
+          "end": 236.06
+        }
+      ],
+      "words": [
+        {
+          "text": "Follow",
+          "start": 229.2,
+          "end": 229.628
+        },
+        {
+          "text": "the",
+          "start": 229.628,
+          "end": 229.885
+        },
+        {
+          "text": "food’s",
+          "start": 229.885,
+          "end": 230.256
+        },
+        {
+          "text": "package",
+          "start": 230.256,
+          "end": 230.741
+        },
+        {
+          "text": "instructions",
+          "start": 230.741,
+          "end": 231.512
+        },
+        {
+          "text": "and",
+          "start": 231.512,
+          "end": 231.769
+        },
+        {
+          "text": "your",
+          "start": 231.769,
+          "end": 232.083
+        },
+        {
+          "text": "appliance",
+          "start": 232.083,
+          "end": 232.682
+        },
+        {
+          "text": "manual,",
+          "start": 232.682,
+          "end": 233.11
+        },
+        {
+          "text": "including",
+          "start": 233.57,
+          "end": 234.104
+        },
+        {
+          "text": "any",
+          "start": 234.104,
+          "end": 234.332
+        },
+        {
+          "text": "temperature",
+          "start": 234.332,
+          "end": 234.967
+        },
+        {
+          "text": "checks",
+          "start": 234.967,
+          "end": 235.349
+        },
+        {
+          "text": "they",
+          "start": 235.349,
+          "end": 235.628
+        },
+        {
+          "text": "require.",
+          "start": 235.628,
+          "end": 236.06
+        }
+      ]
+    },
+    {
+      "id": "L46",
+      "text": "The bowl feeling hot isn’t a substitute for those instructions.",
+      "start": 236.66,
+      "end": 240.6,
+      "phrases": [
+        {
+          "text": "The bowl feeling hot isn’t a substitute for those instructions.",
+          "start": 236.66,
+          "end": 240.6
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 236.66,
+          "end": 236.925
+        },
+        {
+          "text": "bowl",
+          "start": 236.925,
+          "end": 237.248
+        },
+        {
+          "text": "feeling",
+          "start": 237.248,
+          "end": 237.748
+        },
+        {
+          "text": "hot",
+          "start": 237.748,
+          "end": 238.013
+        },
+        {
+          "text": "isn’t",
+          "start": 238.013,
+          "end": 238.336
+        },
+        {
+          "text": "a",
+          "start": 238.336,
+          "end": 238.483
+        },
+        {
+          "text": "substitute",
+          "start": 238.483,
+          "end": 239.159
+        },
+        {
+          "text": "for",
+          "start": 239.159,
+          "end": 239.424
+        },
+        {
+          "text": "those",
+          "start": 239.424,
+          "end": 239.806
+        },
+        {
+          "text": "instructions.",
+          "start": 239.806,
+          "end": 240.6
+        }
+      ]
+    },
+    {
+      "id": "L47",
+      "text": "So your microwave doesn’t have a personal problem with leftovers.",
+      "start": 241.6,
+      "end": 245.46,
+      "phrases": [
+        {
+          "text": "So your microwave doesn’t have a personal problem with leftovers.",
+          "start": 241.6,
+          "end": 245.46
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 241.6,
+          "end": 241.796
+        },
+        {
+          "text": "your",
+          "start": 241.796,
+          "end": 242.103
+        },
+        {
+          "text": "microwave",
+          "start": 242.103,
+          "end": 242.691
+        },
+        {
+          "text": "doesn’t",
+          "start": 242.691,
+          "end": 243.11
+        },
+        {
+          "text": "have",
+          "start": 243.11,
+          "end": 243.418
+        },
+        {
+          "text": "a",
+          "start": 243.418,
+          "end": 243.558
+        },
+        {
+          "text": "personal",
+          "start": 243.558,
+          "end": 244.089
+        },
+        {
+          "text": "problem",
+          "start": 244.089,
+          "end": 244.565
+        },
+        {
+          "text": "with",
+          "start": 244.565,
+          "end": 244.873
+        },
+        {
+          "text": "leftovers.",
+          "start": 244.873,
+          "end": 245.46
+        }
+      ]
+    },
+    {
+      "id": "L48",
+      "text": "Heating depends on where the energy goes, what it meets, and how heat moves afterward.",
+      "start": 246.06,
+      "end": 251.32,
+      "phrases": [
+        {
+          "text": "Heating depends on where the energy goes,",
+          "start": 246.06,
+          "end": 248.21
+        },
+        {
+          "text": "what it meets,",
+          "start": 248.62,
+          "end": 249.32
+        },
+        {
+          "text": "and how heat moves afterward.",
+          "start": 249.65,
+          "end": 251.32
+        }
+      ],
+      "words": [
+        {
+          "text": "Heating",
+          "start": 246.06,
+          "end": 246.471
+        },
+        {
+          "text": "depends",
+          "start": 246.471,
+          "end": 246.881
+        },
+        {
+          "text": "on",
+          "start": 246.881,
+          "end": 247.05
+        },
+        {
+          "text": "where",
+          "start": 247.05,
+          "end": 247.364
+        },
+        {
+          "text": "the",
+          "start": 247.364,
+          "end": 247.582
+        },
+        {
+          "text": "energy",
+          "start": 247.582,
+          "end": 247.944
+        },
+        {
+          "text": "goes,",
+          "start": 247.944,
+          "end": 248.21
+        },
+        {
+          "text": "what",
+          "start": 248.62,
+          "end": 248.868
+        },
+        {
+          "text": "it",
+          "start": 248.868,
+          "end": 249.026
+        },
+        {
+          "text": "meets,",
+          "start": 249.026,
+          "end": 249.32
+        },
+        {
+          "text": "and",
+          "start": 249.65,
+          "end": 249.889
+        },
+        {
+          "text": "how",
+          "start": 249.889,
+          "end": 250.127
+        },
+        {
+          "text": "heat",
+          "start": 250.127,
+          "end": 250.419
+        },
+        {
+          "text": "moves",
+          "start": 250.419,
+          "end": 250.763
+        },
+        {
+          "text": "afterward.",
+          "start": 250.763,
+          "end": 251.32
+        }
+      ]
+    },
+    {
+      "id": "L49",
+      "text": "The spinning plate helps with location.",
+      "start": 251.92,
+      "end": 254.1,
+      "phrases": [
+        {
+          "text": "The spinning plate helps with location.",
+          "start": 251.92,
+          "end": 254.1
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 251.92,
+          "end": 252.154
+        },
+        {
+          "text": "spinning",
+          "start": 252.154,
+          "end": 252.647
+        },
+        {
+          "text": "plate",
+          "start": 252.647,
+          "end": 252.984
+        },
+        {
+          "text": "helps",
+          "start": 252.984,
+          "end": 253.321
+        },
+        {
+          "text": "with",
+          "start": 253.321,
+          "end": 253.607
+        },
+        {
+          "text": "location.",
+          "start": 253.607,
+          "end": 254.1
+        }
+      ]
+    },
+    {
+      "id": "L50",
+      "text": "Stirring moves the food around.",
+      "start": 254.7,
+      "end": 256.46,
+      "phrases": [
+        {
+          "text": "Stirring moves the food around.",
+          "start": 254.7,
+          "end": 256.46
+        }
+      ],
+      "words": [
+        {
+          "text": "Stirring",
+          "start": 254.7,
+          "end": 255.199
+        },
+        {
+          "text": "moves",
+          "start": 255.199,
+          "end": 255.541
+        },
+        {
+          "text": "the",
+          "start": 255.541,
+          "end": 255.777
+        },
+        {
+          "text": "food",
+          "start": 255.777,
+          "end": 256.066
+        },
+        {
+          "text": "around.",
+          "start": 256.066,
+          "end": 256.46
+        }
+      ]
+    },
+    {
+      "id": "L51",
+      "text": "Standing time helps heat spread.",
+      "start": 257.06,
+      "end": 258.92,
+      "phrases": [
+        {
+          "text": "Standing time helps heat spread.",
+          "start": 257.06,
+          "end": 258.92
+        }
+      ],
+      "words": [
+        {
+          "text": "Standing",
+          "start": 257.06,
+          "end": 257.572
+        },
+        {
+          "text": "time",
+          "start": 257.572,
+          "end": 257.869
+        },
+        {
+          "text": "helps",
+          "start": 257.869,
+          "end": 258.219
+        },
+        {
+          "text": "heat",
+          "start": 258.219,
+          "end": 258.516
+        },
+        {
+          "text": "spread.",
+          "start": 258.516,
+          "end": 258.92
+        }
+      ]
+    },
+    {
+      "id": "L52",
+      "text": "And that hot bowl?",
+      "start": 259.52,
+      "end": 260.76,
+      "phrases": [
+        {
+          "text": "And that hot bowl?",
+          "start": 259.52,
+          "end": 260.76
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 259.52,
+          "end": 259.799
+        },
+        {
+          "text": "that",
+          "start": 259.799,
+          "end": 260.14
+        },
+        {
+          "text": "hot",
+          "start": 260.14,
+          "end": 260.419
+        },
+        {
+          "text": "bowl?",
+          "start": 260.419,
+          "end": 260.76
+        }
+      ]
+    },
+    {
+      "id": "L53",
+      "text": "It’s reporting on the bowl.",
+      "start": 261.21,
+      "end": 262.67,
+      "phrases": [
+        {
+          "text": "It’s reporting on the bowl.",
+          "start": 261.21,
+          "end": 262.67
+        }
+      ],
+      "words": [
+        {
+          "text": "It’s",
+          "start": 261.21,
+          "end": 261.441
+        },
+        {
+          "text": "reporting",
+          "start": 261.441,
+          "end": 261.978
+        },
+        {
+          "text": "on",
+          "start": 261.978,
+          "end": 262.158
+        },
+        {
+          "text": "the",
+          "start": 262.158,
+          "end": 262.388
+        },
+        {
+          "text": "bowl.",
+          "start": 262.388,
+          "end": 262.67
+        }
+      ]
+    },
+    {
+      "id": "L54",
+      "text": "It isn’t giving you a complete report on dinner.",
+      "start": 263.27,
+      "end": 265.8,
+      "phrases": [
+        {
+          "text": "It isn’t giving you a complete report on dinner.",
+          "start": 263.27,
+          "end": 265.8
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 263.27,
+          "end": 263.442
+        },
+        {
+          "text": "isn’t",
+          "start": 263.442,
+          "end": 263.712
+        },
+        {
+          "text": "giving",
+          "start": 263.712,
+          "end": 264.081
+        },
+        {
+          "text": "you",
+          "start": 264.081,
+          "end": 264.302
+        },
+        {
+          "text": "a",
+          "start": 264.302,
+          "end": 264.424
+        },
+        {
+          "text": "complete",
+          "start": 264.424,
+          "end": 264.891
+        },
+        {
+          "text": "report",
+          "start": 264.891,
+          "end": 265.26
+        },
+        {
+          "text": "on",
+          "start": 265.26,
+          "end": 265.432
+        },
+        {
+          "text": "dinner.",
+          "start": 265.432,
+          "end": 265.8
+        }
+      ]
+    },
+    {
+      "id": "L55",
+      "text": "Everyday things. Surprising explanations.",
+      "start": 266.8,
+      "end": 269.73,
+      "phrases": [
+        {
+          "text": "Everyday things.",
+          "start": 266.8,
+          "end": 267.76
+        },
+        {
+          "text": "Surprising explanations.",
+          "start": 268.03,
+          "end": 269.73
+        }
+      ],
+      "words": [
+        {
+          "text": "Everyday",
+          "start": 266.8,
+          "end": 267.336
+        },
+        {
+          "text": "things.",
+          "start": 267.336,
+          "end": 267.76
+        },
+        {
+          "text": "Surprising",
+          "start": 268.03,
+          "end": 268.812
+        },
+        {
+          "text": "explanations.",
+          "start": 268.812,
+          "end": 269.73
+        }
+      ]
+    },
+    {
+      "id": "L56",
+      "text": "That’s Why Is That?",
+      "start": 270.33,
+      "end": 271.5,
+      "phrases": [
+        {
+          "text": "That’s Why Is That?",
+          "start": 270.33,
+          "end": 271.5
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 270.33,
+          "end": 270.71
+        },
+        {
+          "text": "Why",
+          "start": 270.71,
+          "end": 270.973
+        },
+        {
+          "text": "Is",
+          "start": 270.973,
+          "end": 271.178
+        },
+        {
+          "text": "That?",
+          "start": 271.178,
+          "end": 271.5
+        }
+      ]
+    }
+  ]
+}

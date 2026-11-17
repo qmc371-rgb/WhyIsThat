@@ -1,0 +1,534 @@
+[
+  {
+    "text": "You put yesterday’s dinner in the microwave.",
+    "startMs": 1200,
+    "endMs": 4100,
+    "timestampMs": 1200,
+    "confidence": null
+  },
+  {
+    "text": "Two minutes later, the bowl is hot enough to make you switch hands.",
+    "startMs": 4500,
+    "endMs": 8350,
+    "timestampMs": 4500,
+    "confidence": null
+  },
+  {
+    "text": "The food? Somehow,",
+    "startMs": 8600,
+    "endMs": 9925,
+    "timestampMs": 8600,
+    "confidence": null
+  },
+  {
+    "text": "the middle still tastes like it came straight from the refrigerator.",
+    "startMs": 9965,
+    "endMs": 14080,
+    "timestampMs": 9965,
+    "confidence": null
+  },
+  {
+    "text": "So you put it back.",
+    "startMs": 14580,
+    "endMs": 16110,
+    "timestampMs": 14580,
+    "confidence": null
+  },
+  {
+    "text": "Now the edges are furious, the bowl is even hotter,",
+    "startMs": 16710,
+    "endMs": 20440,
+    "timestampMs": 16710,
+    "confidence": null
+  },
+  {
+    "text": "and the center is only slightly less disappointing.",
+    "startMs": 20560,
+    "endMs": 23640,
+    "timestampMs": 20560,
+    "confidence": null
+  },
+  {
+    "text": "Why is that?",
+    "startMs": 24290,
+    "endMs": 25560,
+    "timestampMs": 24290,
+    "confidence": null
+  },
+  {
+    "text": "There are two questions hiding in this tiny kitchen argument.",
+    "startMs": 27810,
+    "endMs": 31880,
+    "timestampMs": 27810,
+    "confidence": null
+  },
+  {
+    "text": "Why does the food heat unevenly?",
+    "startMs": 32230,
+    "endMs": 34510,
+    "timestampMs": 32230,
+    "confidence": null
+  },
+  {
+    "text": "And why doesn’t the temperature of the bowl tell you whether dinner is ready?",
+    "startMs": 34710,
+    "endMs": 38670,
+    "timestampMs": 34710,
+    "confidence": null
+  },
+  {
+    "text": "Start with what the microwave actually does.",
+    "startMs": 39320,
+    "endMs": 42240,
+    "timestampMs": 39320,
+    "confidence": null
+  },
+  {
+    "text": "Inside the appliance, a component called a magnetron produces microwaves.",
+    "startMs": 42490,
+    "endMs": 47332,
+    "timestampMs": 42490,
+    "confidence": null
+  },
+  {
+    "text": "Those waves carry energy into the cooking chamber,",
+    "startMs": 47372,
+    "endMs": 50644,
+    "timestampMs": 47372,
+    "confidence": null
+  },
+  {
+    "text": "where they reflect off the metal walls and interact with the food.",
+    "startMs": 50684,
+    "endMs": 55450,
+    "timestampMs": 50684,
+    "confidence": null
+  },
+  {
+    "text": "Water molecules respond to the changing electric field.",
+    "startMs": 55700,
+    "endMs": 59646,
+    "timestampMs": 55700,
+    "confidence": null
+  },
+  {
+    "text": "Energy is absorbed and becomes heat.",
+    "startMs": 59686,
+    "endMs": 62670,
+    "timestampMs": 59686,
+    "confidence": null
+  },
+  {
+    "text": "But this isn’t a little oven blowing an even blanket of hot air over your",
+    "startMs": 63320,
+    "endMs": 67659,
+    "timestampMs": 63320,
+    "confidence": null
+  },
+  {
+    "text": "leftovers.",
+    "startMs": 67699,
+    "endMs": 68699,
+    "timestampMs": 67699,
+    "confidence": null
+  },
+  {
+    "text": "And it isn’t heating every part of your dinner equally.",
+    "startMs": 68870,
+    "endMs": 71880,
+    "timestampMs": 68870,
+    "confidence": null
+  },
+  {
+    "text": "Imagine an invisible map inside the cooking chamber.",
+    "startMs": 72530,
+    "endMs": 76330,
+    "timestampMs": 72530,
+    "confidence": null
+  },
+  {
+    "text": "Some regions deliver more microwave energy. Others deliver less.",
+    "startMs": 76580,
+    "endMs": 81470,
+    "timestampMs": 76580,
+    "confidence": null
+  },
+  {
+    "text": "Waves reflecting around the chamber overlap,",
+    "startMs": 81720,
+    "endMs": 84580,
+    "timestampMs": 81720,
+    "confidence": null
+  },
+  {
+    "text": "helping create that uneven pattern.",
+    "startMs": 84650,
+    "endMs": 87170,
+    "timestampMs": 84650,
+    "confidence": null
+  },
+  {
+    "text": "Our animation makes stronger regions bright and weaker ones dark.",
+    "startMs": 87420,
+    "endMs": 91920,
+    "timestampMs": 87420,
+    "confidence": null
+  },
+  {
+    "text": "Real patterns are more complicated, and the food itself changes them.",
+    "startMs": 92230,
+    "endMs": 96730,
+    "timestampMs": 92230,
+    "confidence": null
+  },
+  {
+    "text": "But the important idea is simple:",
+    "startMs": 96980,
+    "endMs": 99430,
+    "timestampMs": 96980,
+    "confidence": null
+  },
+  {
+    "text": "different places can receive different amounts of energy.",
+    "startMs": 99630,
+    "endMs": 103110,
+    "timestampMs": 99630,
+    "confidence": null
+  },
+  {
+    "text": "That explains why the plate spins.",
+    "startMs": 103760,
+    "endMs": 106080,
+    "timestampMs": 103760,
+    "confidence": null
+  },
+  {
+    "text": "The turntable carries parts of your meal through different regions,",
+    "startMs": 106330,
+    "endMs": 110040,
+    "timestampMs": 106330,
+    "confidence": null
+  },
+  {
+    "text": "helping spread out the energy they receive.",
+    "startMs": 110150,
+    "endMs": 112930,
+    "timestampMs": 110150,
+    "confidence": null
+  },
+  {
+    "text": "It improves the situation. It doesn’t promise identical temperatures everywhere.",
+    "startMs": 113180,
+    "endMs": 118840,
+    "timestampMs": 113180,
+    "confidence": null
+  },
+  {
+    "text": "Think of people taking turns standing near a heater.",
+    "startMs": 119490,
+    "endMs": 122900,
+    "timestampMs": 119490,
+    "confidence": null
+  },
+  {
+    "text": "Moving everyone around helps.",
+    "startMs": 123150,
+    "endMs": 125390,
+    "timestampMs": 123150,
+    "confidence": null
+  },
+  {
+    "text": "It doesn’t make everyone equally warm at exactly the same moment.",
+    "startMs": 125570,
+    "endMs": 129760,
+    "timestampMs": 125570,
+    "confidence": null
+  },
+  {
+    "text": "And dinner has another complication.",
+    "startMs": 130410,
+    "endMs": 133060,
+    "timestampMs": 130410,
+    "confidence": null
+  },
+  {
+    "text": "It isn’t one uniform material.",
+    "startMs": 133310,
+    "endMs": 135600,
+    "timestampMs": 133310,
+    "confidence": null
+  },
+  {
+    "text": "A thick piece of food, a pool of sauce,",
+    "startMs": 135850,
+    "endMs": 138620,
+    "timestampMs": 135850,
+    "confidence": null
+  },
+  {
+    "text": "and a drier section can respond differently. Their composition, shape,",
+    "startMs": 138660,
+    "endMs": 143080,
+    "timestampMs": 138660,
+    "confidence": null
+  },
+  {
+    "text": "and ability to pass heat along all matter.",
+    "startMs": 143120,
+    "endMs": 146460,
+    "timestampMs": 143120,
+    "confidence": null
+  },
+  {
+    "text": "That’s why a spinning plate can still deliver a meal with very different",
+    "startMs": 146710,
+    "endMs": 150900,
+    "timestampMs": 146710,
+    "confidence": null
+  },
+  {
+    "text": "temperatures from one bite to the next.",
+    "startMs": 150940,
+    "endMs": 153580,
+    "timestampMs": 150940,
+    "confidence": null
+  },
+  {
+    "text": "Now for the bowl.",
+    "startMs": 154230,
+    "endMs": 155640,
+    "timestampMs": 154230,
+    "confidence": null
+  },
+  {
+    "text": "Even microwave-safe containers can become hot as heat moves into them from the food.",
+    "startMs": 155890,
+    "endMs": 161540,
+    "timestampMs": 155890,
+    "confidence": null
+  },
+  {
+    "text": "So a hot bowl can tell you that heat has reached the container.",
+    "startMs": 161790,
+    "endMs": 165410,
+    "timestampMs": 161790,
+    "confidence": null
+  },
+  {
+    "text": "It cannot tell you that every part of the meal has reached the same temperature.",
+    "startMs": 165660,
+    "endMs": 170410,
+    "timestampMs": 165660,
+    "confidence": null
+  },
+  {
+    "text": "The outside of the container and the center of the food are different places.",
+    "startMs": 170660,
+    "endMs": 175350,
+    "timestampMs": 170660,
+    "confidence": null
+  },
+  {
+    "text": "Judging the whole dinner by the rim is like judging an entire swimming pool by",
+    "startMs": 175600,
+    "endMs": 180534,
+    "timestampMs": 175600,
+    "confidence": null
+  },
+  {
+    "text": "touching one corner.",
+    "startMs": 180574,
+    "endMs": 182160,
+    "timestampMs": 180574,
+    "confidence": null
+  },
+  {
+    "text": "And there’s one more misconception making this confusing.",
+    "startMs": 182810,
+    "endMs": 186460,
+    "timestampMs": 182810,
+    "confidence": null
+  },
+  {
+    "text": "Microwaves don’t simply cook thick food from the inside out.",
+    "startMs": 186710,
+    "endMs": 190810,
+    "timestampMs": 186710,
+    "confidence": null
+  },
+  {
+    "text": "Energy heats regions it can reach and be absorbed in,",
+    "startMs": 191060,
+    "endMs": 194680,
+    "timestampMs": 191060,
+    "confidence": null
+  },
+  {
+    "text": "while heat also spreads through the food by conduction.",
+    "startMs": 194830,
+    "endMs": 198120,
+    "timestampMs": 194830,
+    "confidence": null
+  },
+  {
+    "text": "The middle of a thick portion may still be catching up.",
+    "startMs": 198370,
+    "endMs": 201700,
+    "timestampMs": 198370,
+    "confidence": null
+  },
+  {
+    "text": "Adding more time can make already-hot regions hotter while that process",
+    "startMs": 201950,
+    "endMs": 206614,
+    "timestampMs": 201950,
+    "confidence": null
+  },
+  {
+    "text": "continues.",
+    "startMs": 206654,
+    "endMs": 207654,
+    "timestampMs": 206654,
+    "confidence": null
+  },
+  {
+    "text": "So what helps?",
+    "startMs": 208300,
+    "endMs": 209630,
+    "timestampMs": 208300,
+    "confidence": null
+  },
+  {
+    "text": "When the instructions call for stirring, stir.",
+    "startMs": 209880,
+    "endMs": 212740,
+    "timestampMs": 209880,
+    "confidence": null
+  },
+  {
+    "text": "You’re moving warmer and cooler portions together,",
+    "startMs": 212990,
+    "endMs": 216100,
+    "timestampMs": 212990,
+    "confidence": null
+  },
+  {
+    "text": "rather than leaving the same cold center in place.",
+    "startMs": 216210,
+    "endMs": 219240,
+    "timestampMs": 216210,
+    "confidence": null
+  },
+  {
+    "text": "Follow the recommended covering and standing instructions, too.",
+    "startMs": 219490,
+    "endMs": 223430,
+    "timestampMs": 219490,
+    "confidence": null
+  },
+  {
+    "text": "Standing time gives heat more opportunity to spread after the microwave stops.",
+    "startMs": 223680,
+    "endMs": 228950,
+    "timestampMs": 223680,
+    "confidence": null
+  },
+  {
+    "text": "Follow the food’s package instructions and your appliance manual,",
+    "startMs": 229200,
+    "endMs": 233460,
+    "timestampMs": 229200,
+    "confidence": null
+  },
+  {
+    "text": "including any temperature checks they require.",
+    "startMs": 233570,
+    "endMs": 236410,
+    "timestampMs": 233570,
+    "confidence": null
+  },
+  {
+    "text": "The bowl feeling hot isn’t a substitute for those instructions.",
+    "startMs": 236660,
+    "endMs": 240950,
+    "timestampMs": 236660,
+    "confidence": null
+  },
+  {
+    "text": "So your microwave doesn’t have a personal problem with leftovers.",
+    "startMs": 241600,
+    "endMs": 245810,
+    "timestampMs": 241600,
+    "confidence": null
+  },
+  {
+    "text": "Heating depends on where the energy goes, what it meets,",
+    "startMs": 246060,
+    "endMs": 249610,
+    "timestampMs": 246060,
+    "confidence": null
+  },
+  {
+    "text": "and how heat moves afterward.",
+    "startMs": 249650,
+    "endMs": 251670,
+    "timestampMs": 249650,
+    "confidence": null
+  },
+  {
+    "text": "The spinning plate helps with location.",
+    "startMs": 251920,
+    "endMs": 254450,
+    "timestampMs": 251920,
+    "confidence": null
+  },
+  {
+    "text": "Stirring moves the food around.",
+    "startMs": 254700,
+    "endMs": 256810,
+    "timestampMs": 254700,
+    "confidence": null
+  },
+  {
+    "text": "Standing time helps heat spread.",
+    "startMs": 257060,
+    "endMs": 259270,
+    "timestampMs": 257060,
+    "confidence": null
+  },
+  {
+    "text": "And that hot bowl?",
+    "startMs": 259520,
+    "endMs": 261110,
+    "timestampMs": 259520,
+    "confidence": null
+  },
+  {
+    "text": "It’s reporting on the bowl.",
+    "startMs": 261210,
+    "endMs": 263020,
+    "timestampMs": 261210,
+    "confidence": null
+  },
+  {
+    "text": "It isn’t giving you a complete report on dinner.",
+    "startMs": 263270,
+    "endMs": 266150,
+    "timestampMs": 263270,
+    "confidence": null
+  },
+  {
+    "text": "Everyday things. Surprising explanations.",
+    "startMs": 266800,
+    "endMs": 270080,
+    "timestampMs": 266800,
+    "confidence": null
+  },
+  {
+    "text": "That’s Why Is That?",
+    "startMs": 270330,
+    "endMs": 271850,
+    "timestampMs": 270330,
+    "confidence": null
+  }
+]

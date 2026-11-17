@@ -1,0 +1,16 @@
+node_modules/
+out/
+tools/.venv/
+tools/models/
+*.24k.wav
+.DS_Store
+# Higgsfield originals stay in the Higgsfield project (job IDs in docs/asset_manifest.json);
+# the repo keeps the render-ready cutouts (*_cut.png) and plates (*.jpg).
+public/assets/higgsfield/*_v1.png
+public/assets/higgsfield/*_v1a.png
+public/assets/higgsfield/*_v1b.png
+public/assets/higgsfield/H2_bowl_side.png
+public/assets/higgsfield/H3_bowl_top.png
+public/assets/higgsfield/H4_hands_switch.png
+# superseded scratch narration (opening preview only)
+public/audio/temp/

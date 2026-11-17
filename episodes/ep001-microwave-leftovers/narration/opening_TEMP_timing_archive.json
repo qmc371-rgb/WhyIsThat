@@ -1,0 +1,425 @@
+{
+  "source": "TEMP_kokoro",
+  "notForPublication": true,
+  "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88",
+  "audio": "audio/temp/ep001_opening_TEMP_kokoro.wav",
+  "durationSec": 30.0,
+  "wordTimingMethod": "estimated: pause-anchored, proportional to characters",
+  "lines": [
+    {
+      "id": "L01",
+      "text": "You put yesterday’s dinner in the microwave.",
+      "start": 1.2,
+      "end": 3.75,
+      "phrases": [
+        {
+          "text": "You put yesterday’s dinner in the microwave.",
+          "start": 1.2,
+          "end": 3.75
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 1.2,
+          "end": 1.447
+        },
+        {
+          "text": "put",
+          "start": 1.447,
+          "end": 1.694
+        },
+        {
+          "text": "yesterday’s",
+          "start": 1.694,
+          "end": 2.324
+        },
+        {
+          "text": "dinner",
+          "start": 2.324,
+          "end": 2.735
+        },
+        {
+          "text": "in",
+          "start": 2.735,
+          "end": 2.927
+        },
+        {
+          "text": "the",
+          "start": 2.927,
+          "end": 3.174
+        },
+        {
+          "text": "microwave.",
+          "start": 3.174,
+          "end": 3.75
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "text": "Two minutes later, the bowl is hot enough to make you switch hands.",
+      "start": 4.5,
+      "end": 8.0,
+      "phrases": [
+        {
+          "text": "Two minutes later,",
+          "start": 4.5,
+          "end": 5.39
+        },
+        {
+          "text": "the bowl is hot enough to make you switch hands.",
+          "start": 5.71,
+          "end": 8.0
+        }
+      ],
+      "words": [
+        {
+          "text": "Two",
+          "start": 4.5,
+          "end": 4.705
+        },
+        {
+          "text": "minutes",
+          "start": 4.705,
+          "end": 5.093
+        },
+        {
+          "text": "later,",
+          "start": 5.093,
+          "end": 5.39
+        },
+        {
+          "text": "the",
+          "start": 5.71,
+          "end": 5.904
+        },
+        {
+          "text": "bowl",
+          "start": 5.904,
+          "end": 6.142
+        },
+        {
+          "text": "is",
+          "start": 6.142,
+          "end": 6.293
+        },
+        {
+          "text": "hot",
+          "start": 6.293,
+          "end": 6.488
+        },
+        {
+          "text": "enough",
+          "start": 6.488,
+          "end": 6.812
+        },
+        {
+          "text": "to",
+          "start": 6.812,
+          "end": 6.963
+        },
+        {
+          "text": "make",
+          "start": 6.963,
+          "end": 7.201
+        },
+        {
+          "text": "you",
+          "start": 7.201,
+          "end": 7.395
+        },
+        {
+          "text": "switch",
+          "start": 7.395,
+          "end": 7.719
+        },
+        {
+          "text": "hands.",
+          "start": 7.719,
+          "end": 8.0
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "text": "The food? Somehow, the middle still tastes like it came straight from the refrigerator.",
+      "start": 8.6,
+      "end": 13.73,
+      "phrases": [
+        {
+          "text": "The food?",
+          "start": 8.6,
+          "end": 9.23
+        },
+        {
+          "text": "Somehow,",
+          "start": 9.53,
+          "end": 9.965
+        },
+        {
+          "text": "the middle still tastes like it came straight from the refrigerator.",
+          "start": 9.965,
+          "end": 13.73
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 8.6,
+          "end": 8.883
+        },
+        {
+          "text": "food?",
+          "start": 8.883,
+          "end": 9.23
+        },
+        {
+          "text": "Somehow,",
+          "start": 9.53,
+          "end": 9.965
+        },
+        {
+          "text": "the",
+          "start": 9.965,
+          "end": 10.196
+        },
+        {
+          "text": "middle",
+          "start": 10.196,
+          "end": 10.58
+        },
+        {
+          "text": "still",
+          "start": 10.58,
+          "end": 10.913
+        },
+        {
+          "text": "tastes",
+          "start": 10.913,
+          "end": 11.297
+        },
+        {
+          "text": "like",
+          "start": 11.297,
+          "end": 11.579
+        },
+        {
+          "text": "it",
+          "start": 11.579,
+          "end": 11.758
+        },
+        {
+          "text": "came",
+          "start": 11.758,
+          "end": 12.04
+        },
+        {
+          "text": "straight",
+          "start": 12.04,
+          "end": 12.526
+        },
+        {
+          "text": "from",
+          "start": 12.526,
+          "end": 12.808
+        },
+        {
+          "text": "the",
+          "start": 12.808,
+          "end": 13.039
+        },
+        {
+          "text": "refrigerator.",
+          "start": 13.039,
+          "end": 13.73
+        }
+      ]
+    },
+    {
+      "id": "L04",
+      "text": "So you put it back.",
+      "start": 14.58,
+      "end": 15.76,
+      "phrases": [
+        {
+          "text": "So you put it back.",
+          "start": 14.58,
+          "end": 15.76
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 14.58,
+          "end": 14.772
+        },
+        {
+          "text": "you",
+          "start": 14.772,
+          "end": 15.019
+        },
+        {
+          "text": "put",
+          "start": 15.019,
+          "end": 15.266
+        },
+        {
+          "text": "it",
+          "start": 15.266,
+          "end": 15.458
+        },
+        {
+          "text": "back.",
+          "start": 15.458,
+          "end": 15.76
+        }
+      ]
+    },
+    {
+      "id": "L05",
+      "text": "Now the edges are furious, the bowl is even hotter, and the center is only slightly less disappointing.",
+      "start": 16.71,
+      "end": 23.29,
+      "phrases": [
+        {
+          "text": "Now the edges are furious,",
+          "start": 16.71,
+          "end": 18.4
+        },
+        {
+          "text": "the bowl is even hotter,",
+          "start": 18.69,
+          "end": 20.09
+        },
+        {
+          "text": "and the center is only slightly less disappointing.",
+          "start": 20.56,
+          "end": 23.29
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 16.71,
+          "end": 16.977
+        },
+        {
+          "text": "the",
+          "start": 16.977,
+          "end": 17.244
+        },
+        {
+          "text": "edges",
+          "start": 17.244,
+          "end": 17.629
+        },
+        {
+          "text": "are",
+          "start": 17.629,
+          "end": 17.896
+        },
+        {
+          "text": "furious,",
+          "start": 17.896,
+          "end": 18.4
+        },
+        {
+          "text": "the",
+          "start": 18.69,
+          "end": 18.928
+        },
+        {
+          "text": "bowl",
+          "start": 18.928,
+          "end": 19.218
+        },
+        {
+          "text": "is",
+          "start": 19.218,
+          "end": 19.403
+        },
+        {
+          "text": "even",
+          "start": 19.403,
+          "end": 19.694
+        },
+        {
+          "text": "hotter,",
+          "start": 19.694,
+          "end": 20.09
+        },
+        {
+          "text": "and",
+          "start": 20.56,
+          "end": 20.783
+        },
+        {
+          "text": "the",
+          "start": 20.783,
+          "end": 21.007
+        },
+        {
+          "text": "center",
+          "start": 21.007,
+          "end": 21.379
+        },
+        {
+          "text": "is",
+          "start": 21.379,
+          "end": 21.553
+        },
+        {
+          "text": "only",
+          "start": 21.553,
+          "end": 21.826
+        },
+        {
+          "text": "slightly",
+          "start": 21.826,
+          "end": 22.297
+        },
+        {
+          "text": "less",
+          "start": 22.297,
+          "end": 22.57
+        },
+        {
+          "text": "disappointing.",
+          "start": 22.57,
+          "end": 23.29
+        }
+      ]
+    },
+    {
+      "id": "L06",
+      "text": "Why is that?",
+      "start": 24.29,
+      "end": 25.21,
+      "phrases": [
+        {
+          "text": "Why is that?",
+          "start": 24.29,
+          "end": 25.21
+        }
+      ],
+      "words": [
+        {
+          "text": "Why",
+          "start": 24.29,
+          "end": 24.597
+        },
+        {
+          "text": "is",
+          "start": 24.597,
+          "end": 24.835
+        },
+        {
+          "text": "that?",
+          "start": 24.835,
+          "end": 25.21
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+slot,time,utc,type,id,topic,finish_by,status,flag
+Tue 2026-12-01,6:00 PM ET,2026-12-01T23:00Z,MAIN,EP001,Why does reheated dinner heat unevenly? (microwave leftovers),Mon 2026-11-16 11:00 PM ET,READY — awaiting your upload + scheduling,
+Fri 2026-12-04,6:00 PM ET,2026-12-04T23:00Z,MAIN,EP002,TBD (your editorial draft),Wed 2026-11-25 12:00 PM ET,PLANNED — needs your editorial draft,
+Sun 2026-12-06,12:00 PM ET,2026-12-06T17:00Z,SHORT,S01,Vertical cut from EP001,Thu 2026-12-03 12:00 PM ET,PLANNED,
+Tue 2026-12-08,6:00 PM ET,2026-12-08T23:00Z,MAIN,EP003,TBD (your editorial draft),Mon 2026-11-30 12:00 PM ET,PLANNED — needs your editorial draft,
+Fri 2026-12-11,6:00 PM ET,2026-12-11T23:00Z,MAIN,EP004,TBD (your editorial draft),Fri 2026-12-04 6:00 PM ET,PLANNED — needs your editorial draft,
+Sun 2026-12-13,12:00 PM ET,2026-12-13T17:00Z,SHORT,S02,Vertical cut from EP003,Thu 2026-12-10 12:00 PM ET,PLANNED,
+Tue 2026-12-15,6:00 PM ET,2026-12-15T23:00Z,MAIN,EP005,TBD (your editorial draft),Tue 2026-12-08 6:00 PM ET,PLANNED — needs your editorial draft,
+Fri 2026-12-18,6:00 PM ET,2026-12-18T23:00Z,MAIN,EP006,TBD (your editorial draft),Fri 2026-12-11 6:00 PM ET,PLANNED — needs your editorial draft,
+Sun 2026-12-20,12:00 PM ET,2026-12-20T17:00Z,SHORT,S03,Vertical cut from EP005,Thu 2026-12-17 12:00 PM ET,PLANNED,
+Tue 2026-12-22,6:00 PM ET,2026-12-22T23:00Z,MAIN,EP007,TBD (your editorial draft),Tue 2026-12-15 6:00 PM ET,PLANNED — needs your editorial draft,
+Fri 2026-12-25,6:00 PM ET,2026-12-25T23:00Z,MAIN,EP008,TBD (your editorial draft),Fri 2026-12-18 6:00 PM ET,PLANNED — needs your editorial draft,HOLIDAY SLOT (Christmas Day) — KEEP: upload + schedule in advance (decided 2026-11-16)
+Sun 2026-12-27,12:00 PM ET,2026-12-27T17:00Z,SHORT,S04,Vertical cut from EP007,Wed 2026-12-23 12:00 PM ET,PLANNED,HOLIDAY WEEKEND (Christmas Day) — keep; schedule in advance
+Tue 2026-12-29,6:00 PM ET,2026-12-29T23:00Z,MAIN,EP009,TBD (your editorial draft),Tue 2026-12-22 6:00 PM ET,PLANNED — needs your editorial draft,
+Fri 2027-01-01,6:00 PM ET,2027-01-01T23:00Z,MAIN,EP010,TBD (your editorial draft),Wed 2026-12-23 6:00 PM ET,PLANNED — needs your editorial draft,HOLIDAY SLOT (New Year's Day) — KEEP: upload + schedule in advance (decided 2026-11-16)
+Sun 2027-01-03,12:00 PM ET,2027-01-03T17:00Z,SHORT,S05,Vertical cut from EP009,Wed 2026-12-30 12:00 PM ET,PLANNED,HOLIDAY WEEKEND (New Year's Day) — keep; schedule in advance
+Tue 2027-01-05,6:00 PM ET,2027-01-05T23:00Z,MAIN,EP011,TBD (your editorial draft),Tue 2026-12-29 6:00 PM ET,PLANNED — needs your editorial draft,
+Fri 2027-01-08,6:00 PM ET,2027-01-08T23:00Z,MAIN,EP012,TBD (your editorial draft),Wed 2026-12-30 6:00 PM ET,PLANNED — needs your editorial draft,
+Sun 2027-01-10,12:00 PM ET,2027-01-10T17:00Z,SHORT,S06,Vertical cut from EP011,Thu 2027-01-07 12:00 PM ET,PLANNED,
+Tue 2027-01-12,6:00 PM ET,2027-01-12T23:00Z,MAIN,EP013,TBD (your editorial draft),Tue 2027-01-05 6:00 PM ET,PLANNED — needs your editorial draft,
+Fri 2027-01-15,6:00 PM ET,2027-01-15T23:00Z,MAIN,EP014,TBD (your editorial draft),Fri 2027-01-08 6:00 PM ET,PLANNED — needs your editorial draft,
+Sun 2027-01-17,12:00 PM ET,2027-01-17T17:00Z,SHORT,S07,Vertical cut from EP013,Thu 2027-01-14 12:00 PM ET,PLANNED,
+Tue 2027-01-19,6:00 PM ET,2027-01-19T23:00Z,MAIN,EP015,TBD (your editorial draft),Tue 2027-01-12 6:00 PM ET,PLANNED — needs your editorial draft,
+Fri 2027-01-22,6:00 PM ET,2027-01-22T23:00Z,MAIN,EP016,TBD (your editorial draft),Fri 2027-01-15 6:00 PM ET,PLANNED — needs your editorial draft,
+Sun 2027-01-24,12:00 PM ET,2027-01-24T17:00Z,SHORT,S08,Vertical cut from EP015,Thu 2027-01-21 12:00 PM ET,PLANNED,
+Tue 2027-01-26,6:00 PM ET,2027-01-26T23:00Z,MAIN,EP017,TBD (your editorial draft),Tue 2027-01-19 6:00 PM ET,PLANNED — needs your editorial draft,
+Fri 2027-01-29,6:00 PM ET,2027-01-29T23:00Z,MAIN,EP018,TBD (your editorial draft),Fri 2027-01-22 6:00 PM ET,PLANNED — needs your editorial draft,
+Sun 2027-01-31,12:00 PM ET,2027-01-31T17:00Z,SHORT,S09,Vertical cut from EP017,Thu 2027-01-28 12:00 PM ET,PLANNED,

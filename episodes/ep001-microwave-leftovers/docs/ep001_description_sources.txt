@@ -1,0 +1,16 @@
+SOURCES
+• U.S. FDA — Microwave Ovens: https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens
+• U.S. FDA Consumer Update (2007, archived): https://webarchive.library.unt.edu/eot2008/20080923231839/http:/www.fda.gov/consumer/updates/microwave112107.html
+• USDA Food Safety and Inspection Service — Cooking with Microwave Ovens: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/cooking-microwave-ovens
+• TU Delft, Show the Physics — Hot spots in the microwave: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo49/demo49.html
+• Vadivambal & Jayas (2010), "Non-uniform temperature distribution during microwave heating of food materials — a review," Food and Bioprocess Technology 3:161–171: https://doi.org/10.1007/s11947-008-0136-0
+• Virginia Tech Extension, FST-324: https://www.pubs.ext.vt.edu/content/pubs_ext_vt_edu/en/FST/FST-324/FST-324.html
+• Health Physics Society — Microwave Ovens: https://hps.org/hpspublications/articles/microwaveovens.html
+• Yale National Initiative curriculum unit (standing waves): https://teachersinstitute.yale.edu/curriculum/units/2020/2/20.02.04/12
+
+Energy patterns and warmth shading in this video are simplified schematic illustrations, not measured data. Always follow your food's package instructions and your microwave's manual, including any temperature checks they require.
+
+CREDITS
+Narration: synthetic voice, Kokoro-82M (Apache-2.0).
+Illustrations: generated with Higgsfield. Diagrams and animation: made in code with Remotion.
+Fonts: Fredoka and Inter (SIL Open Font License). Sound effects: synthesised in code.
