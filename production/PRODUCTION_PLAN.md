@@ -97,7 +97,7 @@ credits**. I won't top up without your approval.
 | Tue Nov 24, 6 p.m. | **EP003 editorial draft due** (you) |
 | Wed Nov 25, noon | ~~EP002 READY~~ **done Nov 17** (buffer 1) |
 | Fri Nov 27 / Sat Nov 28 | EP003 review copy / your notes · EP004 draft due Sat 6 p.m. |
-| Sun Nov 29, 6 p.m. | EP001 go/no-go (uploaded + scheduled?) |
+| Sun Nov 29, 6 p.m. | ~~EP001 go/no-go (uploaded + scheduled?)~~ done: EP001 scheduled Nov 17 |
 | Mon Nov 30, noon | **EP003 READY** (buffer 2 → launch confirmed) |
 | **Tue Dec 1, 6 p.m.** | **LAUNCH: EP001** |
 | Thu Dec 3, noon | S01 Short READY (from EP001) |
@@ -118,4 +118,5 @@ Dec 23).
 3. ~~Confirm the EP002 upload slot~~ **confirmed: Fri Dec 4, 6 p.m. ET**; its Short also publishes Dec 4 (tell me the time if you want the calendar exact). ~~Higgsfield commercial terms~~ confirmed.
 4. **Higgsfield renewal date**, for the credit watch.
 5. **Upload + schedule** each READY episode in YouTube Studio before its go/no-go time.
+   Done for EP001 (Dec 1, 6 p.m.), EP002 (Dec 4, 6 p.m.) and the EP002 Short (scheduled 2026-11-17).
    Holiday episodes (EP008, EP010) should be scheduled before Wed Dec 23.

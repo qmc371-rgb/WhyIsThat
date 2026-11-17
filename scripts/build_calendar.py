@@ -41,7 +41,7 @@ EP_TOPICS = {1: "Why does reheated dinner heat unevenly? (microwave leftovers)"}
 # Owner-confirmed Shorts outside the Sunday-noon rule: id -> (release ET, source episode, finished-on ET, flag).
 EXTRA_SHORTS = {
     "S-EP002": (datetime(2026, 12, 4, 18, 0, tzinfo=ET), "EP002", datetime(2026, 11, 17, 3, 0, tzinfo=ET),
-                "Time not given: 6:00 PM ET is a placeholder (same as EP002's main); set the real time when you schedule it in YouTube Studio"),
+                "Scheduled by you 2026-11-17, but the date/time came through as '12//2026 :00pm': calendar shows Dec 4, 6:00 PM ET until you confirm"),
 }
 
 
