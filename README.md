@@ -28,7 +28,7 @@ labels use Inter (both OFL). Episodes are 1920×1080 at 30 fps, rendered with Re
 ## EP002 "Why Is There a Tiny Hole in Airplane Windows?"
 Same production reference as EP001 (typography, Kokoro `af_heart` 0.88 narrator, animation kit,
 caption rules, −14 LUFS mastering, H.264 CRF 18 BT.709). Release: **Fri Dec 4, 2026, 6:00 p.m. ET**
-(slot confirmed by the owner 2026-11-17); the Short publishes the same day. **READY**: approved by the owner 2026-11-17.
+(slot confirmed by the owner 2026-11-17); the Short publishes the same day at 12:00 p.m. ET. **READY**: approved by the owner 2026-11-17.
 
 | Path | What |
 |---|---|

@@ -53,7 +53,7 @@ SCHEMATIC, no invented numbers, no thermal-camera look · cost logged · **your 
   related video. Built from the same Remotion components and assets.
 - **Finish-by Thu 12:00 p.m. ET**, so there's a 3-day cushion. If a Short misses its gate, skip
   that Sunday rather than post a rough cut.
-- EP002 exception (owner, 2026-11-17): the EP002 Short publishes **Fri Dec 4**, the same day as EP002, not on a Sunday.
+- EP002 exception (owner, 2026-11-17): the EP002 Short publishes **Fri Dec 4 at 12:00 p.m. ET**, six hours before EP002, not on a Sunday.
 - Cost: $0 per Short (reuses assets). One-time vertical version of the kitchen plate, ≈ 4 credits
   (≈ $0.20), before S01.
 
@@ -101,7 +101,8 @@ credits**. I won't top up without your approval.
 | Mon Nov 30, noon | **EP003 READY** (buffer 2 → launch confirmed) |
 | **Tue Dec 1, 6 p.m.** | **LAUNCH: EP001** |
 | Thu Dec 3, noon | S01 Short READY (from EP001) |
-| Fri Dec 4, 6 p.m. | **EP002 releases (slot confirmed 2026-11-17)** + **EP002 Short, same day** (time not given; 6 p.m. shown as a placeholder) · EP004 must be READY (buffer stays 2) |
+| Fri Dec 4, noon | **EP002 Short releases** (scheduled) |
+| Fri Dec 4, 6 p.m. | **EP002 releases** (scheduled) · EP004 must be READY (buffer stays 2) |
 | Sun Dec 6, noon | S01 releases |
 | Fri Dec 25, 6 p.m. | EP008 on **Christmas Day**: **KEEP** (decided). Upload + schedule ahead; no one works that day |
 | Sun Dec 27, noon | S04 on Christmas weekend: keep; finish-by moved to Wed Dec 23 |
@@ -115,8 +116,8 @@ Dec 23).
 1. ~~EP002 draft~~ (received) and **EP003 by Tue Nov 24, 6 p.m. ET**. Those two drafts
    gate the Dec 1 launch.
 2. ~~Somewhere permanent for the project~~: done. Private repo `qmc371-rgb/WhyIsThat`.
-3. ~~Confirm the EP002 upload slot~~ **confirmed: Fri Dec 4, 6 p.m. ET**; its Short also publishes Dec 4 (tell me the time if you want the calendar exact). ~~Higgsfield commercial terms~~ confirmed.
+3. ~~Confirm the EP002 upload slot~~ **confirmed: Fri Dec 4, 6 p.m. ET**; its Short publishes Dec 4 at 12:00 p.m. ET. ~~Higgsfield commercial terms~~ confirmed.
 4. **Higgsfield renewal date**, for the credit watch.
 5. **Upload + schedule** each READY episode in YouTube Studio before its go/no-go time.
-   Done for EP001 (Dec 1, 6 p.m.), EP002 (Dec 4, 6 p.m.) and the EP002 Short (scheduled 2026-11-17).
+   Done for EP001 (Dec 1, 6 p.m.), EP002 (Dec 4, 6 p.m.) and the EP002 Short (Dec 4, 12:00 p.m.), all scheduled 2026-11-17.
    Holiday episodes (EP008, EP010) should be scheduled before Wed Dec 23.

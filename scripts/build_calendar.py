@@ -40,8 +40,7 @@ PRELAUNCH_FINISH = {1: datetime(2026, 11, 16, 23, 0, tzinfo=ET), 2: datetime(202
 EP_TOPICS = {1: "Why does reheated dinner heat unevenly? (microwave leftovers)"}
 # Owner-confirmed Shorts outside the Sunday-noon rule: id -> (release ET, source episode, finished-on ET, flag).
 EXTRA_SHORTS = {
-    "S-EP002": (datetime(2026, 12, 4, 18, 0, tzinfo=ET), "EP002", datetime(2026, 11, 17, 3, 0, tzinfo=ET),
-                "Scheduled by you 2026-11-17, but the date/time came through as '12//2026 :00pm': calendar shows Dec 4, 6:00 PM ET until you confirm"),
+    "S-EP002": (datetime(2026, 12, 4, 12, 0, tzinfo=ET), "EP002", datetime(2026, 11, 17, 3, 0, tzinfo=ET), ""),  # owner: Dec 4, 12:00 PM ET
 }
 
 
