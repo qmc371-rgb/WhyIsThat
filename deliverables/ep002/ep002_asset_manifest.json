@@ -1,0 +1,130 @@
+{
+  "episode": "ep002",
+  "title": "Why Is There a Tiny Hole in Airplane Windows?",
+  "project": "Higgsfield project 'Why Is That? — EP001 pilot' (42f68dae-e6fc-4ed9-99d3-70d7b481606c), the channel's project; separate from Beyond the Bulkhead",
+  "model_requested": "nano_banana_pro (job metadata reports nano_banana_2, as for EP001)",
+  "generated": "2026-11-17",
+  "approved_prompt_sheet": "docs/HIGGSFIELD_PROMPT_SHEET.md (W1–W3 approved by owner 2026-11-17; W4 reserve not used)",
+  "credits_total": 8,
+  "retakes": 0,
+  "balance": {
+    "before": 373.47,
+    "after": 365.47
+  },
+  "commercial_terms": "Confirm Higgsfield output terms for the Plus plan before publishing (higgsfield.ai unreachable from this container); same open item as EP001.",
+  "reused": [],
+  "reused_note": "No EP001 kitchen/bowl art fits an aircraft topic; EP001 H1 and H4 were used only as style references for the new generations.",
+  "assets": [
+    {
+      "id": "W1",
+      "name": "Passenger in a window seat",
+      "job_id": "c53e05cb-50b0-4923-b904-20b9881fa5b2",
+      "credits": 2,
+      "settings": "16:9, 2k, refs H1 (style) + H4 (sleeve)",
+      "file": "public/assets/higgsfield/ep002/W1_passenger_window_seat_v1.png",
+      "render_file": "public/assets/higgsfield/ep002/W1_passenger_window_seat_v1.jpg",
+      "size": [
+        2752,
+        1536
+      ],
+      "anchors_image_px": {
+        "window_glass_box": [
+          1130,
+          330,
+          1632,
+          1035
+        ],
+        "window_glass_centre": [
+          1381,
+          682
+        ]
+      },
+      "anchors_1080_cover": {
+        "window_glass_centre": [
+          963.5,
+          479.5
+        ]
+      }
+    },
+    {
+      "id": "W2",
+      "name": "Window close-up (clean glass; hole drawn in code)",
+      "job_id": "ffb19cf2-c116-40a7-aecb-a77ab1882d66",
+      "credits": 4,
+      "settings": "16:9, 4k, ref H1",
+      "file": "public/assets/higgsfield/ep002/W2_window_closeup_v1.png",
+      "render_file": "public/assets/higgsfield/ep002/W2_window_closeup_v1.jpg",
+      "size": [
+        5504,
+        3072
+      ],
+      "anchors_image_px": {
+        "glass_box": [
+          1884,
+          622,
+          3620,
+          2590
+        ],
+        "glass_centre": [
+          2752,
+          1606
+        ],
+        "hole_centre_code": [
+          2960,
+          2455
+        ]
+      },
+      "anchors_1080_cover": {
+        "glass_centre": [
+          960.0,
+          564.6
+        ],
+        "hole_centre_code": [
+          1033.1,
+          863.1
+        ]
+      },
+      "notes": "Glass inspected at full resolution: no dots, holes or marks, so the only hole on screen is the code-drawn one. Hole placed on plain navy cloud, lower right of centre (HOLE_REL u 0.24, v 0.86 of the glass half-size)."
+    },
+    {
+      "id": "W3",
+      "name": "Generic airliner climbing above clouds",
+      "job_id": "284c69a8-771e-4b99-9487-457d5f8745ac",
+      "credits": 2,
+      "settings": "16:9, 2k, ref H1",
+      "file": "public/assets/higgsfield/ep002/W3_airliner_climb_v1.png",
+      "render_file": "public/assets/higgsfield/ep002/W3_airliner_climb_v1.jpg",
+      "size": [
+        2752,
+        1536
+      ],
+      "anchors_image_px": {
+        "cabin_window_row_first_last": [
+          [
+            624,
+            777
+          ],
+          [
+            1455,
+            652
+          ]
+        ],
+        "highlight_window": [
+          1220,
+          687
+        ],
+        "window_size": [
+          21,
+          30
+        ]
+      },
+      "anchors_1080_cover": {
+        "highlight_window": [
+          850.3,
+          483.0
+        ]
+      },
+      "notes": "Plain white aircraft: no livery, logos or registration. 21 cabin windows detected along the row."
+    }
+  ]
+}

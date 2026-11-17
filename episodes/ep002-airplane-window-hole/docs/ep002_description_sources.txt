@@ -1,0 +1,11 @@
+SOURCES
+• Airbus, Safety First — "Under the spotlights": cabin windows: https://safetyfirst.airbus.com/under-the-spotlights/?airbus-iframe=true&airbus-post=2055
+• Smithsonian National Air and Space Museum, How Things Fly — "Why don't windows on planes shatter due to the pressure difference inside and outside the cabin?": https://howthingsfly.si.edu/ask-an-explainer/why-dont-windows-planes-shatter-due-pressure-difference-inside-and-outside-cabin
+• U.S. Patent 7,267,302 B2, "Window airflow damper" (The Boeing Company): https://patents.google.com/patent/US7267302B2/en
+
+The diagrams in this video are simplified illustrations, not to scale. They show one common passenger-window design; different aircraft can use different window designs. Air-dot patterns are schematic, not measured data.
+
+CREDITS
+Narration: synthetic voice, Kokoro-82M (Apache-2.0).
+Illustrations: generated with Higgsfield. Diagrams and animation: made in code with Remotion.
+Fonts: Fredoka and Inter (SIL Open Font License). Sound effects: synthesised in code.

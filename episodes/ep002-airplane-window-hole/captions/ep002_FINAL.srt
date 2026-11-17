@@ -1,0 +1,343 @@
+1
+00:00:01,200 --> 00:00:03,500
+You’re sitting by the airplane window.
+
+2
+00:00:03,750 --> 00:00:08,250
+You look past the wing, admire the
+clouds… and notice something strange.
+
+3
+00:00:08,500 --> 00:00:10,650
+There’s a tiny hole in the window.
+
+4
+00:00:10,900 --> 00:00:15,480
+On the ground, a hole in your window
+usually means something needs fixing.
+
+5
+00:00:15,730 --> 00:00:19,700
+On an airplane, it raises a
+much more interesting question.
+
+6
+00:00:19,950 --> 00:00:24,414
+Why would engineers deliberately put a
+hole in something that helps keep cabin
+
+7
+00:00:24,454 --> 00:00:25,700
+pressure inside?
+
+8
+00:00:27,750 --> 00:00:31,630
+The answer starts with something you
+probably can’t see from your seat.
+
+9
+00:00:31,880 --> 00:00:34,120
+You aren’t looking through just one pane.
+
+10
+00:00:34,370 --> 00:00:39,190
+In a common passenger-window design,
+there’s a protective panel nearest you,
+
+11
+00:00:39,300 --> 00:00:41,730
+followed by two structural panes.
+
+12
+00:00:41,980 --> 00:00:47,490
+The tiny hole is in the inner structural
+pane—the middle layer in our illustration.
+
+13
+00:00:47,740 --> 00:00:48,880
+And crucially,
+
+14
+00:00:48,930 --> 00:00:52,720
+it doesn’t go all the way through
+the window assembly to the outside.
+
+15
+00:00:53,370 --> 00:00:55,170
+That changes the mystery.
+
+16
+00:00:55,420 --> 00:00:59,780
+We aren’t asking why someone made a hole
+straight through the side of an airplane.
+
+17
+00:01:00,030 --> 00:01:04,540
+We’re asking why one layer needs an
+opening while another remains sealed.
+
+18
+00:01:05,190 --> 00:01:08,390
+To understand that, we need
+to talk about pressure.
+
+19
+00:01:08,640 --> 00:01:12,420
+As an airplane climbs, the
+air outside becomes thinner.
+
+20
+00:01:12,670 --> 00:01:14,480
+The cabin is pressurized,
+
+21
+00:01:14,520 --> 00:01:18,000
+so the pressure inside is higher
+than the pressure outside.
+
+22
+00:01:18,250 --> 00:01:21,680
+That difference pushes outward
+on the aircraft’s windows.
+
+23
+00:01:22,330 --> 00:01:25,290
+Now imagine our window
+layers pulled apart.
+
+24
+00:01:25,540 --> 00:01:26,890
+There’s the cabin.
+
+25
+00:01:27,140 --> 00:01:29,280
+There’s the inner structural pane.
+
+26
+00:01:29,530 --> 00:01:31,110
+Then a small space.
+
+27
+00:01:31,360 --> 00:01:33,490
+Then the outer structural pane.
+
+28
+00:01:33,740 --> 00:01:38,432
+The tiny opening connects the cabin’s
+air pressure with that space between the
+
+29
+00:01:38,472 --> 00:01:39,830
+structural panes.
+
+30
+00:01:40,080 --> 00:01:42,730
+It’s called a breather
+hole, or a bleed hole.
+
+31
+00:01:42,980 --> 00:01:47,930
+As cabin pressure changes, the hole
+allows pressure in that space to adjust.
+
+32
+00:01:48,180 --> 00:01:52,825
+That means the inner structural pane
+normally has roughly the same pressure
+
+33
+00:01:52,865 --> 00:01:54,100
+on both sides.
+
+34
+00:01:54,350 --> 00:01:58,793
+The outer pane carries the normal
+pressure difference between the cabin and
+
+35
+00:01:58,833 --> 00:02:00,140
+the outside air.
+
+36
+00:02:00,390 --> 00:02:05,160
+So this little opening helps determine
+which layer does the everyday work.
+
+37
+00:02:05,810 --> 00:02:07,620
+Here’s a way to picture it.
+
+38
+00:02:07,870 --> 00:02:12,170
+Imagine two transparent barriers
+with a small room between them.
+
+39
+00:02:12,420 --> 00:02:15,460
+The first barrier has an
+opening into that room.
+
+40
+00:02:15,710 --> 00:02:17,880
+Air can move through the opening,
+
+41
+00:02:18,050 --> 00:02:22,090
+allowing the pressure in the room to
+approach the pressure on your side.
+
+42
+00:02:22,340 --> 00:02:25,980
+The second barrier still separates
+that air from the outside.
+
+43
+00:02:26,230 --> 00:02:30,710
+The opening in the first barrier
+hasn’t created a passage through both.
+
+44
+00:02:30,960 --> 00:02:33,060
+That’s the important distinction.
+
+45
+00:02:33,310 --> 00:02:37,080
+The hole connects two spaces
+inside the window system.
+
+46
+00:02:37,330 --> 00:02:40,540
+It doesn’t give cabin air
+a clear route into the sky.
+
+47
+00:02:41,190 --> 00:02:44,590
+And the arrangement has
+another purpose: a backup.
+
+48
+00:02:44,840 --> 00:02:49,440
+The inner structural pane isn’t just
+there to make the window look thicker.
+
+49
+00:02:49,690 --> 00:02:54,127
+Airbus explains that each of its two
+structural cabin-window panes can
+
+50
+00:02:54,167 --> 00:02:58,930
+independently withstand the maximum
+pressure difference normally experienced
+
+51
+00:02:58,970 --> 00:03:00,210
+during flight.
+
+52
+00:03:00,460 --> 00:03:02,340
+If the outer pane fails,
+
+53
+00:03:02,380 --> 00:03:07,300
+the inner pane is designed to take the
+pressure load and maintain cabin pressure.
+
+54
+00:03:07,950 --> 00:03:11,260
+That makes the window a
+system with different jobs.
+
+55
+00:03:11,510 --> 00:03:14,630
+One layer protects
+against everyday contact.
+
+56
+00:03:14,880 --> 00:03:17,360
+One normally carries the pressure load.
+
+57
+00:03:17,610 --> 00:03:19,930
+Another provides structural backup.
+
+58
+00:03:20,180 --> 00:03:23,930
+And a tiny opening helps manage
+the pressure between them.
+
+59
+00:03:24,580 --> 00:03:28,950
+There is one naming detail that
+can make explanations confusing.
+
+60
+00:03:29,200 --> 00:03:32,850
+Some descriptions call the pane
+with the hole the “inner pane.”
+
+61
+00:03:33,100 --> 00:03:35,130
+Others call it the “middle pane.”
+
+62
+00:03:35,380 --> 00:03:37,700
+They may be describing the same layer.
+
+63
+00:03:37,950 --> 00:03:41,460
+“Inner” distinguishes it from
+the outer structural pane.
+
+64
+00:03:41,710 --> 00:03:46,790
+“Middle” counts the protective panel
+nearest the passenger as a third layer.
+
+65
+00:03:47,040 --> 00:03:50,800
+For our illustration, we’re
+calling them the protective panel,
+
+66
+00:03:50,840 --> 00:03:54,630
+the inner structural pane,
+and the outer structural pane.
+
+67
+00:03:54,880 --> 00:03:58,220
+Different aircraft can use
+different window designs,
+
+68
+00:03:58,390 --> 00:04:03,500
+but that common arrangement explains
+the little hole many passengers notice.
+
+69
+00:04:04,150 --> 00:04:06,900
+Next time you get the
+window seat, look for it.
+
+70
+00:04:07,150 --> 00:04:12,420
+Something that initially looks like a flaw
+is part of a carefully arranged system.
+
+71
+00:04:12,670 --> 00:04:16,640
+The surprising part isn’t simply
+that the window has a hole.
+
+72
+00:04:16,890 --> 00:04:21,440
+It’s that putting a hole in one layer
+helps the other layers do their jobs.
+
+73
+00:04:22,090 --> 00:04:25,370
+Everyday things. Surprising explanations.
+
+74
+00:04:25,620 --> 00:04:27,140
+That’s Why Is That?

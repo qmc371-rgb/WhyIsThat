@@ -1,6 +1,6 @@
 # EP002 — Higgsfield prompt sheet (Why Is There a Tiny Hole in Airplane Windows?)
 
-**Status: AWAITING APPROVAL — nothing generated.** The brief allows at most **4 new** assets, for
+**Status: APPROVED by the owner 2026-11-17; W1–W3 generated (8 credits, first pass, 0 retakes); W4 reserve not used.** The brief allows at most **4 new** assets, for
 illustrative cabin/window imagery only. Every diagram (layers, hole, arrows, labels) is drawn in
 code. Cost preflight on Nano Banana Pro: 2 credits per 2K image, 4 credits per 4K image
 (≈ $0.049/credit). Balance before EP002: 373.47 credits.

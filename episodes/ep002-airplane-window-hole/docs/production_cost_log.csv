@@ -7,3 +7,8 @@ date,category,item,vendor,quantity,unit,unit_cost_usd,total_usd,status,approval,
 2026-11-17,audio,"Synthesised SFX (2 new: cabin ambience, glint; EP001 whoosh + title chime reused)",local,2,file,0,0.00,spent,n/a,Generated in code; nothing to license
 2026-11-17,fonts,Fredoka + Inter (reused),Fontsource (npm),2,family,0,0.00,spent,n/a,SIL OFL 1.1
 2026-11-17,software,Remotion 4.0.539 (reused),Remotion,1,seat,0,0.00,spent,confirmed,Free Licence: owner is an individual
+2026-11-17,render,"Opening 30 s preview + full master (2 renders) + vertical Short + thumbnail + captions",local container,1,render set,0,0.00,spent,n/a,Remotion + ffmpeg in this session
+TOTAL,,Higgsfield credits used (8 of 40-credit cap; 0 retakes),Higgsfield,8,credits,0.049,0.392,spent,,Balance 373.47 -> 365.47; drawn from existing Plus allowance (no purchase)
+TOTAL,,Cash spent / purchases,,0,,,0.00,,,Nothing bought; nothing published
+TOTAL,,EP002 variable cost (credit-equivalent),,,,,0.392,,,EP002 cap $10: met (3.9% of cap)
+TOTAL,,Month to date Nov 2026 (EP001 + EP002),,24,credits,0.049,1.176,,,$100 monthly cap: OK (warn at $50; stop and ask at $80)

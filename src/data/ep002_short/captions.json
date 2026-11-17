@@ -1,0 +1,86 @@
+[
+  {
+    "text": "There’s a tiny hole in the window.",
+    "startMs": 390,
+    "endMs": 2540,
+    "timestampMs": 390,
+    "confidence": null
+  },
+  {
+    "text": "The tiny hole is in the inner structural",
+    "startMs": 2780,
+    "endMs": 5349,
+    "timestampMs": 2780,
+    "confidence": null
+  },
+  {
+    "text": "pane—the middle layer in our illustration.",
+    "startMs": 5389,
+    "endMs": 8290,
+    "timestampMs": 5389,
+    "confidence": null
+  },
+  {
+    "text": "And crucially, it doesn’t go all the way",
+    "startMs": 8530,
+    "endMs": 10973,
+    "timestampMs": 8530,
+    "confidence": null
+  },
+  {
+    "text": "through the window assembly to the outside.",
+    "startMs": 11013,
+    "endMs": 13510,
+    "timestampMs": 11013,
+    "confidence": null
+  },
+  {
+    "text": "The tiny opening connects the cabin’s air",
+    "startMs": 13750,
+    "endMs": 16202,
+    "timestampMs": 13750,
+    "confidence": null
+  },
+  {
+    "text": "pressure with that space between the",
+    "startMs": 16242,
+    "endMs": 18442,
+    "timestampMs": 16242,
+    "confidence": null
+  },
+  {
+    "text": "structural panes.",
+    "startMs": 18482,
+    "endMs": 19840,
+    "timestampMs": 18482,
+    "confidence": null
+  },
+  {
+    "text": "The outer pane carries the normal pressure",
+    "startMs": 20080,
+    "endMs": 22582,
+    "timestampMs": 20080,
+    "confidence": null
+  },
+  {
+    "text": "difference between the cabin and",
+    "startMs": 22622,
+    "endMs": 24523,
+    "timestampMs": 22622,
+    "confidence": null
+  },
+  {
+    "text": "the outside air.",
+    "startMs": 24563,
+    "endMs": 25870,
+    "timestampMs": 24563,
+    "confidence": null
+  },
+  {
+    "text": "That’s Why Is That?",
+    "startMs": 26110,
+    "endMs": 27630,
+    "timestampMs": 26110,
+    "confidence": null
+  }
+]

@@ -42,8 +42,8 @@ The hole sits at the same relative spot on the pane in every view (lower right o
 |---|---|---|---|---|
 | A1 | 0.00–5.40 | L01 1.20 "You're sitting by the airplane window." · L02 3.75 "You look past the wing…" | **W1**: passenger at the window seat; slow push toward their window. Cabin ambience fades in | — |
 | A2 | 5.40–8.40 | L02 "…admire the clouds… and notice something strange." | Match-zoom through W1's window into **W2**; drift toward the lower glass. At "something" (6.83) a faint glint where the hole is | — |
-| A3 | 8.40–10.80 | L03 8.50 "There's a tiny hole in the window." | Push in on the hole. At "tiny" (8.99) gold ring pulse + glint SFX | Callout **SPOTTED · A TINY HOLE** |
-| A4 | 10.80–15.60 | L04 10.90 "On the ground, a hole in your window usually means something needs fixing." | Code-drawn house window (navy frame, day sky) with a small hole; wrench icon. No cracking | at "needs" (14.45) chip ✕ **ON THE GROUND · NEEDS FIXING** |
+| A3 | 8.40–10.80 | L03 8.50 "There's a tiny hole in the window." | Push in on the hole. At "tiny" (8.99) gold ring pulse + glint SFX | Callout **SPOTTED · A TINY HOLE** (9.14) |
+| A4 | 10.80–15.60 | L04 10.90 "On the ground, a hole in your window usually means something needs fixing." | Code-drawn house window (day sky) with a small hole; wrench icon. No cracking | **ON THE GROUND · A HOLE IN YOUR WINDOW…** (11.25) · at "usually" (13.20) chip ✕ **USUALLY MEANS SOMETHING NEEDS FIXING** (wrench) |
 | A5 | 15.60–19.80 | L05 15.73 "On an airplane, it raises a much more interesting question." | Back to the W2 hole close-up; at "interesting" (18.27) a gold **?** pops beside the hole | chip **ON AN AIRPLANE** |
 | A6 | 19.80–25.20 | L06 19.95 "Why would engineers deliberately put a hole in something that helps keep cabin pressure inside?" | Slow pull back on W2 | at "deliberately" (21.08) **A DELIBERATE HOLE?** · at "helps keep" (23.48) **IN A WINDOW THAT HELPS KEEP CABIN PRESSURE INSIDE** |
 | T | 25.20–28.55 | (pause) → L07 27.75 "The answer starts…" | **WHY IS THAT?** title card (EP001 component); words land 25.55 / 25.80 / 26.05, gold ? + chime 26.27 | tagline *Everyday things. Surprising explanations.* |
@@ -54,14 +54,14 @@ The hole sits at the same relative spot on the pane in every view (lower right o
 | B1 | 28.55–31.70 | L07 "…something you probably can't see from your seat." | W2 full window, gentle push | — |
 | B2 | 31.70–41.90 | L08 31.88 "You aren't looking through just one pane." · L09 34.37 "In a common passenger-window design, there's a protective panel nearest you, followed by two structural panes." | Crossfade to the code window (front view, same size and spot as W2's glass). At "just one pane" (33.10) it turns to a 3/4 view and separates into three layers | 34.73 tag **COMMON DESIGN · NOT EVERY AIRCRAFT** · **CABIN** ← / → **OUTSIDE** · 37.44 **PROTECTIVE PANEL** (nearest you) · 40.06 **INNER STRUCTURAL PANE** + **OUTER STRUCTURAL PANE** · *Simplified illustration — not to scale.* |
 | B3 | 41.90–47.60 | L10 41.98 "The tiny hole is in the inner structural pane—the middle layer in our illustration." | At "tiny hole" (42.24) the hole on the inner structural pane gets a gold ring; other layers dim | callout **THE TINY HOLE · INNER STRUCTURAL PANE** · 45.08 **MIDDLE LAYER IN OUR ILLUSTRATION** |
-| B4 | 47.60–53.02 | L11 47.74 "And crucially, it doesn't go all the way through the window assembly to the outside." | At "doesn't go" (49.09) chip; at "outside" (51.98) the outer pane lights up white | ✕ **NOT ALL THE WAY THROUGH** · ✓ **OUTER STRUCTURAL PANE: NO HOLE** |
+| B4 | 47.60–53.02 | L11 47.74 "And crucially, it doesn't go all the way through the window assembly to the outside." | At "go all the way" (49.09) chip; at "window assembly" (51.17) the outer pane lights up | ✕ **IT DOESN'T GO ALL THE WAY THROUGH** · ✓ **OUTER STRUCTURAL PANE: NO HOLE** |
 
 ## C · Reframe the mystery (53.02–64.84)
 | # | Time | Narration | Picture | On screen |
 |---|---|---|---|---|
 | C1 | 53.02–55.10 | L12 53.37 "That changes the mystery." | Navy blueprint grid | headline **That changes the mystery.** |
 | C2 | 55.10–59.90 | L13 55.42 "We aren't asking why someone made a hole straight through the side of an airplane." | **Text-only** card (no drawing of a through-hole) | ✕ **NOT THE QUESTION: a hole straight through the side of an airplane** |
-| C3 | 59.90–64.84 | L14 60.03 "We're asking why one layer needs an opening while another remains sealed." | Mini diagram of the two structural panes (same styling as B) | ✓ **THE REAL QUESTION** · at "opening" (62.08) **OPENING** on the inner pane · at "sealed" (63.79) **SEALED** on the outer pane |
+| C3 | 59.90–64.84 | L14 60.03 "We're asking why one layer needs an opening while another remains sealed." | Mini diagram of the two structural panes (same styling as B) | ✓ **THE REAL QUESTION** · at "opening" (62.08) **OPENING** on the inner pane · at "another" (62.88) **SEALED** on the outer pane |
 
 ## D · Pressure (64.84–81.98)
 | # | Time | Narration | Picture | On screen |
@@ -86,7 +86,7 @@ frame and seal, so the space between them is enclosed except for the hole.
 | E8 | 102.98–107.21 | L26 "As cabin pressure changes, the hole allows pressure in that space to adjust." | Two-way dashed arrow; dots drift in, then out (equalising). No values | **PRESSURE IN THE SPACE ADJUSTS** |
 | E9 | 108.18–113.38 | L27 "That means the inner structural pane normally has roughly the same pressure on both sides." | Equal solid-gold force arrows on both faces of the inner pane | **ROUGHLY THE SAME PRESSURE ON BOTH SIDES** |
 | E10 | 114.35–119.54 | L28 "The outer pane carries the normal pressure difference between the cabin and the outside air." | Outer pane highlights; large outward force arrows from the space side, small inward ones from outside | **OUTER PANE: CARRIES THE NORMAL PRESSURE DIFFERENCE** |
-| E11 | 120.39–124.51 | L29 "So this little opening helps determine which layer does the everyday work." | Hole ring pulses; outer pane glows gold | **DOES THE EVERYDAY WORK** |
+| E11 | 120.39–124.51 | L29 "So this little opening helps determine which layer does the everyday work." | Hole ring pulses; outer pane glows gold | **IT DOES THE EVERYDAY WORK** (from "which layer", 122.71) |
 
 ## F · Analogy (125.46–160.84)
 | # | Time | Narration | Picture | On screen |
@@ -105,7 +105,7 @@ frame and seal, so the space between them is enclosed except for the hole.
 | # | Time | Narration | Picture | On screen |
 |---|---|---|---|---|
 | G1 | 161.19 | L39 "And the arrangement has another purpose: a backup." | Grid + shield icon | headline **Another purpose: a backup.** |
-| G2 | 164.84 | L40 "The inner structural pane isn't just there to make the window look thicker." | Cross-section, inner pane highlighted (no flow) | ✕ **NOT JUST TO LOOK THICKER** (168.35) |
+| G2 | 164.84 | L40 "The inner structural pane isn't just there to make the window look thicker." | Cross-section, inner pane highlighted (no flow) | ✕ **NOT JUST THERE TO MAKE THE WINDOW LOOK THICKER** (167.24) |
 | G3 | 169.69–179.41 | L41 "Airbus explains that each of its two structural cabin-window panes can independently withstand the maximum pressure difference normally experienced during flight." | Both structural panes get a gold ✓ badge | source card **AIRBUS · SAFETY FIRST**: "Each of its two structural panes can independently withstand the maximum pressure difference normally experienced during flight." |
 | G4 | 180.46–186.46 | L42 "If the outer pane fails, the inner pane is designed to take the pressure load and maintain cabin pressure." | Two **static** panels: **NORMALLY** (force arrows on the outer pane) · **IF THE OUTER PANE FAILS** (outer pane as a dashed ghost outline, force arrows on the inner pane). No failure motion | **DESIGNED TO TAKE THE PRESSURE LOAD** · source chip **AIRBUS** |
 
@@ -124,7 +124,7 @@ frame and seal, so the space between them is enclosed except for the hole.
 | I1 | 204.58 | L48 "There is one naming detail that can make explanations confusing." | Grid | headline **One naming detail** |
 | I2 | 209.20 | L49 "Some descriptions call the pane with the hole the 'inner pane.'" | Exploded view; pane with the hole highlighted | quote tag **"INNER PANE"** (211.91) |
 | I3 | 213.10 | L50 "Others call it the 'middle pane.'" | Second tag points at the **same** pane | **"MIDDLE PANE"** (214.14) |
-| I4 | 215.38 | L51 "They may be describing the same layer." | Both leaders meet on one layer | ✓ **SAME LAYER** (216.78) |
+| I4 | 215.38 | L51 "They may be describing the same layer." | Both leaders meet on one layer | ✓ **SAME LAYER** (216.02) |
 | I5 | 217.95 | L52 "'Inner' distinguishes it from the outer structural pane." | Bracket over the two structural panes; protective panel dims | **INNER · OUTER** |
 | I6 | 221.71 | L53 "'Middle' counts the protective panel nearest the passenger as a third layer." | Bracket over all three, numbered 1 · 2 · 3 | **MIDDLE = 2 OF 3** (225.67) |
 | I7 | 227.04 | L54 "For our illustration, we're calling them the protective panel, the inner structural pane, and the outer structural pane." | Final labels one by one | **PROTECTIVE PANEL** (229.63) · **INNER STRUCTURAL PANE** (231.07) · **OUTER STRUCTURAL PANE** (232.83) |
@@ -134,7 +134,7 @@ frame and seal, so the space between them is enclosed except for the hole.
 | # | Time | Narration | Picture | On screen |
 |---|---|---|---|---|
 | J1 | 243.80–246.90 | L56 "Next time you get the window seat, look for it." | **W1** again, push toward the window; cabin ambience | **LOOK FOR IT** (245.91) |
-| J2 | 246.90–252.40 | L57 "Something that initially looks like a flaw is part of a carefully arranged system." | **W2** hole close-up with ring | ✕ **LOOKS LIKE A FLAW** (248.62) → ✓ **PART OF A CAREFULLY ARRANGED SYSTEM** (249.91) |
+| J2 | 246.90–252.40 | L57 "Something that initially looks like a flaw is part of a carefully arranged system." | **W2** hole close-up with ring | ✕ **LOOKS LIKE A FLAW** (248.03) → ✓ **PART OF A CAREFULLY ARRANGED SYSTEM** (249.91) |
 | J3 | 252.40–261.74 | L58 "The surprising part isn't simply that the window has a hole." · L59 "It's that putting a hole in one layer helps the other layers do their jobs." | Exploded view with every layer's job | headline **One hole helps the other layers do their jobs** (259.00) |
 | J4 | 261.74–265.27 | L60 "Everyday things. Surprising explanations." | Navy card (as EP001) | the two lines, word-timed |
 | J5 | 265.27–274.80 | L61 "That's Why Is That?" | **WHY IS THAT?** title (words 266.00 / 266.26 / 266.47, chime 266.69); lifts at +2.2 s to leave room for YouTube end-screen elements | tagline |
@@ -146,7 +146,7 @@ The first 30 s of the final edit: A1–A6, the title card and the start of B1. R
 composition as the full episode, so the preview and the master can't drift apart.
 
 ## Vertical Short (`Ep002Short`, 1080×1920)
-About 26 s of the same narration audio (no new voice), cut at line boundaries:
+29.0 s of the same narration recording (no new voice), cut in the pauses between lines:
 L03 → L10 → L11 → L24 → L28 → L61. Burned-in captions (same 42-character rule), the same
 diagrams re-framed vertically, and the **Simplified illustration — not to scale.** tag kept.
 

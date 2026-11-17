@@ -45,7 +45,8 @@ Remotion renders with the preinstalled headless shell (`remotion.config.ts`; ove
 | Scenes | `src/scenes/<ep>/` — import `cue`/`line` from `./timing` (`src/lib/timing.ts` exports are EP001's) |
 | Cue check (0 unresolved) | `python3 scripts/check_cues.py` (each `src/scenes/<ep>/` vs `src/data/<ep>/`) |
 | Review stills | `node scripts/stills.mjs <CompositionId> 0.5 <seconds…>` |
-| Render + loudness master | adapt `scripts/render_full.sh` (EP001: `Ep001Full`) |
+| Render + loudness master | `bash scripts/render_master.sh <CompositionId> <out.mp4>` (EP001 keeps `scripts/render_full.sh`) |
+| Short (vertical) | `tools/.venv/bin/python scripts/make_short_audio.py --episode <ep> --lines L..,L.. --name <ep>_short`, then `make_captions.py … --row 24`; composition in `src/scenes/<ep>/Short.tsx` |
 | QA | `bash scripts/qa_final.sh <master.mp4>` |
 | Status / flags / spend | `python3 scripts/plan_status.py` |
 | Calendar regeneration | `python3 scripts/build_calendar.py` (keeps status, done marks and topics) |

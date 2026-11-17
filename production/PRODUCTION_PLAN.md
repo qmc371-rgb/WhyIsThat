@@ -91,7 +91,7 @@ credits**. I won't top up without your approval.
 
 | Date (ET) | What |
 |---|---|
-| Thu Nov 19, 6 p.m. | **EP002 editorial draft due** (you) |
+| Thu Nov 19, 6 p.m. | ~~EP002 editorial draft due~~ **received Nov 16 (early)** |
 | Sun Nov 22 / Mon Nov 23 | EP002 review copy / your notes |
 | Tue Nov 24, 6 p.m. | **EP003 editorial draft due** (you) |
 | Wed Nov 25, noon | **EP002 READY** (buffer 1) |
@@ -100,7 +100,7 @@ credits**. I won't top up without your approval.
 | Mon Nov 30, noon | **EP003 READY** (buffer 2 → launch confirmed) |
 | **Tue Dec 1, 6 p.m.** | **LAUNCH: EP001** |
 | Thu Dec 3, noon | S01 Short READY (from EP001) |
-| Fri Dec 4, 6 p.m. | EP002 releases · EP004 must be READY (buffer stays 2) |
+| Fri Dec 4, 6 p.m. | *Proposed* EP002 slot: **not confirmed**, so no publication date is assigned until you confirm it · EP004 must be READY (buffer stays 2) |
 | Sun Dec 6, noon | S01 releases |
 | Fri Dec 25, 6 p.m. | EP008 on **Christmas Day**: **KEEP** (decided). Upload + schedule ahead; no one works that day |
 | Sun Dec 27, noon | S04 on Christmas weekend: keep; finish-by moved to Wed Dec 23 |
@@ -111,9 +111,10 @@ Dec 23).
 
 ## 7. What I need from you
 
-1. **EP002 draft by Thu Nov 19, 6 p.m. ET** and **EP003 by Tue Nov 24, 6 p.m. ET**. Those two drafts
+1. ~~EP002 draft~~ (received) and **EP003 by Tue Nov 24, 6 p.m. ET**. Those two drafts
    gate the Dec 1 launch.
 2. ~~Somewhere permanent for the project~~: done. Private repo `qmc371-rgb/WhyIsThat`.
-3. **Higgsfield renewal date**, for the credit watch.
-4. **Upload + schedule** each READY episode in YouTube Studio before its go/no-go time.
+3. **Confirm the EP002 upload slot** (proposed Fri Dec 4, 6 p.m. ET) and the Sunday slot for its Short.
+4. **Higgsfield renewal date**, for the credit watch.
+5. **Upload + schedule** each READY episode in YouTube Studio before its go/no-go time.
    Holiday episodes (EP008, EP010) should be scheduled before Wed Dec 23.

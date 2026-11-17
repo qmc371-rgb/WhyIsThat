@@ -25,6 +25,29 @@ labels use Inter (both OFL). Episodes are 1920×1080 at 30 fps, rendered with Re
 | `episodes/…/docs/RUNBOOK_FINAL_NARRATION.md` | Alignment → captions → export steps |
 | `episodes/…/captions/ep001_FINAL.srt/.vtt` | Final captions (source copies) |
 
+## EP002 "Why Is There a Tiny Hole in Airplane Windows?"
+Same production reference as EP001 (typography, Kokoro `af_heart` 0.88 narrator, animation kit,
+caption rules, −14 LUFS mastering, H.264 CRF 18 BT.709). Release slot **not confirmed**: Fri Dec 4
+is only the proposed slot, and no publication date is assigned until the owner confirms.
+
+| Path | What |
+|---|---|
+| `episodes/ep002-airplane-window-hole/narration/` | Owner's draft (verbatim + cleaned, 61 paragraphs, 635 words) and the inline citations |
+| `deliverables/ep002/` | Storyboard, captions (main + Short), description, chapters, sources, cost log, manifest, thumbnail, QA report |
+| `out/final/ep002_why_is_that_airplane_window_hole_1080p.mp4` | **Final master** (not committed; rebuild below) |
+| `out/final/ep002_short_vertical_1080x1920.mp4` | Vertical Short, 29 s (not committed) |
+| `out/preview/ep002_opening30_preview.mp4` | Opening 30-second preview (not committed) |
+| `src/scenes/ep002/` | Scenes: `geom.ts` (anchors, hole position, projection), `Exploded.tsx`, `CrossSection.tsx`, `Illustrations.tsx`, `SectionsA/B.tsx`, `Ep002Full.tsx`, `Short.tsx`, `Thumbnail.tsx` |
+
+```bash
+bash scripts/render_master.sh Ep002Full out/final/ep002_why_is_that_airplane_window_hole_1080p.mp4   # ~25 min
+bash scripts/render_master.sh Ep002Opening30 out/preview/ep002_opening30_preview.mp4
+bash scripts/render_master.sh Ep002Short out/final/ep002_short_vertical_1080x1920.mp4 '{}'
+npx remotion still src/index.ts Ep002Thumbnail out/final/ep002_thumbnail_1280x720.png
+tools/.venv/bin/python scripts/make_short_audio.py --episode ep002 --lines L03,L10,L11,L24,L28,L61 --name ep002_short
+python3 scripts/make_captions.py --timing src/data/ep002_short/narration_timing.json --out episodes/ep002-airplane-window-hole/captions/ep002_short --row 24
+```
+
 ## Release operations (`production/`)
 | Path | What |
 |---|---|
@@ -45,7 +68,9 @@ python3 scripts/build_calendar.py         # regenerate dates (keeps status + don
   Scenes anchor to **phrases** (`cue('switch hands')`), not frame numbers, so new narration re-times everything.
 - `scripts/tts_temp.py` makes the temp scratch voice (Kokoro-82M, local, $0). **NOT FOR PUBLICATION.**
 - `scripts/align_narration.py` aligns the final recording offline (tested: max 70 ms line error).
-- `scripts/make_captions.py` writes SRT/VTT from the timing file.
+- `scripts/make_captions.py` writes SRT/VTT from the timing file (`--row 24` for vertical Shorts; no orphan one-word captions).
+- `scripts/make_short_audio.py` cuts a Short's narration from the final recording at line boundaries and re-bases its timing.
+- `scripts/render_master.sh <CompositionId> <out.mp4>` renders any composition and masters it to −14 LUFS.
 - `scripts/make_sfx.py` synthesises every sound effect in code.
 - `scripts/key_navy.py` makes cutouts from Higgsfield images on a flat navy background.
 - `scripts/master_audio.sh` does two-pass loudness normalisation (−14 LUFS / −1 dBTP).

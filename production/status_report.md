@@ -1,4 +1,4 @@
-# Why Is That? — production status (Tue 2026-11-17 2:20 AM ET)
+# Why Is That? — production status (Tue 2026-11-17 2:57 AM ET)
 
 - **Next release:** EP001 Tue 2026-12-01 6:00 PM ET — status READY
 - **Buffer (finished mains beyond the next release):** 0 of 2 → **RED**

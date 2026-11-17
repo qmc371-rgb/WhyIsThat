@@ -50,18 +50,19 @@ def blocks_for_line(line: dict) -> list[dict]:
             units.append(dict(p))
         else:
             units += [dict(w) for w in line["words"] if p["start"] - 1e-6 <= w["start"] < p["end"] - 1e-6]
-    blocks, cur = [], None
+    join = lambda g: " ".join(u["text"] for u in g)
+    groups: list[list[dict]] = []
     for u in units:
-        if cur and len(wrap_rows(cur["text"] + " " + u["text"])) <= ROWS:
-            cur["text"] += " " + u["text"]
-            cur["end"] = u["end"]
+        if groups and len(wrap_rows(join(groups[-1] + [u]))) <= ROWS:
+            groups[-1].append(u)
         else:
-            if cur:
-                blocks.append(cur)
-            cur = {"text": u["text"], "start": u["start"], "end": u["end"]}
-    if cur:
-        blocks.append(cur)
-    return blocks
+            groups.append([u])
+    # never leave a tiny last caption (a lone "panes."): pull words forward from the previous block
+    if len(groups) >= 2:
+        prev, last = groups[-2], groups[-1]
+        while len(join(last)) < 14 and len(prev) > 1 and len(wrap_rows(join([prev[-1]] + last))) <= ROWS:
+            last.insert(0, prev.pop())
+    return [{"text": join(g), "start": g[0]["start"], "end": g[-1]["end"]} for g in groups]
 
 
 def ts(t: float, sep: str) -> str:
@@ -76,7 +77,10 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--timing", default=str(ROOT / "src/data/ep001/narration_timing.json"), help="src/data/<ep>/narration_timing.json")
     ap.add_argument("--out", default=str(ROOT / "episodes/ep001-microwave-leftovers/captions/ep001_opening_TEMP"))
+    ap.add_argument("--row", type=int, default=42, help="max characters per row (42 for 16:9; ~24 for vertical Shorts)")
     args = ap.parse_args()
+    global ROW
+    ROW = args.row
 
     timing = json.loads(Path(args.timing).read_text(encoding="utf-8"))
     blocks = [b for line in timing["lines"] for b in blocks_for_line(line)]

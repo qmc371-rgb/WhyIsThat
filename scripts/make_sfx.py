@@ -117,4 +117,26 @@ def bell(f, delay):
     return on * (np.sin(2 * np.pi * f * tt) + 0.3 * np.sin(2 * np.pi * 2 * f * tt)) * np.exp(-tt / 0.6)
 save("title_chime.wav", bell(1318.5, 0.0) * 0.8 + bell(1975.5, 0.16))
 
+# ---------------- EP002 additions (own RNG, so every sound above stays bit-identical) ----------------
+rng2 = np.random.default_rng(11)
+
+# Cabin ambience, seamless loop: low broadband air noise + a faint drone (whole cycles per loop)
+dur, xf = 4.0, int(0.08 * SR)
+n = int(dur * SR)
+air = low(rng2.standard_normal(n + SR), 450)[SR // 2: SR // 2 + n]
+hiss = band(rng2.standard_normal(n + SR), 700, 2600)[SR // 2: SR // 2 + n]
+loop_len = (n - xf) / SR
+t = t_axis(dur)
+drone = sum(a * np.sin(2 * np.pi * round(f * loop_len) / loop_len * t) for a, f in [(0.22, 95), (0.10, 190), (0.05, 285)])
+x = norm(air, 1.0) * 0.7 + norm(hiss, 1.0) * 0.12 + drone
+x[:xf] = x[:xf] * np.linspace(0, 1, xf) + x[-xf:] * np.linspace(1, 0, xf)
+sf.write(OUT / "cabin_loop.wav", norm(x[:-xf], 0.8).astype(np.float32), SR, subtype="PCM_16")
+
+# Glint: a soft, short sparkle for the hole reveal (three high partials, staggered)
+t = t_axis(0.6)
+def ping(f, delay, d):
+    tt = np.clip(t - delay, 0, None)
+    return (t >= delay) * np.sin(2 * np.pi * f * tt) * np.exp(-tt / d)
+save("glint.wav", ping(2637.0, 0.0, 0.12) * 0.8 + ping(3951.1, 0.035, 0.09) * 0.55 + ping(5274.0, 0.07, 0.07) * 0.35)
+
 print("wrote", sorted(p.name for p in OUT.glob("*.wav")))

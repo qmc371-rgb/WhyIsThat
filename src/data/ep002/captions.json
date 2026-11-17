@@ -1,0 +1,520 @@
+[
+  {
+    "text": "You’re sitting by the airplane window.",
+    "startMs": 1200,
+    "endMs": 3500,
+    "timestampMs": 1200,
+    "confidence": null
+  },
+  {
+    "text": "You look past the wing, admire the clouds… and notice something strange.",
+    "startMs": 3750,
+    "endMs": 8250,
+    "timestampMs": 3750,
+    "confidence": null
+  },
+  {
+    "text": "There’s a tiny hole in the window.",
+    "startMs": 8500,
+    "endMs": 10650,
+    "timestampMs": 8500,
+    "confidence": null
+  },
+  {
+    "text": "On the ground, a hole in your window usually means something needs fixing.",
+    "startMs": 10900,
+    "endMs": 15480,
+    "timestampMs": 10900,
+    "confidence": null
+  },
+  {
+    "text": "On an airplane, it raises a much more interesting question.",
+    "startMs": 15730,
+    "endMs": 19700,
+    "timestampMs": 15730,
+    "confidence": null
+  },
+  {
+    "text": "Why would engineers deliberately put a hole in something that helps keep cabin",
+    "startMs": 19950,
+    "endMs": 24414,
+    "timestampMs": 19950,
+    "confidence": null
+  },
+  {
+    "text": "pressure inside?",
+    "startMs": 24454,
+    "endMs": 25700,
+    "timestampMs": 24454,
+    "confidence": null
+  },
+  {
+    "text": "The answer starts with something you probably can’t see from your seat.",
+    "startMs": 27750,
+    "endMs": 31630,
+    "timestampMs": 27750,
+    "confidence": null
+  },
+  {
+    "text": "You aren’t looking through just one pane.",
+    "startMs": 31880,
+    "endMs": 34120,
+    "timestampMs": 31880,
+    "confidence": null
+  },
+  {
+    "text": "In a common passenger-window design, there’s a protective panel nearest you,",
+    "startMs": 34370,
+    "endMs": 39190,
+    "timestampMs": 34370,
+    "confidence": null
+  },
+  {
+    "text": "followed by two structural panes.",
+    "startMs": 39300,
+    "endMs": 41730,
+    "timestampMs": 39300,
+    "confidence": null
+  },
+  {
+    "text": "The tiny hole is in the inner structural pane—the middle layer in our illustration.",
+    "startMs": 41980,
+    "endMs": 47490,
+    "timestampMs": 41980,
+    "confidence": null
+  },
+  {
+    "text": "And crucially,",
+    "startMs": 47740,
+    "endMs": 48880,
+    "timestampMs": 47740,
+    "confidence": null
+  },
+  {
+    "text": "it doesn’t go all the way through the window assembly to the outside.",
+    "startMs": 48930,
+    "endMs": 52720,
+    "timestampMs": 48930,
+    "confidence": null
+  },
+  {
+    "text": "That changes the mystery.",
+    "startMs": 53370,
+    "endMs": 55170,
+    "timestampMs": 53370,
+    "confidence": null
+  },
+  {
+    "text": "We aren’t asking why someone made a hole straight through the side of an airplane.",
+    "startMs": 55420,
+    "endMs": 59780,
+    "timestampMs": 55420,
+    "confidence": null
+  },
+  {
+    "text": "We’re asking why one layer needs an opening while another remains sealed.",
+    "startMs": 60030,
+    "endMs": 64540,
+    "timestampMs": 60030,
+    "confidence": null
+  },
+  {
+    "text": "To understand that, we need to talk about pressure.",
+    "startMs": 65190,
+    "endMs": 68390,
+    "timestampMs": 65190,
+    "confidence": null
+  },
+  {
+    "text": "As an airplane climbs, the air outside becomes thinner.",
+    "startMs": 68640,
+    "endMs": 72420,
+    "timestampMs": 68640,
+    "confidence": null
+  },
+  {
+    "text": "The cabin is pressurized,",
+    "startMs": 72670,
+    "endMs": 74480,
+    "timestampMs": 72670,
+    "confidence": null
+  },
+  {
+    "text": "so the pressure inside is higher than the pressure outside.",
+    "startMs": 74520,
+    "endMs": 78000,
+    "timestampMs": 74520,
+    "confidence": null
+  },
+  {
+    "text": "That difference pushes outward on the aircraft’s windows.",
+    "startMs": 78250,
+    "endMs": 81680,
+    "timestampMs": 78250,
+    "confidence": null
+  },
+  {
+    "text": "Now imagine our window layers pulled apart.",
+    "startMs": 82330,
+    "endMs": 85290,
+    "timestampMs": 82330,
+    "confidence": null
+  },
+  {
+    "text": "There’s the cabin.",
+    "startMs": 85540,
+    "endMs": 86890,
+    "timestampMs": 85540,
+    "confidence": null
+  },
+  {
+    "text": "There’s the inner structural pane.",
+    "startMs": 87140,
+    "endMs": 89280,
+    "timestampMs": 87140,
+    "confidence": null
+  },
+  {
+    "text": "Then a small space.",
+    "startMs": 89530,
+    "endMs": 91110,
+    "timestampMs": 89530,
+    "confidence": null
+  },
+  {
+    "text": "Then the outer structural pane.",
+    "startMs": 91360,
+    "endMs": 93490,
+    "timestampMs": 91360,
+    "confidence": null
+  },
+  {
+    "text": "The tiny opening connects the cabin’s air pressure with that space between the",
+    "startMs": 93740,
+    "endMs": 98432,
+    "timestampMs": 93740,
+    "confidence": null
+  },
+  {
+    "text": "structural panes.",
+    "startMs": 98472,
+    "endMs": 99830,
+    "timestampMs": 98472,
+    "confidence": null
+  },
+  {
+    "text": "It’s called a breather hole, or a bleed hole.",
+    "startMs": 100080,
+    "endMs": 102730,
+    "timestampMs": 100080,
+    "confidence": null
+  },
+  {
+    "text": "As cabin pressure changes, the hole allows pressure in that space to adjust.",
+    "startMs": 102980,
+    "endMs": 107930,
+    "timestampMs": 102980,
+    "confidence": null
+  },
+  {
+    "text": "That means the inner structural pane normally has roughly the same pressure",
+    "startMs": 108180,
+    "endMs": 112825,
+    "timestampMs": 108180,
+    "confidence": null
+  },
+  {
+    "text": "on both sides.",
+    "startMs": 112865,
+    "endMs": 114100,
+    "timestampMs": 112865,
+    "confidence": null
+  },
+  {
+    "text": "The outer pane carries the normal pressure difference between the cabin and",
+    "startMs": 114350,
+    "endMs": 118793,
+    "timestampMs": 114350,
+    "confidence": null
+  },
+  {
+    "text": "the outside air.",
+    "startMs": 118833,
+    "endMs": 120140,
+    "timestampMs": 118833,
+    "confidence": null
+  },
+  {
+    "text": "So this little opening helps determine which layer does the everyday work.",
+    "startMs": 120390,
+    "endMs": 125160,
+    "timestampMs": 120390,
+    "confidence": null
+  },
+  {
+    "text": "Here’s a way to picture it.",
+    "startMs": 125810,
+    "endMs": 127620,
+    "timestampMs": 125810,
+    "confidence": null
+  },
+  {
+    "text": "Imagine two transparent barriers with a small room between them.",
+    "startMs": 127870,
+    "endMs": 132170,
+    "timestampMs": 127870,
+    "confidence": null
+  },
+  {
+    "text": "The first barrier has an opening into that room.",
+    "startMs": 132420,
+    "endMs": 135460,
+    "timestampMs": 132420,
+    "confidence": null
+  },
+  {
+    "text": "Air can move through the opening,",
+    "startMs": 135710,
+    "endMs": 137880,
+    "timestampMs": 135710,
+    "confidence": null
+  },
+  {
+    "text": "allowing the pressure in the room to approach the pressure on your side.",
+    "startMs": 138050,
+    "endMs": 142090,
+    "timestampMs": 138050,
+    "confidence": null
+  },
+  {
+    "text": "The second barrier still separates that air from the outside.",
+    "startMs": 142340,
+    "endMs": 145980,
+    "timestampMs": 142340,
+    "confidence": null
+  },
+  {
+    "text": "The opening in the first barrier hasn’t created a passage through both.",
+    "startMs": 146230,
+    "endMs": 150710,
+    "timestampMs": 146230,
+    "confidence": null
+  },
+  {
+    "text": "That’s the important distinction.",
+    "startMs": 150960,
+    "endMs": 153060,
+    "timestampMs": 150960,
+    "confidence": null
+  },
+  {
+    "text": "The hole connects two spaces inside the window system.",
+    "startMs": 153310,
+    "endMs": 157080,
+    "timestampMs": 153310,
+    "confidence": null
+  },
+  {
+    "text": "It doesn’t give cabin air a clear route into the sky.",
+    "startMs": 157330,
+    "endMs": 160540,
+    "timestampMs": 157330,
+    "confidence": null
+  },
+  {
+    "text": "And the arrangement has another purpose: a backup.",
+    "startMs": 161190,
+    "endMs": 164590,
+    "timestampMs": 161190,
+    "confidence": null
+  },
+  {
+    "text": "The inner structural pane isn’t just there to make the window look thicker.",
+    "startMs": 164840,
+    "endMs": 169440,
+    "timestampMs": 164840,
+    "confidence": null
+  },
+  {
+    "text": "Airbus explains that each of its two structural cabin-window panes can",
+    "startMs": 169690,
+    "endMs": 174127,
+    "timestampMs": 169690,
+    "confidence": null
+  },
+  {
+    "text": "independently withstand the maximum pressure difference normally experienced",
+    "startMs": 174167,
+    "endMs": 178930,
+    "timestampMs": 174167,
+    "confidence": null
+  },
+  {
+    "text": "during flight.",
+    "startMs": 178970,
+    "endMs": 180210,
+    "timestampMs": 178970,
+    "confidence": null
+  },
+  {
+    "text": "If the outer pane fails,",
+    "startMs": 180460,
+    "endMs": 182340,
+    "timestampMs": 180460,
+    "confidence": null
+  },
+  {
+    "text": "the inner pane is designed to take the pressure load and maintain cabin pressure.",
+    "startMs": 182380,
+    "endMs": 187300,
+    "timestampMs": 182380,
+    "confidence": null
+  },
+  {
+    "text": "That makes the window a system with different jobs.",
+    "startMs": 187950,
+    "endMs": 191260,
+    "timestampMs": 187950,
+    "confidence": null
+  },
+  {
+    "text": "One layer protects against everyday contact.",
+    "startMs": 191510,
+    "endMs": 194630,
+    "timestampMs": 191510,
+    "confidence": null
+  },
+  {
+    "text": "One normally carries the pressure load.",
+    "startMs": 194880,
+    "endMs": 197360,
+    "timestampMs": 194880,
+    "confidence": null
+  },
+  {
+    "text": "Another provides structural backup.",
+    "startMs": 197610,
+    "endMs": 199930,
+    "timestampMs": 197610,
+    "confidence": null
+  },
+  {
+    "text": "And a tiny opening helps manage the pressure between them.",
+    "startMs": 200180,
+    "endMs": 203930,
+    "timestampMs": 200180,
+    "confidence": null
+  },
+  {
+    "text": "There is one naming detail that can make explanations confusing.",
+    "startMs": 204580,
+    "endMs": 208950,
+    "timestampMs": 204580,
+    "confidence": null
+  },
+  {
+    "text": "Some descriptions call the pane with the hole the “inner pane.”",
+    "startMs": 209200,
+    "endMs": 212850,
+    "timestampMs": 209200,
+    "confidence": null
+  },
+  {
+    "text": "Others call it the “middle pane.”",
+    "startMs": 213100,
+    "endMs": 215130,
+    "timestampMs": 213100,
+    "confidence": null
+  },
+  {
+    "text": "They may be describing the same layer.",
+    "startMs": 215380,
+    "endMs": 217700,
+    "timestampMs": 215380,
+    "confidence": null
+  },
+  {
+    "text": "“Inner” distinguishes it from the outer structural pane.",
+    "startMs": 217950,
+    "endMs": 221460,
+    "timestampMs": 217950,
+    "confidence": null
+  },
+  {
+    "text": "“Middle” counts the protective panel nearest the passenger as a third layer.",
+    "startMs": 221710,
+    "endMs": 226790,
+    "timestampMs": 221710,
+    "confidence": null
+  },
+  {
+    "text": "For our illustration, we’re calling them the protective panel,",
+    "startMs": 227040,
+    "endMs": 230800,
+    "timestampMs": 227040,
+    "confidence": null
+  },
+  {
+    "text": "the inner structural pane, and the outer structural pane.",
+    "startMs": 230840,
+    "endMs": 234630,
+    "timestampMs": 230840,
+    "confidence": null
+  },
+  {
+    "text": "Different aircraft can use different window designs,",
+    "startMs": 234880,
+    "endMs": 238220,
+    "timestampMs": 234880,
+    "confidence": null
+  },
+  {
+    "text": "but that common arrangement explains the little hole many passengers notice.",
+    "startMs": 238390,
+    "endMs": 243500,
+    "timestampMs": 238390,
+    "confidence": null
+  },
+  {
+    "text": "Next time you get the window seat, look for it.",
+    "startMs": 244150,
+    "endMs": 246900,
+    "timestampMs": 244150,
+    "confidence": null
+  },
+  {
+    "text": "Something that initially looks like a flaw is part of a carefully arranged system.",
+    "startMs": 247150,
+    "endMs": 252420,
+    "timestampMs": 247150,
+    "confidence": null
+  },
+  {
+    "text": "The surprising part isn’t simply that the window has a hole.",
+    "startMs": 252670,
+    "endMs": 256640,
+    "timestampMs": 252670,
+    "confidence": null
+  },
+  {
+    "text": "It’s that putting a hole in one layer helps the other layers do their jobs.",
+    "startMs": 256890,
+    "endMs": 261440,
+    "timestampMs": 256890,
+    "confidence": null
+  },
+  {
+    "text": "Everyday things. Surprising explanations.",
+    "startMs": 262090,
+    "endMs": 265370,
+    "timestampMs": 262090,
+    "confidence": null
+  },
+  {
+    "text": "That’s Why Is That?",
+    "startMs": 265620,
+    "endMs": 267140,
+    "timestampMs": 265620,
+    "confidence": null
+  }
+]

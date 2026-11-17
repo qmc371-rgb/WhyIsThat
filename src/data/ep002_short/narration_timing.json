@@ -1,0 +1,454 @@
+{
+ "source": "ep002 FINAL narration (same recording), cut for the Short: L03,L10,L11,L24,L28,L61",
+ "notForPublication": false,
+ "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88 (Apache-2.0; approved channel voice)",
+ "audio": "audio/ep002/ep002_short.wav",
+ "durationSec": 29.03,
+ "lines": [
+  {
+   "id": "L03",
+   "text": "There’s a tiny hole in the window.",
+   "start": 0.39,
+   "end": 2.19,
+   "phrases": [
+    {
+     "text": "There’s a tiny hole in the window.",
+     "start": 0.39,
+     "end": 2.19
+    }
+   ],
+   "words": [
+    {
+     "text": "There’s",
+     "start": 0.39,
+     "end": 0.76
+    },
+    {
+     "text": "a",
+     "start": 0.76,
+     "end": 0.883
+    },
+    {
+     "text": "tiny",
+     "start": 0.883,
+     "end": 1.154
+    },
+    {
+     "text": "hole",
+     "start": 1.154,
+     "end": 1.426
+    },
+    {
+     "text": "in",
+     "start": 1.426,
+     "end": 1.598
+    },
+    {
+     "text": "the",
+     "start": 1.598,
+     "end": 1.82
+    },
+    {
+     "text": "window.",
+     "start": 1.82,
+     "end": 2.19
+    }
+   ]
+  },
+  {
+   "id": "L10",
+   "text": "The tiny hole is in the inner structural pane—the middle layer in our illustration.",
+   "start": 2.78,
+   "end": 7.94,
+   "phrases": [
+    {
+     "text": "The tiny hole is in the inner structural pane—the middle layer in our illustration.",
+     "start": 2.78,
+     "end": 7.94
+    }
+   ],
+   "words": [
+    {
+     "text": "The",
+     "start": 2.78,
+     "end": 3.041
+    },
+    {
+     "text": "tiny",
+     "start": 3.041,
+     "end": 3.36
+    },
+    {
+     "text": "hole",
+     "start": 3.36,
+     "end": 3.679
+    },
+    {
+     "text": "is",
+     "start": 3.679,
+     "end": 3.882
+    },
+    {
+     "text": "in",
+     "start": 3.882,
+     "end": 4.084
+    },
+    {
+     "text": "the",
+     "start": 4.084,
+     "end": 4.345
+    },
+    {
+     "text": "inner",
+     "start": 4.345,
+     "end": 4.722
+    },
+    {
+     "text": "structural",
+     "start": 4.722,
+     "end": 5.389
+    },
+    {
+     "text": "pane—the",
+     "start": 5.389,
+     "end": 5.882
+    },
+    {
+     "text": "middle",
+     "start": 5.882,
+     "end": 6.317
+    },
+    {
+     "text": "layer",
+     "start": 6.317,
+     "end": 6.693
+    },
+    {
+     "text": "in",
+     "start": 6.693,
+     "end": 6.896
+    },
+    {
+     "text": "our",
+     "start": 6.896,
+     "end": 7.157
+    },
+    {
+     "text": "illustration.",
+     "start": 7.157,
+     "end": 7.94
+    }
+   ]
+  },
+  {
+   "id": "L11",
+   "text": "And crucially, it doesn’t go all the way through the window assembly to the outside.",
+   "start": 8.53,
+   "end": 13.16,
+   "phrases": [
+    {
+     "text": "And crucially,",
+     "start": 8.53,
+     "end": 9.32
+    },
+    {
+     "text": "it doesn’t go all the way through the window assembly to the outside.",
+     "start": 9.72,
+     "end": 13.16
+    }
+   ],
+   "words": [
+    {
+     "text": "And",
+     "start": 8.53,
+     "end": 8.767
+    },
+    {
+     "text": "crucially,",
+     "start": 8.767,
+     "end": 9.32
+    },
+    {
+     "text": "it",
+     "start": 9.72,
+     "end": 9.882
+    },
+    {
+     "text": "doesn’t",
+     "start": 9.882,
+     "end": 10.228
+    },
+    {
+     "text": "go",
+     "start": 10.228,
+     "end": 10.39
+    },
+    {
+     "text": "all",
+     "start": 10.39,
+     "end": 10.597
+    },
+    {
+     "text": "the",
+     "start": 10.597,
+     "end": 10.805
+    },
+    {
+     "text": "way",
+     "start": 10.805,
+     "end": 11.013
+    },
+    {
+     "text": "through",
+     "start": 11.013,
+     "end": 11.405
+    },
+    {
+     "text": "the",
+     "start": 11.405,
+     "end": 11.613
+    },
+    {
+     "text": "window",
+     "start": 11.613,
+     "end": 11.959
+    },
+    {
+     "text": "assembly",
+     "start": 11.959,
+     "end": 12.398
+    },
+    {
+     "text": "to",
+     "start": 12.398,
+     "end": 12.56
+    },
+    {
+     "text": "the",
+     "start": 12.56,
+     "end": 12.768
+    },
+    {
+     "text": "outside.",
+     "start": 12.768,
+     "end": 13.16
+    }
+   ]
+  },
+  {
+   "id": "L24",
+   "text": "The tiny opening connects the cabin’s air pressure with that space between the structural panes.",
+   "start": 13.75,
+   "end": 19.49,
+   "phrases": [
+    {
+     "text": "The tiny opening connects the cabin’s air pressure with that space between the structural panes.",
+     "start": 13.75,
+     "end": 19.49
+    }
+   ],
+   "words": [
+    {
+     "text": "The",
+     "start": 13.75,
+     "end": 14.002
+    },
+    {
+     "text": "tiny",
+     "start": 14.002,
+     "end": 14.31
+    },
+    {
+     "text": "opening",
+     "start": 14.31,
+     "end": 14.786
+    },
+    {
+     "text": "connects",
+     "start": 14.786,
+     "end": 15.318
+    },
+    {
+     "text": "the",
+     "start": 15.318,
+     "end": 15.57
+    },
+    {
+     "text": "cabin’s",
+     "start": 15.57,
+     "end": 15.99
+    },
+    {
+     "text": "air",
+     "start": 15.99,
+     "end": 16.242
+    },
+    {
+     "text": "pressure",
+     "start": 16.242,
+     "end": 16.774
+    },
+    {
+     "text": "with",
+     "start": 16.774,
+     "end": 17.082
+    },
+    {
+     "text": "that",
+     "start": 17.082,
+     "end": 17.39
+    },
+    {
+     "text": "space",
+     "start": 17.39,
+     "end": 17.754
+    },
+    {
+     "text": "between",
+     "start": 17.754,
+     "end": 18.23
+    },
+    {
+     "text": "the",
+     "start": 18.23,
+     "end": 18.482
+    },
+    {
+     "text": "structural",
+     "start": 18.482,
+     "end": 19.126
+    },
+    {
+     "text": "panes.",
+     "start": 19.126,
+     "end": 19.49
+    }
+   ]
+  },
+  {
+   "id": "L28",
+   "text": "The outer pane carries the normal pressure difference between the cabin and the outside air.",
+   "start": 20.08,
+   "end": 25.52,
+   "phrases": [
+    {
+     "text": "The outer pane carries the normal pressure difference between the cabin and the outside air.",
+     "start": 20.08,
+     "end": 25.52
+    }
+   ],
+   "words": [
+    {
+     "text": "The",
+     "start": 20.08,
+     "end": 20.326
+    },
+    {
+     "text": "outer",
+     "start": 20.326,
+     "end": 20.681
+    },
+    {
+     "text": "pane",
+     "start": 20.681,
+     "end": 20.982
+    },
+    {
+     "text": "carries",
+     "start": 20.982,
+     "end": 21.447
+    },
+    {
+     "text": "the",
+     "start": 21.447,
+     "end": 21.693
+    },
+    {
+     "text": "normal",
+     "start": 21.693,
+     "end": 22.103
+    },
+    {
+     "text": "pressure",
+     "start": 22.103,
+     "end": 22.622
+    },
+    {
+     "text": "difference",
+     "start": 22.622,
+     "end": 23.251
+    },
+    {
+     "text": "between",
+     "start": 23.251,
+     "end": 23.716
+    },
+    {
+     "text": "the",
+     "start": 23.716,
+     "end": 23.962
+    },
+    {
+     "text": "cabin",
+     "start": 23.962,
+     "end": 24.317
+    },
+    {
+     "text": "and",
+     "start": 24.317,
+     "end": 24.563
+    },
+    {
+     "text": "the",
+     "start": 24.563,
+     "end": 24.809
+    },
+    {
+     "text": "outside",
+     "start": 24.809,
+     "end": 25.274
+    },
+    {
+     "text": "air.",
+     "start": 25.274,
+     "end": 25.52
+    }
+   ]
+  },
+  {
+   "id": "L61",
+   "text": "That’s Why Is That?",
+   "start": 26.11,
+   "end": 27.28,
+   "phrases": [
+    {
+     "text": "That’s Why Is That?",
+     "start": 26.11,
+     "end": 27.28
+    }
+   ],
+   "words": [
+    {
+     "text": "That’s",
+     "start": 26.11,
+     "end": 26.49
+    },
+    {
+     "text": "Why",
+     "start": 26.49,
+     "end": 26.753
+    },
+    {
+     "text": "Is",
+     "start": 26.753,
+     "end": 26.958
+    },
+    {
+     "text": "That?",
+     "start": 26.958,
+     "end": 27.28
+    }
+   ]
+  }
+ ]
+}
