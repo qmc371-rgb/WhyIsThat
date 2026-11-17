@@ -38,6 +38,11 @@ HOLIDAYS = {
 # Pre-launch overrides (spread the load before Thanksgiving; EP001 already finished).
 PRELAUNCH_FINISH = {1: datetime(2026, 11, 16, 23, 0, tzinfo=ET), 2: datetime(2026, 11, 25, 12, 0, tzinfo=ET), 3: datetime(2026, 11, 30, 12, 0, tzinfo=ET)}
 EP_TOPICS = {1: "Why does reheated dinner heat unevenly? (microwave leftovers)"}
+# Owner-confirmed Shorts outside the Sunday-noon rule: id -> (release ET, source episode, finished-on ET, flag).
+EXTRA_SHORTS = {
+    "S-EP002": (datetime(2026, 12, 4, 18, 0, tzinfo=ET), "EP002", datetime(2026, 11, 17, 3, 0, tzinfo=ET),
+                "Time not given: 6:00 PM ET is a placeholder (same as EP002's main); set the real time when you schedule it in YouTube Studio"),
+}
 
 
 def et(d: date, hh: int, mm: int = 0) -> datetime:
@@ -107,6 +112,15 @@ def main() -> None:
                          "status": "PLANNED", "flag": flag})
         milestones.append({"date": fmt(fin)[0], "time": fmt(fin)[1], "id": sid, "milestone": "Short final + QA gate", "owner": "Claude", "note": note})
         milestones.append({"date": fmt(sun)[0], "time": fmt(sun)[1], "id": sid, "milestone": "RELEASE Short (by you)", "owner": "You", "note": flag})
+
+    for sid, (rel, src_id, fin, flag) in EXTRA_SHORTS.items():  # decided by the owner (e.g. same day as its main)
+        schedule.append({"slot": fmt(rel)[0], "time": fmt(rel)[1], "utc": fmt(rel)[2], "type": "SHORT", "id": sid,
+                         "topic": f"Vertical Short from {src_id} (owner-set date)", "finish_by": f"{fmt(fin)[0]} {fmt(fin)[1]}",
+                         "status": "PLANNED", "flag": flag})
+        milestones.append({"date": fmt(fin)[0], "time": fmt(fin)[1], "id": sid, "milestone": "Short final + QA gate", "owner": "Claude", "note": ""})
+        gonogo = rel - timedelta(hours=48)
+        milestones.append({"date": fmt(gonogo)[0], "time": fmt(gonogo)[1], "id": sid, "milestone": "Go/no-go: upload scheduled + complete?", "owner": "You + Claude", "note": flag})
+        milestones.append({"date": fmt(rel)[0], "time": fmt(rel)[1], "id": sid, "milestone": "RELEASE Short (by you)", "owner": "You", "note": flag})
 
     prev = {}
     if (OUT / "production_milestones.csv").exists():

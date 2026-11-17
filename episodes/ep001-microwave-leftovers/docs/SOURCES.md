@@ -60,7 +60,7 @@ Line numbers refer to paragraphs of `narration/editorial_draft_v1.txt` (L01–L5
 
 - Narration: Kokoro-82M (Apache-2.0), approved by the channel owner as final narration on 2026-11-16.
   https://huggingface.co/hexgrad/Kokoro-82M · kokoro-onnx (MIT): https://github.com/thewh1teagle/kokoro-onnx
-- Illustrations H1–H6: Higgsfield (Nano Banana Pro), see `asset_manifest.json`. Confirm output terms for your plan.
+- Illustrations H1–H6: Higgsfield (Nano Banana Pro), see `asset_manifest.json`. Commercial terms confirmed by the owner (2026-11-17).
 - Remotion licence: `node_modules/remotion/LICENSE.md` (4.0.539). Free Licence applies (individual creator).
 - Fonts: Fredoka, Inter (SIL OFL 1.1): licence files in `public/fonts/`
 - Sound effects: synthesised in code (`scripts/make_sfx.py`)

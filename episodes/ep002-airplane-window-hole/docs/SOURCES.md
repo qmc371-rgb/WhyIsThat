@@ -8,7 +8,7 @@ draft cited sources inline (`narration/draft_citations.json`); they are kept bel
 
 ## Sources
 
-1. **Airbus, *Safety First*, "Under the spotlights": cabin windows.** 🔁
+1. **Airbus, *Safety First*, "Under the spotlights": cabin windows.** ✅ owner checked the live page (2026-11-17) for L42
    https://safetyfirst.airbus.com/under-the-spotlights/?airbus-iframe=true&airbus-post=2055
    Cited in the draft at L11, L42, L55. As found: an Airbus cabin window has two structural
    panes (inner and outer); **each can independently withstand the maximum pressure difference
@@ -57,7 +57,7 @@ draft cited sources inline (`narration/draft_citations.json`); they are kept bel
 | L37–L38 | The hole connects two spaces inside the window system; no clear route into the sky | 1, 2, 3 | ✅ |
 | L39–L40 | The arrangement is also a backup; the inner pane isn't just for thickness | 1 | ✅ |
 | L41 | "Airbus explains that each of its two structural cabin-window panes can independently withstand the maximum pressure difference normally experienced during flight." | 1 | ✅ 🔁 attributed to Airbus on screen; check the live wording |
-| L42 | If the outer pane fails, the inner pane is designed to take the pressure load and maintain cabin pressure | 1 | 🔁 **check "maintain cabin pressure"** on the live page; if it isn't there, change L42 to end at "…take the pressure load." |
+| L42 | If the outer pane fails, the inner pane is designed to take the pressure load and maintain cabin pressure | 1 | ✅ **confirmed on the live Airbus page by the owner (2026-11-17)**: it says "maintain cabin pressure" |
 | L43–L47 | Jobs: protective panel (everyday contact), outer pane (normal load), inner pane (backup), hole (manages pressure between them) | 1, 2, 3 | ✅ |
 | L48–L54 | Some sources say "inner pane" (1, 3), others "middle pane" (2); they can mean the same layer | 1, 2, 3 | ✅ |
 | L55 | Different aircraft can use different window designs; the common arrangement explains the hole | 1 (cited in the draft); a general caveat | ✅ |

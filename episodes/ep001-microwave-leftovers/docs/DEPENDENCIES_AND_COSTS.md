@@ -12,7 +12,7 @@
 | D6 | Durable storage | **Done**: private repo `qmc371-rgb/WhyIsThat` (2026-11-17) |
 | D7 | Re-verify FDA/USDA live pages | **Open**: marked 🔁 in SOURCES.md (hosts blocked from this container) |
 | D8 | Word-level captions via Whisper | Optional; sentence-level SRT/VTT delivered |
-| D9 | Higgsfield output terms for your plan | **Open**: confirm before publishing |
+| D9 | Higgsfield output terms for your plan | **Done**: confirmed by the owner (2026-11-17) |
 | D10 | YouTube synthetic-content disclosure | Check in YouTube Studio at upload. The description credits disclose the synthetic voice |
 
 **Final cost: $0 cash, 16 Higgsfield credits (≈ $0.78) for the pilot; $0 new recurring.**

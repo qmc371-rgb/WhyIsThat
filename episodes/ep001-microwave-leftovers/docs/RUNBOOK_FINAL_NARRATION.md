@@ -57,4 +57,4 @@ npx remotion still src/index.ts Ep001Thumbnail out/final/ep001_thumbnail.png
 - [ ] Captions spot-checked at 5 points; none overlapping
 - [ ] Loudness −14 LUFS ±1, true peak ≤ −1 dBTP
 - [ ] Thumbnail text readable at 160 px wide
-- [ ] Narration licence and Higgsfield output terms recorded in the cost log notes
+- [x] Narration licence and Higgsfield output terms recorded in the cost log notes (terms confirmed by the owner 2026-11-17)
