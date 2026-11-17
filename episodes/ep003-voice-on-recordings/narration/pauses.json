@@ -1,9 +1,22 @@
 {
- "_note": "Same rhythm as EP001/EP002: 1.2 s lead-in, 0.6 s between lines, 1.0 s at section starts, a title beat after the narrator's 'Why is that?' (L10), 8 s end card.",
+ "_note": "Same rhythm as EP001/EP002: 1.2 s lead-in, 0.6 s between lines, 1.0 s at section starts, a title beat after the narrator's 'Why is that?' (L10), 8 s end card. L36 gets a 5.6 s gap for the same-take before/after demo (EQ only, loudness-matched).",
  "lead_in": 1.2,
  "default": 0.6,
  "section_pause": 1.0,
- "section_starts": ["L21", "L25", "L32", "L40", "L47", "L55", "L59", "L64", "L70"],
- "overrides": {"L11": 2.4},
+ "section_starts": [
+  "L21",
+  "L25",
+  "L32",
+  "L40",
+  "L47",
+  "L55",
+  "L59",
+  "L64",
+  "L70"
+ ],
+ "overrides": {
+  "L11": 2.4,
+  "L36": 5.6
+ },
  "tail": 8.0
 }

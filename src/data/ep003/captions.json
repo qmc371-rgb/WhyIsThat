@@ -1,0 +1,618 @@
+[
+  {
+    "text": "You record a quick message.",
+    "startMs": 1200,
+    "endMs": 3130,
+    "timestampMs": 1200,
+    "confidence": null
+  },
+  {
+    "text": "Nothing special. Just a few sentences.",
+    "startMs": 3380,
+    "endMs": 6370,
+    "timestampMs": 3380,
+    "confidence": null
+  },
+  {
+    "text": "Then you press play.",
+    "startMs": 6620,
+    "endMs": 8130,
+    "timestampMs": 6620,
+    "confidence": null
+  },
+  {
+    "text": "And immediately think…",
+    "startMs": 8380,
+    "endMs": 10080,
+    "timestampMs": 8380,
+    "confidence": null
+  },
+  {
+    "text": "“Wait. That’s my voice?”",
+    "startMs": 10330,
+    "endMs": 12150,
+    "timestampMs": 10330,
+    "confidence": null
+  },
+  {
+    "text": "It sounds thinner. Maybe higher.",
+    "startMs": 12400,
+    "endMs": 14344,
+    "timestampMs": 12400,
+    "confidence": null
+  },
+  {
+    "text": "Somehow less like you than the voice you’ve been hearing your entire life.",
+    "startMs": 14384,
+    "endMs": 18730,
+    "timestampMs": 14384,
+    "confidence": null
+  },
+  {
+    "text": "Your first suspect is the phone.",
+    "startMs": 18980,
+    "endMs": 21180,
+    "timestampMs": 18980,
+    "confidence": null
+  },
+  {
+    "text": "But there’s something else involved.",
+    "startMs": 21430,
+    "endMs": 23490,
+    "timestampMs": 21430,
+    "confidence": null
+  },
+  {
+    "text": "When you speak, you get a version of your voice that nobody standing beside you",
+    "startMs": 23740,
+    "endMs": 28161,
+    "timestampMs": 23740,
+    "confidence": null
+  },
+  {
+    "text": "hears in quite the same way.",
+    "startMs": 28201,
+    "endMs": 30080,
+    "timestampMs": 28201,
+    "confidence": null
+  },
+  {
+    "text": "Why is that?",
+    "startMs": 30330,
+    "endMs": 31600,
+    "timestampMs": 30330,
+    "confidence": null
+  },
+  {
+    "text": "Start with an ordinary conversation.",
+    "startMs": 33650,
+    "endMs": 36220,
+    "timestampMs": 33650,
+    "confidence": null
+  },
+  {
+    "text": "Your voice creates vibrations in the air.",
+    "startMs": 36470,
+    "endMs": 39190,
+    "timestampMs": 36470,
+    "confidence": null
+  },
+  {
+    "text": "Those vibrations travel from your mouth to the people around you—and to",
+    "startMs": 39440,
+    "endMs": 43695,
+    "timestampMs": 39440,
+    "confidence": null
+  },
+  {
+    "text": "your own ears.",
+    "startMs": 43735,
+    "endMs": 44950,
+    "timestampMs": 43735,
+    "confidence": null
+  },
+  {
+    "text": "That route is called air conduction.",
+    "startMs": 45200,
+    "endMs": 47540,
+    "timestampMs": 45200,
+    "confidence": null
+  },
+  {
+    "text": "But while you’re speaking, another route is working at the same time.",
+    "startMs": 47790,
+    "endMs": 51770,
+    "timestampMs": 47790,
+    "confidence": null
+  },
+  {
+    "text": "Vibrations also travel through the bones and tissues of your head to",
+    "startMs": 52020,
+    "endMs": 56300,
+    "timestampMs": 52020,
+    "confidence": null
+  },
+  {
+    "text": "your inner ear.",
+    "startMs": 56340,
+    "endMs": 57640,
+    "timestampMs": 56340,
+    "confidence": null
+  },
+  {
+    "text": "That’s part of what’s called bone conduction.",
+    "startMs": 57890,
+    "endMs": 60480,
+    "timestampMs": 57890,
+    "confidence": null
+  },
+  {
+    "text": "So the voice you hear while talking is a combination.",
+    "startMs": 60730,
+    "endMs": 64280,
+    "timestampMs": 60730,
+    "confidence": null
+  },
+  {
+    "text": "Sound arriving through the air.",
+    "startMs": 64530,
+    "endMs": 66450,
+    "timestampMs": 64530,
+    "confidence": null
+  },
+  {
+    "text": "And vibrations arriving through your own head.",
+    "startMs": 66700,
+    "endMs": 69600,
+    "timestampMs": 66700,
+    "confidence": null
+  },
+  {
+    "text": "Imagine two paths on a map.",
+    "startMs": 70250,
+    "endMs": 72290,
+    "timestampMs": 70250,
+    "confidence": null
+  },
+  {
+    "text": "One leaves your mouth, travels through the room, and reaches your ears.",
+    "startMs": 72540,
+    "endMs": 76650,
+    "timestampMs": 72540,
+    "confidence": null
+  },
+  {
+    "text": "The other travels internally.",
+    "startMs": 76900,
+    "endMs": 78950,
+    "timestampMs": 76900,
+    "confidence": null
+  },
+  {
+    "text": "Both contribute to the experience you recognize as your voice.",
+    "startMs": 79200,
+    "endMs": 83420,
+    "timestampMs": 79200,
+    "confidence": null
+  },
+  {
+    "text": "Now bring in the phone.",
+    "startMs": 84070,
+    "endMs": 85720,
+    "timestampMs": 84070,
+    "confidence": null
+  },
+  {
+    "text": "An ordinary microphone records the sound reaching it through the air.",
+    "startMs": 85970,
+    "endMs": 90540,
+    "timestampMs": 85970,
+    "confidence": null
+  },
+  {
+    "text": "It doesn’t capture and recreate the vibrations traveling through your head",
+    "startMs": 90790,
+    "endMs": 95012,
+    "timestampMs": 90790,
+    "confidence": null
+  },
+  {
+    "text": "while you speak.",
+    "startMs": 95052,
+    "endMs": 96340,
+    "timestampMs": 95052,
+    "confidence": null
+  },
+  {
+    "text": "When you play the recording through an ordinary speaker,",
+    "startMs": 96590,
+    "endMs": 99630,
+    "timestampMs": 96590,
+    "confidence": null
+  },
+  {
+    "text": "you hear it through a different listening situation.",
+    "startMs": 99770,
+    "endMs": 102990,
+    "timestampMs": 99770,
+    "confidence": null
+  },
+  {
+    "text": "You’ve gone from being the person producing the sound to being a listener",
+    "startMs": 103240,
+    "endMs": 107286,
+    "timestampMs": 103240,
+    "confidence": null
+  },
+  {
+    "text": "hearing it from a device.",
+    "startMs": 107326,
+    "endMs": 109090,
+    "timestampMs": 107326,
+    "confidence": null
+  },
+  {
+    "text": "The voice is yours.",
+    "startMs": 109340,
+    "endMs": 110960,
+    "timestampMs": 109340,
+    "confidence": null
+  },
+  {
+    "text": "The route has changed.",
+    "startMs": 111210,
+    "endMs": 112820,
+    "timestampMs": 111210,
+    "confidence": null
+  },
+  {
+    "text": "And that route affects the sound.",
+    "startMs": 113470,
+    "endMs": 115560,
+    "timestampMs": 113470,
+    "confidence": null
+  },
+  {
+    "text": "Your head doesn’t transmit every part of your voice equally.",
+    "startMs": 115810,
+    "endMs": 119330,
+    "timestampMs": 115810,
+    "confidence": null
+  },
+  {
+    "text": "Bone and tissue change the balance of frequencies reaching your inner ear.",
+    "startMs": 119580,
+    "endMs": 124580,
+    "timestampMs": 119580,
+    "confidence": null
+  },
+  {
+    "text": "That helps explain why a recording can seem thinner or less full than the",
+    "startMs": 124830,
+    "endMs": 129267,
+    "timestampMs": 124830,
+    "confidence": null
+  },
+  {
+    "text": "voice you expect.",
+    "startMs": 129307,
+    "endMs": 130680,
+    "timestampMs": 129307,
+    "confidence": null
+  },
+  {
+    "text": "[Demo A, as recorded] “Wait. That’s my voice?”",
+    "startMs": 130900,
+    "endMs": 132560,
+    "timestampMs": 130900,
+    "confidence": null
+  },
+  {
+    "text": "[Demo B, same take, EQ illustration] “Wait. That’s my voice?”",
+    "startMs": 133300,
+    "endMs": 134960,
+    "timestampMs": 133300,
+    "confidence": null
+  },
+  {
+    "text": "But this isn’t a universal bass setting we can copy exactly with one audio filter.",
+    "startMs": 135930,
+    "endMs": 141540,
+    "timestampMs": 135930,
+    "confidence": null
+  },
+  {
+    "text": "Researchers studying self-voice perception also point to the physical sensations",
+    "startMs": 141790,
+    "endMs": 147218,
+    "timestampMs": 141790,
+    "confidence": null
+  },
+  {
+    "text": "accompanying bone conduction.",
+    "startMs": 147258,
+    "endMs": 149570,
+    "timestampMs": 147258,
+    "confidence": null
+  },
+  {
+    "text": "Speaking involves more than passively listening to a sound.",
+    "startMs": 149820,
+    "endMs": 153360,
+    "timestampMs": 149820,
+    "confidence": null
+  },
+  {
+    "text": "You’re producing it and experiencing its vibrations at the same time.",
+    "startMs": 153610,
+    "endMs": 158190,
+    "timestampMs": 153610,
+    "confidence": null
+  },
+  {
+    "text": "Think about what that means.",
+    "startMs": 158840,
+    "endMs": 160630,
+    "timestampMs": 158840,
+    "confidence": null
+  },
+  {
+    "text": "The voice most familiar to you is tied to the act of speaking.",
+    "startMs": 160880,
+    "endMs": 164940,
+    "timestampMs": 160880,
+    "confidence": null
+  },
+  {
+    "text": "A recording removes that act.",
+    "startMs": 165190,
+    "endMs": 167380,
+    "timestampMs": 165190,
+    "confidence": null
+  },
+  {
+    "text": "You hear the words without making them.",
+    "startMs": 167630,
+    "endMs": 170020,
+    "timestampMs": 167630,
+    "confidence": null
+  },
+  {
+    "text": "You hear the timing without controlling it.",
+    "startMs": 170270,
+    "endMs": 172970,
+    "timestampMs": 170270,
+    "confidence": null
+  },
+  {
+    "text": "And you hear your voice arriving from somewhere else.",
+    "startMs": 173220,
+    "endMs": 176140,
+    "timestampMs": 173220,
+    "confidence": null
+  },
+  {
+    "text": "That’s a surprisingly different experience for something you’ve been doing",
+    "startMs": 176390,
+    "endMs": 180254,
+    "timestampMs": 176390,
+    "confidence": null
+  },
+  {
+    "text": "all your life.",
+    "startMs": 180294,
+    "endMs": 181420,
+    "timestampMs": 180294,
+    "confidence": null
+  },
+  {
+    "text": "This raises the question everyone asks next.",
+    "startMs": 182070,
+    "endMs": 185290,
+    "timestampMs": 182070,
+    "confidence": null
+  },
+  {
+    "text": "“Is the recording what I really sound like to other people?”",
+    "startMs": 185540,
+    "endMs": 189100,
+    "timestampMs": 185540,
+    "confidence": null
+  },
+  {
+    "text": "It captures the airborne sound that other listeners receive,",
+    "startMs": 189350,
+    "endMs": 193430,
+    "timestampMs": 189350,
+    "confidence": null
+  },
+  {
+    "text": "rather than your private combination of airborne sound and internal vibrations.",
+    "startMs": 193590,
+    "endMs": 198930,
+    "timestampMs": 193590,
+    "confidence": null
+  },
+  {
+    "text": "In that sense, it gives you a different perspective on your voice.",
+    "startMs": 199180,
+    "endMs": 202780,
+    "timestampMs": 199180,
+    "confidence": null
+  },
+  {
+    "text": "But a phone recording isn’t a perfect copy of another person’s experience.",
+    "startMs": 203030,
+    "endMs": 208120,
+    "timestampMs": 203030,
+    "confidence": null
+  },
+  {
+    "text": "The microphone, its position, the room, any audio processing,",
+    "startMs": 208370,
+    "endMs": 212472,
+    "timestampMs": 208370,
+    "confidence": null
+  },
+  {
+    "text": "and the playback speaker can all affect the result.",
+    "startMs": 212512,
+    "endMs": 216000,
+    "timestampMs": 212512,
+    "confidence": null
+  },
+  {
+    "text": "A recording is a useful perspective.",
+    "startMs": 216250,
+    "endMs": 218970,
+    "timestampMs": 216250,
+    "confidence": null
+  },
+  {
+    "text": "It isn’t a final verdict on your voice.",
+    "startMs": 219220,
+    "endMs": 221750,
+    "timestampMs": 219220,
+    "confidence": null
+  },
+  {
+    "text": "And sounding unfamiliar doesn’t automatically mean sounding bad.",
+    "startMs": 222400,
+    "endMs": 226690,
+    "timestampMs": 222400,
+    "confidence": null
+  },
+  {
+    "text": "The people you talk to aren’t expecting the internally transmitted",
+    "startMs": 226940,
+    "endMs": 230676,
+    "timestampMs": 226940,
+    "confidence": null
+  },
+  {
+    "text": "version you hear.",
+    "startMs": 230716,
+    "endMs": 232050,
+    "timestampMs": 230716,
+    "confidence": null
+  },
+  {
+    "text": "They know you from the voice that reaches them.",
+    "startMs": 232300,
+    "endMs": 234930,
+    "timestampMs": 232300,
+    "confidence": null
+  },
+  {
+    "text": "You’re the one encountering a different listening perspective.",
+    "startMs": 235180,
+    "endMs": 238860,
+    "timestampMs": 235180,
+    "confidence": null
+  },
+  {
+    "text": "The fascinating part is that hearing doesn’t depend only on the sound",
+    "startMs": 239510,
+    "endMs": 243747,
+    "timestampMs": 239510,
+    "confidence": null
+  },
+  {
+    "text": "being produced.",
+    "startMs": 243787,
+    "endMs": 245050,
+    "timestampMs": 243787,
+    "confidence": null
+  },
+  {
+    "text": "It also depends on how vibrations reach the inner ear.",
+    "startMs": 245300,
+    "endMs": 249030,
+    "timestampMs": 245300,
+    "confidence": null
+  },
+  {
+    "text": "Air is one route.",
+    "startMs": 249280,
+    "endMs": 250810,
+    "timestampMs": 249280,
+    "confidence": null
+  },
+  {
+    "text": "Bone is another.",
+    "startMs": 251060,
+    "endMs": 252440,
+    "timestampMs": 251060,
+    "confidence": null
+  },
+  {
+    "text": "Your own voice happens to give you an everyday experience of both.",
+    "startMs": 252690,
+    "endMs": 256820,
+    "timestampMs": 252690,
+    "confidence": null
+  },
+  {
+    "text": "So next time you press play and think, “That can’t be me”…",
+    "startMs": 257470,
+    "endMs": 261020,
+    "timestampMs": 257470,
+    "confidence": null
+  },
+  {
+    "text": "Remember the two paths.",
+    "startMs": 261270,
+    "endMs": 263070,
+    "timestampMs": 261270,
+    "confidence": null
+  },
+  {
+    "text": "While speaking, you hear sound traveling through the room and vibrations traveling",
+    "startMs": 263320,
+    "endMs": 267962,
+    "timestampMs": 263320,
+    "confidence": null
+  },
+  {
+    "text": "through your head.",
+    "startMs": 268002,
+    "endMs": 269330,
+    "timestampMs": 268002,
+    "confidence": null
+  },
+  {
+    "text": "An ordinary recording doesn’t recreate that same combination.",
+    "startMs": 269580,
+    "endMs": 273960,
+    "timestampMs": 269580,
+    "confidence": null
+  },
+  {
+    "text": "You haven’t suddenly acquired a strange new voice.",
+    "startMs": 274210,
+    "endMs": 277210,
+    "timestampMs": 274210,
+    "confidence": null
+  },
+  {
+    "text": "You’re hearing a familiar voice from a less familiar position.",
+    "startMs": 277460,
+    "endMs": 281280,
+    "timestampMs": 277460,
+    "confidence": null
+  },
+  {
+    "text": "Everyday things. Surprising explanations.",
+    "startMs": 281930,
+    "endMs": 285210,
+    "timestampMs": 281930,
+    "confidence": null
+  },
+  {
+    "text": "That’s Why Is That?",
+    "startMs": 285460,
+    "endMs": 286980,
+    "timestampMs": 285460,
+    "confidence": null
+  }
+]

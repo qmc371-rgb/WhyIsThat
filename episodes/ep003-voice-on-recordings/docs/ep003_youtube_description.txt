@@ -1,0 +1,27 @@
+Why does your voice sound weird on recordings? While you speak, you hear your voice through the air and through vibrations in your own head. An ordinary recording only captures the airborne part, so you're hearing a familiar voice from a less familiar position.
+
+CHAPTERS
+0:00 Wait. That’s my voice?
+0:33 Air conduction
+0:47 Bone conduction
+1:10 Two paths
+1:24 What the phone records
+1:53 Tonal balance (same-take demo)
+2:38 Speaking vs listening
+3:02 Is that how others hear me?
+3:42 Unfamiliar isn’t bad
+3:59 Two routes to the inner ear
+4:17 Next time you press play
+
+SOURCES
+• Chalmers University of Technology — Groundbreaking research in bone conduction technology: https://www.chalmers.se/en/current/news/e2-groundbreaking-research-in-bone-conduction-technology/
+• The University of Tokyo — Simple questions and UTokyo (why does my recorded voice sound strange?): https://www.u-tokyo.ac.jp/focus/en/features/z1304_00237.html
+• Orepic, Kannape, Faivre & Blanke (2023), "Bone conduction facilitates self-other voice discrimination," Royal Society Open Science: https://pmc.ncbi.nlm.nih.gov/articles/PMC9929504/
+• Imperial College London — Scientists explain in more detail how we hear via bones in the skull: https://www.imperial.ac.uk/news/153374/scientists-explain-more-detail-hear-bones/
+
+The head diagrams are simplified illustrations, not anatomy. The before/after demo uses the same spoken take with only a subtle EQ change at matched loudness. It's an illustration, not an exact simulation of what anyone hears internally.
+
+CREDITS
+Narration: synthetic voice, Kokoro-82M (Apache-2.0).
+Illustrations: generated with Higgsfield. Diagrams and animation: made in code with Remotion.
+Fonts: Fredoka and Inter (SIL Open Font License). Sound effects: synthesised in code.

@@ -1,0 +1,394 @@
+{
+ "source": "ep003 FINAL narration (same recording), cut for the Short: L05,L16,L26,L27,L69,L71",
+ "notForPublication": false,
+ "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88 (Apache-2.0; approved channel voice)",
+ "audio": "audio/ep003/ep003_short.wav",
+ "durationSec": 25.89,
+ "lines": [
+  {
+   "id": "L05",
+   "text": "“Wait. That’s my voice?”",
+   "start": 0.39,
+   "end": 1.86,
+   "phrases": [
+    {
+     "text": "“Wait.",
+     "start": 0.39,
+     "end": 0.74
+    },
+    {
+     "text": "That’s my voice?”",
+     "start": 0.87,
+     "end": 1.86
+    }
+   ],
+   "words": [
+    {
+     "text": "“Wait.",
+     "start": 0.39,
+     "end": 0.74
+    },
+    {
+     "text": "That’s",
+     "start": 0.87,
+     "end": 1.26
+    },
+    {
+     "text": "my",
+     "start": 1.26,
+     "end": 1.47
+    },
+    {
+     "text": "voice?”",
+     "start": 1.47,
+     "end": 1.86
+    }
+   ]
+  },
+  {
+   "id": "L16",
+   "text": "Vibrations also travel through the bones and tissues of your head to your inner ear.",
+   "start": 2.45,
+   "end": 7.72,
+   "phrases": [
+    {
+     "text": "Vibrations also travel through the bones and tissues of your head to your inner ear.",
+     "start": 2.45,
+     "end": 7.72
+    }
+   ],
+   "words": [
+    {
+     "text": "Vibrations",
+     "start": 2.45,
+     "end": 3.112
+    },
+    {
+     "text": "also",
+     "start": 3.112,
+     "end": 3.429
+    },
+    {
+     "text": "travel",
+     "start": 3.429,
+     "end": 3.861
+    },
+    {
+     "text": "through",
+     "start": 3.861,
+     "end": 4.351
+    },
+    {
+     "text": "the",
+     "start": 4.351,
+     "end": 4.61
+    },
+    {
+     "text": "bones",
+     "start": 4.61,
+     "end": 4.984
+    },
+    {
+     "text": "and",
+     "start": 4.984,
+     "end": 5.243
+    },
+    {
+     "text": "tissues",
+     "start": 5.243,
+     "end": 5.733
+    },
+    {
+     "text": "of",
+     "start": 5.733,
+     "end": 5.935
+    },
+    {
+     "text": "your",
+     "start": 5.935,
+     "end": 6.251
+    },
+    {
+     "text": "head",
+     "start": 6.251,
+     "end": 6.568
+    },
+    {
+     "text": "to",
+     "start": 6.568,
+     "end": 6.77
+    },
+    {
+     "text": "your",
+     "start": 6.77,
+     "end": 7.086
+    },
+    {
+     "text": "inner",
+     "start": 7.086,
+     "end": 7.461
+    },
+    {
+     "text": "ear.",
+     "start": 7.461,
+     "end": 7.72
+    }
+   ]
+  },
+  {
+   "id": "L26",
+   "text": "An ordinary microphone records the sound reaching it through the air.",
+   "start": 8.31,
+   "end": 12.53,
+   "phrases": [
+    {
+     "text": "An ordinary microphone records the sound reaching it through the air.",
+     "start": 8.31,
+     "end": 12.53
+    }
+   ],
+   "words": [
+    {
+     "text": "An",
+     "start": 8.31,
+     "end": 8.508
+    },
+    {
+     "text": "ordinary",
+     "start": 8.508,
+     "end": 9.046
+    },
+    {
+     "text": "microphone",
+     "start": 9.046,
+     "end": 9.698
+    },
+    {
+     "text": "records",
+     "start": 9.698,
+     "end": 10.179
+    },
+    {
+     "text": "the",
+     "start": 10.179,
+     "end": 10.434
+    },
+    {
+     "text": "sound",
+     "start": 10.434,
+     "end": 10.802
+    },
+    {
+     "text": "reaching",
+     "start": 10.802,
+     "end": 11.34
+    },
+    {
+     "text": "it",
+     "start": 11.34,
+     "end": 11.539
+    },
+    {
+     "text": "through",
+     "start": 11.539,
+     "end": 12.02
+    },
+    {
+     "text": "the",
+     "start": 12.02,
+     "end": 12.275
+    },
+    {
+     "text": "air.",
+     "start": 12.275,
+     "end": 12.53
+    }
+   ]
+  },
+  {
+   "id": "L27",
+   "text": "It doesn’t capture and recreate the vibrations traveling through your head while you speak.",
+   "start": 13.12,
+   "end": 18.32,
+   "phrases": [
+    {
+     "text": "It doesn’t capture and recreate the vibrations traveling through your head while you speak.",
+     "start": 13.12,
+     "end": 18.32
+    }
+   ],
+   "words": [
+    {
+     "text": "It",
+     "start": 13.12,
+     "end": 13.308
+    },
+    {
+     "text": "doesn’t",
+     "start": 13.308,
+     "end": 13.71
+    },
+    {
+     "text": "capture",
+     "start": 13.71,
+     "end": 14.165
+    },
+    {
+     "text": "and",
+     "start": 14.165,
+     "end": 14.407
+    },
+    {
+     "text": "recreate",
+     "start": 14.407,
+     "end": 14.916
+    },
+    {
+     "text": "the",
+     "start": 14.916,
+     "end": 15.157
+    },
+    {
+     "text": "vibrations",
+     "start": 15.157,
+     "end": 15.774
+    },
+    {
+     "text": "traveling",
+     "start": 15.774,
+     "end": 16.336
+    },
+    {
+     "text": "through",
+     "start": 16.336,
+     "end": 16.792
+    },
+    {
+     "text": "your",
+     "start": 16.792,
+     "end": 17.087
+    },
+    {
+     "text": "head",
+     "start": 17.087,
+     "end": 17.382
+    },
+    {
+     "text": "while",
+     "start": 17.382,
+     "end": 17.73
+    },
+    {
+     "text": "you",
+     "start": 17.73,
+     "end": 17.972
+    },
+    {
+     "text": "speak.",
+     "start": 17.972,
+     "end": 18.32
+    }
+   ]
+  },
+  {
+   "id": "L69",
+   "text": "You’re hearing a familiar voice from a less familiar position.",
+   "start": 18.91,
+   "end": 22.38,
+   "phrases": [
+    {
+     "text": "You’re hearing a familiar voice from a less familiar position.",
+     "start": 18.91,
+     "end": 22.38
+    }
+   ],
+   "words": [
+    {
+     "text": "You’re",
+     "start": 18.91,
+     "end": 19.252
+    },
+    {
+     "text": "hearing",
+     "start": 19.252,
+     "end": 19.699
+    },
+    {
+     "text": "a",
+     "start": 19.699,
+     "end": 19.83
+    },
+    {
+     "text": "familiar",
+     "start": 19.83,
+     "end": 20.33
+    },
+    {
+     "text": "voice",
+     "start": 20.33,
+     "end": 20.671
+    },
+    {
+     "text": "from",
+     "start": 20.671,
+     "end": 20.96
+    },
+    {
+     "text": "a",
+     "start": 20.96,
+     "end": 21.092
+    },
+    {
+     "text": "less",
+     "start": 21.092,
+     "end": 21.381
+    },
+    {
+     "text": "familiar",
+     "start": 21.381,
+     "end": 21.881
+    },
+    {
+     "text": "position.",
+     "start": 21.881,
+     "end": 22.38
+    }
+   ]
+  },
+  {
+   "id": "L71",
+   "text": "That’s Why Is That?",
+   "start": 22.97,
+   "end": 24.14,
+   "phrases": [
+    {
+     "text": "That’s Why Is That?",
+     "start": 22.97,
+     "end": 24.14
+    }
+   ],
+   "words": [
+    {
+     "text": "That’s",
+     "start": 22.97,
+     "end": 23.35
+    },
+    {
+     "text": "Why",
+     "start": 23.35,
+     "end": 23.613
+    },
+    {
+     "text": "Is",
+     "start": 23.613,
+     "end": 23.818
+    },
+    {
+     "text": "That?",
+     "start": 23.818,
+     "end": 24.14
+    }
+   ]
+  }
+ ]
+}
