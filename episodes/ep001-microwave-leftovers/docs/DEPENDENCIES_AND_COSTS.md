@@ -9,7 +9,7 @@
 | D3 | Leftovers dish | Golden curry + rice (approved with the sheet) |
 | D4 | Remotion licence | **Free Licence**: you are an individual |
 | D5 | Full ~4.5-min build | **Done**: `Ep001Full`, all scenes timed to the final narration |
-| D6 | Durable storage | **Open**: download `out/why-is-that_ep001_final.zip`, or approve a private GitHub push |
+| D6 | Durable storage | **Done**: private repo `qmc371-rgb/WhyIsThat` (2026-11-17) |
 | D7 | Re-verify FDA/USDA live pages | **Open**: marked 🔁 in SOURCES.md (hosts blocked from this container) |
 | D8 | Word-level captions via Whisper | Optional; sentence-level SRT/VTT delivered |
 | D9 | Higgsfield output terms for your plan | **Open**: confirm before publishing |

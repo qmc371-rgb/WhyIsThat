@@ -109,7 +109,7 @@ Dec 23).
 
 1. **EP002 draft by Thu Nov 19, 6 p.m. ET** and **EP003 by Tue Nov 24, 6 p.m. ET**. Those two drafts
    gate the Dec 1 launch.
-2. ~~Somewhere permanent for the project~~: approved. Private GitHub repo `why-is-that`.
+2. ~~Somewhere permanent for the project~~: done. Private repo `qmc371-rgb/WhyIsThat`.
 3. **Higgsfield renewal date**, for the credit watch.
 4. **Upload + schedule** each READY episode in YouTube Studio before its go/no-go time.
    Holiday episodes (EP008, EP010) should be scheduled before Wed Dec 23.

@@ -1,5 +1,7 @@
 # Why Is That? — channel production project
 
+**Repository:** `github.com/qmc371-rgb/WhyIsThat` (private). Setup steps are in `CLAUDE.md`.
+
 A standalone project for the **Why Is That?** YouTube channel, kept **separate from Beyond the
 Bulkhead** (no shared folders, assets, Higgsfield projects or brand files).
 
@@ -51,7 +53,7 @@ python3 scripts/build_calendar.py         # regenerate dates (keeps status + don
 ## Commands
 ```bash
 npm install                                    # Remotion 4.0.539, React 19, fonts
-python3 -m venv tools/.venv && tools/.venv/bin/pip install kokoro-onnx==0.6.1 soundfile scipy pillow
+python3 -m venv tools/.venv && tools/.venv/bin/pip install -r tools/requirements.txt
 bash scripts/render_full.sh                    # -> out/final/…1080p.mp4 (about 30 min on 4 cores)
 bash scripts/render_opening.sh                 # -> out/preview/…mp4 (about 2 min on 4 cores)
 node scripts/stills.mjs Ep001Opening30 0.5 6.8 13.2 22.0   # review stills
