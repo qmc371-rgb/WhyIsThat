@@ -1,0 +1,20 @@
+date,category,item,vendor,quantity,unit,unit_cost_usd,total_usd,status,approval,notes
+2026-11-16,inspection,"Balance, workspace, project, model, voice and transaction lookups (read-only)",Higgsfield MCP,0,credits,0.049,0.00,spent,n/a,Read-only; balance unchanged at 389.47 before generation
+2026-11-16,inspection,Credit balance check (read-only),vidIQ MCP,0,credits,0,0.00,spent,n/a,Tool states 0 credits per call
+2026-11-16,narration,Temp narration L01-L06 for the opening preview (Kokoro-82M),local,1,render,0,0.00,spent,n/a,Superseded by final narration (same voice and settings)
+2026-11-16,narration,FINAL narration L01-L56 (Kokoro-82M int8 via kokoro-onnx; voice af_heart; speed 0.88),local,1,render,0,0.00,spent,approved by owner 2026-11-16,Apache-2.0 weights; option C chosen (A self-record and B ElevenLabs Starter not used)
+2026-11-16,audio,Synthesised SFX (8 files),local,8,file,0,0.00,spent,n/a,Generated in code; nothing to license
+2026-11-16,fonts,Fredoka + Inter,Fontsource (npm),2,family,0,0.00,spent,n/a,SIL OFL 1.1
+2026-11-16,software,Remotion 4.0.539,Remotion,1,seat,0,0.00,spent,confirmed,Free Licence: owner is an individual
+2026-11-16,assets,Higgsfield project created (Why Is That? EP001 pilot),Higgsfield,0,credits,0.049,0.00,spent,approved,Separate from Beyond the Bulkhead
+2026-11-16,assets,H1 kitchen plate (nano_banana_pro 4k),Higgsfield,4,credits,0.049,0.196,spent,approved,job 0c3997e5; first pass accepted
+2026-11-16,assets,H2 hero bowl x2 variants (2k),Higgsfield,4,credits,0.049,0.196,spent,approved,jobs e05100e2 (chosen) + dae0913d
+2026-11-16,assets,H3 top-down bowl (2k),Higgsfield,2,credits,0.049,0.098,spent,approved,job fe4cab40
+2026-11-16,assets,H4 hands passing bowl (2k),Higgsfield,2,credits,0.049,0.098,spent,approved,job c187c01b
+2026-11-16,assets,H5 heater analogy (2k),Higgsfield,2,credits,0.049,0.098,spent,approved,job 5ed2b56b
+2026-11-16,assets,H6 pool analogy (2k),Higgsfield,2,credits,0.049,0.098,spent,approved,job 2573a75e
+2026-11-16,render,Opening 30 s preview + full episode master + thumbnail + captions,local container,1,render set,0,0.00,spent,n/a,Remotion + ffmpeg in this session
+TOTAL,,Higgsfield credits used (16 of 40-credit cap; 0 retakes),Higgsfield,16,credits,0.049,0.784,spent,,Balance 389.47 -> 373.47; drawn from existing Plus allowance (no purchase)
+TOTAL,,Cash spent / purchases,,0,,,0.00,,,Nothing bought; nothing published
+TOTAL,,Pilot variable cost (credit-equivalent),,,,,0.784,,,Target <= $10 per pilot: met
+TOTAL,,New recurring monthly cost,,,,,0.00,,,Cap $100/month: met

@@ -1,0 +1,104 @@
+{
+  "project": "Higgsfield project 'Why Is That? — EP001 pilot' (42f68dae-e6fc-4ed9-99d3-70d7b481606c), separate from Beyond the Bulkhead",
+  "model_requested": "nano_banana_pro (job metadata reports nano_banana_2)",
+  "generated": "2026-11-16",
+  "credits_total": 16,
+  "retakes": 0,
+  "assets": [
+    {
+      "id": "H1",
+      "name": "Kitchen background plate",
+      "job_id": "0c3997e5-be92-4b74-a559-0cec35b24e09",
+      "credits": 4,
+      "settings": "16:9, 4k",
+      "file": "public/assets/higgsfield/H1_kitchen_plate_v1.png",
+      "render_file": "public/assets/higgsfield/H1_kitchen_plate_v1.jpg",
+      "size": [
+        5504,
+        3072
+      ],
+      "anchors_1080": {
+        "backsplash_top": 288,
+        "counter_back_edge": 657,
+        "counter_front_lip_bottom": 774
+      }
+    },
+    {
+      "id": "H2",
+      "name": "Hero bowl, three-quarter (variant A chosen)",
+      "job_id": "e05100e2-e1e5-4986-a27e-3417b118b8e7",
+      "alt_variant_job_id": "dae0913d-b7a4-4477-b5c6-c8d69ab1dc89",
+      "credits": 4,
+      "settings": "4:3, 2k, count 2, ref H1",
+      "file": "public/assets/higgsfield/H2_bowl_side_v1a.png",
+      "cutout": "public/assets/higgsfield/H2_bowl_side_cut.png",
+      "size": [
+        2400,
+        1792
+      ],
+      "anchors_px": {
+        "rimCx": 1200,
+        "rimCy": 736,
+        "rimRx": 684,
+        "rimRy": 319,
+        "footY": 1465
+      }
+    },
+    {
+      "id": "H3",
+      "name": "Same bowl, top-down",
+      "job_id": "fe4cab40-8d45-47c5-9a81-3f7bf24ed753",
+      "credits": 2,
+      "settings": "1:1, 2k, refs H2+H1",
+      "file": "public/assets/higgsfield/H3_bowl_top_v1.png",
+      "cutout": "public/assets/higgsfield/H3_bowl_top_cut.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "anchors_px": {
+        "cx": 1018.5,
+        "cy": 1023.5,
+        "r": 873.5
+      }
+    },
+    {
+      "id": "H4",
+      "name": "Hands passing the hot bowl",
+      "job_id": "c187c01b-bfae-43a8-95ad-507c63f4f41d",
+      "credits": 2,
+      "settings": "16:9, 2k, refs H2+H1",
+      "file": "public/assets/higgsfield/H4_hands_switch_v1.png",
+      "cutout": "public/assets/higgsfield/H4_hands_switch_cut.png",
+      "size": [
+        2752,
+        1536
+      ]
+    },
+    {
+      "id": "H5",
+      "name": "Heater analogy",
+      "job_id": "5ed2b56b-1f91-4987-8f22-a6801ece4fc1",
+      "credits": 2,
+      "settings": "16:9, 2k, ref H1",
+      "file": "public/assets/higgsfield/H5_heater_analogy_v1.png",
+      "size": [
+        2752,
+        1536
+      ]
+    },
+    {
+      "id": "H6",
+      "name": "Pool analogy",
+      "job_id": "2573a75e-b43b-4dfd-9fb1-9e32589ad699",
+      "credits": 2,
+      "settings": "16:9, 2k, ref H1",
+      "file": "public/assets/higgsfield/H6_pool_analogy_v1.png",
+      "size": [
+        2752,
+        1536
+      ]
+    }
+  ],
+  "commercial_terms": "Confirm Higgsfield output terms for the Plus plan before publishing (higgsfield.ai unreachable from this container)."
+}
