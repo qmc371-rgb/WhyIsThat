@@ -1,0 +1,9 @@
+{
+  "_note": "section_starts: line IDs that open a new section (they get section_pause). overrides: {'L06': 2.6} etc.",
+  "lead_in": 1.2,
+  "default": 0.6,
+  "section_pause": 1.0,
+  "section_starts": [],
+  "overrides": {},
+  "tail": 8.0
+}
