@@ -40,7 +40,9 @@ PRELAUNCH_FINISH = {1: datetime(2026, 11, 16, 23, 0, tzinfo=ET), 2: datetime(202
 EP_TOPICS = {1: "Why does reheated dinner heat unevenly? (microwave leftovers)"}
 # Owner-confirmed Shorts outside the Sunday-noon rule: id -> (release ET, source episode, finished-on ET, flag).
 # (The EP002 Short went into the regular S01 slot instead: Sun Dec 6, 12:00 PM ET.)
-EXTRA_SHORTS: dict = {}
+EXTRA_SHORTS: dict = {
+    "S-EP003": (datetime(2026, 12, 9, 12, 0, tzinfo=ET), "EP003", datetime(2026, 11, 17, 11, 30, tzinfo=ET), ""),  # owner: Wed Dec 9, 12:00 PM ET
+}
 
 
 def et(d: date, hh: int, mm: int = 0) -> datetime:

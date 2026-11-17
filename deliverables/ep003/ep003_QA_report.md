@@ -18,6 +18,6 @@ File: `ep003_why_is_that_voice_on_recordings_1080p.mp4` (90.9 MB, 4:54.7)
 | Chapters / description | 11 chapters from 0:00, all ≥ 10 s; description with sources, demo note and credits | ✅ |
 | Sources | claim map complete; 🔁 all four pages checked via search from this container, so re-check them live | ⚠️ owner check |
 | Costs | 8 Higgsfield credits (≈ $0.39) of the $10 cap; $0 cash; November to date $1.57 of $100 | ✅ |
-| Slot | Tue Dec 8, 2026, 6 p.m. ET is **planned, not scheduled** | ⏳ owner |
+| Slot | **Scheduled by the owner (2026-11-17): Tue Dec 8, 2026, 6:00 p.m. ET**; Short Wed Dec 9, 12:00 p.m. ET | ✅ |
 
 Not done by Claude: uploading, scheduling, publishing.

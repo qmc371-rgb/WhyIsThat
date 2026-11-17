@@ -1,15 +1,16 @@
 date,time,id,milestone,owner,note,done
 Mon 2026-11-16,11:00 PM ET,EP001,Final + QA gate (done),Claude,,yes
+Tue 2026-11-17,11:30 AM ET,S-EP003,Short final + QA gate,Claude,,yes
 Thu 2026-11-19,6:00 PM ET,EP002,Editorial draft (narration) due,You,,yes
 Sun 2026-11-22,12:00 PM ET,EP002,Review copy delivered,Claude,,yes
 Mon 2026-11-23,12:00 PM ET,EP002,Your review notes due,You,,yes
 Tue 2026-11-24,6:00 PM ET,EP003,Editorial draft (narration) due,You,,yes
 Wed 2026-11-25,12:00 PM ET,EP002,Final + QA gate (finish-by),Claude,,yes
 Fri 2026-11-27,12:00 PM ET,EP003,Review copy delivered,Claude,,yes
-Sat 2026-11-28,12:00 PM ET,EP003,Your review notes due,You,,
+Sat 2026-11-28,12:00 PM ET,EP003,Your review notes due,You,,yes
 Sat 2026-11-28,6:00 PM ET,EP004,Editorial draft (narration) due,You,,
 Sun 2026-11-29,6:00 PM ET,EP001,Go/no-go: upload scheduled + complete?,You + Claude,,yes
-Mon 2026-11-30,12:00 PM ET,EP003,Final + QA gate (finish-by),Claude,,
+Mon 2026-11-30,12:00 PM ET,EP003,Final + QA gate (finish-by),Claude,,yes
 Tue 2026-12-01,6:00 PM ET,EP001,"RELEASE (YouTube schedule, by you)",You,,
 Tue 2026-12-01,6:00 PM ET,EP004,Review copy delivered,Claude,,
 Wed 2026-12-02,6:00 PM ET,EP002,Go/no-go: upload scheduled + complete?,You + Claude,,yes
@@ -21,11 +22,13 @@ Fri 2026-12-04,6:00 PM ET,EP004,Final + QA gate (finish-by),Claude,,
 Sat 2026-12-05,6:00 PM ET,EP005,Review copy delivered,Claude,,
 Sat 2026-12-05,6:00 PM ET,EP006,Editorial draft (narration) due,You,,
 Sun 2026-12-06,12:00 PM ET,S01,RELEASE Short (by you),You,,
-Sun 2026-12-06,6:00 PM ET,EP003,Go/no-go: upload scheduled + complete?,You + Claude,,
+Sun 2026-12-06,6:00 PM ET,EP003,Go/no-go: upload scheduled + complete?,You + Claude,,yes
 Sun 2026-12-06,6:00 PM ET,EP005,Your review notes due,You,,
+Mon 2026-12-07,12:00 PM ET,S-EP003,Go/no-go: upload scheduled + complete?,You + Claude,,yes
 Tue 2026-12-08,6:00 PM ET,EP003,"RELEASE (YouTube schedule, by you)",You,,
 Tue 2026-12-08,6:00 PM ET,EP005,Final + QA gate (finish-by),Claude,,
 Tue 2026-12-08,6:00 PM ET,EP006,Review copy delivered,Claude,,
+Wed 2026-12-09,12:00 PM ET,S-EP003,RELEASE Short (by you),You,,
 Wed 2026-12-09,6:00 PM ET,EP004,Go/no-go: upload scheduled + complete?,You + Claude,,
 Wed 2026-12-09,6:00 PM ET,EP006,Your review notes due,You,,
 Wed 2026-12-09,6:00 PM ET,EP007,Editorial draft (narration) due,You,,
