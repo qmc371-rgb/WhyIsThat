@@ -1,9 +1,9 @@
 {
-  "_note": "section_starts: line IDs that open a new section (they get section_pause). overrides: {'L06': 2.6} etc.",
-  "lead_in": 1.2,
-  "default": 0.6,
-  "section_pause": 1.0,
-  "section_starts": [],
-  "overrides": {},
-  "tail": 8.0
+ "_note": "Same rhythm as EP001/EP002: 1.2 s lead-in, 0.6 s between lines, 1.0 s at section starts, a title beat after the narrator's 'Why is that?' (L10), 8 s end card.",
+ "lead_in": 1.2,
+ "default": 0.6,
+ "section_pause": 1.0,
+ "section_starts": ["L21", "L25", "L32", "L40", "L47", "L55", "L59", "L64", "L70"],
+ "overrides": {"L11": 2.4},
+ "tail": 8.0
 }

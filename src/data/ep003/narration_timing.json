@@ -1,7 +1,4481 @@
 {
-  "source": "PLACEHOLDER",
-  "notForPublication": true,
-  "audio": "",
-  "durationSec": 0,
-  "lines": []
+  "source": "FINAL_kokoro",
+  "notForPublication": false,
+  "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88 (Apache-2.0; approved channel voice)",
+  "audio": "audio/ep003/ep003_narration_kokoro.wav",
+  "durationSec": 289.63,
+  "wordTimingMethod": "exact line boundaries (per-paragraph synthesis); phrases pause-anchored; words proportional",
+  "sections": [
+    "L21",
+    "L25",
+    "L32",
+    "L40",
+    "L47",
+    "L55",
+    "L59",
+    "L64",
+    "L70"
+  ],
+  "lines": [
+    {
+      "id": "L01",
+      "text": "You record a quick message.",
+      "start": 1.2,
+      "end": 2.78,
+      "phrases": [
+        {
+          "text": "You record a quick message.",
+          "start": 1.2,
+          "end": 2.78
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 1.2,
+          "end": 1.441
+        },
+        {
+          "text": "record",
+          "start": 1.441,
+          "end": 1.843
+        },
+        {
+          "text": "a",
+          "start": 1.843,
+          "end": 1.977
+        },
+        {
+          "text": "quick",
+          "start": 1.977,
+          "end": 2.325
+        },
+        {
+          "text": "message.",
+          "start": 2.325,
+          "end": 2.78
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "text": "Nothing special. Just a few sentences.",
+      "start": 3.38,
+      "end": 6.02,
+      "phrases": [
+        {
+          "text": "Nothing special.",
+          "start": 3.38,
+          "end": 4.41
+        },
+        {
+          "text": "Just a few sentences.",
+          "start": 4.69,
+          "end": 6.02
+        }
+      ],
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 3.38,
+          "end": 3.895
+        },
+        {
+          "text": "special.",
+          "start": 3.895,
+          "end": 4.41
+        },
+        {
+          "text": "Just",
+          "start": 4.69,
+          "end": 5.008
+        },
+        {
+          "text": "a",
+          "start": 5.008,
+          "end": 5.153
+        },
+        {
+          "text": "few",
+          "start": 5.153,
+          "end": 5.413
+        },
+        {
+          "text": "sentences.",
+          "start": 5.413,
+          "end": 6.02
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "text": "Then you press play.",
+      "start": 6.62,
+      "end": 7.78,
+      "phrases": [
+        {
+          "text": "Then you press play.",
+          "start": 6.62,
+          "end": 7.78
+        }
+      ],
+      "words": [
+        {
+          "text": "Then",
+          "start": 6.62,
+          "end": 6.91
+        },
+        {
+          "text": "you",
+          "start": 6.91,
+          "end": 7.147
+        },
+        {
+          "text": "press",
+          "start": 7.147,
+          "end": 7.49
+        },
+        {
+          "text": "play.",
+          "start": 7.49,
+          "end": 7.78
+        }
+      ]
+    },
+    {
+      "id": "L04",
+      "text": "And immediately think…",
+      "start": 8.38,
+      "end": 9.73,
+      "phrases": [
+        {
+          "text": "And immediately think…",
+          "start": 8.38,
+          "end": 9.73
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 8.38,
+          "end": 8.639
+        },
+        {
+          "text": "immediately",
+          "start": 8.639,
+          "end": 9.357
+        },
+        {
+          "text": "think…",
+          "start": 9.357,
+          "end": 9.73
+        }
+      ]
+    },
+    {
+      "id": "L05",
+      "text": "“Wait. That’s my voice?”",
+      "start": 10.33,
+      "end": 11.8,
+      "phrases": [
+        {
+          "text": "“Wait.",
+          "start": 10.33,
+          "end": 10.68
+        },
+        {
+          "text": "That’s my voice?”",
+          "start": 10.81,
+          "end": 11.8
+        }
+      ],
+      "words": [
+        {
+          "text": "“Wait.",
+          "start": 10.33,
+          "end": 10.68
+        },
+        {
+          "text": "That’s",
+          "start": 10.81,
+          "end": 11.2
+        },
+        {
+          "text": "my",
+          "start": 11.2,
+          "end": 11.41
+        },
+        {
+          "text": "voice?”",
+          "start": 11.41,
+          "end": 11.8
+        }
+      ]
+    },
+    {
+      "id": "L06",
+      "text": "It sounds thinner. Maybe higher. Somehow less like you than the voice you’ve been hearing your entire life.",
+      "start": 12.4,
+      "end": 18.38,
+      "phrases": [
+        {
+          "text": "It sounds thinner.",
+          "start": 12.4,
+          "end": 13.29
+        },
+        {
+          "text": "Maybe higher.",
+          "start": 13.68,
+          "end": 14.384
+        },
+        {
+          "text": "Somehow less like you than the voice you’ve been hearing your entire life.",
+          "start": 14.384,
+          "end": 18.38
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 12.4,
+          "end": 12.56
+        },
+        {
+          "text": "sounds",
+          "start": 12.56,
+          "end": 12.902
+        },
+        {
+          "text": "thinner.",
+          "start": 12.902,
+          "end": 13.29
+        },
+        {
+          "text": "Maybe",
+          "start": 13.68,
+          "end": 14.007
+        },
+        {
+          "text": "higher.",
+          "start": 14.007,
+          "end": 14.384
+        },
+        {
+          "text": "Somehow",
+          "start": 14.384,
+          "end": 14.811
+        },
+        {
+          "text": "less",
+          "start": 14.811,
+          "end": 15.087
+        },
+        {
+          "text": "like",
+          "start": 15.087,
+          "end": 15.364
+        },
+        {
+          "text": "you",
+          "start": 15.364,
+          "end": 15.59
+        },
+        {
+          "text": "than",
+          "start": 15.59,
+          "end": 15.867
+        },
+        {
+          "text": "the",
+          "start": 15.867,
+          "end": 16.093
+        },
+        {
+          "text": "voice",
+          "start": 16.093,
+          "end": 16.42
+        },
+        {
+          "text": "you’ve",
+          "start": 16.42,
+          "end": 16.746
+        },
+        {
+          "text": "been",
+          "start": 16.746,
+          "end": 17.023
+        },
+        {
+          "text": "hearing",
+          "start": 17.023,
+          "end": 17.45
+        },
+        {
+          "text": "your",
+          "start": 17.45,
+          "end": 17.727
+        },
+        {
+          "text": "entire",
+          "start": 17.727,
+          "end": 18.104
+        },
+        {
+          "text": "life.",
+          "start": 18.104,
+          "end": 18.38
+        }
+      ]
+    },
+    {
+      "id": "L07",
+      "text": "Your first suspect is the phone.",
+      "start": 18.98,
+      "end": 20.83,
+      "phrases": [
+        {
+          "text": "Your first suspect is the phone.",
+          "start": 18.98,
+          "end": 20.83
+        }
+      ],
+      "words": [
+        {
+          "text": "Your",
+          "start": 18.98,
+          "end": 19.271
+        },
+        {
+          "text": "first",
+          "start": 19.271,
+          "end": 19.614
+        },
+        {
+          "text": "suspect",
+          "start": 19.614,
+          "end": 20.064
+        },
+        {
+          "text": "is",
+          "start": 20.064,
+          "end": 20.249
+        },
+        {
+          "text": "the",
+          "start": 20.249,
+          "end": 20.486
+        },
+        {
+          "text": "phone.",
+          "start": 20.486,
+          "end": 20.83
+        }
+      ]
+    },
+    {
+      "id": "L08",
+      "text": "But there’s something else involved.",
+      "start": 21.43,
+      "end": 23.14,
+      "phrases": [
+        {
+          "text": "But there’s something else involved.",
+          "start": 21.43,
+          "end": 23.14
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 21.43,
+          "end": 21.635
+        },
+        {
+          "text": "there’s",
+          "start": 21.635,
+          "end": 21.977
+        },
+        {
+          "text": "something",
+          "start": 21.977,
+          "end": 22.456
+        },
+        {
+          "text": "else",
+          "start": 22.456,
+          "end": 22.707
+        },
+        {
+          "text": "involved.",
+          "start": 22.707,
+          "end": 23.14
+        }
+      ]
+    },
+    {
+      "id": "L09",
+      "text": "When you speak, you get a version of your voice that nobody standing beside you hears in quite the same way.",
+      "start": 23.74,
+      "end": 29.73,
+      "phrases": [
+        {
+          "text": "When you speak,",
+          "start": 23.74,
+          "end": 24.44
+        },
+        {
+          "text": "you get a version of your voice that nobody standing beside you hears in quite the same way.",
+          "start": 24.75,
+          "end": 29.73
+        }
+      ],
+      "words": [
+        {
+          "text": "When",
+          "start": 23.74,
+          "end": 23.973
+        },
+        {
+          "text": "you",
+          "start": 23.973,
+          "end": 24.164
+        },
+        {
+          "text": "speak,",
+          "start": 24.164,
+          "end": 24.44
+        },
+        {
+          "text": "you",
+          "start": 24.75,
+          "end": 24.972
+        },
+        {
+          "text": "get",
+          "start": 24.972,
+          "end": 25.194
+        },
+        {
+          "text": "a",
+          "start": 25.194,
+          "end": 25.317
+        },
+        {
+          "text": "version",
+          "start": 25.317,
+          "end": 25.736
+        },
+        {
+          "text": "of",
+          "start": 25.736,
+          "end": 25.909
+        },
+        {
+          "text": "your",
+          "start": 25.909,
+          "end": 26.18
+        },
+        {
+          "text": "voice",
+          "start": 26.18,
+          "end": 26.5
+        },
+        {
+          "text": "that",
+          "start": 26.5,
+          "end": 26.772
+        },
+        {
+          "text": "nobody",
+          "start": 26.772,
+          "end": 27.141
+        },
+        {
+          "text": "standing",
+          "start": 27.141,
+          "end": 27.61
+        },
+        {
+          "text": "beside",
+          "start": 27.61,
+          "end": 27.98
+        },
+        {
+          "text": "you",
+          "start": 27.98,
+          "end": 28.201
+        },
+        {
+          "text": "hears",
+          "start": 28.201,
+          "end": 28.522
+        },
+        {
+          "text": "in",
+          "start": 28.522,
+          "end": 28.695
+        },
+        {
+          "text": "quite",
+          "start": 28.695,
+          "end": 29.015
+        },
+        {
+          "text": "the",
+          "start": 29.015,
+          "end": 29.237
+        },
+        {
+          "text": "same",
+          "start": 29.237,
+          "end": 29.508
+        },
+        {
+          "text": "way.",
+          "start": 29.508,
+          "end": 29.73
+        }
+      ]
+    },
+    {
+      "id": "L10",
+      "text": "Why is that?",
+      "start": 30.33,
+      "end": 31.25,
+      "phrases": [
+        {
+          "text": "Why is that?",
+          "start": 30.33,
+          "end": 31.25
+        }
+      ],
+      "words": [
+        {
+          "text": "Why",
+          "start": 30.33,
+          "end": 30.637
+        },
+        {
+          "text": "is",
+          "start": 30.637,
+          "end": 30.875
+        },
+        {
+          "text": "that?",
+          "start": 30.875,
+          "end": 31.25
+        }
+      ]
+    },
+    {
+      "id": "L11",
+      "text": "Start with an ordinary conversation.",
+      "start": 33.65,
+      "end": 35.87,
+      "phrases": [
+        {
+          "text": "Start with an ordinary conversation.",
+          "start": 33.65,
+          "end": 35.87
+        }
+      ],
+      "words": [
+        {
+          "text": "Start",
+          "start": 33.65,
+          "end": 34.025
+        },
+        {
+          "text": "with",
+          "start": 34.025,
+          "end": 34.342
+        },
+        {
+          "text": "an",
+          "start": 34.342,
+          "end": 34.544
+        },
+        {
+          "text": "ordinary",
+          "start": 34.544,
+          "end": 35.092
+        },
+        {
+          "text": "conversation.",
+          "start": 35.092,
+          "end": 35.87
+        }
+      ]
+    },
+    {
+      "id": "L12",
+      "text": "Your voice creates vibrations in the air.",
+      "start": 36.47,
+      "end": 38.84,
+      "phrases": [
+        {
+          "text": "Your voice creates vibrations in the air.",
+          "start": 36.47,
+          "end": 38.84
+        }
+      ],
+      "words": [
+        {
+          "text": "Your",
+          "start": 36.47,
+          "end": 36.763
+        },
+        {
+          "text": "voice",
+          "start": 36.763,
+          "end": 37.109
+        },
+        {
+          "text": "creates",
+          "start": 37.109,
+          "end": 37.562
+        },
+        {
+          "text": "vibrations",
+          "start": 37.562,
+          "end": 38.174
+        },
+        {
+          "text": "in",
+          "start": 38.174,
+          "end": 38.361
+        },
+        {
+          "text": "the",
+          "start": 38.361,
+          "end": 38.6
+        },
+        {
+          "text": "air.",
+          "start": 38.6,
+          "end": 38.84
+        }
+      ]
+    },
+    {
+      "id": "L13",
+      "text": "Those vibrations travel from your mouth to the people around you—and to your own ears.",
+      "start": 39.44,
+      "end": 44.6,
+      "phrases": [
+        {
+          "text": "Those vibrations travel from your mouth to the people around you—and to your own ears.",
+          "start": 39.44,
+          "end": 44.6
+        }
+      ],
+      "words": [
+        {
+          "text": "Those",
+          "start": 39.44,
+          "end": 39.803
+        },
+        {
+          "text": "vibrations",
+          "start": 39.803,
+          "end": 40.444
+        },
+        {
+          "text": "travel",
+          "start": 40.444,
+          "end": 40.862
+        },
+        {
+          "text": "from",
+          "start": 40.862,
+          "end": 41.169
+        },
+        {
+          "text": "your",
+          "start": 41.169,
+          "end": 41.476
+        },
+        {
+          "text": "mouth",
+          "start": 41.476,
+          "end": 41.839
+        },
+        {
+          "text": "to",
+          "start": 41.839,
+          "end": 42.034
+        },
+        {
+          "text": "the",
+          "start": 42.034,
+          "end": 42.285
+        },
+        {
+          "text": "people",
+          "start": 42.285,
+          "end": 42.703
+        },
+        {
+          "text": "around",
+          "start": 42.703,
+          "end": 43.122
+        },
+        {
+          "text": "you—and",
+          "start": 43.122,
+          "end": 43.54
+        },
+        {
+          "text": "to",
+          "start": 43.54,
+          "end": 43.735
+        },
+        {
+          "text": "your",
+          "start": 43.735,
+          "end": 44.042
+        },
+        {
+          "text": "own",
+          "start": 44.042,
+          "end": 44.293
+        },
+        {
+          "text": "ears.",
+          "start": 44.293,
+          "end": 44.6
+        }
+      ]
+    },
+    {
+      "id": "L14",
+      "text": "That route is called air conduction.",
+      "start": 45.2,
+      "end": 47.19,
+      "phrases": [
+        {
+          "text": "That route is called air conduction.",
+          "start": 45.2,
+          "end": 47.19
+        }
+      ],
+      "words": [
+        {
+          "text": "That",
+          "start": 45.2,
+          "end": 45.481
+        },
+        {
+          "text": "route",
+          "start": 45.481,
+          "end": 45.812
+        },
+        {
+          "text": "is",
+          "start": 45.812,
+          "end": 45.991
+        },
+        {
+          "text": "called",
+          "start": 45.991,
+          "end": 46.374
+        },
+        {
+          "text": "air",
+          "start": 46.374,
+          "end": 46.603
+        },
+        {
+          "text": "conduction.",
+          "start": 46.603,
+          "end": 47.19
+        }
+      ]
+    },
+    {
+      "id": "L15",
+      "text": "But while you’re speaking, another route is working at the same time.",
+      "start": 47.79,
+      "end": 51.42,
+      "phrases": [
+        {
+          "text": "But while you’re speaking,",
+          "start": 47.79,
+          "end": 48.9
+        },
+        {
+          "text": "another route is working at the same time.",
+          "start": 49.26,
+          "end": 51.42
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 47.79,
+          "end": 47.975
+        },
+        {
+          "text": "while",
+          "start": 47.975,
+          "end": 48.242
+        },
+        {
+          "text": "you’re",
+          "start": 48.242,
+          "end": 48.509
+        },
+        {
+          "text": "speaking,",
+          "start": 48.509,
+          "end": 48.9
+        },
+        {
+          "text": "another",
+          "start": 49.26,
+          "end": 49.659
+        },
+        {
+          "text": "route",
+          "start": 49.659,
+          "end": 49.964
+        },
+        {
+          "text": "is",
+          "start": 49.964,
+          "end": 50.129
+        },
+        {
+          "text": "working",
+          "start": 50.129,
+          "end": 50.528
+        },
+        {
+          "text": "at",
+          "start": 50.528,
+          "end": 50.692
+        },
+        {
+          "text": "the",
+          "start": 50.692,
+          "end": 50.903
+        },
+        {
+          "text": "same",
+          "start": 50.903,
+          "end": 51.162
+        },
+        {
+          "text": "time.",
+          "start": 51.162,
+          "end": 51.42
+        }
+      ]
+    },
+    {
+      "id": "L16",
+      "text": "Vibrations also travel through the bones and tissues of your head to your inner ear.",
+      "start": 52.02,
+      "end": 57.29,
+      "phrases": [
+        {
+          "text": "Vibrations also travel through the bones and tissues of your head to your inner ear.",
+          "start": 52.02,
+          "end": 57.29
+        }
+      ],
+      "words": [
+        {
+          "text": "Vibrations",
+          "start": 52.02,
+          "end": 52.682
+        },
+        {
+          "text": "also",
+          "start": 52.682,
+          "end": 52.999
+        },
+        {
+          "text": "travel",
+          "start": 52.999,
+          "end": 53.431
+        },
+        {
+          "text": "through",
+          "start": 53.431,
+          "end": 53.921
+        },
+        {
+          "text": "the",
+          "start": 53.921,
+          "end": 54.18
+        },
+        {
+          "text": "bones",
+          "start": 54.18,
+          "end": 54.554
+        },
+        {
+          "text": "and",
+          "start": 54.554,
+          "end": 54.813
+        },
+        {
+          "text": "tissues",
+          "start": 54.813,
+          "end": 55.303
+        },
+        {
+          "text": "of",
+          "start": 55.303,
+          "end": 55.505
+        },
+        {
+          "text": "your",
+          "start": 55.505,
+          "end": 55.821
+        },
+        {
+          "text": "head",
+          "start": 55.821,
+          "end": 56.138
+        },
+        {
+          "text": "to",
+          "start": 56.138,
+          "end": 56.34
+        },
+        {
+          "text": "your",
+          "start": 56.34,
+          "end": 56.656
+        },
+        {
+          "text": "inner",
+          "start": 56.656,
+          "end": 57.031
+        },
+        {
+          "text": "ear.",
+          "start": 57.031,
+          "end": 57.29
+        }
+      ]
+    },
+    {
+      "id": "L17",
+      "text": "That’s part of what’s called bone conduction.",
+      "start": 57.89,
+      "end": 60.13,
+      "phrases": [
+        {
+          "text": "That’s part of what’s called bone conduction.",
+          "start": 57.89,
+          "end": 60.13
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 57.89,
+          "end": 58.203
+        },
+        {
+          "text": "part",
+          "start": 58.203,
+          "end": 58.468
+        },
+        {
+          "text": "of",
+          "start": 58.468,
+          "end": 58.637
+        },
+        {
+          "text": "what’s",
+          "start": 58.637,
+          "end": 58.95
+        },
+        {
+          "text": "called",
+          "start": 58.95,
+          "end": 59.311
+        },
+        {
+          "text": "bone",
+          "start": 59.311,
+          "end": 59.576
+        },
+        {
+          "text": "conduction.",
+          "start": 59.576,
+          "end": 60.13
+        }
+      ]
+    },
+    {
+      "id": "L18",
+      "text": "So the voice you hear while talking is a combination.",
+      "start": 60.73,
+      "end": 63.93,
+      "phrases": [
+        {
+          "text": "So the voice you hear while talking is a combination.",
+          "start": 60.73,
+          "end": 63.93
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 60.73,
+          "end": 60.923
+        },
+        {
+          "text": "the",
+          "start": 60.923,
+          "end": 61.171
+        },
+        {
+          "text": "voice",
+          "start": 61.171,
+          "end": 61.53
+        },
+        {
+          "text": "you",
+          "start": 61.53,
+          "end": 61.778
+        },
+        {
+          "text": "hear",
+          "start": 61.778,
+          "end": 62.082
+        },
+        {
+          "text": "while",
+          "start": 62.082,
+          "end": 62.44
+        },
+        {
+          "text": "talking",
+          "start": 62.44,
+          "end": 62.909
+        },
+        {
+          "text": "is",
+          "start": 62.909,
+          "end": 63.102
+        },
+        {
+          "text": "a",
+          "start": 63.102,
+          "end": 63.24
+        },
+        {
+          "text": "combination.",
+          "start": 63.24,
+          "end": 63.93
+        }
+      ]
+    },
+    {
+      "id": "L19",
+      "text": "Sound arriving through the air.",
+      "start": 64.53,
+      "end": 66.1,
+      "phrases": [
+        {
+          "text": "Sound arriving through the air.",
+          "start": 64.53,
+          "end": 66.1
+        }
+      ],
+      "words": [
+        {
+          "text": "Sound",
+          "start": 64.53,
+          "end": 64.835
+        },
+        {
+          "text": "arriving",
+          "start": 64.835,
+          "end": 65.28
+        },
+        {
+          "text": "through",
+          "start": 65.28,
+          "end": 65.678
+        },
+        {
+          "text": "the",
+          "start": 65.678,
+          "end": 65.889
+        },
+        {
+          "text": "air.",
+          "start": 65.889,
+          "end": 66.1
+        }
+      ]
+    },
+    {
+      "id": "L20",
+      "text": "And vibrations arriving through your own head.",
+      "start": 66.7,
+      "end": 69.25,
+      "phrases": [
+        {
+          "text": "And vibrations arriving through your own head.",
+          "start": 66.7,
+          "end": 69.25
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 66.7,
+          "end": 66.932
+        },
+        {
+          "text": "vibrations",
+          "start": 66.932,
+          "end": 67.524
+        },
+        {
+          "text": "arriving",
+          "start": 67.524,
+          "end": 68.014
+        },
+        {
+          "text": "through",
+          "start": 68.014,
+          "end": 68.452
+        },
+        {
+          "text": "your",
+          "start": 68.452,
+          "end": 68.735
+        },
+        {
+          "text": "own",
+          "start": 68.735,
+          "end": 68.967
+        },
+        {
+          "text": "head.",
+          "start": 68.967,
+          "end": 69.25
+        }
+      ]
+    },
+    {
+      "id": "L21",
+      "text": "Imagine two paths on a map.",
+      "start": 70.25,
+      "end": 71.94,
+      "phrases": [
+        {
+          "text": "Imagine two paths on a map.",
+          "start": 70.25,
+          "end": 71.94
+        }
+      ],
+      "words": [
+        {
+          "text": "Imagine",
+          "start": 70.25,
+          "end": 70.729
+        },
+        {
+          "text": "two",
+          "start": 70.729,
+          "end": 70.982
+        },
+        {
+          "text": "paths",
+          "start": 70.982,
+          "end": 71.349
+        },
+        {
+          "text": "on",
+          "start": 71.349,
+          "end": 71.546
+        },
+        {
+          "text": "a",
+          "start": 71.546,
+          "end": 71.687
+        },
+        {
+          "text": "map.",
+          "start": 71.687,
+          "end": 71.94
+        }
+      ]
+    },
+    {
+      "id": "L22",
+      "text": "One leaves your mouth, travels through the room, and reaches your ears.",
+      "start": 72.54,
+      "end": 76.3,
+      "phrases": [
+        {
+          "text": "One leaves your mouth,",
+          "start": 72.54,
+          "end": 73.61
+        },
+        {
+          "text": "travels through the room,",
+          "start": 73.97,
+          "end": 75.05
+        },
+        {
+          "text": "and reaches your ears.",
+          "start": 75.14,
+          "end": 76.3
+        }
+      ],
+      "words": [
+        {
+          "text": "One",
+          "start": 72.54,
+          "end": 72.741
+        },
+        {
+          "text": "leaves",
+          "start": 72.741,
+          "end": 73.075
+        },
+        {
+          "text": "your",
+          "start": 73.075,
+          "end": 73.32
+        },
+        {
+          "text": "mouth,",
+          "start": 73.32,
+          "end": 73.61
+        },
+        {
+          "text": "travels",
+          "start": 73.97,
+          "end": 74.31
+        },
+        {
+          "text": "through",
+          "start": 74.31,
+          "end": 74.65
+        },
+        {
+          "text": "the",
+          "start": 74.65,
+          "end": 74.83
+        },
+        {
+          "text": "room,",
+          "start": 74.83,
+          "end": 75.05
+        },
+        {
+          "text": "and",
+          "start": 75.14,
+          "end": 75.358
+        },
+        {
+          "text": "reaches",
+          "start": 75.358,
+          "end": 75.768
+        },
+        {
+          "text": "your",
+          "start": 75.768,
+          "end": 76.034
+        },
+        {
+          "text": "ears.",
+          "start": 76.034,
+          "end": 76.3
+        }
+      ]
+    },
+    {
+      "id": "L23",
+      "text": "The other travels internally.",
+      "start": 76.9,
+      "end": 78.6,
+      "phrases": [
+        {
+          "text": "The other travels internally.",
+          "start": 76.9,
+          "end": 78.6
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 76.9,
+          "end": 77.147
+        },
+        {
+          "text": "other",
+          "start": 77.147,
+          "end": 77.503
+        },
+        {
+          "text": "travels",
+          "start": 77.503,
+          "end": 77.969
+        },
+        {
+          "text": "internally.",
+          "start": 77.969,
+          "end": 78.6
+        }
+      ]
+    },
+    {
+      "id": "L24",
+      "text": "Both contribute to the experience you recognize as your voice.",
+      "start": 79.2,
+      "end": 83.07,
+      "phrases": [
+        {
+          "text": "Both contribute to the experience you recognize as your voice.",
+          "start": 79.2,
+          "end": 83.07
+        }
+      ],
+      "words": [
+        {
+          "text": "Both",
+          "start": 79.2,
+          "end": 79.518
+        },
+        {
+          "text": "contribute",
+          "start": 79.518,
+          "end": 80.182
+        },
+        {
+          "text": "to",
+          "start": 80.182,
+          "end": 80.384
+        },
+        {
+          "text": "the",
+          "start": 80.384,
+          "end": 80.644
+        },
+        {
+          "text": "experience",
+          "start": 80.644,
+          "end": 81.308
+        },
+        {
+          "text": "you",
+          "start": 81.308,
+          "end": 81.568
+        },
+        {
+          "text": "recognize",
+          "start": 81.568,
+          "end": 82.175
+        },
+        {
+          "text": "as",
+          "start": 82.175,
+          "end": 82.377
+        },
+        {
+          "text": "your",
+          "start": 82.377,
+          "end": 82.695
+        },
+        {
+          "text": "voice.",
+          "start": 82.695,
+          "end": 83.07
+        }
+      ]
+    },
+    {
+      "id": "L25",
+      "text": "Now bring in the phone.",
+      "start": 84.07,
+      "end": 85.37,
+      "phrases": [
+        {
+          "text": "Now bring in the phone.",
+          "start": 84.07,
+          "end": 85.37
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 84.07,
+          "end": 84.299
+        },
+        {
+          "text": "bring",
+          "start": 84.299,
+          "end": 84.631
+        },
+        {
+          "text": "in",
+          "start": 84.631,
+          "end": 84.809
+        },
+        {
+          "text": "the",
+          "start": 84.809,
+          "end": 85.039
+        },
+        {
+          "text": "phone.",
+          "start": 85.039,
+          "end": 85.37
+        }
+      ]
+    },
+    {
+      "id": "L26",
+      "text": "An ordinary microphone records the sound reaching it through the air.",
+      "start": 85.97,
+      "end": 90.19,
+      "phrases": [
+        {
+          "text": "An ordinary microphone records the sound reaching it through the air.",
+          "start": 85.97,
+          "end": 90.19
+        }
+      ],
+      "words": [
+        {
+          "text": "An",
+          "start": 85.97,
+          "end": 86.168
+        },
+        {
+          "text": "ordinary",
+          "start": 86.168,
+          "end": 86.706
+        },
+        {
+          "text": "microphone",
+          "start": 86.706,
+          "end": 87.358
+        },
+        {
+          "text": "records",
+          "start": 87.358,
+          "end": 87.839
+        },
+        {
+          "text": "the",
+          "start": 87.839,
+          "end": 88.094
+        },
+        {
+          "text": "sound",
+          "start": 88.094,
+          "end": 88.462
+        },
+        {
+          "text": "reaching",
+          "start": 88.462,
+          "end": 89.0
+        },
+        {
+          "text": "it",
+          "start": 89.0,
+          "end": 89.199
+        },
+        {
+          "text": "through",
+          "start": 89.199,
+          "end": 89.68
+        },
+        {
+          "text": "the",
+          "start": 89.68,
+          "end": 89.935
+        },
+        {
+          "text": "air.",
+          "start": 89.935,
+          "end": 90.19
+        }
+      ]
+    },
+    {
+      "id": "L27",
+      "text": "It doesn’t capture and recreate the vibrations traveling through your head while you speak.",
+      "start": 90.79,
+      "end": 95.99,
+      "phrases": [
+        {
+          "text": "It doesn’t capture and recreate the vibrations traveling through your head while you speak.",
+          "start": 90.79,
+          "end": 95.99
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 90.79,
+          "end": 90.978
+        },
+        {
+          "text": "doesn’t",
+          "start": 90.978,
+          "end": 91.38
+        },
+        {
+          "text": "capture",
+          "start": 91.38,
+          "end": 91.835
+        },
+        {
+          "text": "and",
+          "start": 91.835,
+          "end": 92.077
+        },
+        {
+          "text": "recreate",
+          "start": 92.077,
+          "end": 92.586
+        },
+        {
+          "text": "the",
+          "start": 92.586,
+          "end": 92.827
+        },
+        {
+          "text": "vibrations",
+          "start": 92.827,
+          "end": 93.444
+        },
+        {
+          "text": "traveling",
+          "start": 93.444,
+          "end": 94.006
+        },
+        {
+          "text": "through",
+          "start": 94.006,
+          "end": 94.462
+        },
+        {
+          "text": "your",
+          "start": 94.462,
+          "end": 94.757
+        },
+        {
+          "text": "head",
+          "start": 94.757,
+          "end": 95.052
+        },
+        {
+          "text": "while",
+          "start": 95.052,
+          "end": 95.4
+        },
+        {
+          "text": "you",
+          "start": 95.4,
+          "end": 95.642
+        },
+        {
+          "text": "speak.",
+          "start": 95.642,
+          "end": 95.99
+        }
+      ]
+    },
+    {
+      "id": "L28",
+      "text": "When you play the recording through an ordinary speaker, you hear it through a different listening situation.",
+      "start": 96.59,
+      "end": 102.64,
+      "phrases": [
+        {
+          "text": "When you play the recording through an ordinary speaker,",
+          "start": 96.59,
+          "end": 99.28
+        },
+        {
+          "text": "you hear it through a different listening situation.",
+          "start": 99.77,
+          "end": 102.64
+        }
+      ],
+      "words": [
+        {
+          "text": "When",
+          "start": 96.59,
+          "end": 96.835
+        },
+        {
+          "text": "you",
+          "start": 96.835,
+          "end": 97.035
+        },
+        {
+          "text": "play",
+          "start": 97.035,
+          "end": 97.279
+        },
+        {
+          "text": "the",
+          "start": 97.279,
+          "end": 97.479
+        },
+        {
+          "text": "recording",
+          "start": 97.479,
+          "end": 97.946
+        },
+        {
+          "text": "through",
+          "start": 97.946,
+          "end": 98.324
+        },
+        {
+          "text": "an",
+          "start": 98.324,
+          "end": 98.48
+        },
+        {
+          "text": "ordinary",
+          "start": 98.48,
+          "end": 98.902
+        },
+        {
+          "text": "speaker,",
+          "start": 98.902,
+          "end": 99.28
+        },
+        {
+          "text": "you",
+          "start": 99.77,
+          "end": 100.001
+        },
+        {
+          "text": "hear",
+          "start": 100.001,
+          "end": 100.282
+        },
+        {
+          "text": "it",
+          "start": 100.282,
+          "end": 100.462
+        },
+        {
+          "text": "through",
+          "start": 100.462,
+          "end": 100.897
+        },
+        {
+          "text": "a",
+          "start": 100.897,
+          "end": 101.026
+        },
+        {
+          "text": "different",
+          "start": 101.026,
+          "end": 101.564
+        },
+        {
+          "text": "listening",
+          "start": 101.564,
+          "end": 102.102
+        },
+        {
+          "text": "situation.",
+          "start": 102.102,
+          "end": 102.64
+        }
+      ]
+    },
+    {
+      "id": "L29",
+      "text": "You’ve gone from being the person producing the sound to being a listener hearing it from a device.",
+      "start": 103.24,
+      "end": 108.74,
+      "phrases": [
+        {
+          "text": "You’ve gone from being the person producing the sound to being a listener hearing it from a device.",
+          "start": 103.24,
+          "end": 108.74
+        }
+      ],
+      "words": [
+        {
+          "text": "You’ve",
+          "start": 103.24,
+          "end": 103.574
+        },
+        {
+          "text": "gone",
+          "start": 103.574,
+          "end": 103.857
+        },
+        {
+          "text": "from",
+          "start": 103.857,
+          "end": 104.14
+        },
+        {
+          "text": "being",
+          "start": 104.14,
+          "end": 104.474
+        },
+        {
+          "text": "the",
+          "start": 104.474,
+          "end": 104.705
+        },
+        {
+          "text": "person",
+          "start": 104.705,
+          "end": 105.09
+        },
+        {
+          "text": "producing",
+          "start": 105.09,
+          "end": 105.63
+        },
+        {
+          "text": "the",
+          "start": 105.63,
+          "end": 105.861
+        },
+        {
+          "text": "sound",
+          "start": 105.861,
+          "end": 106.196
+        },
+        {
+          "text": "to",
+          "start": 106.196,
+          "end": 106.376
+        },
+        {
+          "text": "being",
+          "start": 106.376,
+          "end": 106.71
+        },
+        {
+          "text": "a",
+          "start": 106.71,
+          "end": 106.838
+        },
+        {
+          "text": "listener",
+          "start": 106.838,
+          "end": 107.326
+        },
+        {
+          "text": "hearing",
+          "start": 107.326,
+          "end": 107.763
+        },
+        {
+          "text": "it",
+          "start": 107.763,
+          "end": 107.943
+        },
+        {
+          "text": "from",
+          "start": 107.943,
+          "end": 108.226
+        },
+        {
+          "text": "a",
+          "start": 108.226,
+          "end": 108.354
+        },
+        {
+          "text": "device.",
+          "start": 108.354,
+          "end": 108.74
+        }
+      ]
+    },
+    {
+      "id": "L30",
+      "text": "The voice is yours.",
+      "start": 109.34,
+      "end": 110.61,
+      "phrases": [
+        {
+          "text": "The voice is yours.",
+          "start": 109.34,
+          "end": 110.61
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 109.34,
+          "end": 109.612
+        },
+        {
+          "text": "voice",
+          "start": 109.612,
+          "end": 110.005
+        },
+        {
+          "text": "is",
+          "start": 110.005,
+          "end": 110.217
+        },
+        {
+          "text": "yours.",
+          "start": 110.217,
+          "end": 110.61
+        }
+      ]
+    },
+    {
+      "id": "L31",
+      "text": "The route has changed.",
+      "start": 111.21,
+      "end": 112.47,
+      "phrases": [
+        {
+          "text": "The route has changed.",
+          "start": 111.21,
+          "end": 112.47
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 111.21,
+          "end": 111.446
+        },
+        {
+          "text": "route",
+          "start": 111.446,
+          "end": 111.787
+        },
+        {
+          "text": "has",
+          "start": 111.787,
+          "end": 112.024
+        },
+        {
+          "text": "changed.",
+          "start": 112.024,
+          "end": 112.47
+        }
+      ]
+    },
+    {
+      "id": "L32",
+      "text": "And that route affects the sound.",
+      "start": 113.47,
+      "end": 115.21,
+      "phrases": [
+        {
+          "text": "And that route affects the sound.",
+          "start": 113.47,
+          "end": 115.21
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 113.47,
+          "end": 113.687
+        },
+        {
+          "text": "that",
+          "start": 113.687,
+          "end": 113.953
+        },
+        {
+          "text": "route",
+          "start": 113.953,
+          "end": 114.267
+        },
+        {
+          "text": "affects",
+          "start": 114.267,
+          "end": 114.678
+        },
+        {
+          "text": "the",
+          "start": 114.678,
+          "end": 114.896
+        },
+        {
+          "text": "sound.",
+          "start": 114.896,
+          "end": 115.21
+        }
+      ]
+    },
+    {
+      "id": "L33",
+      "text": "Your head doesn’t transmit every part of your voice equally.",
+      "start": 115.81,
+      "end": 118.98,
+      "phrases": [
+        {
+          "text": "Your head doesn’t transmit every part of your voice equally.",
+          "start": 115.81,
+          "end": 118.98
+        }
+      ],
+      "words": [
+        {
+          "text": "Your",
+          "start": 115.81,
+          "end": 116.082
+        },
+        {
+          "text": "head",
+          "start": 116.082,
+          "end": 116.355
+        },
+        {
+          "text": "doesn’t",
+          "start": 116.355,
+          "end": 116.726
+        },
+        {
+          "text": "transmit",
+          "start": 116.726,
+          "end": 117.197
+        },
+        {
+          "text": "every",
+          "start": 117.197,
+          "end": 117.519
+        },
+        {
+          "text": "part",
+          "start": 117.519,
+          "end": 117.791
+        },
+        {
+          "text": "of",
+          "start": 117.791,
+          "end": 117.965
+        },
+        {
+          "text": "your",
+          "start": 117.965,
+          "end": 118.237
+        },
+        {
+          "text": "voice",
+          "start": 118.237,
+          "end": 118.559
+        },
+        {
+          "text": "equally.",
+          "start": 118.559,
+          "end": 118.98
+        }
+      ]
+    },
+    {
+      "id": "L34",
+      "text": "Bone and tissue change the balance of frequencies reaching your inner ear.",
+      "start": 119.58,
+      "end": 124.23,
+      "phrases": [
+        {
+          "text": "Bone and tissue change the balance of frequencies reaching your inner ear.",
+          "start": 119.58,
+          "end": 124.23
+        }
+      ],
+      "words": [
+        {
+          "text": "Bone",
+          "start": 119.58,
+          "end": 119.9
+        },
+        {
+          "text": "and",
+          "start": 119.9,
+          "end": 120.161
+        },
+        {
+          "text": "tissue",
+          "start": 120.161,
+          "end": 120.597
+        },
+        {
+          "text": "change",
+          "start": 120.597,
+          "end": 121.033
+        },
+        {
+          "text": "the",
+          "start": 121.033,
+          "end": 121.295
+        },
+        {
+          "text": "balance",
+          "start": 121.295,
+          "end": 121.789
+        },
+        {
+          "text": "of",
+          "start": 121.789,
+          "end": 121.992
+        },
+        {
+          "text": "frequencies",
+          "start": 121.992,
+          "end": 122.719
+        },
+        {
+          "text": "reaching",
+          "start": 122.719,
+          "end": 123.271
+        },
+        {
+          "text": "your",
+          "start": 123.271,
+          "end": 123.591
+        },
+        {
+          "text": "inner",
+          "start": 123.591,
+          "end": 123.968
+        },
+        {
+          "text": "ear.",
+          "start": 123.968,
+          "end": 124.23
+        }
+      ]
+    },
+    {
+      "id": "L35",
+      "text": "That helps explain why a recording can seem thinner or less full than the voice you expect.",
+      "start": 124.83,
+      "end": 130.33,
+      "phrases": [
+        {
+          "text": "That helps explain why a recording can seem thinner or less full than the voice you expect.",
+          "start": 124.83,
+          "end": 130.33
+        }
+      ],
+      "words": [
+        {
+          "text": "That",
+          "start": 124.83,
+          "end": 125.134
+        },
+        {
+          "text": "helps",
+          "start": 125.134,
+          "end": 125.493
+        },
+        {
+          "text": "explain",
+          "start": 125.493,
+          "end": 125.963
+        },
+        {
+          "text": "why",
+          "start": 125.963,
+          "end": 126.212
+        },
+        {
+          "text": "a",
+          "start": 126.212,
+          "end": 126.35
+        },
+        {
+          "text": "recording",
+          "start": 126.35,
+          "end": 126.931
+        },
+        {
+          "text": "can",
+          "start": 126.931,
+          "end": 127.179
+        },
+        {
+          "text": "seem",
+          "start": 127.179,
+          "end": 127.483
+        },
+        {
+          "text": "thinner",
+          "start": 127.483,
+          "end": 127.953
+        },
+        {
+          "text": "or",
+          "start": 127.953,
+          "end": 128.147
+        },
+        {
+          "text": "less",
+          "start": 128.147,
+          "end": 128.451
+        },
+        {
+          "text": "full",
+          "start": 128.451,
+          "end": 128.755
+        },
+        {
+          "text": "than",
+          "start": 128.755,
+          "end": 129.059
+        },
+        {
+          "text": "the",
+          "start": 129.059,
+          "end": 129.307
+        },
+        {
+          "text": "voice",
+          "start": 129.307,
+          "end": 129.667
+        },
+        {
+          "text": "you",
+          "start": 129.667,
+          "end": 129.915
+        },
+        {
+          "text": "expect.",
+          "start": 129.915,
+          "end": 130.33
+        }
+      ]
+    },
+    {
+      "id": "L36",
+      "text": "But this isn’t a universal bass setting we can copy exactly with one audio filter.",
+      "start": 130.93,
+      "end": 136.19,
+      "phrases": [
+        {
+          "text": "But this isn’t a universal bass setting we can copy exactly with one audio filter.",
+          "start": 130.93,
+          "end": 136.19
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 130.93,
+          "end": 131.197
+        },
+        {
+          "text": "this",
+          "start": 131.197,
+          "end": 131.524
+        },
+        {
+          "text": "isn’t",
+          "start": 131.524,
+          "end": 131.851
+        },
+        {
+          "text": "a",
+          "start": 131.851,
+          "end": 132.0
+        },
+        {
+          "text": "universal",
+          "start": 132.0,
+          "end": 132.624
+        },
+        {
+          "text": "bass",
+          "start": 132.624,
+          "end": 132.951
+        },
+        {
+          "text": "setting",
+          "start": 132.951,
+          "end": 133.456
+        },
+        {
+          "text": "we",
+          "start": 133.456,
+          "end": 133.664
+        },
+        {
+          "text": "can",
+          "start": 133.664,
+          "end": 133.931
+        },
+        {
+          "text": "copy",
+          "start": 133.931,
+          "end": 134.258
+        },
+        {
+          "text": "exactly",
+          "start": 134.258,
+          "end": 134.764
+        },
+        {
+          "text": "with",
+          "start": 134.764,
+          "end": 135.09
+        },
+        {
+          "text": "one",
+          "start": 135.09,
+          "end": 135.358
+        },
+        {
+          "text": "audio",
+          "start": 135.358,
+          "end": 135.744
+        },
+        {
+          "text": "filter.",
+          "start": 135.744,
+          "end": 136.19
+        }
+      ]
+    },
+    {
+      "id": "L37",
+      "text": "Researchers studying self-voice perception also point to the physical sensations accompanying bone conduction.",
+      "start": 136.79,
+      "end": 144.22,
+      "phrases": [
+        {
+          "text": "Researchers studying self-voice perception also point to the physical sensations accompanying bone conduction.",
+          "start": 136.79,
+          "end": 144.22
+        }
+      ],
+      "words": [
+        {
+          "text": "Researchers",
+          "start": 136.79,
+          "end": 137.594
+        },
+        {
+          "text": "studying",
+          "start": 137.594,
+          "end": 138.205
+        },
+        {
+          "text": "self-voice",
+          "start": 138.205,
+          "end": 138.881
+        },
+        {
+          "text": "perception",
+          "start": 138.881,
+          "end": 139.62
+        },
+        {
+          "text": "also",
+          "start": 139.62,
+          "end": 139.974
+        },
+        {
+          "text": "point",
+          "start": 139.974,
+          "end": 140.392
+        },
+        {
+          "text": "to",
+          "start": 140.392,
+          "end": 140.618
+        },
+        {
+          "text": "the",
+          "start": 140.618,
+          "end": 140.907
+        },
+        {
+          "text": "physical",
+          "start": 140.907,
+          "end": 141.518
+        },
+        {
+          "text": "sensations",
+          "start": 141.518,
+          "end": 142.258
+        },
+        {
+          "text": "accompanying",
+          "start": 142.258,
+          "end": 143.126
+        },
+        {
+          "text": "bone",
+          "start": 143.126,
+          "end": 143.48
+        },
+        {
+          "text": "conduction.",
+          "start": 143.48,
+          "end": 144.22
+        }
+      ]
+    },
+    {
+      "id": "L38",
+      "text": "Speaking involves more than passively listening to a sound.",
+      "start": 144.82,
+      "end": 148.01,
+      "phrases": [
+        {
+          "text": "Speaking involves more than passively listening to a sound.",
+          "start": 144.82,
+          "end": 148.01
+        }
+      ],
+      "words": [
+        {
+          "text": "Speaking",
+          "start": 144.82,
+          "end": 145.297
+        },
+        {
+          "text": "involves",
+          "start": 145.297,
+          "end": 145.774
+        },
+        {
+          "text": "more",
+          "start": 145.774,
+          "end": 146.051
+        },
+        {
+          "text": "than",
+          "start": 146.051,
+          "end": 146.327
+        },
+        {
+          "text": "passively",
+          "start": 146.327,
+          "end": 146.855
+        },
+        {
+          "text": "listening",
+          "start": 146.855,
+          "end": 147.382
+        },
+        {
+          "text": "to",
+          "start": 147.382,
+          "end": 147.558
+        },
+        {
+          "text": "a",
+          "start": 147.558,
+          "end": 147.683
+        },
+        {
+          "text": "sound.",
+          "start": 147.683,
+          "end": 148.01
+        }
+      ]
+    },
+    {
+      "id": "L39",
+      "text": "You’re producing it and experiencing its vibrations at the same time.",
+      "start": 148.61,
+      "end": 152.84,
+      "phrases": [
+        {
+          "text": "You’re producing it and experiencing its vibrations at the same time.",
+          "start": 148.61,
+          "end": 152.84
+        }
+      ],
+      "words": [
+        {
+          "text": "You’re",
+          "start": 148.61,
+          "end": 148.984
+        },
+        {
+          "text": "producing",
+          "start": 148.984,
+          "end": 149.588
+        },
+        {
+          "text": "it",
+          "start": 149.588,
+          "end": 149.79
+        },
+        {
+          "text": "and",
+          "start": 149.79,
+          "end": 150.049
+        },
+        {
+          "text": "experiencing",
+          "start": 150.049,
+          "end": 150.826
+        },
+        {
+          "text": "its",
+          "start": 150.826,
+          "end": 151.085
+        },
+        {
+          "text": "vibrations",
+          "start": 151.085,
+          "end": 151.747
+        },
+        {
+          "text": "at",
+          "start": 151.747,
+          "end": 151.948
+        },
+        {
+          "text": "the",
+          "start": 151.948,
+          "end": 152.207
+        },
+        {
+          "text": "same",
+          "start": 152.207,
+          "end": 152.523
+        },
+        {
+          "text": "time.",
+          "start": 152.523,
+          "end": 152.84
+        }
+      ]
+    },
+    {
+      "id": "L40",
+      "text": "Think about what that means.",
+      "start": 153.84,
+      "end": 155.28,
+      "phrases": [
+        {
+          "text": "Think about what that means.",
+          "start": 153.84,
+          "end": 155.28
+        }
+      ],
+      "words": [
+        {
+          "text": "Think",
+          "start": 153.84,
+          "end": 154.147
+        },
+        {
+          "text": "about",
+          "start": 154.147,
+          "end": 154.454
+        },
+        {
+          "text": "what",
+          "start": 154.454,
+          "end": 154.713
+        },
+        {
+          "text": "that",
+          "start": 154.713,
+          "end": 154.973
+        },
+        {
+          "text": "means.",
+          "start": 154.973,
+          "end": 155.28
+        }
+      ]
+    },
+    {
+      "id": "L41",
+      "text": "The voice most familiar to you is tied to the act of speaking.",
+      "start": 155.88,
+      "end": 159.59,
+      "phrases": [
+        {
+          "text": "The voice most familiar to you is tied to the act of speaking.",
+          "start": 155.88,
+          "end": 159.59
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 155.88,
+          "end": 156.124
+        },
+        {
+          "text": "voice",
+          "start": 156.124,
+          "end": 156.476
+        },
+        {
+          "text": "most",
+          "start": 156.476,
+          "end": 156.774
+        },
+        {
+          "text": "familiar",
+          "start": 156.774,
+          "end": 157.288
+        },
+        {
+          "text": "to",
+          "start": 157.288,
+          "end": 157.478
+        },
+        {
+          "text": "you",
+          "start": 157.478,
+          "end": 157.721
+        },
+        {
+          "text": "is",
+          "start": 157.721,
+          "end": 157.911
+        },
+        {
+          "text": "tied",
+          "start": 157.911,
+          "end": 158.209
+        },
+        {
+          "text": "to",
+          "start": 158.209,
+          "end": 158.398
+        },
+        {
+          "text": "the",
+          "start": 158.398,
+          "end": 158.642
+        },
+        {
+          "text": "act",
+          "start": 158.642,
+          "end": 158.886
+        },
+        {
+          "text": "of",
+          "start": 158.886,
+          "end": 159.075
+        },
+        {
+          "text": "speaking.",
+          "start": 159.075,
+          "end": 159.59
+        }
+      ]
+    },
+    {
+      "id": "L42",
+      "text": "A recording removes that act.",
+      "start": 160.19,
+      "end": 162.03,
+      "phrases": [
+        {
+          "text": "A recording removes that act.",
+          "start": 160.19,
+          "end": 162.03
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 160.19,
+          "end": 160.336
+        },
+        {
+          "text": "recording",
+          "start": 160.336,
+          "end": 160.949
+        },
+        {
+          "text": "removes",
+          "start": 160.949,
+          "end": 161.446
+        },
+        {
+          "text": "that",
+          "start": 161.446,
+          "end": 161.767
+        },
+        {
+          "text": "act.",
+          "start": 161.767,
+          "end": 162.03
+        }
+      ]
+    },
+    {
+      "id": "L43",
+      "text": "You hear the words without making them.",
+      "start": 162.63,
+      "end": 164.67,
+      "phrases": [
+        {
+          "text": "You hear the words without making them.",
+          "start": 162.63,
+          "end": 164.67
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 162.63,
+          "end": 162.846
+        },
+        {
+          "text": "hear",
+          "start": 162.846,
+          "end": 163.11
+        },
+        {
+          "text": "the",
+          "start": 163.11,
+          "end": 163.326
+        },
+        {
+          "text": "words",
+          "start": 163.326,
+          "end": 163.638
+        },
+        {
+          "text": "without",
+          "start": 163.638,
+          "end": 164.046
+        },
+        {
+          "text": "making",
+          "start": 164.046,
+          "end": 164.406
+        },
+        {
+          "text": "them.",
+          "start": 164.406,
+          "end": 164.67
+        }
+      ]
+    },
+    {
+      "id": "L44",
+      "text": "You hear the timing without controlling it.",
+      "start": 165.27,
+      "end": 167.62,
+      "phrases": [
+        {
+          "text": "You hear the timing without controlling it.",
+          "start": 165.27,
+          "end": 167.62
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 165.27,
+          "end": 165.497
+        },
+        {
+          "text": "hear",
+          "start": 165.497,
+          "end": 165.775
+        },
+        {
+          "text": "the",
+          "start": 165.775,
+          "end": 166.003
+        },
+        {
+          "text": "timing",
+          "start": 166.003,
+          "end": 166.382
+        },
+        {
+          "text": "without",
+          "start": 166.382,
+          "end": 166.811
+        },
+        {
+          "text": "controlling",
+          "start": 166.811,
+          "end": 167.443
+        },
+        {
+          "text": "it.",
+          "start": 167.443,
+          "end": 167.62
+        }
+      ]
+    },
+    {
+      "id": "L45",
+      "text": "And you hear your voice arriving from somewhere else.",
+      "start": 168.22,
+      "end": 170.79,
+      "phrases": [
+        {
+          "text": "And you hear your voice arriving from somewhere else.",
+          "start": 168.22,
+          "end": 170.79
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 168.22,
+          "end": 168.421
+        },
+        {
+          "text": "you",
+          "start": 168.421,
+          "end": 168.622
+        },
+        {
+          "text": "hear",
+          "start": 168.622,
+          "end": 168.868
+        },
+        {
+          "text": "your",
+          "start": 168.868,
+          "end": 169.114
+        },
+        {
+          "text": "voice",
+          "start": 169.114,
+          "end": 169.404
+        },
+        {
+          "text": "arriving",
+          "start": 169.404,
+          "end": 169.829
+        },
+        {
+          "text": "from",
+          "start": 169.829,
+          "end": 170.075
+        },
+        {
+          "text": "somewhere",
+          "start": 170.075,
+          "end": 170.544
+        },
+        {
+          "text": "else.",
+          "start": 170.544,
+          "end": 170.79
+        }
+      ]
+    },
+    {
+      "id": "L46",
+      "text": "That’s a surprisingly different experience for something you’ve been doing all your life.",
+      "start": 171.39,
+      "end": 176.07,
+      "phrases": [
+        {
+          "text": "That’s a surprisingly different experience for something you’ve been doing all your life.",
+          "start": 171.39,
+          "end": 176.07
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 171.39,
+          "end": 171.715
+        },
+        {
+          "text": "a",
+          "start": 171.715,
+          "end": 171.84
+        },
+        {
+          "text": "surprisingly",
+          "start": 171.84,
+          "end": 172.516
+        },
+        {
+          "text": "different",
+          "start": 172.516,
+          "end": 173.042
+        },
+        {
+          "text": "experience",
+          "start": 173.042,
+          "end": 173.617
+        },
+        {
+          "text": "for",
+          "start": 173.617,
+          "end": 173.843
+        },
+        {
+          "text": "something",
+          "start": 173.843,
+          "end": 174.368
+        },
+        {
+          "text": "you’ve",
+          "start": 174.368,
+          "end": 174.694
+        },
+        {
+          "text": "been",
+          "start": 174.694,
+          "end": 174.969
+        },
+        {
+          "text": "doing",
+          "start": 174.969,
+          "end": 175.294
+        },
+        {
+          "text": "all",
+          "start": 175.294,
+          "end": 175.519
+        },
+        {
+          "text": "your",
+          "start": 175.519,
+          "end": 175.795
+        },
+        {
+          "text": "life.",
+          "start": 175.795,
+          "end": 176.07
+        }
+      ]
+    },
+    {
+      "id": "L47",
+      "text": "This raises the question everyone asks next.",
+      "start": 177.07,
+      "end": 179.94,
+      "phrases": [
+        {
+          "text": "This raises the question everyone asks next.",
+          "start": 177.07,
+          "end": 179.94
+        }
+      ],
+      "words": [
+        {
+          "text": "This",
+          "start": 177.07,
+          "end": 177.402
+        },
+        {
+          "text": "raises",
+          "start": 177.402,
+          "end": 177.855
+        },
+        {
+          "text": "the",
+          "start": 177.855,
+          "end": 178.127
+        },
+        {
+          "text": "question",
+          "start": 178.127,
+          "end": 178.701
+        },
+        {
+          "text": "everyone",
+          "start": 178.701,
+          "end": 179.275
+        },
+        {
+          "text": "asks",
+          "start": 179.275,
+          "end": 179.608
+        },
+        {
+          "text": "next.",
+          "start": 179.608,
+          "end": 179.94
+        }
+      ]
+    },
+    {
+      "id": "L48",
+      "text": "“Is the recording what I really sound like to other people?”",
+      "start": 180.54,
+      "end": 183.75,
+      "phrases": [
+        {
+          "text": "“Is the recording what I really sound like to other people?”",
+          "start": 180.54,
+          "end": 183.75
+        }
+      ],
+      "words": [
+        {
+          "text": "“Is",
+          "start": 180.54,
+          "end": 180.717
+        },
+        {
+          "text": "the",
+          "start": 180.717,
+          "end": 180.944
+        },
+        {
+          "text": "recording",
+          "start": 180.944,
+          "end": 181.475
+        },
+        {
+          "text": "what",
+          "start": 181.475,
+          "end": 181.753
+        },
+        {
+          "text": "I",
+          "start": 181.753,
+          "end": 181.88
+        },
+        {
+          "text": "really",
+          "start": 181.88,
+          "end": 182.259
+        },
+        {
+          "text": "sound",
+          "start": 182.259,
+          "end": 182.587
+        },
+        {
+          "text": "like",
+          "start": 182.587,
+          "end": 182.865
+        },
+        {
+          "text": "to",
+          "start": 182.865,
+          "end": 183.042
+        },
+        {
+          "text": "other",
+          "start": 183.042,
+          "end": 183.371
+        },
+        {
+          "text": "people?”",
+          "start": 183.371,
+          "end": 183.75
+        }
+      ]
+    },
+    {
+      "id": "L49",
+      "text": "It captures the airborne sound that other listeners receive, rather than your private combination of airborne sound and internal vibrations.",
+      "start": 184.35,
+      "end": 193.58,
+      "phrases": [
+        {
+          "text": "It captures the airborne sound that other listeners receive,",
+          "start": 184.35,
+          "end": 188.08
+        },
+        {
+          "text": "rather than your private combination of airborne sound and internal vibrations.",
+          "start": 188.59,
+          "end": 193.58
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 184.35,
+          "end": 184.552
+        },
+        {
+          "text": "captures",
+          "start": 184.552,
+          "end": 185.102
+        },
+        {
+          "text": "the",
+          "start": 185.102,
+          "end": 185.362
+        },
+        {
+          "text": "airborne",
+          "start": 185.362,
+          "end": 185.911
+        },
+        {
+          "text": "sound",
+          "start": 185.911,
+          "end": 186.287
+        },
+        {
+          "text": "that",
+          "start": 186.287,
+          "end": 186.605
+        },
+        {
+          "text": "other",
+          "start": 186.605,
+          "end": 186.981
+        },
+        {
+          "text": "listeners",
+          "start": 186.981,
+          "end": 187.588
+        },
+        {
+          "text": "receive,",
+          "start": 187.588,
+          "end": 188.08
+        },
+        {
+          "text": "rather",
+          "start": 188.59,
+          "end": 189.033
+        },
+        {
+          "text": "than",
+          "start": 189.033,
+          "end": 189.358
+        },
+        {
+          "text": "your",
+          "start": 189.358,
+          "end": 189.682
+        },
+        {
+          "text": "private",
+          "start": 189.682,
+          "end": 190.184
+        },
+        {
+          "text": "combination",
+          "start": 190.184,
+          "end": 190.923
+        },
+        {
+          "text": "of",
+          "start": 190.923,
+          "end": 191.129
+        },
+        {
+          "text": "airborne",
+          "start": 191.129,
+          "end": 191.69
+        },
+        {
+          "text": "sound",
+          "start": 191.69,
+          "end": 192.074
+        },
+        {
+          "text": "and",
+          "start": 192.074,
+          "end": 192.34
+        },
+        {
+          "text": "internal",
+          "start": 192.34,
+          "end": 192.901
+        },
+        {
+          "text": "vibrations.",
+          "start": 192.901,
+          "end": 193.58
+        }
+      ]
+    },
+    {
+      "id": "L50",
+      "text": "In that sense, it gives you a different perspective on your voice.",
+      "start": 194.18,
+      "end": 197.43,
+      "phrases": [
+        {
+          "text": "In that sense,",
+          "start": 194.18,
+          "end": 195.0
+        },
+        {
+          "text": "it gives you a different perspective on your voice.",
+          "start": 195.28,
+          "end": 197.43
+        }
+      ],
+      "words": [
+        {
+          "text": "In",
+          "start": 194.18,
+          "end": 194.365
+        },
+        {
+          "text": "that",
+          "start": 194.365,
+          "end": 194.656
+        },
+        {
+          "text": "sense,",
+          "start": 194.656,
+          "end": 195.0
+        },
+        {
+          "text": "it",
+          "start": 195.28,
+          "end": 195.416
+        },
+        {
+          "text": "gives",
+          "start": 195.416,
+          "end": 195.667
+        },
+        {
+          "text": "you",
+          "start": 195.667,
+          "end": 195.842
+        },
+        {
+          "text": "a",
+          "start": 195.842,
+          "end": 195.939
+        },
+        {
+          "text": "different",
+          "start": 195.939,
+          "end": 196.345
+        },
+        {
+          "text": "perspective",
+          "start": 196.345,
+          "end": 196.83
+        },
+        {
+          "text": "on",
+          "start": 196.83,
+          "end": 196.965
+        },
+        {
+          "text": "your",
+          "start": 196.965,
+          "end": 197.178
+        },
+        {
+          "text": "voice.",
+          "start": 197.178,
+          "end": 197.43
+        }
+      ]
+    },
+    {
+      "id": "L51",
+      "text": "But a phone recording isn’t a perfect copy of another person’s experience.",
+      "start": 198.03,
+      "end": 202.77,
+      "phrases": [
+        {
+          "text": "But a phone recording isn’t a perfect copy of another person’s experience.",
+          "start": 198.03,
+          "end": 202.77
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 198.03,
+          "end": 198.303
+        },
+        {
+          "text": "a",
+          "start": 198.303,
+          "end": 198.455
+        },
+        {
+          "text": "phone",
+          "start": 198.455,
+          "end": 198.85
+        },
+        {
+          "text": "recording",
+          "start": 198.85,
+          "end": 199.488
+        },
+        {
+          "text": "isn’t",
+          "start": 199.488,
+          "end": 199.823
+        },
+        {
+          "text": "a",
+          "start": 199.823,
+          "end": 199.975
+        },
+        {
+          "text": "perfect",
+          "start": 199.975,
+          "end": 200.491
+        },
+        {
+          "text": "copy",
+          "start": 200.491,
+          "end": 200.825
+        },
+        {
+          "text": "of",
+          "start": 200.825,
+          "end": 201.038
+        },
+        {
+          "text": "another",
+          "start": 201.038,
+          "end": 201.555
+        },
+        {
+          "text": "person’s",
+          "start": 201.555,
+          "end": 202.071
+        },
+        {
+          "text": "experience.",
+          "start": 202.071,
+          "end": 202.77
+        }
+      ]
+    },
+    {
+      "id": "L52",
+      "text": "The microphone, its position, the room, any audio processing, and the playback speaker can all affect the result.",
+      "start": 203.37,
+      "end": 210.65,
+      "phrases": [
+        {
+          "text": "The microphone,",
+          "start": 203.37,
+          "end": 204.26
+        },
+        {
+          "text": "its position,",
+          "start": 204.57,
+          "end": 205.47
+        },
+        {
+          "text": "the room,",
+          "start": 205.57,
+          "end": 206.1
+        },
+        {
+          "text": "any audio processing,",
+          "start": 206.24,
+          "end": 207.512
+        },
+        {
+          "text": "and the playback speaker can all affect the result.",
+          "start": 207.512,
+          "end": 210.65
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 203.37,
+          "end": 203.62
+        },
+        {
+          "text": "microphone,",
+          "start": 203.62,
+          "end": 204.26
+        },
+        {
+          "text": "its",
+          "start": 204.57,
+          "end": 204.859
+        },
+        {
+          "text": "position,",
+          "start": 204.859,
+          "end": 205.47
+        },
+        {
+          "text": "the",
+          "start": 205.57,
+          "end": 205.808
+        },
+        {
+          "text": "room,",
+          "start": 205.808,
+          "end": 206.1
+        },
+        {
+          "text": "any",
+          "start": 206.24,
+          "end": 206.494
+        },
+        {
+          "text": "audio",
+          "start": 206.494,
+          "end": 206.862
+        },
+        {
+          "text": "processing,",
+          "start": 206.862,
+          "end": 207.512
+        },
+        {
+          "text": "and",
+          "start": 207.512,
+          "end": 207.767
+        },
+        {
+          "text": "the",
+          "start": 207.767,
+          "end": 208.021
+        },
+        {
+          "text": "playback",
+          "start": 208.021,
+          "end": 208.558
+        },
+        {
+          "text": "speaker",
+          "start": 208.558,
+          "end": 209.039
+        },
+        {
+          "text": "can",
+          "start": 209.039,
+          "end": 209.293
+        },
+        {
+          "text": "all",
+          "start": 209.293,
+          "end": 209.547
+        },
+        {
+          "text": "affect",
+          "start": 209.547,
+          "end": 209.972
+        },
+        {
+          "text": "the",
+          "start": 209.972,
+          "end": 210.226
+        },
+        {
+          "text": "result.",
+          "start": 210.226,
+          "end": 210.65
+        }
+      ]
+    },
+    {
+      "id": "L53",
+      "text": "A recording is a useful perspective.",
+      "start": 211.25,
+      "end": 213.62,
+      "phrases": [
+        {
+          "text": "A recording is a useful perspective.",
+          "start": 211.25,
+          "end": 213.62
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 211.25,
+          "end": 211.402
+        },
+        {
+          "text": "recording",
+          "start": 211.402,
+          "end": 212.04
+        },
+        {
+          "text": "is",
+          "start": 212.04,
+          "end": 212.253
+        },
+        {
+          "text": "a",
+          "start": 212.253,
+          "end": 212.405
+        },
+        {
+          "text": "useful",
+          "start": 212.405,
+          "end": 212.86
+        },
+        {
+          "text": "perspective.",
+          "start": 212.86,
+          "end": 213.62
+        }
+      ]
+    },
+    {
+      "id": "L54",
+      "text": "It isn’t a final verdict on your voice.",
+      "start": 214.22,
+      "end": 216.4,
+      "phrases": [
+        {
+          "text": "It isn’t a final verdict on your voice.",
+          "start": 214.22,
+          "end": 216.4
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 214.22,
+          "end": 214.402
+        },
+        {
+          "text": "isn’t",
+          "start": 214.402,
+          "end": 214.687
+        },
+        {
+          "text": "a",
+          "start": 214.687,
+          "end": 214.817
+        },
+        {
+          "text": "final",
+          "start": 214.817,
+          "end": 215.154
+        },
+        {
+          "text": "verdict",
+          "start": 215.154,
+          "end": 215.595
+        },
+        {
+          "text": "on",
+          "start": 215.595,
+          "end": 215.777
+        },
+        {
+          "text": "your",
+          "start": 215.777,
+          "end": 216.063
+        },
+        {
+          "text": "voice.",
+          "start": 216.063,
+          "end": 216.4
+        }
+      ]
+    },
+    {
+      "id": "L55",
+      "text": "And sounding unfamiliar doesn’t automatically mean sounding bad.",
+      "start": 217.4,
+      "end": 221.34,
+      "phrases": [
+        {
+          "text": "And sounding unfamiliar doesn’t automatically mean sounding bad.",
+          "start": 217.4,
+          "end": 221.34
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 217.4,
+          "end": 217.665
+        },
+        {
+          "text": "sounding",
+          "start": 217.665,
+          "end": 218.223
+        },
+        {
+          "text": "unfamiliar",
+          "start": 218.223,
+          "end": 218.9
+        },
+        {
+          "text": "doesn’t",
+          "start": 218.9,
+          "end": 219.341
+        },
+        {
+          "text": "automatically",
+          "start": 219.341,
+          "end": 220.193
+        },
+        {
+          "text": "mean",
+          "start": 220.193,
+          "end": 220.517
+        },
+        {
+          "text": "sounding",
+          "start": 220.517,
+          "end": 221.075
+        },
+        {
+          "text": "bad.",
+          "start": 221.075,
+          "end": 221.34
+        }
+      ]
+    },
+    {
+      "id": "L56",
+      "text": "The people you talk to aren’t expecting the internally transmitted version you hear.",
+      "start": 221.94,
+      "end": 226.7,
+      "phrases": [
+        {
+          "text": "The people you talk to aren’t expecting the internally transmitted version you hear.",
+          "start": 221.94,
+          "end": 226.7
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 221.94,
+          "end": 222.179
+        },
+        {
+          "text": "people",
+          "start": 222.179,
+          "end": 222.578
+        },
+        {
+          "text": "you",
+          "start": 222.578,
+          "end": 222.818
+        },
+        {
+          "text": "talk",
+          "start": 222.818,
+          "end": 223.11
+        },
+        {
+          "text": "to",
+          "start": 223.11,
+          "end": 223.296
+        },
+        {
+          "text": "aren’t",
+          "start": 223.296,
+          "end": 223.642
+        },
+        {
+          "text": "expecting",
+          "start": 223.642,
+          "end": 224.2
+        },
+        {
+          "text": "the",
+          "start": 224.2,
+          "end": 224.44
+        },
+        {
+          "text": "internally",
+          "start": 224.44,
+          "end": 225.051
+        },
+        {
+          "text": "transmitted",
+          "start": 225.051,
+          "end": 225.716
+        },
+        {
+          "text": "version",
+          "start": 225.716,
+          "end": 226.168
+        },
+        {
+          "text": "you",
+          "start": 226.168,
+          "end": 226.407
+        },
+        {
+          "text": "hear.",
+          "start": 226.407,
+          "end": 226.7
+        }
+      ]
+    },
+    {
+      "id": "L57",
+      "text": "They know you from the voice that reaches them.",
+      "start": 227.3,
+      "end": 229.58,
+      "phrases": [
+        {
+          "text": "They know you from the voice that reaches them.",
+          "start": 227.3,
+          "end": 229.58
+        }
+      ],
+      "words": [
+        {
+          "text": "They",
+          "start": 227.3,
+          "end": 227.543
+        },
+        {
+          "text": "know",
+          "start": 227.543,
+          "end": 227.787
+        },
+        {
+          "text": "you",
+          "start": 227.787,
+          "end": 227.986
+        },
+        {
+          "text": "from",
+          "start": 227.986,
+          "end": 228.23
+        },
+        {
+          "text": "the",
+          "start": 228.23,
+          "end": 228.429
+        },
+        {
+          "text": "voice",
+          "start": 228.429,
+          "end": 228.717
+        },
+        {
+          "text": "that",
+          "start": 228.717,
+          "end": 228.96
+        },
+        {
+          "text": "reaches",
+          "start": 228.96,
+          "end": 229.337
+        },
+        {
+          "text": "them.",
+          "start": 229.337,
+          "end": 229.58
+        }
+      ]
+    },
+    {
+      "id": "L58",
+      "text": "You’re the one encountering a different listening perspective.",
+      "start": 230.18,
+      "end": 233.51,
+      "phrases": [
+        {
+          "text": "You’re the one encountering a different listening perspective.",
+          "start": 230.18,
+          "end": 233.51
+        }
+      ],
+      "words": [
+        {
+          "text": "You’re",
+          "start": 230.18,
+          "end": 230.513
+        },
+        {
+          "text": "the",
+          "start": 230.513,
+          "end": 230.744
+        },
+        {
+          "text": "one",
+          "start": 230.744,
+          "end": 230.974
+        },
+        {
+          "text": "encountering",
+          "start": 230.974,
+          "end": 231.666
+        },
+        {
+          "text": "a",
+          "start": 231.666,
+          "end": 231.794
+        },
+        {
+          "text": "different",
+          "start": 231.794,
+          "end": 232.332
+        },
+        {
+          "text": "listening",
+          "start": 232.332,
+          "end": 232.87
+        },
+        {
+          "text": "perspective.",
+          "start": 232.87,
+          "end": 233.51
+        }
+      ]
+    },
+    {
+      "id": "L59",
+      "text": "The fascinating part is that hearing doesn’t depend only on the sound being produced.",
+      "start": 234.51,
+      "end": 239.7,
+      "phrases": [
+        {
+          "text": "The fascinating part is that hearing doesn’t depend only on the sound being produced.",
+          "start": 234.51,
+          "end": 239.7
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 234.51,
+          "end": 234.767
+        },
+        {
+          "text": "fascinating",
+          "start": 234.767,
+          "end": 235.48
+        },
+        {
+          "text": "part",
+          "start": 235.48,
+          "end": 235.793
+        },
+        {
+          "text": "is",
+          "start": 235.793,
+          "end": 235.993
+        },
+        {
+          "text": "that",
+          "start": 235.993,
+          "end": 236.307
+        },
+        {
+          "text": "hearing",
+          "start": 236.307,
+          "end": 236.791
+        },
+        {
+          "text": "doesn’t",
+          "start": 236.791,
+          "end": 237.219
+        },
+        {
+          "text": "depend",
+          "start": 237.219,
+          "end": 237.647
+        },
+        {
+          "text": "only",
+          "start": 237.647,
+          "end": 237.96
+        },
+        {
+          "text": "on",
+          "start": 237.96,
+          "end": 238.16
+        },
+        {
+          "text": "the",
+          "start": 238.16,
+          "end": 238.417
+        },
+        {
+          "text": "sound",
+          "start": 238.417,
+          "end": 238.787
+        },
+        {
+          "text": "being",
+          "start": 238.787,
+          "end": 239.158
+        },
+        {
+          "text": "produced.",
+          "start": 239.158,
+          "end": 239.7
+        }
+      ]
+    },
+    {
+      "id": "L60",
+      "text": "It also depends on how vibrations reach the inner ear.",
+      "start": 240.3,
+      "end": 243.68,
+      "phrases": [
+        {
+          "text": "It also depends on how vibrations reach the inner ear.",
+          "start": 240.3,
+          "end": 243.68
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 240.3,
+          "end": 240.501
+        },
+        {
+          "text": "also",
+          "start": 240.501,
+          "end": 240.816
+        },
+        {
+          "text": "depends",
+          "start": 240.816,
+          "end": 241.303
+        },
+        {
+          "text": "on",
+          "start": 241.303,
+          "end": 241.503
+        },
+        {
+          "text": "how",
+          "start": 241.503,
+          "end": 241.761
+        },
+        {
+          "text": "vibrations",
+          "start": 241.761,
+          "end": 242.42
+        },
+        {
+          "text": "reach",
+          "start": 242.42,
+          "end": 242.792
+        },
+        {
+          "text": "the",
+          "start": 242.792,
+          "end": 243.05
+        },
+        {
+          "text": "inner",
+          "start": 243.05,
+          "end": 243.422
+        },
+        {
+          "text": "ear.",
+          "start": 243.422,
+          "end": 243.68
+        }
+      ]
+    },
+    {
+      "id": "L61",
+      "text": "Air is one route.",
+      "start": 244.28,
+      "end": 245.46,
+      "phrases": [
+        {
+          "text": "Air is one route.",
+          "start": 244.28,
+          "end": 245.46
+        }
+      ],
+      "words": [
+        {
+          "text": "Air",
+          "start": 244.28,
+          "end": 244.559
+        },
+        {
+          "text": "is",
+          "start": 244.559,
+          "end": 244.777
+        },
+        {
+          "text": "one",
+          "start": 244.777,
+          "end": 245.056
+        },
+        {
+          "text": "route.",
+          "start": 245.056,
+          "end": 245.46
+        }
+      ]
+    },
+    {
+      "id": "L62",
+      "text": "Bone is another.",
+      "start": 246.06,
+      "end": 247.09,
+      "phrases": [
+        {
+          "text": "Bone is another.",
+          "start": 246.06,
+          "end": 247.09
+        }
+      ],
+      "words": [
+        {
+          "text": "Bone",
+          "start": 246.06,
+          "end": 246.384
+        },
+        {
+          "text": "is",
+          "start": 246.384,
+          "end": 246.59
+        },
+        {
+          "text": "another.",
+          "start": 246.59,
+          "end": 247.09
+        }
+      ]
+    },
+    {
+      "id": "L63",
+      "text": "Your own voice happens to give you an everyday experience of both.",
+      "start": 247.69,
+      "end": 251.47,
+      "phrases": [
+        {
+          "text": "Your own voice happens to give you an everyday experience of both.",
+          "start": 247.69,
+          "end": 251.47
+        }
+      ],
+      "words": [
+        {
+          "text": "Your",
+          "start": 247.69,
+          "end": 247.979
+        },
+        {
+          "text": "own",
+          "start": 247.979,
+          "end": 248.215
+        },
+        {
+          "text": "voice",
+          "start": 248.215,
+          "end": 248.556
+        },
+        {
+          "text": "happens",
+          "start": 248.556,
+          "end": 249.002
+        },
+        {
+          "text": "to",
+          "start": 249.002,
+          "end": 249.186
+        },
+        {
+          "text": "give",
+          "start": 249.186,
+          "end": 249.475
+        },
+        {
+          "text": "you",
+          "start": 249.475,
+          "end": 249.711
+        },
+        {
+          "text": "an",
+          "start": 249.711,
+          "end": 249.895
+        },
+        {
+          "text": "everyday",
+          "start": 249.895,
+          "end": 250.394
+        },
+        {
+          "text": "experience",
+          "start": 250.394,
+          "end": 250.997
+        },
+        {
+          "text": "of",
+          "start": 250.997,
+          "end": 251.181
+        },
+        {
+          "text": "both.",
+          "start": 251.181,
+          "end": 251.47
+        }
+      ]
+    },
+    {
+      "id": "L64",
+      "text": "So next time you press play and think, “That can’t be me”…",
+      "start": 252.47,
+      "end": 255.67,
+      "phrases": [
+        {
+          "text": "So next time you press play and think,",
+          "start": 252.47,
+          "end": 254.24
+        },
+        {
+          "text": "“That can’t be me”…",
+          "start": 254.59,
+          "end": 255.67
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 252.47,
+          "end": 252.617
+        },
+        {
+          "text": "next",
+          "start": 252.617,
+          "end": 252.849
+        },
+        {
+          "text": "time",
+          "start": 252.849,
+          "end": 253.081
+        },
+        {
+          "text": "you",
+          "start": 253.081,
+          "end": 253.271
+        },
+        {
+          "text": "press",
+          "start": 253.271,
+          "end": 253.545
+        },
+        {
+          "text": "play",
+          "start": 253.545,
+          "end": 253.776
+        },
+        {
+          "text": "and",
+          "start": 253.776,
+          "end": 253.966
+        },
+        {
+          "text": "think,",
+          "start": 253.966,
+          "end": 254.24
+        },
+        {
+          "text": "“That",
+          "start": 254.59,
+          "end": 254.92
+        },
+        {
+          "text": "can’t",
+          "start": 254.92,
+          "end": 255.25
+        },
+        {
+          "text": "be",
+          "start": 255.25,
+          "end": 255.46
+        },
+        {
+          "text": "me”…",
+          "start": 255.46,
+          "end": 255.67
+        }
+      ]
+    },
+    {
+      "id": "L65",
+      "text": "Remember the two paths.",
+      "start": 256.27,
+      "end": 257.72,
+      "phrases": [
+        {
+          "text": "Remember the two paths.",
+          "start": 256.27,
+          "end": 257.72
+        }
+      ],
+      "words": [
+        {
+          "text": "Remember",
+          "start": 256.27,
+          "end": 256.821
+        },
+        {
+          "text": "the",
+          "start": 256.821,
+          "end": 257.082
+        },
+        {
+          "text": "two",
+          "start": 257.082,
+          "end": 257.343
+        },
+        {
+          "text": "paths.",
+          "start": 257.343,
+          "end": 257.72
+        }
+      ]
+    },
+    {
+      "id": "L66",
+      "text": "While speaking, you hear sound traveling through the room and vibrations traveling through your head.",
+      "start": 258.32,
+      "end": 263.98,
+      "phrases": [
+        {
+          "text": "While speaking,",
+          "start": 258.32,
+          "end": 259.07
+        },
+        {
+          "text": "you hear sound traveling through the room and vibrations traveling through your head.",
+          "start": 259.39,
+          "end": 263.98
+        }
+      ],
+      "words": [
+        {
+          "text": "While",
+          "start": 258.32,
+          "end": 258.625
+        },
+        {
+          "text": "speaking,",
+          "start": 258.625,
+          "end": 259.07
+        },
+        {
+          "text": "you",
+          "start": 259.39,
+          "end": 259.616
+        },
+        {
+          "text": "hear",
+          "start": 259.616,
+          "end": 259.892
+        },
+        {
+          "text": "sound",
+          "start": 259.892,
+          "end": 260.218
+        },
+        {
+          "text": "traveling",
+          "start": 260.218,
+          "end": 260.744
+        },
+        {
+          "text": "through",
+          "start": 260.744,
+          "end": 261.171
+        },
+        {
+          "text": "the",
+          "start": 261.171,
+          "end": 261.397
+        },
+        {
+          "text": "room",
+          "start": 261.397,
+          "end": 261.672
+        },
+        {
+          "text": "and",
+          "start": 261.672,
+          "end": 261.898
+        },
+        {
+          "text": "vibrations",
+          "start": 261.898,
+          "end": 262.475
+        },
+        {
+          "text": "traveling",
+          "start": 262.475,
+          "end": 263.002
+        },
+        {
+          "text": "through",
+          "start": 263.002,
+          "end": 263.428
+        },
+        {
+          "text": "your",
+          "start": 263.428,
+          "end": 263.704
+        },
+        {
+          "text": "head.",
+          "start": 263.704,
+          "end": 263.98
+        }
+      ]
+    },
+    {
+      "id": "L67",
+      "text": "An ordinary recording doesn’t recreate that same combination.",
+      "start": 264.58,
+      "end": 268.61,
+      "phrases": [
+        {
+          "text": "An ordinary recording doesn’t recreate that same combination.",
+          "start": 264.58,
+          "end": 268.61
+        }
+      ],
+      "words": [
+        {
+          "text": "An",
+          "start": 264.58,
+          "end": 264.8
+        },
+        {
+          "text": "ordinary",
+          "start": 264.8,
+          "end": 265.399
+        },
+        {
+          "text": "recording",
+          "start": 265.399,
+          "end": 266.06
+        },
+        {
+          "text": "doesn’t",
+          "start": 266.06,
+          "end": 266.532
+        },
+        {
+          "text": "recreate",
+          "start": 266.532,
+          "end": 267.13
+        },
+        {
+          "text": "that",
+          "start": 267.13,
+          "end": 267.477
+        },
+        {
+          "text": "same",
+          "start": 267.477,
+          "end": 267.823
+        },
+        {
+          "text": "combination.",
+          "start": 267.823,
+          "end": 268.61
+        }
+      ]
+    },
+    {
+      "id": "L68",
+      "text": "You haven’t suddenly acquired a strange new voice.",
+      "start": 269.21,
+      "end": 271.86,
+      "phrases": [
+        {
+          "text": "You haven’t suddenly acquired a strange new voice.",
+          "start": 269.21,
+          "end": 271.86
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 269.21,
+          "end": 269.435
+        },
+        {
+          "text": "haven’t",
+          "start": 269.435,
+          "end": 269.81
+        },
+        {
+          "text": "suddenly",
+          "start": 269.81,
+          "end": 270.285
+        },
+        {
+          "text": "acquired",
+          "start": 270.285,
+          "end": 270.76
+        },
+        {
+          "text": "a",
+          "start": 270.76,
+          "end": 270.885
+        },
+        {
+          "text": "strange",
+          "start": 270.885,
+          "end": 271.31
+        },
+        {
+          "text": "new",
+          "start": 271.31,
+          "end": 271.535
+        },
+        {
+          "text": "voice.",
+          "start": 271.535,
+          "end": 271.86
+        }
+      ]
+    },
+    {
+      "id": "L69",
+      "text": "You’re hearing a familiar voice from a less familiar position.",
+      "start": 272.46,
+      "end": 275.93,
+      "phrases": [
+        {
+          "text": "You’re hearing a familiar voice from a less familiar position.",
+          "start": 272.46,
+          "end": 275.93
+        }
+      ],
+      "words": [
+        {
+          "text": "You’re",
+          "start": 272.46,
+          "end": 272.802
+        },
+        {
+          "text": "hearing",
+          "start": 272.802,
+          "end": 273.249
+        },
+        {
+          "text": "a",
+          "start": 273.249,
+          "end": 273.38
+        },
+        {
+          "text": "familiar",
+          "start": 273.38,
+          "end": 273.88
+        },
+        {
+          "text": "voice",
+          "start": 273.88,
+          "end": 274.221
+        },
+        {
+          "text": "from",
+          "start": 274.221,
+          "end": 274.51
+        },
+        {
+          "text": "a",
+          "start": 274.51,
+          "end": 274.642
+        },
+        {
+          "text": "less",
+          "start": 274.642,
+          "end": 274.931
+        },
+        {
+          "text": "familiar",
+          "start": 274.931,
+          "end": 275.431
+        },
+        {
+          "text": "position.",
+          "start": 275.431,
+          "end": 275.93
+        }
+      ]
+    },
+    {
+      "id": "L70",
+      "text": "Everyday things. Surprising explanations.",
+      "start": 276.93,
+      "end": 279.86,
+      "phrases": [
+        {
+          "text": "Everyday things.",
+          "start": 276.93,
+          "end": 277.89
+        },
+        {
+          "text": "Surprising explanations.",
+          "start": 278.16,
+          "end": 279.86
+        }
+      ],
+      "words": [
+        {
+          "text": "Everyday",
+          "start": 276.93,
+          "end": 277.466
+        },
+        {
+          "text": "things.",
+          "start": 277.466,
+          "end": 277.89
+        },
+        {
+          "text": "Surprising",
+          "start": 278.16,
+          "end": 278.942
+        },
+        {
+          "text": "explanations.",
+          "start": 278.942,
+          "end": 279.86
+        }
+      ]
+    },
+    {
+      "id": "L71",
+      "text": "That’s Why Is That?",
+      "start": 280.46,
+      "end": 281.63,
+      "phrases": [
+        {
+          "text": "That’s Why Is That?",
+          "start": 280.46,
+          "end": 281.63
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 280.46,
+          "end": 280.84
+        },
+        {
+          "text": "Why",
+          "start": 280.84,
+          "end": 281.103
+        },
+        {
+          "text": "Is",
+          "start": 281.103,
+          "end": 281.308
+        },
+        {
+          "text": "That?",
+          "start": 281.308,
+          "end": 281.63
+        }
+      ]
+    }
+  ]
 }
