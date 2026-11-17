@@ -1,6 +1,6 @@
 # EP003 — Higgsfield prompt sheet (Why Does Your Voice Sound Weird on Recordings?)
 
-**Status: AWAITING APPROVAL — nothing generated.** The brief allows at most **4 new** assets: one
+**Status: APPROVED by the owner 2026-11-17; C1–C4 generated (8 credits, first pass, 0 retakes).** The brief allows at most **4 new** assets: one
 consistent illustrated adult character and their smartphone only. The head diagram, both sound
 routes (yellow = through air, cyan = through bone and tissue), the inner ear, waveforms and all
 labels are drawn in code. Cost preflight, Nano Banana Pro 2K: **2 credits per image** (≈ $0.049

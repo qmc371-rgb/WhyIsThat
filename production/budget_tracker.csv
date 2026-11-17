@@ -1,4 +1,4 @@
 month,cap_usd,warn_at_usd,stop_and_ask_at_usd,mains_finishing,shorts_releasing,projected_typical_usd,projected_ceiling_usd,actual_to_date_usd,cash_usd,credits_typical,credits_ceiling,status,notes
-2026-11,100,50,80,3,0,2.35,4.70,1.176,0.00,48,96,OK,Actual: EP001 16 credits + EP002 8 credits (24 credits); EP003 projected
+2026-11,100,50,80,3,0,2.35,4.70,1.568,0.00,48,96,OK,Actual: EP001 16 + EP002 8 + EP003 8 credits (32)
 2026-12,100,50,80,9,4,7.25,17.84,0.000,0.00,148,364,OK,incl. one-time vertical kitchen plate for Shorts (~4 credits)
 2027-01,100,50,80,6,5,4.70,11.76,0.000,0.00,96,240,OK,mains finishing in January within the calendar horizon

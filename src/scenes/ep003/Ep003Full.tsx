@@ -256,9 +256,10 @@ const BalanceScene: React.FC = () => {
       <GridBg />
       <Shot from={0} to={le('L35') + 0.1}>
         <svg width={1920} height={1080} style={{position: 'absolute', inset: 0}}>
-          <Bars x={520} title="WHILE SPEAKING" color={C.gold} levels={[0.95, 0.8, 0.6]} at={w('L34', 0)} />
+          <Bars x={520} title="WHILE SPEAKING" color={C.gold} levels={[0.95, 0.8, 0.6]} at={w('L33', 2)} />
           <Bars x={1080} title="ON A RECORDING" color={C.paper} levels={[0.6, 0.8, 0.62]} at={w('L35', 5)} />
         </svg>
+        <Pin label={[960, 150]} side="center" k="YOUR HEAD DOESN’T TRANSMIT" v="EVERY PART OF YOUR VOICE EQUALLY" at={w('L33', 1)} until={w('L34', 2)} size={34} />
         <Pin label={[960, 150]} side="center" k="BONE AND TISSUE CHANGE" v="THE BALANCE OF FREQUENCIES" at={w('L34', 3)} size={34} />
         <Pin label={[960, 880]} side="center" k="ONE REASON A RECORDING CAN SEEM" v="THINNER · LESS FULL" at={w('L35', 7)} size={32} tone="white" />
         <SimpleTag schematic text="Simplified illustration. Tonal balance shown qualitatively, not measured." />
@@ -406,7 +407,7 @@ const HearingScene: React.FC = () => {
       <GridBg />
       <svg width={1920} height={1080} style={{position: 'absolute', inset: 0}}>
         <HeadBase vib={ramp(t, w('L62', 0), w('L62', 0) + 0.5)} />
-        <LiveRoutes air={[w('L61', 0), 1e9]} bone={[w('L62', 0), 1e9]} />
+        <LiveRoutes air={[w('L60', 4), 1e9]} bone={[w('L60', 4) + 0.4, 1e9]} />
         <GoldRing x={HP.inner[0]} y={HP.inner[1]} r={44} at={w('L60', 7)} />
       </svg>
       <Pin target={HP.inner} label={[60, 300]} k="HEARING DEPENDS ON HOW VIBRATIONS" v="REACH THE INNER EAR" at={w('L60', 4)} size={28} />
@@ -469,6 +470,12 @@ const Outro: React.FC = () => {
 };
 
 /* ================================ composition ================================ */
+/** Slow, subtle push-in over each section, so no still hold freezes the picture. */
+const Drift: React.FC<{from: number; to: number; children: React.ReactNode}> = ({from, to, children}) => {
+  const t = useT();
+  const s = 1 + 0.035 * ramp(t, from, Math.min(to, from + 40), Easing.linear);
+  return <AbsoluteFill style={{transform: `scale(${s})`}}>{children}</AbsoluteFill>;
+};
 export const ep003Windows = () => ({
   air: ls('L11') - 0.35,
   bone: ls('L15') - 0.35,
@@ -537,7 +544,7 @@ export const Ep003Full: React.FC<{showDraftBug: boolean; showCaptions: boolean}>
       </Shot>
       {ORDER.map(([k], i) => (
         <Shot key={k} from={W[k]} to={next(i)} fadeIn={0.35}>
-          {scenes[k]}
+          <Drift from={W[k] - 0.35} to={next(i)}>{scenes[k]}</Drift>
         </Shot>
       ))}
       {showCaptions && <CaptionOverlay captions={ep003Captions} />}
