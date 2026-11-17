@@ -18,6 +18,8 @@ Higgsfield projects or brand assets.
   ElevenLabs free-tier speech is not approved for this commercial channel.
 - **Schedule:** mains Tue + Fri 6 p.m. ET, one Short Sun noon ET, a two-video buffer
   (`production/PRODUCTION_PLAN.md`). **Flag delays; never ship unfinished work to keep a slot.**
+  A read-only daily status check already runs at 5:39 p.m. ET (scheduled task "Why Is That daily
+  status"); don't create a duplicate. Push status/`done` updates so it sees them.
 - Never display credentials.
 
 ## Brand

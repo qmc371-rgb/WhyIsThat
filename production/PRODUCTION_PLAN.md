@@ -10,6 +10,10 @@ Mar 14, 2027 (22:00 UTC after).
 Files: `release_schedule.csv` (slots + status), `production_milestones.csv` (every dated gate, `done`
 column), `why_is_that_calendar.ics` (import into any calendar), `budget_tracker.csv`, `status_report.md`.
 Run `python3 scripts/plan_status.py` for buffer health, overdue gates (FLAGS) and month-to-date spend.
+**Daily status check:** the scheduled task "Why Is That daily status" (`trig_01FdEWnoUziFRQpZrtD9Ciwp`)
+runs `plan_status.py` read-only every day at **5:39 p.m. ET** in a fresh session on the WhyIsThat
+environment. It sends a push notification that leads with **ALL CLEAR** or **ACTION NEEDED**.
+It reads what's on GitHub, so push status and `done` updates for it to see them.
 Regenerate dates with `python3 scripts/build_calendar.py` (keeps your `done` and `status` marks).
 
 ## 1. Buffer rule
