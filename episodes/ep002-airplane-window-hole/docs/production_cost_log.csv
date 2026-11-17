@@ -1,0 +1,9 @@
+date,category,item,vendor,quantity,unit,unit_cost_usd,total_usd,status,approval,notes
+2026-11-17,inspection,"Higgsfield balance + cost preflight (get_cost: 2 cr per 2K, 4 cr per 4K image)",Higgsfield MCP,0,credits,0.049,0.00,spent,n/a,Read-only; balance 373.47 before generation
+2026-11-17,narration,"FINAL narration L01-L61 (Kokoro-82M int8 via kokoro-onnx; voice af_heart; speed 0.88)",local,1,render,0,0.00,spent,approved channel voice (owner 2026-11-16),Apache-2.0 weights re-verified 2026-11-17 (model card + kokoro-onnx README); 274.8 s incl. 8 s end card
+2026-11-17,assets,W1 passenger in a window seat (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-17 (prompt sheet),job c53e05cb; first pass accepted
+2026-11-17,assets,W2 window close-up (nano_banana_pro 4k),Higgsfield,4,credits,0.049,0.196,spent,approved by owner 2026-11-17 (prompt sheet),job ffb19cf2; first pass accepted; hole drawn in code
+2026-11-17,assets,W3 generic airliner climbing (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-17 (prompt sheet),job 284c69a8; first pass accepted; no livery/logos
+2026-11-17,audio,"Synthesised SFX (2 new: cabin ambience, glint; EP001 whoosh + title chime reused)",local,2,file,0,0.00,spent,n/a,Generated in code; nothing to license
+2026-11-17,fonts,Fredoka + Inter (reused),Fontsource (npm),2,family,0,0.00,spent,n/a,SIL OFL 1.1
+2026-11-17,software,Remotion 4.0.539 (reused),Remotion,1,seat,0,0.00,spent,confirmed,Free Licence: owner is an individual

@@ -1,0 +1,9 @@
+{
+  "_note": "Mirrors EP001: 1.2 s lead-in, 0.6 s between lines, 1.0 s at section starts, a title-card beat after the hook question (L07), 8 s end card.",
+  "lead_in": 1.2,
+  "default": 0.6,
+  "section_pause": 1.0,
+  "section_starts": ["L12", "L15", "L19", "L30", "L39", "L43", "L48", "L56", "L60"],
+  "overrides": {"L07": 2.4},
+  "tail": 8.0
+}

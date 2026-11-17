@@ -114,7 +114,7 @@ def main() -> None:
             prev = {(r["id"], r["milestone"]): r.get("done", "") for r in csv.DictReader(f)}
     for m in milestones:
         m["done"] = prev.get((m["id"], m["milestone"])) or ("yes" if m["milestone"].startswith("Final + QA gate (done)") else "")
-    prev_status = {}
+    prev_status, prev_rows = {}, {}
     if (OUT / "release_schedule.csv").exists():
         with open(OUT / "release_schedule.csv", encoding="utf-8") as f:
             prev_rows = {r["id"]: r for r in csv.DictReader(f)}
@@ -125,6 +125,9 @@ def main() -> None:
                 r["topic"] = old
     for r in schedule:
         r["status"] = prev_status.get(r["id"], r["status"])
+        old_flag = prev_rows.get(r["id"], {}).get("flag", "")
+        if not r["flag"] and old_flag.startswith("SLOT NOT CONFIRMED"):
+            r["flag"] = old_flag  # owner hasn't confirmed this slot yet: keep the flag across regenerations
     schedule.sort(key=lambda r: r["utc"])
     milestones.sort(key=lambda r: datetime.strptime(r["date"][4:] + " " + r["time"].replace(" ET", ""), "%Y-%m-%d %I:%M %p"))
     with open(OUT / "release_schedule.csv", "w", newline="", encoding="utf-8") as f:

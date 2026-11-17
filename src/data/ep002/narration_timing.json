@@ -1,0 +1,4211 @@
+{
+  "source": "FINAL_kokoro",
+  "notForPublication": false,
+  "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88 (Apache-2.0; approved channel voice)",
+  "audio": "audio/ep002/ep002_narration_kokoro.wav",
+  "durationSec": 274.79,
+  "wordTimingMethod": "exact line boundaries (per-paragraph synthesis); phrases pause-anchored; words proportional",
+  "sections": [
+    "L12",
+    "L15",
+    "L19",
+    "L30",
+    "L39",
+    "L43",
+    "L48",
+    "L56",
+    "L60"
+  ],
+  "lines": [
+    {
+      "id": "L01",
+      "text": "You’re sitting by the airplane window.",
+      "start": 1.2,
+      "end": 3.15,
+      "phrases": [
+        {
+          "text": "You’re sitting by the airplane window.",
+          "start": 1.2,
+          "end": 3.15
+        }
+      ],
+      "words": [
+        {
+          "text": "You’re",
+          "start": 1.2,
+          "end": 1.517
+        },
+        {
+          "text": "sitting",
+          "start": 1.517,
+          "end": 1.931
+        },
+        {
+          "text": "by",
+          "start": 1.931,
+          "end": 2.102
+        },
+        {
+          "text": "the",
+          "start": 2.102,
+          "end": 2.321
+        },
+        {
+          "text": "airplane",
+          "start": 2.321,
+          "end": 2.784
+        },
+        {
+          "text": "window.",
+          "start": 2.784,
+          "end": 3.15
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "text": "You look past the wing, admire the clouds… and notice something strange.",
+      "start": 3.75,
+      "end": 7.9,
+      "phrases": [
+        {
+          "text": "You look past the wing,",
+          "start": 3.75,
+          "end": 4.89
+        },
+        {
+          "text": "admire the clouds… and notice something strange.",
+          "start": 5.05,
+          "end": 7.9
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 3.75,
+          "end": 3.951
+        },
+        {
+          "text": "look",
+          "start": 3.951,
+          "end": 4.197
+        },
+        {
+          "text": "past",
+          "start": 4.197,
+          "end": 4.443
+        },
+        {
+          "text": "the",
+          "start": 4.443,
+          "end": 4.644
+        },
+        {
+          "text": "wing,",
+          "start": 4.644,
+          "end": 4.89
+        },
+        {
+          "text": "admire",
+          "start": 5.05,
+          "end": 5.473
+        },
+        {
+          "text": "the",
+          "start": 5.473,
+          "end": 5.727
+        },
+        {
+          "text": "clouds…",
+          "start": 5.727,
+          "end": 6.15
+        },
+        {
+          "text": "and",
+          "start": 6.15,
+          "end": 6.404
+        },
+        {
+          "text": "notice",
+          "start": 6.404,
+          "end": 6.828
+        },
+        {
+          "text": "something",
+          "start": 6.828,
+          "end": 7.42
+        },
+        {
+          "text": "strange.",
+          "start": 7.42,
+          "end": 7.9
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "text": "There’s a tiny hole in the window.",
+      "start": 8.5,
+      "end": 10.3,
+      "phrases": [
+        {
+          "text": "There’s a tiny hole in the window.",
+          "start": 8.5,
+          "end": 10.3
+        }
+      ],
+      "words": [
+        {
+          "text": "There’s",
+          "start": 8.5,
+          "end": 8.87
+        },
+        {
+          "text": "a",
+          "start": 8.87,
+          "end": 8.993
+        },
+        {
+          "text": "tiny",
+          "start": 8.993,
+          "end": 9.264
+        },
+        {
+          "text": "hole",
+          "start": 9.264,
+          "end": 9.536
+        },
+        {
+          "text": "in",
+          "start": 9.536,
+          "end": 9.708
+        },
+        {
+          "text": "the",
+          "start": 9.708,
+          "end": 9.93
+        },
+        {
+          "text": "window.",
+          "start": 9.93,
+          "end": 10.3
+        }
+      ]
+    },
+    {
+      "id": "L04",
+      "text": "On the ground, a hole in your window usually means something needs fixing.",
+      "start": 10.9,
+      "end": 15.13,
+      "phrases": [
+        {
+          "text": "On the ground,",
+          "start": 10.9,
+          "end": 11.7
+        },
+        {
+          "text": "a hole in your window usually means something needs fixing.",
+          "start": 12.0,
+          "end": 15.13
+        }
+      ],
+      "words": [
+        {
+          "text": "On",
+          "start": 10.9,
+          "end": 11.081
+        },
+        {
+          "text": "the",
+          "start": 11.081,
+          "end": 11.313
+        },
+        {
+          "text": "ground,",
+          "start": 11.313,
+          "end": 11.7
+        },
+        {
+          "text": "a",
+          "start": 12.0,
+          "end": 12.122
+        },
+        {
+          "text": "hole",
+          "start": 12.122,
+          "end": 12.391
+        },
+        {
+          "text": "in",
+          "start": 12.391,
+          "end": 12.562
+        },
+        {
+          "text": "your",
+          "start": 12.562,
+          "end": 12.831
+        },
+        {
+          "text": "window",
+          "start": 12.831,
+          "end": 13.198
+        },
+        {
+          "text": "usually",
+          "start": 13.198,
+          "end": 13.614
+        },
+        {
+          "text": "means",
+          "start": 13.614,
+          "end": 13.932
+        },
+        {
+          "text": "something",
+          "start": 13.932,
+          "end": 14.445
+        },
+        {
+          "text": "needs",
+          "start": 14.445,
+          "end": 14.763
+        },
+        {
+          "text": "fixing.",
+          "start": 14.763,
+          "end": 15.13
+        }
+      ]
+    },
+    {
+      "id": "L05",
+      "text": "On an airplane, it raises a much more interesting question.",
+      "start": 15.73,
+      "end": 19.35,
+      "phrases": [
+        {
+          "text": "On an airplane,",
+          "start": 15.73,
+          "end": 16.71
+        },
+        {
+          "text": "it raises a much more interesting question.",
+          "start": 17.06,
+          "end": 19.35
+        }
+      ],
+      "words": [
+        {
+          "text": "On",
+          "start": 15.73,
+          "end": 15.938
+        },
+        {
+          "text": "an",
+          "start": 15.938,
+          "end": 16.146
+        },
+        {
+          "text": "airplane,",
+          "start": 16.146,
+          "end": 16.71
+        },
+        {
+          "text": "it",
+          "start": 17.06,
+          "end": 17.232
+        },
+        {
+          "text": "raises",
+          "start": 17.232,
+          "end": 17.602
+        },
+        {
+          "text": "a",
+          "start": 17.602,
+          "end": 17.725
+        },
+        {
+          "text": "much",
+          "start": 17.725,
+          "end": 17.996
+        },
+        {
+          "text": "more",
+          "start": 17.996,
+          "end": 18.267
+        },
+        {
+          "text": "interesting",
+          "start": 18.267,
+          "end": 18.882
+        },
+        {
+          "text": "question.",
+          "start": 18.882,
+          "end": 19.35
+        }
+      ]
+    },
+    {
+      "id": "L06",
+      "text": "Why would engineers deliberately put a hole in something that helps keep cabin pressure inside?",
+      "start": 19.95,
+      "end": 25.35,
+      "phrases": [
+        {
+          "text": "Why would engineers deliberately put a hole in something that helps keep cabin pressure inside?",
+          "start": 19.95,
+          "end": 25.35
+        }
+      ],
+      "words": [
+        {
+          "text": "Why",
+          "start": 19.95,
+          "end": 20.187
+        },
+        {
+          "text": "would",
+          "start": 20.187,
+          "end": 20.53
+        },
+        {
+          "text": "engineers",
+          "start": 20.53,
+          "end": 21.083
+        },
+        {
+          "text": "deliberately",
+          "start": 21.083,
+          "end": 21.794
+        },
+        {
+          "text": "put",
+          "start": 21.794,
+          "end": 22.031
+        },
+        {
+          "text": "a",
+          "start": 22.031,
+          "end": 22.163
+        },
+        {
+          "text": "hole",
+          "start": 22.163,
+          "end": 22.452
+        },
+        {
+          "text": "in",
+          "start": 22.452,
+          "end": 22.637
+        },
+        {
+          "text": "something",
+          "start": 22.637,
+          "end": 23.19
+        },
+        {
+          "text": "that",
+          "start": 23.19,
+          "end": 23.48
+        },
+        {
+          "text": "helps",
+          "start": 23.48,
+          "end": 23.822
+        },
+        {
+          "text": "keep",
+          "start": 23.822,
+          "end": 24.112
+        },
+        {
+          "text": "cabin",
+          "start": 24.112,
+          "end": 24.454
+        },
+        {
+          "text": "pressure",
+          "start": 24.454,
+          "end": 24.955
+        },
+        {
+          "text": "inside?",
+          "start": 24.955,
+          "end": 25.35
+        }
+      ]
+    },
+    {
+      "id": "L07",
+      "text": "The answer starts with something you probably can’t see from your seat.",
+      "start": 27.75,
+      "end": 31.28,
+      "phrases": [
+        {
+          "text": "The answer starts with something you probably can’t see from your seat.",
+          "start": 27.75,
+          "end": 31.28
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 27.75,
+          "end": 27.959
+        },
+        {
+          "text": "answer",
+          "start": 27.959,
+          "end": 28.307
+        },
+        {
+          "text": "starts",
+          "start": 28.307,
+          "end": 28.656
+        },
+        {
+          "text": "with",
+          "start": 28.656,
+          "end": 28.911
+        },
+        {
+          "text": "something",
+          "start": 28.911,
+          "end": 29.399
+        },
+        {
+          "text": "you",
+          "start": 29.399,
+          "end": 29.608
+        },
+        {
+          "text": "probably",
+          "start": 29.608,
+          "end": 30.049
+        },
+        {
+          "text": "can’t",
+          "start": 30.049,
+          "end": 30.305
+        },
+        {
+          "text": "see",
+          "start": 30.305,
+          "end": 30.514
+        },
+        {
+          "text": "from",
+          "start": 30.514,
+          "end": 30.769
+        },
+        {
+          "text": "your",
+          "start": 30.769,
+          "end": 31.025
+        },
+        {
+          "text": "seat.",
+          "start": 31.025,
+          "end": 31.28
+        }
+      ]
+    },
+    {
+      "id": "L08",
+      "text": "You aren’t looking through just one pane.",
+      "start": 31.88,
+      "end": 33.77,
+      "phrases": [
+        {
+          "text": "You aren’t looking through just one pane.",
+          "start": 31.88,
+          "end": 33.77
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 31.88,
+          "end": 32.076
+        },
+        {
+          "text": "aren’t",
+          "start": 32.076,
+          "end": 32.358
+        },
+        {
+          "text": "looking",
+          "start": 32.358,
+          "end": 32.727
+        },
+        {
+          "text": "through",
+          "start": 32.727,
+          "end": 33.097
+        },
+        {
+          "text": "just",
+          "start": 33.097,
+          "end": 33.336
+        },
+        {
+          "text": "one",
+          "start": 33.336,
+          "end": 33.531
+        },
+        {
+          "text": "pane.",
+          "start": 33.531,
+          "end": 33.77
+        }
+      ]
+    },
+    {
+      "id": "L09",
+      "text": "In a common passenger-window design, there’s a protective panel nearest you, followed by two structural panes.",
+      "start": 34.37,
+      "end": 41.38,
+      "phrases": [
+        {
+          "text": "In a common passenger-window design,",
+          "start": 34.37,
+          "end": 36.61
+        },
+        {
+          "text": "there’s a protective panel nearest you,",
+          "start": 36.99,
+          "end": 38.84
+        },
+        {
+          "text": "followed by two structural panes.",
+          "start": 39.3,
+          "end": 41.38
+        }
+      ],
+      "words": [
+        {
+          "text": "In",
+          "start": 34.37,
+          "end": 34.579
+        },
+        {
+          "text": "a",
+          "start": 34.579,
+          "end": 34.728
+        },
+        {
+          "text": "common",
+          "start": 34.728,
+          "end": 35.176
+        },
+        {
+          "text": "passenger-window",
+          "start": 35.176,
+          "end": 36.162
+        },
+        {
+          "text": "design,",
+          "start": 36.162,
+          "end": 36.61
+        },
+        {
+          "text": "there’s",
+          "start": 36.99,
+          "end": 37.328
+        },
+        {
+          "text": "a",
+          "start": 37.328,
+          "end": 37.441
+        },
+        {
+          "text": "protective",
+          "start": 37.441,
+          "end": 37.96
+        },
+        {
+          "text": "panel",
+          "start": 37.96,
+          "end": 38.253
+        },
+        {
+          "text": "nearest",
+          "start": 38.253,
+          "end": 38.637
+        },
+        {
+          "text": "you,",
+          "start": 38.637,
+          "end": 38.84
+        },
+        {
+          "text": "followed",
+          "start": 39.3,
+          "end": 39.857
+        },
+        {
+          "text": "by",
+          "start": 39.857,
+          "end": 40.062
+        },
+        {
+          "text": "two",
+          "start": 40.062,
+          "end": 40.325
+        },
+        {
+          "text": "structural",
+          "start": 40.325,
+          "end": 40.999
+        },
+        {
+          "text": "panes.",
+          "start": 40.999,
+          "end": 41.38
+        }
+      ]
+    },
+    {
+      "id": "L10",
+      "text": "The tiny hole is in the inner structural pane—the middle layer in our illustration.",
+      "start": 41.98,
+      "end": 47.14,
+      "phrases": [
+        {
+          "text": "The tiny hole is in the inner structural pane—the middle layer in our illustration.",
+          "start": 41.98,
+          "end": 47.14
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 41.98,
+          "end": 42.241
+        },
+        {
+          "text": "tiny",
+          "start": 42.241,
+          "end": 42.56
+        },
+        {
+          "text": "hole",
+          "start": 42.56,
+          "end": 42.879
+        },
+        {
+          "text": "is",
+          "start": 42.879,
+          "end": 43.082
+        },
+        {
+          "text": "in",
+          "start": 43.082,
+          "end": 43.284
+        },
+        {
+          "text": "the",
+          "start": 43.284,
+          "end": 43.545
+        },
+        {
+          "text": "inner",
+          "start": 43.545,
+          "end": 43.922
+        },
+        {
+          "text": "structural",
+          "start": 43.922,
+          "end": 44.589
+        },
+        {
+          "text": "pane—the",
+          "start": 44.589,
+          "end": 45.082
+        },
+        {
+          "text": "middle",
+          "start": 45.082,
+          "end": 45.517
+        },
+        {
+          "text": "layer",
+          "start": 45.517,
+          "end": 45.893
+        },
+        {
+          "text": "in",
+          "start": 45.893,
+          "end": 46.096
+        },
+        {
+          "text": "our",
+          "start": 46.096,
+          "end": 46.357
+        },
+        {
+          "text": "illustration.",
+          "start": 46.357,
+          "end": 47.14
+        }
+      ]
+    },
+    {
+      "id": "L11",
+      "text": "And crucially, it doesn’t go all the way through the window assembly to the outside.",
+      "start": 47.74,
+      "end": 52.37,
+      "phrases": [
+        {
+          "text": "And crucially,",
+          "start": 47.74,
+          "end": 48.53
+        },
+        {
+          "text": "it doesn’t go all the way through the window assembly to the outside.",
+          "start": 48.93,
+          "end": 52.37
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 47.74,
+          "end": 47.977
+        },
+        {
+          "text": "crucially,",
+          "start": 47.977,
+          "end": 48.53
+        },
+        {
+          "text": "it",
+          "start": 48.93,
+          "end": 49.092
+        },
+        {
+          "text": "doesn’t",
+          "start": 49.092,
+          "end": 49.438
+        },
+        {
+          "text": "go",
+          "start": 49.438,
+          "end": 49.6
+        },
+        {
+          "text": "all",
+          "start": 49.6,
+          "end": 49.807
+        },
+        {
+          "text": "the",
+          "start": 49.807,
+          "end": 50.015
+        },
+        {
+          "text": "way",
+          "start": 50.015,
+          "end": 50.223
+        },
+        {
+          "text": "through",
+          "start": 50.223,
+          "end": 50.615
+        },
+        {
+          "text": "the",
+          "start": 50.615,
+          "end": 50.823
+        },
+        {
+          "text": "window",
+          "start": 50.823,
+          "end": 51.169
+        },
+        {
+          "text": "assembly",
+          "start": 51.169,
+          "end": 51.608
+        },
+        {
+          "text": "to",
+          "start": 51.608,
+          "end": 51.77
+        },
+        {
+          "text": "the",
+          "start": 51.77,
+          "end": 51.978
+        },
+        {
+          "text": "outside.",
+          "start": 51.978,
+          "end": 52.37
+        }
+      ]
+    },
+    {
+      "id": "L12",
+      "text": "That changes the mystery.",
+      "start": 53.37,
+      "end": 54.82,
+      "phrases": [
+        {
+          "text": "That changes the mystery.",
+          "start": 53.37,
+          "end": 54.82
+        }
+      ],
+      "words": [
+        {
+          "text": "That",
+          "start": 53.37,
+          "end": 53.665
+        },
+        {
+          "text": "changes",
+          "start": 53.665,
+          "end": 54.122
+        },
+        {
+          "text": "the",
+          "start": 54.122,
+          "end": 54.364
+        },
+        {
+          "text": "mystery.",
+          "start": 54.364,
+          "end": 54.82
+        }
+      ]
+    },
+    {
+      "id": "L13",
+      "text": "We aren’t asking why someone made a hole straight through the side of an airplane.",
+      "start": 55.42,
+      "end": 59.43,
+      "phrases": [
+        {
+          "text": "We aren’t asking why someone made a hole straight through the side of an airplane.",
+          "start": 55.42,
+          "end": 59.43
+        }
+      ],
+      "words": [
+        {
+          "text": "We",
+          "start": 55.42,
+          "end": 55.579
+        },
+        {
+          "text": "aren’t",
+          "start": 55.579,
+          "end": 55.873
+        },
+        {
+          "text": "asking",
+          "start": 55.873,
+          "end": 56.213
+        },
+        {
+          "text": "why",
+          "start": 56.213,
+          "end": 56.417
+        },
+        {
+          "text": "someone",
+          "start": 56.417,
+          "end": 56.802
+        },
+        {
+          "text": "made",
+          "start": 56.802,
+          "end": 57.051
+        },
+        {
+          "text": "a",
+          "start": 57.051,
+          "end": 57.164
+        },
+        {
+          "text": "hole",
+          "start": 57.164,
+          "end": 57.414
+        },
+        {
+          "text": "straight",
+          "start": 57.414,
+          "end": 57.844
+        },
+        {
+          "text": "through",
+          "start": 57.844,
+          "end": 58.229
+        },
+        {
+          "text": "the",
+          "start": 58.229,
+          "end": 58.433
+        },
+        {
+          "text": "side",
+          "start": 58.433,
+          "end": 58.682
+        },
+        {
+          "text": "of",
+          "start": 58.682,
+          "end": 58.841
+        },
+        {
+          "text": "an",
+          "start": 58.841,
+          "end": 59.0
+        },
+        {
+          "text": "airplane.",
+          "start": 59.0,
+          "end": 59.43
+        }
+      ]
+    },
+    {
+      "id": "L14",
+      "text": "We’re asking why one layer needs an opening while another remains sealed.",
+      "start": 60.03,
+      "end": 64.19,
+      "phrases": [
+        {
+          "text": "We’re asking why one layer needs an opening while another remains sealed.",
+          "start": 60.03,
+          "end": 64.19
+        }
+      ],
+      "words": [
+        {
+          "text": "We’re",
+          "start": 60.03,
+          "end": 60.323
+        },
+        {
+          "text": "asking",
+          "start": 60.323,
+          "end": 60.723
+        },
+        {
+          "text": "why",
+          "start": 60.723,
+          "end": 60.963
+        },
+        {
+          "text": "one",
+          "start": 60.963,
+          "end": 61.203
+        },
+        {
+          "text": "layer",
+          "start": 61.203,
+          "end": 61.55
+        },
+        {
+          "text": "needs",
+          "start": 61.55,
+          "end": 61.897
+        },
+        {
+          "text": "an",
+          "start": 61.897,
+          "end": 62.083
+        },
+        {
+          "text": "opening",
+          "start": 62.083,
+          "end": 62.537
+        },
+        {
+          "text": "while",
+          "start": 62.537,
+          "end": 62.883
+        },
+        {
+          "text": "another",
+          "start": 62.883,
+          "end": 63.337
+        },
+        {
+          "text": "remains",
+          "start": 63.337,
+          "end": 63.79
+        },
+        {
+          "text": "sealed.",
+          "start": 63.79,
+          "end": 64.19
+        }
+      ]
+    },
+    {
+      "id": "L15",
+      "text": "To understand that, we need to talk about pressure.",
+      "start": 65.19,
+      "end": 68.04,
+      "phrases": [
+        {
+          "text": "To understand that,",
+          "start": 65.19,
+          "end": 66.29
+        },
+        {
+          "text": "we need to talk about pressure.",
+          "start": 66.59,
+          "end": 68.04
+        }
+      ],
+      "words": [
+        {
+          "text": "To",
+          "start": 65.19,
+          "end": 65.378
+        },
+        {
+          "text": "understand",
+          "start": 65.378,
+          "end": 65.995
+        },
+        {
+          "text": "that,",
+          "start": 65.995,
+          "end": 66.29
+        },
+        {
+          "text": "we",
+          "start": 66.59,
+          "end": 66.739
+        },
+        {
+          "text": "need",
+          "start": 66.739,
+          "end": 66.974
+        },
+        {
+          "text": "to",
+          "start": 66.974,
+          "end": 67.123
+        },
+        {
+          "text": "talk",
+          "start": 67.123,
+          "end": 67.358
+        },
+        {
+          "text": "about",
+          "start": 67.358,
+          "end": 67.635
+        },
+        {
+          "text": "pressure.",
+          "start": 67.635,
+          "end": 68.04
+        }
+      ]
+    },
+    {
+      "id": "L16",
+      "text": "As an airplane climbs, the air outside becomes thinner.",
+      "start": 68.64,
+      "end": 72.07,
+      "phrases": [
+        {
+          "text": "As an airplane climbs,",
+          "start": 68.64,
+          "end": 70.0
+        },
+        {
+          "text": "the air outside becomes thinner.",
+          "start": 70.31,
+          "end": 72.07
+        }
+      ],
+      "words": [
+        {
+          "text": "As",
+          "start": 68.64,
+          "end": 68.838
+        },
+        {
+          "text": "an",
+          "start": 68.838,
+          "end": 69.037
+        },
+        {
+          "text": "airplane",
+          "start": 69.037,
+          "end": 69.575
+        },
+        {
+          "text": "climbs,",
+          "start": 69.575,
+          "end": 70.0
+        },
+        {
+          "text": "the",
+          "start": 70.31,
+          "end": 70.54
+        },
+        {
+          "text": "air",
+          "start": 70.54,
+          "end": 70.769
+        },
+        {
+          "text": "outside",
+          "start": 70.769,
+          "end": 71.203
+        },
+        {
+          "text": "becomes",
+          "start": 71.203,
+          "end": 71.636
+        },
+        {
+          "text": "thinner.",
+          "start": 71.636,
+          "end": 72.07
+        }
+      ]
+    },
+    {
+      "id": "L17",
+      "text": "The cabin is pressurized, so the pressure inside is higher than the pressure outside.",
+      "start": 72.67,
+      "end": 77.65,
+      "phrases": [
+        {
+          "text": "The cabin is pressurized,",
+          "start": 72.67,
+          "end": 74.18
+        },
+        {
+          "text": "so the pressure inside is higher than the pressure outside.",
+          "start": 74.52,
+          "end": 77.65
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 72.67,
+          "end": 72.922
+        },
+        {
+          "text": "cabin",
+          "start": 72.922,
+          "end": 73.285
+        },
+        {
+          "text": "is",
+          "start": 73.285,
+          "end": 73.481
+        },
+        {
+          "text": "pressurized,",
+          "start": 73.481,
+          "end": 74.18
+        },
+        {
+          "text": "so",
+          "start": 74.52,
+          "end": 74.691
+        },
+        {
+          "text": "the",
+          "start": 74.691,
+          "end": 74.911
+        },
+        {
+          "text": "pressure",
+          "start": 74.911,
+          "end": 75.376
+        },
+        {
+          "text": "inside",
+          "start": 75.376,
+          "end": 75.743
+        },
+        {
+          "text": "is",
+          "start": 75.743,
+          "end": 75.914
+        },
+        {
+          "text": "higher",
+          "start": 75.914,
+          "end": 76.281
+        },
+        {
+          "text": "than",
+          "start": 76.281,
+          "end": 76.55
+        },
+        {
+          "text": "the",
+          "start": 76.55,
+          "end": 76.77
+        },
+        {
+          "text": "pressure",
+          "start": 76.77,
+          "end": 77.234
+        },
+        {
+          "text": "outside.",
+          "start": 77.234,
+          "end": 77.65
+        }
+      ]
+    },
+    {
+      "id": "L18",
+      "text": "That difference pushes outward on the aircraft’s windows.",
+      "start": 78.25,
+      "end": 81.33,
+      "phrases": [
+        {
+          "text": "That difference pushes outward on the aircraft’s windows.",
+          "start": 78.25,
+          "end": 81.33
+        }
+      ],
+      "words": [
+        {
+          "text": "That",
+          "start": 78.25,
+          "end": 78.532
+        },
+        {
+          "text": "difference",
+          "start": 78.532,
+          "end": 79.123
+        },
+        {
+          "text": "pushes",
+          "start": 79.123,
+          "end": 79.508
+        },
+        {
+          "text": "outward",
+          "start": 79.508,
+          "end": 79.944
+        },
+        {
+          "text": "on",
+          "start": 79.944,
+          "end": 80.124
+        },
+        {
+          "text": "the",
+          "start": 80.124,
+          "end": 80.355
+        },
+        {
+          "text": "aircraft’s",
+          "start": 80.355,
+          "end": 80.894
+        },
+        {
+          "text": "windows.",
+          "start": 80.894,
+          "end": 81.33
+        }
+      ]
+    },
+    {
+      "id": "L19",
+      "text": "Now imagine our window layers pulled apart.",
+      "start": 82.33,
+      "end": 84.94,
+      "phrases": [
+        {
+          "text": "Now imagine our window layers pulled apart.",
+          "start": 82.33,
+          "end": 84.94
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 82.33,
+          "end": 82.583
+        },
+        {
+          "text": "imagine",
+          "start": 82.583,
+          "end": 83.06
+        },
+        {
+          "text": "our",
+          "start": 83.06,
+          "end": 83.312
+        },
+        {
+          "text": "window",
+          "start": 83.312,
+          "end": 83.733
+        },
+        {
+          "text": "layers",
+          "start": 83.733,
+          "end": 84.154
+        },
+        {
+          "text": "pulled",
+          "start": 84.154,
+          "end": 84.575
+        },
+        {
+          "text": "apart.",
+          "start": 84.575,
+          "end": 84.94
+        }
+      ]
+    },
+    {
+      "id": "L20",
+      "text": "There’s the cabin.",
+      "start": 85.54,
+      "end": 86.54,
+      "phrases": [
+        {
+          "text": "There’s the cabin.",
+          "start": 85.54,
+          "end": 86.54
+        }
+      ],
+      "words": [
+        {
+          "text": "There’s",
+          "start": 85.54,
+          "end": 85.945
+        },
+        {
+          "text": "the",
+          "start": 85.945,
+          "end": 86.189
+        },
+        {
+          "text": "cabin.",
+          "start": 86.189,
+          "end": 86.54
+        }
+      ]
+    },
+    {
+      "id": "L21",
+      "text": "There’s the inner structural pane.",
+      "start": 87.14,
+      "end": 88.93,
+      "phrases": [
+        {
+          "text": "There’s the inner structural pane.",
+          "start": 87.14,
+          "end": 88.93
+        }
+      ],
+      "words": [
+        {
+          "text": "There’s",
+          "start": 87.14,
+          "end": 87.518
+        },
+        {
+          "text": "the",
+          "start": 87.518,
+          "end": 87.745
+        },
+        {
+          "text": "inner",
+          "start": 87.745,
+          "end": 88.073
+        },
+        {
+          "text": "structural",
+          "start": 88.073,
+          "end": 88.653
+        },
+        {
+          "text": "pane.",
+          "start": 88.653,
+          "end": 88.93
+        }
+      ]
+    },
+    {
+      "id": "L22",
+      "text": "Then a small space.",
+      "start": 89.53,
+      "end": 90.76,
+      "phrases": [
+        {
+          "text": "Then a small space.",
+          "start": 89.53,
+          "end": 90.76
+        }
+      ],
+      "words": [
+        {
+          "text": "Then",
+          "start": 89.53,
+          "end": 89.852
+        },
+        {
+          "text": "a",
+          "start": 89.852,
+          "end": 89.999
+        },
+        {
+          "text": "small",
+          "start": 89.999,
+          "end": 90.379
+        },
+        {
+          "text": "space.",
+          "start": 90.379,
+          "end": 90.76
+        }
+      ]
+    },
+    {
+      "id": "L23",
+      "text": "Then the outer structural pane.",
+      "start": 91.36,
+      "end": 93.14,
+      "phrases": [
+        {
+          "text": "Then the outer structural pane.",
+          "start": 91.36,
+          "end": 93.14
+        }
+      ],
+      "words": [
+        {
+          "text": "Then",
+          "start": 91.36,
+          "end": 91.652
+        },
+        {
+          "text": "the",
+          "start": 91.652,
+          "end": 91.891
+        },
+        {
+          "text": "outer",
+          "start": 91.891,
+          "end": 92.237
+        },
+        {
+          "text": "structural",
+          "start": 92.237,
+          "end": 92.848
+        },
+        {
+          "text": "pane.",
+          "start": 92.848,
+          "end": 93.14
+        }
+      ]
+    },
+    {
+      "id": "L24",
+      "text": "The tiny opening connects the cabin’s air pressure with that space between the structural panes.",
+      "start": 93.74,
+      "end": 99.48,
+      "phrases": [
+        {
+          "text": "The tiny opening connects the cabin’s air pressure with that space between the structural panes.",
+          "start": 93.74,
+          "end": 99.48
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 93.74,
+          "end": 93.992
+        },
+        {
+          "text": "tiny",
+          "start": 93.992,
+          "end": 94.3
+        },
+        {
+          "text": "opening",
+          "start": 94.3,
+          "end": 94.776
+        },
+        {
+          "text": "connects",
+          "start": 94.776,
+          "end": 95.308
+        },
+        {
+          "text": "the",
+          "start": 95.308,
+          "end": 95.56
+        },
+        {
+          "text": "cabin’s",
+          "start": 95.56,
+          "end": 95.98
+        },
+        {
+          "text": "air",
+          "start": 95.98,
+          "end": 96.232
+        },
+        {
+          "text": "pressure",
+          "start": 96.232,
+          "end": 96.764
+        },
+        {
+          "text": "with",
+          "start": 96.764,
+          "end": 97.072
+        },
+        {
+          "text": "that",
+          "start": 97.072,
+          "end": 97.38
+        },
+        {
+          "text": "space",
+          "start": 97.38,
+          "end": 97.744
+        },
+        {
+          "text": "between",
+          "start": 97.744,
+          "end": 98.22
+        },
+        {
+          "text": "the",
+          "start": 98.22,
+          "end": 98.472
+        },
+        {
+          "text": "structural",
+          "start": 98.472,
+          "end": 99.116
+        },
+        {
+          "text": "panes.",
+          "start": 99.116,
+          "end": 99.48
+        }
+      ]
+    },
+    {
+      "id": "L25",
+      "text": "It’s called a breather hole, or a bleed hole.",
+      "start": 100.08,
+      "end": 102.38,
+      "phrases": [
+        {
+          "text": "It’s called a breather hole,",
+          "start": 100.08,
+          "end": 101.32
+        },
+        {
+          "text": "or a bleed hole.",
+          "start": 101.52,
+          "end": 102.38
+        }
+      ],
+      "words": [
+        {
+          "text": "It’s",
+          "start": 100.08,
+          "end": 100.269
+        },
+        {
+          "text": "called",
+          "start": 100.269,
+          "end": 100.584
+        },
+        {
+          "text": "a",
+          "start": 100.584,
+          "end": 100.689
+        },
+        {
+          "text": "breather",
+          "start": 100.689,
+          "end": 101.089
+        },
+        {
+          "text": "hole,",
+          "start": 101.089,
+          "end": 101.32
+        },
+        {
+          "text": "or",
+          "start": 101.52,
+          "end": 101.687
+        },
+        {
+          "text": "a",
+          "start": 101.687,
+          "end": 101.807
+        },
+        {
+          "text": "bleed",
+          "start": 101.807,
+          "end": 102.117
+        },
+        {
+          "text": "hole.",
+          "start": 102.117,
+          "end": 102.38
+        }
+      ]
+    },
+    {
+      "id": "L26",
+      "text": "As cabin pressure changes, the hole allows pressure in that space to adjust.",
+      "start": 102.98,
+      "end": 107.58,
+      "phrases": [
+        {
+          "text": "As cabin pressure changes,",
+          "start": 102.98,
+          "end": 104.55
+        },
+        {
+          "text": "the hole allows pressure in that space to adjust.",
+          "start": 104.91,
+          "end": 107.58
+        }
+      ],
+      "words": [
+        {
+          "text": "As",
+          "start": 102.98,
+          "end": 103.176
+        },
+        {
+          "text": "cabin",
+          "start": 103.176,
+          "end": 103.541
+        },
+        {
+          "text": "pressure",
+          "start": 103.541,
+          "end": 104.073
+        },
+        {
+          "text": "changes,",
+          "start": 104.073,
+          "end": 104.55
+        },
+        {
+          "text": "the",
+          "start": 104.91,
+          "end": 105.135
+        },
+        {
+          "text": "hole",
+          "start": 105.135,
+          "end": 105.409
+        },
+        {
+          "text": "allows",
+          "start": 105.409,
+          "end": 105.783
+        },
+        {
+          "text": "pressure",
+          "start": 105.783,
+          "end": 106.257
+        },
+        {
+          "text": "in",
+          "start": 106.257,
+          "end": 106.432
+        },
+        {
+          "text": "that",
+          "start": 106.432,
+          "end": 106.707
+        },
+        {
+          "text": "space",
+          "start": 106.707,
+          "end": 107.031
+        },
+        {
+          "text": "to",
+          "start": 107.031,
+          "end": 107.206
+        },
+        {
+          "text": "adjust.",
+          "start": 107.206,
+          "end": 107.58
+        }
+      ]
+    },
+    {
+      "id": "L27",
+      "text": "That means the inner structural pane normally has roughly the same pressure on both sides.",
+      "start": 108.18,
+      "end": 113.75,
+      "phrases": [
+        {
+          "text": "That means the inner structural pane normally has roughly the same pressure on both sides.",
+          "start": 108.18,
+          "end": 113.75
+        }
+      ],
+      "words": [
+        {
+          "text": "That",
+          "start": 108.18,
+          "end": 108.494
+        },
+        {
+          "text": "means",
+          "start": 108.494,
+          "end": 108.866
+        },
+        {
+          "text": "the",
+          "start": 108.866,
+          "end": 109.123
+        },
+        {
+          "text": "inner",
+          "start": 109.123,
+          "end": 109.494
+        },
+        {
+          "text": "structural",
+          "start": 109.494,
+          "end": 110.151
+        },
+        {
+          "text": "pane",
+          "start": 110.151,
+          "end": 110.465
+        },
+        {
+          "text": "normally",
+          "start": 110.465,
+          "end": 111.008
+        },
+        {
+          "text": "has",
+          "start": 111.008,
+          "end": 111.265
+        },
+        {
+          "text": "roughly",
+          "start": 111.265,
+          "end": 111.751
+        },
+        {
+          "text": "the",
+          "start": 111.751,
+          "end": 112.008
+        },
+        {
+          "text": "same",
+          "start": 112.008,
+          "end": 112.322
+        },
+        {
+          "text": "pressure",
+          "start": 112.322,
+          "end": 112.865
+        },
+        {
+          "text": "on",
+          "start": 112.865,
+          "end": 113.064
+        },
+        {
+          "text": "both",
+          "start": 113.064,
+          "end": 113.379
+        },
+        {
+          "text": "sides.",
+          "start": 113.379,
+          "end": 113.75
+        }
+      ]
+    },
+    {
+      "id": "L28",
+      "text": "The outer pane carries the normal pressure difference between the cabin and the outside air.",
+      "start": 114.35,
+      "end": 119.79,
+      "phrases": [
+        {
+          "text": "The outer pane carries the normal pressure difference between the cabin and the outside air.",
+          "start": 114.35,
+          "end": 119.79
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 114.35,
+          "end": 114.596
+        },
+        {
+          "text": "outer",
+          "start": 114.596,
+          "end": 114.951
+        },
+        {
+          "text": "pane",
+          "start": 114.951,
+          "end": 115.252
+        },
+        {
+          "text": "carries",
+          "start": 115.252,
+          "end": 115.717
+        },
+        {
+          "text": "the",
+          "start": 115.717,
+          "end": 115.963
+        },
+        {
+          "text": "normal",
+          "start": 115.963,
+          "end": 116.373
+        },
+        {
+          "text": "pressure",
+          "start": 116.373,
+          "end": 116.892
+        },
+        {
+          "text": "difference",
+          "start": 116.892,
+          "end": 117.521
+        },
+        {
+          "text": "between",
+          "start": 117.521,
+          "end": 117.986
+        },
+        {
+          "text": "the",
+          "start": 117.986,
+          "end": 118.232
+        },
+        {
+          "text": "cabin",
+          "start": 118.232,
+          "end": 118.587
+        },
+        {
+          "text": "and",
+          "start": 118.587,
+          "end": 118.833
+        },
+        {
+          "text": "the",
+          "start": 118.833,
+          "end": 119.079
+        },
+        {
+          "text": "outside",
+          "start": 119.079,
+          "end": 119.544
+        },
+        {
+          "text": "air.",
+          "start": 119.544,
+          "end": 119.79
+        }
+      ]
+    },
+    {
+      "id": "L29",
+      "text": "So this little opening helps determine which layer does the everyday work.",
+      "start": 120.39,
+      "end": 124.81,
+      "phrases": [
+        {
+          "text": "So this little opening helps determine which layer does the everyday work.",
+          "start": 120.39,
+          "end": 124.81
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 120.39,
+          "end": 120.583
+        },
+        {
+          "text": "this",
+          "start": 120.583,
+          "end": 120.887
+        },
+        {
+          "text": "little",
+          "start": 120.887,
+          "end": 121.302
+        },
+        {
+          "text": "opening",
+          "start": 121.302,
+          "end": 121.771
+        },
+        {
+          "text": "helps",
+          "start": 121.771,
+          "end": 122.13
+        },
+        {
+          "text": "determine",
+          "start": 122.13,
+          "end": 122.71
+        },
+        {
+          "text": "which",
+          "start": 122.71,
+          "end": 123.07
+        },
+        {
+          "text": "layer",
+          "start": 123.07,
+          "end": 123.429
+        },
+        {
+          "text": "does",
+          "start": 123.429,
+          "end": 123.733
+        },
+        {
+          "text": "the",
+          "start": 123.733,
+          "end": 123.981
+        },
+        {
+          "text": "everyday",
+          "start": 123.981,
+          "end": 124.506
+        },
+        {
+          "text": "work.",
+          "start": 124.506,
+          "end": 124.81
+        }
+      ]
+    },
+    {
+      "id": "L30",
+      "text": "Here’s a way to picture it.",
+      "start": 125.81,
+      "end": 127.27,
+      "phrases": [
+        {
+          "text": "Here’s a way to picture it.",
+          "start": 125.81,
+          "end": 127.27
+        }
+      ],
+      "words": [
+        {
+          "text": "Here’s",
+          "start": 125.81,
+          "end": 126.137
+        },
+        {
+          "text": "a",
+          "start": 126.137,
+          "end": 126.263
+        },
+        {
+          "text": "way",
+          "start": 126.263,
+          "end": 126.49
+        },
+        {
+          "text": "to",
+          "start": 126.49,
+          "end": 126.666
+        },
+        {
+          "text": "picture",
+          "start": 126.666,
+          "end": 127.094
+        },
+        {
+          "text": "it.",
+          "start": 127.094,
+          "end": 127.27
+        }
+      ]
+    },
+    {
+      "id": "L31",
+      "text": "Imagine two transparent barriers with a small room between them.",
+      "start": 127.87,
+      "end": 131.82,
+      "phrases": [
+        {
+          "text": "Imagine two transparent barriers with a small room between them.",
+          "start": 127.87,
+          "end": 131.82
+        }
+      ],
+      "words": [
+        {
+          "text": "Imagine",
+          "start": 127.87,
+          "end": 128.357
+        },
+        {
+          "text": "two",
+          "start": 128.357,
+          "end": 128.614
+        },
+        {
+          "text": "transparent",
+          "start": 128.614,
+          "end": 129.33
+        },
+        {
+          "text": "barriers",
+          "start": 129.33,
+          "end": 129.874
+        },
+        {
+          "text": "with",
+          "start": 129.874,
+          "end": 130.188
+        },
+        {
+          "text": "a",
+          "start": 130.188,
+          "end": 130.332
+        },
+        {
+          "text": "small",
+          "start": 130.332,
+          "end": 130.704
+        },
+        {
+          "text": "room",
+          "start": 130.704,
+          "end": 131.019
+        },
+        {
+          "text": "between",
+          "start": 131.019,
+          "end": 131.505
+        },
+        {
+          "text": "them.",
+          "start": 131.505,
+          "end": 131.82
+        }
+      ]
+    },
+    {
+      "id": "L32",
+      "text": "The first barrier has an opening into that room.",
+      "start": 132.42,
+      "end": 135.11,
+      "phrases": [
+        {
+          "text": "The first barrier has an opening into that room.",
+          "start": 132.42,
+          "end": 135.11
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 132.42,
+          "end": 132.651
+        },
+        {
+          "text": "first",
+          "start": 132.651,
+          "end": 132.984
+        },
+        {
+          "text": "barrier",
+          "start": 132.984,
+          "end": 133.419
+        },
+        {
+          "text": "has",
+          "start": 133.419,
+          "end": 133.65
+        },
+        {
+          "text": "an",
+          "start": 133.65,
+          "end": 133.829
+        },
+        {
+          "text": "opening",
+          "start": 133.829,
+          "end": 134.265
+        },
+        {
+          "text": "into",
+          "start": 134.265,
+          "end": 134.546
+        },
+        {
+          "text": "that",
+          "start": 134.546,
+          "end": 134.828
+        },
+        {
+          "text": "room.",
+          "start": 134.828,
+          "end": 135.11
+        }
+      ]
+    },
+    {
+      "id": "L33",
+      "text": "Air can move through the opening, allowing the pressure in the room to approach the pressure on your side.",
+      "start": 135.71,
+      "end": 141.74,
+      "phrases": [
+        {
+          "text": "Air can move through the opening,",
+          "start": 135.71,
+          "end": 137.53
+        },
+        {
+          "text": "allowing the pressure in the room to approach the pressure on your side.",
+          "start": 138.05,
+          "end": 141.74
+        }
+      ],
+      "words": [
+        {
+          "text": "Air",
+          "start": 135.71,
+          "end": 135.937
+        },
+        {
+          "text": "can",
+          "start": 135.937,
+          "end": 136.165
+        },
+        {
+          "text": "move",
+          "start": 136.165,
+          "end": 136.443
+        },
+        {
+          "text": "through",
+          "start": 136.443,
+          "end": 136.873
+        },
+        {
+          "text": "the",
+          "start": 136.873,
+          "end": 137.1
+        },
+        {
+          "text": "opening,",
+          "start": 137.1,
+          "end": 137.53
+        },
+        {
+          "text": "allowing",
+          "start": 138.05,
+          "end": 138.497
+        },
+        {
+          "text": "the",
+          "start": 138.497,
+          "end": 138.708
+        },
+        {
+          "text": "pressure",
+          "start": 138.708,
+          "end": 139.155
+        },
+        {
+          "text": "in",
+          "start": 139.155,
+          "end": 139.319
+        },
+        {
+          "text": "the",
+          "start": 139.319,
+          "end": 139.531
+        },
+        {
+          "text": "room",
+          "start": 139.531,
+          "end": 139.789
+        },
+        {
+          "text": "to",
+          "start": 139.789,
+          "end": 139.954
+        },
+        {
+          "text": "approach",
+          "start": 139.954,
+          "end": 140.4
+        },
+        {
+          "text": "the",
+          "start": 140.4,
+          "end": 140.612
+        },
+        {
+          "text": "pressure",
+          "start": 140.612,
+          "end": 141.058
+        },
+        {
+          "text": "on",
+          "start": 141.058,
+          "end": 141.223
+        },
+        {
+          "text": "your",
+          "start": 141.223,
+          "end": 141.481
+        },
+        {
+          "text": "side.",
+          "start": 141.481,
+          "end": 141.74
+        }
+      ]
+    },
+    {
+      "id": "L34",
+      "text": "The second barrier still separates that air from the outside.",
+      "start": 142.34,
+      "end": 145.63,
+      "phrases": [
+        {
+          "text": "The second barrier still separates that air from the outside.",
+          "start": 142.34,
+          "end": 145.63
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 142.34,
+          "end": 142.564
+        },
+        {
+          "text": "second",
+          "start": 142.564,
+          "end": 142.938
+        },
+        {
+          "text": "barrier",
+          "start": 142.938,
+          "end": 143.362
+        },
+        {
+          "text": "still",
+          "start": 143.362,
+          "end": 143.686
+        },
+        {
+          "text": "separates",
+          "start": 143.686,
+          "end": 144.209
+        },
+        {
+          "text": "that",
+          "start": 144.209,
+          "end": 144.483
+        },
+        {
+          "text": "air",
+          "start": 144.483,
+          "end": 144.708
+        },
+        {
+          "text": "from",
+          "start": 144.708,
+          "end": 144.982
+        },
+        {
+          "text": "the",
+          "start": 144.982,
+          "end": 145.206
+        },
+        {
+          "text": "outside.",
+          "start": 145.206,
+          "end": 145.63
+        }
+      ]
+    },
+    {
+      "id": "L35",
+      "text": "The opening in the first barrier hasn’t created a passage through both.",
+      "start": 146.23,
+      "end": 150.36,
+      "phrases": [
+        {
+          "text": "The opening in the first barrier hasn’t created a passage through both.",
+          "start": 146.23,
+          "end": 150.36
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 146.23,
+          "end": 146.475
+        },
+        {
+          "text": "opening",
+          "start": 146.475,
+          "end": 146.936
+        },
+        {
+          "text": "in",
+          "start": 146.936,
+          "end": 147.127
+        },
+        {
+          "text": "the",
+          "start": 147.127,
+          "end": 147.371
+        },
+        {
+          "text": "first",
+          "start": 147.371,
+          "end": 147.724
+        },
+        {
+          "text": "barrier",
+          "start": 147.724,
+          "end": 148.186
+        },
+        {
+          "text": "hasn’t",
+          "start": 148.186,
+          "end": 148.54
+        },
+        {
+          "text": "created",
+          "start": 148.54,
+          "end": 149.001
+        },
+        {
+          "text": "a",
+          "start": 149.001,
+          "end": 149.137
+        },
+        {
+          "text": "passage",
+          "start": 149.137,
+          "end": 149.599
+        },
+        {
+          "text": "through",
+          "start": 149.599,
+          "end": 150.061
+        },
+        {
+          "text": "both.",
+          "start": 150.061,
+          "end": 150.36
+        }
+      ]
+    },
+    {
+      "id": "L36",
+      "text": "That’s the important distinction.",
+      "start": 150.96,
+      "end": 152.71,
+      "phrases": [
+        {
+          "text": "That’s the important distinction.",
+          "start": 150.96,
+          "end": 152.71
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 150.96,
+          "end": 151.295
+        },
+        {
+          "text": "the",
+          "start": 151.295,
+          "end": 151.526
+        },
+        {
+          "text": "important",
+          "start": 151.526,
+          "end": 152.067
+        },
+        {
+          "text": "distinction.",
+          "start": 152.067,
+          "end": 152.71
+        }
+      ]
+    },
+    {
+      "id": "L37",
+      "text": "The hole connects two spaces inside the window system.",
+      "start": 153.31,
+      "end": 156.73,
+      "phrases": [
+        {
+          "text": "The hole connects two spaces inside the window system.",
+          "start": 153.31,
+          "end": 156.73
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 153.31,
+          "end": 153.573
+        },
+        {
+          "text": "hole",
+          "start": 153.573,
+          "end": 153.895
+        },
+        {
+          "text": "connects",
+          "start": 153.895,
+          "end": 154.45
+        },
+        {
+          "text": "two",
+          "start": 154.45,
+          "end": 154.713
+        },
+        {
+          "text": "spaces",
+          "start": 154.713,
+          "end": 155.152
+        },
+        {
+          "text": "inside",
+          "start": 155.152,
+          "end": 155.59
+        },
+        {
+          "text": "the",
+          "start": 155.59,
+          "end": 155.853
+        },
+        {
+          "text": "window",
+          "start": 155.853,
+          "end": 156.292
+        },
+        {
+          "text": "system.",
+          "start": 156.292,
+          "end": 156.73
+        }
+      ]
+    },
+    {
+      "id": "L38",
+      "text": "It doesn’t give cabin air a clear route into the sky.",
+      "start": 157.33,
+      "end": 160.19,
+      "phrases": [
+        {
+          "text": "It doesn’t give cabin air a clear route into the sky.",
+          "start": 157.33,
+          "end": 160.19
+        }
+      ],
+      "words": [
+        {
+          "text": "It",
+          "start": 157.33,
+          "end": 157.504
+        },
+        {
+          "text": "doesn’t",
+          "start": 157.504,
+          "end": 157.877
+        },
+        {
+          "text": "give",
+          "start": 157.877,
+          "end": 158.151
+        },
+        {
+          "text": "cabin",
+          "start": 158.151,
+          "end": 158.474
+        },
+        {
+          "text": "air",
+          "start": 158.474,
+          "end": 158.698
+        },
+        {
+          "text": "a",
+          "start": 158.698,
+          "end": 158.822
+        },
+        {
+          "text": "clear",
+          "start": 158.822,
+          "end": 159.145
+        },
+        {
+          "text": "route",
+          "start": 159.145,
+          "end": 159.469
+        },
+        {
+          "text": "into",
+          "start": 159.469,
+          "end": 159.742
+        },
+        {
+          "text": "the",
+          "start": 159.742,
+          "end": 159.966
+        },
+        {
+          "text": "sky.",
+          "start": 159.966,
+          "end": 160.19
+        }
+      ]
+    },
+    {
+      "id": "L39",
+      "text": "And the arrangement has another purpose: a backup.",
+      "start": 161.19,
+      "end": 164.24,
+      "phrases": [
+        {
+          "text": "And the arrangement has another purpose:",
+          "start": 161.19,
+          "end": 163.17
+        },
+        {
+          "text": "a backup.",
+          "start": 163.54,
+          "end": 164.24
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 161.19,
+          "end": 161.397
+        },
+        {
+          "text": "the",
+          "start": 161.397,
+          "end": 161.604
+        },
+        {
+          "text": "arrangement",
+          "start": 161.604,
+          "end": 162.18
+        },
+        {
+          "text": "has",
+          "start": 162.18,
+          "end": 162.387
+        },
+        {
+          "text": "another",
+          "start": 162.387,
+          "end": 162.779
+        },
+        {
+          "text": "purpose:",
+          "start": 162.779,
+          "end": 163.17
+        },
+        {
+          "text": "a",
+          "start": 163.54,
+          "end": 163.715
+        },
+        {
+          "text": "backup.",
+          "start": 163.715,
+          "end": 164.24
+        }
+      ]
+    },
+    {
+      "id": "L40",
+      "text": "The inner structural pane isn’t just there to make the window look thicker.",
+      "start": 164.84,
+      "end": 169.09,
+      "phrases": [
+        {
+          "text": "The inner structural pane isn’t just there to make the window look thicker.",
+          "start": 164.84,
+          "end": 169.09
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 164.84,
+          "end": 165.078
+        },
+        {
+          "text": "inner",
+          "start": 165.078,
+          "end": 165.421
+        },
+        {
+          "text": "structural",
+          "start": 165.421,
+          "end": 166.028
+        },
+        {
+          "text": "pane",
+          "start": 166.028,
+          "end": 166.318
+        },
+        {
+          "text": "isn’t",
+          "start": 166.318,
+          "end": 166.609
+        },
+        {
+          "text": "just",
+          "start": 166.609,
+          "end": 166.899
+        },
+        {
+          "text": "there",
+          "start": 166.899,
+          "end": 167.242
+        },
+        {
+          "text": "to",
+          "start": 167.242,
+          "end": 167.427
+        },
+        {
+          "text": "make",
+          "start": 167.427,
+          "end": 167.717
+        },
+        {
+          "text": "the",
+          "start": 167.717,
+          "end": 167.955
+        },
+        {
+          "text": "window",
+          "start": 167.955,
+          "end": 168.351
+        },
+        {
+          "text": "look",
+          "start": 168.351,
+          "end": 168.641
+        },
+        {
+          "text": "thicker.",
+          "start": 168.641,
+          "end": 169.09
+        }
+      ]
+    },
+    {
+      "id": "L41",
+      "text": "Airbus explains that each of its two structural cabin-window panes can independently withstand the maximum pressure difference normally experienced during flight.",
+      "start": 169.69,
+      "end": 179.86,
+      "phrases": [
+        {
+          "text": "Airbus explains that each of its two structural cabin-window panes can independently withstand the maximum pressure difference normally experienced during flight.",
+          "start": 169.69,
+          "end": 179.86
+        }
+      ],
+      "words": [
+        {
+          "text": "Airbus",
+          "start": 169.69,
+          "end": 170.135
+        },
+        {
+          "text": "explains",
+          "start": 170.135,
+          "end": 170.698
+        },
+        {
+          "text": "that",
+          "start": 170.698,
+          "end": 171.024
+        },
+        {
+          "text": "each",
+          "start": 171.024,
+          "end": 171.35
+        },
+        {
+          "text": "of",
+          "start": 171.35,
+          "end": 171.558
+        },
+        {
+          "text": "its",
+          "start": 171.558,
+          "end": 171.825
+        },
+        {
+          "text": "two",
+          "start": 171.825,
+          "end": 172.092
+        },
+        {
+          "text": "structural",
+          "start": 172.092,
+          "end": 172.774
+        },
+        {
+          "text": "cabin-window",
+          "start": 172.774,
+          "end": 173.515
+        },
+        {
+          "text": "panes",
+          "start": 173.515,
+          "end": 173.9
+        },
+        {
+          "text": "can",
+          "start": 173.9,
+          "end": 174.167
+        },
+        {
+          "text": "independently",
+          "start": 174.167,
+          "end": 175.027
+        },
+        {
+          "text": "withstand",
+          "start": 175.027,
+          "end": 175.65
+        },
+        {
+          "text": "the",
+          "start": 175.65,
+          "end": 175.917
+        },
+        {
+          "text": "maximum",
+          "start": 175.917,
+          "end": 176.421
+        },
+        {
+          "text": "pressure",
+          "start": 176.421,
+          "end": 176.984
+        },
+        {
+          "text": "difference",
+          "start": 176.984,
+          "end": 177.666
+        },
+        {
+          "text": "normally",
+          "start": 177.666,
+          "end": 178.229
+        },
+        {
+          "text": "experienced",
+          "start": 178.229,
+          "end": 178.97
+        },
+        {
+          "text": "during",
+          "start": 178.97,
+          "end": 179.415
+        },
+        {
+          "text": "flight.",
+          "start": 179.415,
+          "end": 179.86
+        }
+      ]
+    },
+    {
+      "id": "L42",
+      "text": "If the outer pane fails, the inner pane is designed to take the pressure load and maintain cabin pressure.",
+      "start": 180.46,
+      "end": 186.95,
+      "phrases": [
+        {
+          "text": "If the outer pane fails,",
+          "start": 180.46,
+          "end": 182.0
+        },
+        {
+          "text": "the inner pane is designed to take the pressure load and maintain cabin pressure.",
+          "start": 182.38,
+          "end": 186.95
+        }
+      ],
+      "words": [
+        {
+          "text": "If",
+          "start": 180.46,
+          "end": 180.663
+        },
+        {
+          "text": "the",
+          "start": 180.663,
+          "end": 180.925
+        },
+        {
+          "text": "outer",
+          "start": 180.925,
+          "end": 181.303
+        },
+        {
+          "text": "pane",
+          "start": 181.303,
+          "end": 181.622
+        },
+        {
+          "text": "fails,",
+          "start": 181.622,
+          "end": 182.0
+        },
+        {
+          "text": "the",
+          "start": 182.38,
+          "end": 182.614
+        },
+        {
+          "text": "inner",
+          "start": 182.614,
+          "end": 182.951
+        },
+        {
+          "text": "pane",
+          "start": 182.951,
+          "end": 183.237
+        },
+        {
+          "text": "is",
+          "start": 183.237,
+          "end": 183.419
+        },
+        {
+          "text": "designed",
+          "start": 183.419,
+          "end": 183.912
+        },
+        {
+          "text": "to",
+          "start": 183.912,
+          "end": 184.094
+        },
+        {
+          "text": "take",
+          "start": 184.094,
+          "end": 184.379
+        },
+        {
+          "text": "the",
+          "start": 184.379,
+          "end": 184.613
+        },
+        {
+          "text": "pressure",
+          "start": 184.613,
+          "end": 185.106
+        },
+        {
+          "text": "load",
+          "start": 185.106,
+          "end": 185.392
+        },
+        {
+          "text": "and",
+          "start": 185.392,
+          "end": 185.626
+        },
+        {
+          "text": "maintain",
+          "start": 185.626,
+          "end": 186.119
+        },
+        {
+          "text": "cabin",
+          "start": 186.119,
+          "end": 186.457
+        },
+        {
+          "text": "pressure.",
+          "start": 186.457,
+          "end": 186.95
+        }
+      ]
+    },
+    {
+      "id": "L43",
+      "text": "That makes the window a system with different jobs.",
+      "start": 187.95,
+      "end": 190.91,
+      "phrases": [
+        {
+          "text": "That makes the window a system with different jobs.",
+          "start": 187.95,
+          "end": 190.91
+        }
+      ],
+      "words": [
+        {
+          "text": "That",
+          "start": 187.95,
+          "end": 188.243
+        },
+        {
+          "text": "makes",
+          "start": 188.243,
+          "end": 188.59
+        },
+        {
+          "text": "the",
+          "start": 188.59,
+          "end": 188.83
+        },
+        {
+          "text": "window",
+          "start": 188.83,
+          "end": 189.23
+        },
+        {
+          "text": "a",
+          "start": 189.23,
+          "end": 189.363
+        },
+        {
+          "text": "system",
+          "start": 189.363,
+          "end": 189.763
+        },
+        {
+          "text": "with",
+          "start": 189.763,
+          "end": 190.057
+        },
+        {
+          "text": "different",
+          "start": 190.057,
+          "end": 190.617
+        },
+        {
+          "text": "jobs.",
+          "start": 190.617,
+          "end": 190.91
+        }
+      ]
+    },
+    {
+      "id": "L44",
+      "text": "One layer protects against everyday contact.",
+      "start": 191.51,
+      "end": 194.28,
+      "phrases": [
+        {
+          "text": "One layer protects against everyday contact.",
+          "start": 191.51,
+          "end": 194.28
+        }
+      ],
+      "words": [
+        {
+          "text": "One",
+          "start": 191.51,
+          "end": 191.775
+        },
+        {
+          "text": "layer",
+          "start": 191.775,
+          "end": 192.158
+        },
+        {
+          "text": "protects",
+          "start": 192.158,
+          "end": 192.718
+        },
+        {
+          "text": "against",
+          "start": 192.718,
+          "end": 193.219
+        },
+        {
+          "text": "everyday",
+          "start": 193.219,
+          "end": 193.779
+        },
+        {
+          "text": "contact.",
+          "start": 193.779,
+          "end": 194.28
+        }
+      ]
+    },
+    {
+      "id": "L45",
+      "text": "One normally carries the pressure load.",
+      "start": 194.88,
+      "end": 197.01,
+      "phrases": [
+        {
+          "text": "One normally carries the pressure load.",
+          "start": 194.88,
+          "end": 197.01
+        }
+      ],
+      "words": [
+        {
+          "text": "One",
+          "start": 194.88,
+          "end": 195.108
+        },
+        {
+          "text": "normally",
+          "start": 195.108,
+          "end": 195.59
+        },
+        {
+          "text": "carries",
+          "start": 195.59,
+          "end": 196.021
+        },
+        {
+          "text": "the",
+          "start": 196.021,
+          "end": 196.249
+        },
+        {
+          "text": "pressure",
+          "start": 196.249,
+          "end": 196.731
+        },
+        {
+          "text": "load.",
+          "start": 196.731,
+          "end": 197.01
+        }
+      ]
+    },
+    {
+      "id": "L46",
+      "text": "Another provides structural backup.",
+      "start": 197.61,
+      "end": 199.58,
+      "phrases": [
+        {
+          "text": "Another provides structural backup.",
+          "start": 197.61,
+          "end": 199.58
+        }
+      ],
+      "words": [
+        {
+          "text": "Another",
+          "start": 197.61,
+          "end": 198.063
+        },
+        {
+          "text": "provides",
+          "start": 198.063,
+          "end": 198.568
+        },
+        {
+          "text": "structural",
+          "start": 198.568,
+          "end": 199.181
+        },
+        {
+          "text": "backup.",
+          "start": 199.181,
+          "end": 199.58
+        }
+      ]
+    },
+    {
+      "id": "L47",
+      "text": "And a tiny opening helps manage the pressure between them.",
+      "start": 200.18,
+      "end": 203.58,
+      "phrases": [
+        {
+          "text": "And a tiny opening helps manage the pressure between them.",
+          "start": 200.18,
+          "end": 203.58
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 200.18,
+          "end": 200.423
+        },
+        {
+          "text": "a",
+          "start": 200.423,
+          "end": 200.558
+        },
+        {
+          "text": "tiny",
+          "start": 200.558,
+          "end": 200.855
+        },
+        {
+          "text": "opening",
+          "start": 200.855,
+          "end": 201.313
+        },
+        {
+          "text": "helps",
+          "start": 201.313,
+          "end": 201.664
+        },
+        {
+          "text": "manage",
+          "start": 201.664,
+          "end": 202.069
+        },
+        {
+          "text": "the",
+          "start": 202.069,
+          "end": 202.312
+        },
+        {
+          "text": "pressure",
+          "start": 202.312,
+          "end": 202.824
+        },
+        {
+          "text": "between",
+          "start": 202.824,
+          "end": 203.283
+        },
+        {
+          "text": "them.",
+          "start": 203.283,
+          "end": 203.58
+        }
+      ]
+    },
+    {
+      "id": "L48",
+      "text": "There is one naming detail that can make explanations confusing.",
+      "start": 204.58,
+      "end": 208.6,
+      "phrases": [
+        {
+          "text": "There is one naming detail that can make explanations confusing.",
+          "start": 204.58,
+          "end": 208.6
+        }
+      ],
+      "words": [
+        {
+          "text": "There",
+          "start": 204.58,
+          "end": 204.959
+        },
+        {
+          "text": "is",
+          "start": 204.959,
+          "end": 205.163
+        },
+        {
+          "text": "one",
+          "start": 205.163,
+          "end": 205.425
+        },
+        {
+          "text": "naming",
+          "start": 205.425,
+          "end": 205.862
+        },
+        {
+          "text": "detail",
+          "start": 205.862,
+          "end": 206.299
+        },
+        {
+          "text": "that",
+          "start": 206.299,
+          "end": 206.619
+        },
+        {
+          "text": "can",
+          "start": 206.619,
+          "end": 206.881
+        },
+        {
+          "text": "make",
+          "start": 206.881,
+          "end": 207.202
+        },
+        {
+          "text": "explanations",
+          "start": 207.202,
+          "end": 207.988
+        },
+        {
+          "text": "confusing.",
+          "start": 207.988,
+          "end": 208.6
+        }
+      ]
+    },
+    {
+      "id": "L49",
+      "text": "Some descriptions call the pane with the hole the “inner pane.”",
+      "start": 209.2,
+      "end": 212.5,
+      "phrases": [
+        {
+          "text": "Some descriptions call the pane with the hole the “inner pane.”",
+          "start": 209.2,
+          "end": 212.5
+        }
+      ],
+      "words": [
+        {
+          "text": "Some",
+          "start": 209.2,
+          "end": 209.473
+        },
+        {
+          "text": "descriptions",
+          "start": 209.473,
+          "end": 210.143
+        },
+        {
+          "text": "call",
+          "start": 210.143,
+          "end": 210.416
+        },
+        {
+          "text": "the",
+          "start": 210.416,
+          "end": 210.639
+        },
+        {
+          "text": "pane",
+          "start": 210.639,
+          "end": 210.912
+        },
+        {
+          "text": "with",
+          "start": 210.912,
+          "end": 211.185
+        },
+        {
+          "text": "the",
+          "start": 211.185,
+          "end": 211.408
+        },
+        {
+          "text": "hole",
+          "start": 211.408,
+          "end": 211.681
+        },
+        {
+          "text": "the",
+          "start": 211.681,
+          "end": 211.905
+        },
+        {
+          "text": "“inner",
+          "start": 211.905,
+          "end": 212.227
+        },
+        {
+          "text": "pane.”",
+          "start": 212.227,
+          "end": 212.5
+        }
+      ]
+    },
+    {
+      "id": "L50",
+      "text": "Others call it the “middle pane.”",
+      "start": 213.1,
+      "end": 214.78,
+      "phrases": [
+        {
+          "text": "Others call it the “middle pane.”",
+          "start": 213.1,
+          "end": 214.78
+        }
+      ],
+      "words": [
+        {
+          "text": "Others",
+          "start": 213.1,
+          "end": 213.471
+        },
+        {
+          "text": "call",
+          "start": 213.471,
+          "end": 213.742
+        },
+        {
+          "text": "it",
+          "start": 213.742,
+          "end": 213.915
+        },
+        {
+          "text": "the",
+          "start": 213.915,
+          "end": 214.138
+        },
+        {
+          "text": "“middle",
+          "start": 214.138,
+          "end": 214.508
+        },
+        {
+          "text": "pane.”",
+          "start": 214.508,
+          "end": 214.78
+        }
+      ]
+    },
+    {
+      "id": "L51",
+      "text": "They may be describing the same layer.",
+      "start": 215.38,
+      "end": 217.35,
+      "phrases": [
+        {
+          "text": "They may be describing the same layer.",
+          "start": 215.38,
+          "end": 217.35
+        }
+      ],
+      "words": [
+        {
+          "text": "They",
+          "start": 215.38,
+          "end": 215.641
+        },
+        {
+          "text": "may",
+          "start": 215.641,
+          "end": 215.855
+        },
+        {
+          "text": "be",
+          "start": 215.855,
+          "end": 216.021
+        },
+        {
+          "text": "describing",
+          "start": 216.021,
+          "end": 216.567
+        },
+        {
+          "text": "the",
+          "start": 216.567,
+          "end": 216.78
+        },
+        {
+          "text": "same",
+          "start": 216.78,
+          "end": 217.041
+        },
+        {
+          "text": "layer.",
+          "start": 217.041,
+          "end": 217.35
+        }
+      ]
+    },
+    {
+      "id": "L52",
+      "text": "“Inner” distinguishes it from the outer structural pane.",
+      "start": 217.95,
+      "end": 221.11,
+      "phrases": [
+        {
+          "text": "“Inner” distinguishes it from the outer structural pane.",
+          "start": 217.95,
+          "end": 221.11
+        }
+      ],
+      "words": [
+        {
+          "text": "“Inner”",
+          "start": 217.95,
+          "end": 218.304
+        },
+        {
+          "text": "distinguishes",
+          "start": 218.304,
+          "end": 219.094
+        },
+        {
+          "text": "it",
+          "start": 219.094,
+          "end": 219.285
+        },
+        {
+          "text": "from",
+          "start": 219.285,
+          "end": 219.584
+        },
+        {
+          "text": "the",
+          "start": 219.584,
+          "end": 219.83
+        },
+        {
+          "text": "outer",
+          "start": 219.83,
+          "end": 220.184
+        },
+        {
+          "text": "structural",
+          "start": 220.184,
+          "end": 220.81
+        },
+        {
+          "text": "pane.",
+          "start": 220.81,
+          "end": 221.11
+        }
+      ]
+    },
+    {
+      "id": "L53",
+      "text": "“Middle” counts the protective panel nearest the passenger as a third layer.",
+      "start": 221.71,
+      "end": 226.44,
+      "phrases": [
+        {
+          "text": "“Middle” counts the protective panel nearest the passenger as a third layer.",
+          "start": 221.71,
+          "end": 226.44
+        }
+      ],
+      "words": [
+        {
+          "text": "“Middle”",
+          "start": 221.71,
+          "end": 222.153
+        },
+        {
+          "text": "counts",
+          "start": 222.153,
+          "end": 222.597
+        },
+        {
+          "text": "the",
+          "start": 222.597,
+          "end": 222.863
+        },
+        {
+          "text": "protective",
+          "start": 222.863,
+          "end": 223.543
+        },
+        {
+          "text": "panel",
+          "start": 223.543,
+          "end": 223.927
+        },
+        {
+          "text": "nearest",
+          "start": 223.927,
+          "end": 224.43
+        },
+        {
+          "text": "the",
+          "start": 224.43,
+          "end": 224.696
+        },
+        {
+          "text": "passenger",
+          "start": 224.696,
+          "end": 225.317
+        },
+        {
+          "text": "as",
+          "start": 225.317,
+          "end": 225.524
+        },
+        {
+          "text": "a",
+          "start": 225.524,
+          "end": 225.671
+        },
+        {
+          "text": "third",
+          "start": 225.671,
+          "end": 226.056
+        },
+        {
+          "text": "layer.",
+          "start": 226.056,
+          "end": 226.44
+        }
+      ]
+    },
+    {
+      "id": "L54",
+      "text": "For our illustration, we’re calling them the protective panel, the inner structural pane, and the outer structural pane.",
+      "start": 227.04,
+      "end": 234.28,
+      "phrases": [
+        {
+          "text": "For our illustration,",
+          "start": 227.04,
+          "end": 228.22
+        },
+        {
+          "text": "we’re calling them the protective panel,",
+          "start": 228.54,
+          "end": 230.45
+        },
+        {
+          "text": "the inner structural pane,",
+          "start": 230.84,
+          "end": 232.27
+        },
+        {
+          "text": "and the outer structural pane.",
+          "start": 232.6,
+          "end": 234.28
+        }
+      ],
+      "words": [
+        {
+          "text": "For",
+          "start": 227.04,
+          "end": 227.276
+        },
+        {
+          "text": "our",
+          "start": 227.276,
+          "end": 227.512
+        },
+        {
+          "text": "illustration,",
+          "start": 227.512,
+          "end": 228.22
+        },
+        {
+          "text": "we’re",
+          "start": 228.54,
+          "end": 228.79
+        },
+        {
+          "text": "calling",
+          "start": 228.79,
+          "end": 229.177
+        },
+        {
+          "text": "them",
+          "start": 229.177,
+          "end": 229.427
+        },
+        {
+          "text": "the",
+          "start": 229.427,
+          "end": 229.631
+        },
+        {
+          "text": "protective",
+          "start": 229.631,
+          "end": 230.154
+        },
+        {
+          "text": "panel,",
+          "start": 230.154,
+          "end": 230.45
+        },
+        {
+          "text": "the",
+          "start": 230.84,
+          "end": 231.07
+        },
+        {
+          "text": "inner",
+          "start": 231.07,
+          "end": 231.402
+        },
+        {
+          "text": "structural",
+          "start": 231.402,
+          "end": 231.989
+        },
+        {
+          "text": "pane,",
+          "start": 231.989,
+          "end": 232.27
+        },
+        {
+          "text": "and",
+          "start": 232.6,
+          "end": 232.833
+        },
+        {
+          "text": "the",
+          "start": 232.833,
+          "end": 233.065
+        },
+        {
+          "text": "outer",
+          "start": 233.065,
+          "end": 233.401
+        },
+        {
+          "text": "structural",
+          "start": 233.401,
+          "end": 233.996
+        },
+        {
+          "text": "pane.",
+          "start": 233.996,
+          "end": 234.28
+        }
+      ]
+    },
+    {
+      "id": "L55",
+      "text": "Different aircraft can use different window designs, but that common arrangement explains the little hole many passengers notice.",
+      "start": 234.88,
+      "end": 243.15,
+      "phrases": [
+        {
+          "text": "Different aircraft can use different window designs,",
+          "start": 234.88,
+          "end": 237.87
+        },
+        {
+          "text": "but that common arrangement explains the little hole many passengers notice.",
+          "start": 238.39,
+          "end": 243.15
+        }
+      ],
+      "words": [
+        {
+          "text": "Different",
+          "start": 234.88,
+          "end": 235.446
+        },
+        {
+          "text": "aircraft",
+          "start": 235.446,
+          "end": 235.957
+        },
+        {
+          "text": "can",
+          "start": 235.957,
+          "end": 236.2
+        },
+        {
+          "text": "use",
+          "start": 236.2,
+          "end": 236.442
+        },
+        {
+          "text": "different",
+          "start": 236.442,
+          "end": 237.008
+        },
+        {
+          "text": "window",
+          "start": 237.008,
+          "end": 237.412
+        },
+        {
+          "text": "designs,",
+          "start": 237.412,
+          "end": 237.87
+        },
+        {
+          "text": "but",
+          "start": 238.39,
+          "end": 238.653
+        },
+        {
+          "text": "that",
+          "start": 238.653,
+          "end": 238.974
+        },
+        {
+          "text": "common",
+          "start": 238.974,
+          "end": 239.412
+        },
+        {
+          "text": "arrangement",
+          "start": 239.412,
+          "end": 240.142
+        },
+        {
+          "text": "explains",
+          "start": 240.142,
+          "end": 240.697
+        },
+        {
+          "text": "the",
+          "start": 240.697,
+          "end": 240.96
+        },
+        {
+          "text": "little",
+          "start": 240.96,
+          "end": 241.398
+        },
+        {
+          "text": "hole",
+          "start": 241.398,
+          "end": 241.719
+        },
+        {
+          "text": "many",
+          "start": 241.719,
+          "end": 242.04
+        },
+        {
+          "text": "passengers",
+          "start": 242.04,
+          "end": 242.712
+        },
+        {
+          "text": "notice.",
+          "start": 242.712,
+          "end": 243.15
+        }
+      ]
+    },
+    {
+      "id": "L56",
+      "text": "Next time you get the window seat, look for it.",
+      "start": 244.15,
+      "end": 246.55,
+      "phrases": [
+        {
+          "text": "Next time you get the window seat,",
+          "start": 244.15,
+          "end": 245.74
+        },
+        {
+          "text": "look for it.",
+          "start": 245.91,
+          "end": 246.55
+        }
+      ],
+      "words": [
+        {
+          "text": "Next",
+          "start": 244.15,
+          "end": 244.383
+        },
+        {
+          "text": "time",
+          "start": 244.383,
+          "end": 244.616
+        },
+        {
+          "text": "you",
+          "start": 244.616,
+          "end": 244.807
+        },
+        {
+          "text": "get",
+          "start": 244.807,
+          "end": 244.998
+        },
+        {
+          "text": "the",
+          "start": 244.998,
+          "end": 245.189
+        },
+        {
+          "text": "window",
+          "start": 245.189,
+          "end": 245.507
+        },
+        {
+          "text": "seat,",
+          "start": 245.507,
+          "end": 245.74
+        },
+        {
+          "text": "look",
+          "start": 245.91,
+          "end": 246.171
+        },
+        {
+          "text": "for",
+          "start": 246.171,
+          "end": 246.384
+        },
+        {
+          "text": "it.",
+          "start": 246.384,
+          "end": 246.55
+        }
+      ]
+    },
+    {
+      "id": "L57",
+      "text": "Something that initially looks like a flaw is part of a carefully arranged system.",
+      "start": 247.15,
+      "end": 252.07,
+      "phrases": [
+        {
+          "text": "Something that initially looks like a flaw is part of a carefully arranged system.",
+          "start": 247.15,
+          "end": 252.07
+        }
+      ],
+      "words": [
+        {
+          "text": "Something",
+          "start": 247.15,
+          "end": 247.73
+        },
+        {
+          "text": "that",
+          "start": 247.73,
+          "end": 248.034
+        },
+        {
+          "text": "initially",
+          "start": 248.034,
+          "end": 248.615
+        },
+        {
+          "text": "looks",
+          "start": 248.615,
+          "end": 248.974
+        },
+        {
+          "text": "like",
+          "start": 248.974,
+          "end": 249.278
+        },
+        {
+          "text": "a",
+          "start": 249.278,
+          "end": 249.417
+        },
+        {
+          "text": "flaw",
+          "start": 249.417,
+          "end": 249.721
+        },
+        {
+          "text": "is",
+          "start": 249.721,
+          "end": 249.914
+        },
+        {
+          "text": "part",
+          "start": 249.914,
+          "end": 250.218
+        },
+        {
+          "text": "of",
+          "start": 250.218,
+          "end": 250.412
+        },
+        {
+          "text": "a",
+          "start": 250.412,
+          "end": 250.55
+        },
+        {
+          "text": "carefully",
+          "start": 250.55,
+          "end": 251.13
+        },
+        {
+          "text": "arranged",
+          "start": 251.13,
+          "end": 251.655
+        },
+        {
+          "text": "system.",
+          "start": 251.655,
+          "end": 252.07
+        }
+      ]
+    },
+    {
+      "id": "L58",
+      "text": "The surprising part isn’t simply that the window has a hole.",
+      "start": 252.67,
+      "end": 256.29,
+      "phrases": [
+        {
+          "text": "The surprising part isn’t simply that the window has a hole.",
+          "start": 252.67,
+          "end": 256.29
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 252.67,
+          "end": 252.923
+        },
+        {
+          "text": "surprising",
+          "start": 252.923,
+          "end": 253.568
+        },
+        {
+          "text": "part",
+          "start": 253.568,
+          "end": 253.877
+        },
+        {
+          "text": "isn’t",
+          "start": 253.877,
+          "end": 254.185
+        },
+        {
+          "text": "simply",
+          "start": 254.185,
+          "end": 254.606
+        },
+        {
+          "text": "that",
+          "start": 254.606,
+          "end": 254.915
+        },
+        {
+          "text": "the",
+          "start": 254.915,
+          "end": 255.168
+        },
+        {
+          "text": "window",
+          "start": 255.168,
+          "end": 255.588
+        },
+        {
+          "text": "has",
+          "start": 255.588,
+          "end": 255.841
+        },
+        {
+          "text": "a",
+          "start": 255.841,
+          "end": 255.981
+        },
+        {
+          "text": "hole.",
+          "start": 255.981,
+          "end": 256.29
+        }
+      ]
+    },
+    {
+      "id": "L59",
+      "text": "It’s that putting a hole in one layer helps the other layers do their jobs.",
+      "start": 256.89,
+      "end": 261.09,
+      "phrases": [
+        {
+          "text": "It’s that putting a hole in one layer helps the other layers do their jobs.",
+          "start": 256.89,
+          "end": 261.09
+        }
+      ],
+      "words": [
+        {
+          "text": "It’s",
+          "start": 256.89,
+          "end": 257.122
+        },
+        {
+          "text": "that",
+          "start": 257.122,
+          "end": 257.405
+        },
+        {
+          "text": "putting",
+          "start": 257.405,
+          "end": 257.843
+        },
+        {
+          "text": "a",
+          "start": 257.843,
+          "end": 257.972
+        },
+        {
+          "text": "hole",
+          "start": 257.972,
+          "end": 258.256
+        },
+        {
+          "text": "in",
+          "start": 258.256,
+          "end": 258.436
+        },
+        {
+          "text": "one",
+          "start": 258.436,
+          "end": 258.668
+        },
+        {
+          "text": "layer",
+          "start": 258.668,
+          "end": 259.003
+        },
+        {
+          "text": "helps",
+          "start": 259.003,
+          "end": 259.338
+        },
+        {
+          "text": "the",
+          "start": 259.338,
+          "end": 259.57
+        },
+        {
+          "text": "other",
+          "start": 259.57,
+          "end": 259.905
+        },
+        {
+          "text": "layers",
+          "start": 259.905,
+          "end": 260.291
+        },
+        {
+          "text": "do",
+          "start": 260.291,
+          "end": 260.472
+        },
+        {
+          "text": "their",
+          "start": 260.472,
+          "end": 260.807
+        },
+        {
+          "text": "jobs.",
+          "start": 260.807,
+          "end": 261.09
+        }
+      ]
+    },
+    {
+      "id": "L60",
+      "text": "Everyday things. Surprising explanations.",
+      "start": 262.09,
+      "end": 265.02,
+      "phrases": [
+        {
+          "text": "Everyday things.",
+          "start": 262.09,
+          "end": 263.05
+        },
+        {
+          "text": "Surprising explanations.",
+          "start": 263.32,
+          "end": 265.02
+        }
+      ],
+      "words": [
+        {
+          "text": "Everyday",
+          "start": 262.09,
+          "end": 262.626
+        },
+        {
+          "text": "things.",
+          "start": 262.626,
+          "end": 263.05
+        },
+        {
+          "text": "Surprising",
+          "start": 263.32,
+          "end": 264.102
+        },
+        {
+          "text": "explanations.",
+          "start": 264.102,
+          "end": 265.02
+        }
+      ]
+    },
+    {
+      "id": "L61",
+      "text": "That’s Why Is That?",
+      "start": 265.62,
+      "end": 266.79,
+      "phrases": [
+        {
+          "text": "That’s Why Is That?",
+          "start": 265.62,
+          "end": 266.79
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 265.62,
+          "end": 266.0
+        },
+        {
+          "text": "Why",
+          "start": 266.0,
+          "end": 266.263
+        },
+        {
+          "text": "Is",
+          "start": 266.263,
+          "end": 266.468
+        },
+        {
+          "text": "That?",
+          "start": 266.468,
+          "end": 266.79
+        }
+      ]
+    }
+  ]
+}
