@@ -1,6 +1,70 @@
 {
   "episode": "ep003",
   "title": "Why Does Your Voice Sound Weird on Recordings?",
+  "project": "Higgsfield project 42f68dae-e6fc-4ed9-99d3-70d7b481606c (Why Is That?), separate from Beyond the Bulkhead",
+  "model_requested": "nano_banana_pro (job metadata reports nano_banana_2)",
+  "generated": "2026-11-17",
+  "approved_prompt_sheet": "docs/HIGGSFIELD_PROMPT_SHEET.md (C1–C4 approved by owner 2026-11-17)",
+  "credits_total": 8,
+  "retakes": 0,
+  "balance": {
+    "before": 365.47,
+    "after": 357.47
+  },
+  "commercial_terms": "Confirmed by the owner 2026-11-17 (Higgsfield commercial terms, Plus plan).",
   "reused": [],
-  "assets": []
+  "assets": [
+    {
+      "id": "C1",
+      "name": "Character reaction",
+      "job_id": "14c7b4df-a852-4d9d-9959-ef7df8b2f5f5",
+      "credits": 2,
+      "settings": "16:9, 2k, ref EP001 H1",
+      "file": "public/assets/higgsfield/ep003/C1_reaction_v1.png",
+      "render_file": "public/assets/higgsfield/ep003/C1_reaction_v1.jpg",
+      "size": [
+        2752,
+        1536
+      ]
+    },
+    {
+      "id": "C2",
+      "name": "Recording a message",
+      "job_id": "1e6b9e7b-161f-47d2-b9ec-e39bdea61361",
+      "credits": 2,
+      "settings": "16:9, 2k, ref C1",
+      "file": "public/assets/higgsfield/ep003/C2_recording_v1.png",
+      "render_file": "public/assets/higgsfield/ep003/C2_recording_v1.jpg",
+      "size": [
+        2752,
+        1536
+      ]
+    },
+    {
+      "id": "C3",
+      "name": "Conversation with a friend",
+      "job_id": "bd7e89a9-5a01-4068-be4d-eacd65a51f1c",
+      "credits": 2,
+      "settings": "16:9, 2k, ref C1",
+      "file": "public/assets/higgsfield/ep003/C3_conversation_v1.png",
+      "render_file": "public/assets/higgsfield/ep003/C3_conversation_v1.jpg",
+      "size": [
+        2752,
+        1536
+      ]
+    },
+    {
+      "id": "C4",
+      "name": "Phone close-up, blank screen",
+      "job_id": "cb58d020-cd68-49fa-9d85-3a33870c7771",
+      "credits": 2,
+      "settings": "16:9, 2k, ref C1",
+      "file": "public/assets/higgsfield/ep003/C4_phone_v1.png",
+      "render_file": "public/assets/higgsfield/ep003/C4_phone_v1.jpg",
+      "size": [
+        2752,
+        1536
+      ]
+    }
+  ]
 }

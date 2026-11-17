@@ -1,1 +1,7 @@
 date,category,item,vendor,quantity,unit,unit_cost_usd,total_usd,status,approval,notes
+2026-11-17,inspection,"Higgsfield balance + cost preflight (2 cr per 2K image)",Higgsfield MCP,0,credits,0.049,0.00,spent,n/a,Read-only; balance 365.47
+2026-11-17,narration,"FINAL narration L01-L71 (Kokoro-82M int8; voice af_heart; speed 0.88)",local,1,render,0,0.00,spent,approved channel voice,Apache-2.0; 289.6 s incl. 8 s end card
+2026-11-17,assets,C1 character reaction (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-17 (prompt sheet),job 14c7b4df; first pass
+2026-11-17,assets,C2 recording a message (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-17 (prompt sheet),job 1e6b9e7b; first pass
+2026-11-17,assets,C3 conversation with a friend (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-17 (prompt sheet),job bd7e89a9; first pass
+2026-11-17,assets,"C4 phone close-up, blank screen (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-17 (prompt sheet),job cb58d020; first pass
