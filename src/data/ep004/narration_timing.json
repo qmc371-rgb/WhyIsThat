@@ -1,0 +1,4250 @@
+{
+  "source": "FINAL_kokoro",
+  "notForPublication": false,
+  "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88 (Apache-2.0; approved channel voice)",
+  "audio": "audio/ep004/ep004_narration_kokoro.wav",
+  "durationSec": 271.17,
+  "wordTimingMethod": "exact line boundaries (per-paragraph synthesis); phrases pause-anchored; words proportional",
+  "sections": [
+    "L12",
+    "L20",
+    "L28",
+    "L34",
+    "L45",
+    "L55",
+    "L60",
+    "L65"
+  ],
+  "lines": [
+    {
+      "id": "L01",
+      "text": "Touch the wooden part of a chair.",
+      "start": 1.2,
+      "end": 2.87,
+      "phrases": [
+        {
+          "text": "Touch the wooden part of a chair.",
+          "start": 1.2,
+          "end": 2.87
+        }
+      ],
+      "words": [
+        {
+          "text": "Touch",
+          "start": 1.2,
+          "end": 1.497
+        },
+        {
+          "text": "the",
+          "start": 1.497,
+          "end": 1.703
+        },
+        {
+          "text": "wooden",
+          "start": 1.703,
+          "end": 2.046
+        },
+        {
+          "text": "part",
+          "start": 2.046,
+          "end": 2.298
+        },
+        {
+          "text": "of",
+          "start": 2.298,
+          "end": 2.458
+        },
+        {
+          "text": "a",
+          "start": 2.458,
+          "end": 2.573
+        },
+        {
+          "text": "chair.",
+          "start": 2.573,
+          "end": 2.87
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "text": "Now touch its metal leg.",
+      "start": 3.47,
+      "end": 5.01,
+      "phrases": [
+        {
+          "text": "Now touch its metal leg.",
+          "start": 3.47,
+          "end": 5.01
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 3.47,
+          "end": 3.732
+        },
+        {
+          "text": "touch",
+          "start": 3.732,
+          "end": 4.109
+        },
+        {
+          "text": "its",
+          "start": 4.109,
+          "end": 4.371
+        },
+        {
+          "text": "metal",
+          "start": 4.371,
+          "end": 4.748
+        },
+        {
+          "text": "leg.",
+          "start": 4.748,
+          "end": 5.01
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "text": "The wood feels normal.",
+      "start": 5.61,
+      "end": 6.88,
+      "phrases": [
+        {
+          "text": "The wood feels normal.",
+          "start": 5.61,
+          "end": 6.88
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 5.61,
+          "end": 5.848
+        },
+        {
+          "text": "wood",
+          "start": 5.848,
+          "end": 6.139
+        },
+        {
+          "text": "feels",
+          "start": 6.139,
+          "end": 6.483
+        },
+        {
+          "text": "normal.",
+          "start": 6.483,
+          "end": 6.88
+        }
+      ]
+    },
+    {
+      "id": "L04",
+      "text": "The metal feels cold.",
+      "start": 7.48,
+      "end": 8.85,
+      "phrases": [
+        {
+          "text": "The metal feels cold.",
+          "start": 7.48,
+          "end": 8.85
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 7.48,
+          "end": 7.748
+        },
+        {
+          "text": "metal",
+          "start": 7.748,
+          "end": 8.135
+        },
+        {
+          "text": "feels",
+          "start": 8.135,
+          "end": 8.522
+        },
+        {
+          "text": "cold.",
+          "start": 8.522,
+          "end": 8.85
+        }
+      ]
+    },
+    {
+      "id": "L05",
+      "text": "They’ve been sitting beside each other all day. No refrigerator. No air conditioner aimed at the chair.",
+      "start": 9.45,
+      "end": 15.72,
+      "phrases": [
+        {
+          "text": "They’ve been sitting beside each other all day.",
+          "start": 9.45,
+          "end": 12.271
+        },
+        {
+          "text": "No refrigerator.",
+          "start": 12.271,
+          "end": 13.23
+        },
+        {
+          "text": "No air conditioner aimed at the chair.",
+          "start": 13.64,
+          "end": 15.72
+        }
+      ],
+      "words": [
+        {
+          "text": "They’ve",
+          "start": 9.45,
+          "end": 9.873
+        },
+        {
+          "text": "been",
+          "start": 9.873,
+          "end": 10.183
+        },
+        {
+          "text": "sitting",
+          "start": 10.183,
+          "end": 10.663
+        },
+        {
+          "text": "beside",
+          "start": 10.663,
+          "end": 11.086
+        },
+        {
+          "text": "each",
+          "start": 11.086,
+          "end": 11.396
+        },
+        {
+          "text": "other",
+          "start": 11.396,
+          "end": 11.763
+        },
+        {
+          "text": "all",
+          "start": 11.763,
+          "end": 12.017
+        },
+        {
+          "text": "day.",
+          "start": 12.017,
+          "end": 12.271
+        },
+        {
+          "text": "No",
+          "start": 12.271,
+          "end": 12.468
+        },
+        {
+          "text": "refrigerator.",
+          "start": 12.468,
+          "end": 13.23
+        },
+        {
+          "text": "No",
+          "start": 13.64,
+          "end": 13.815
+        },
+        {
+          "text": "air",
+          "start": 13.815,
+          "end": 14.041
+        },
+        {
+          "text": "conditioner",
+          "start": 14.041,
+          "end": 14.667
+        },
+        {
+          "text": "aimed",
+          "start": 14.667,
+          "end": 14.993
+        },
+        {
+          "text": "at",
+          "start": 14.993,
+          "end": 15.169
+        },
+        {
+          "text": "the",
+          "start": 15.169,
+          "end": 15.394
+        },
+        {
+          "text": "chair.",
+          "start": 15.394,
+          "end": 15.72
+        }
+      ]
+    },
+    {
+      "id": "L06",
+      "text": "So why does one feel colder?",
+      "start": 16.32,
+      "end": 18.1,
+      "phrases": [
+        {
+          "text": "So why does one feel colder?",
+          "start": 16.32,
+          "end": 18.1
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 16.32,
+          "end": 16.521
+        },
+        {
+          "text": "why",
+          "start": 16.521,
+          "end": 16.779
+        },
+        {
+          "text": "does",
+          "start": 16.779,
+          "end": 17.095
+        },
+        {
+          "text": "one",
+          "start": 17.095,
+          "end": 17.354
+        },
+        {
+          "text": "feel",
+          "start": 17.354,
+          "end": 17.669
+        },
+        {
+          "text": "colder?",
+          "start": 17.669,
+          "end": 18.1
+        }
+      ]
+    },
+    {
+      "id": "L07",
+      "text": "Here’s the surprise.",
+      "start": 20.5,
+      "end": 21.72,
+      "phrases": [
+        {
+          "text": "Here’s the surprise.",
+          "start": 20.5,
+          "end": 21.72
+        }
+      ],
+      "words": [
+        {
+          "text": "Here’s",
+          "start": 20.5,
+          "end": 20.887
+        },
+        {
+          "text": "the",
+          "start": 20.887,
+          "end": 21.155
+        },
+        {
+          "text": "surprise.",
+          "start": 21.155,
+          "end": 21.72
+        }
+      ]
+    },
+    {
+      "id": "L08",
+      "text": "Once both have settled to the same room temperature, the metal can feel colder even though it isn’t.",
+      "start": 22.32,
+      "end": 28.1,
+      "phrases": [
+        {
+          "text": "Once both have settled to the same room temperature,",
+          "start": 22.32,
+          "end": 24.98
+        },
+        {
+          "text": "the metal can feel colder even though it isn’t.",
+          "start": 25.45,
+          "end": 28.1
+        }
+      ],
+      "words": [
+        {
+          "text": "Once",
+          "start": 22.32,
+          "end": 22.579
+        },
+        {
+          "text": "both",
+          "start": 22.579,
+          "end": 22.838
+        },
+        {
+          "text": "have",
+          "start": 22.838,
+          "end": 23.097
+        },
+        {
+          "text": "settled",
+          "start": 23.097,
+          "end": 23.497
+        },
+        {
+          "text": "to",
+          "start": 23.497,
+          "end": 23.662
+        },
+        {
+          "text": "the",
+          "start": 23.662,
+          "end": 23.874
+        },
+        {
+          "text": "same",
+          "start": 23.874,
+          "end": 24.133
+        },
+        {
+          "text": "room",
+          "start": 24.133,
+          "end": 24.392
+        },
+        {
+          "text": "temperature,",
+          "start": 24.392,
+          "end": 24.98
+        },
+        {
+          "text": "the",
+          "start": 25.45,
+          "end": 25.686
+        },
+        {
+          "text": "metal",
+          "start": 25.686,
+          "end": 26.027
+        },
+        {
+          "text": "can",
+          "start": 26.027,
+          "end": 26.263
+        },
+        {
+          "text": "feel",
+          "start": 26.263,
+          "end": 26.552
+        },
+        {
+          "text": "colder",
+          "start": 26.552,
+          "end": 26.946
+        },
+        {
+          "text": "even",
+          "start": 26.946,
+          "end": 27.234
+        },
+        {
+          "text": "though",
+          "start": 27.234,
+          "end": 27.628
+        },
+        {
+          "text": "it",
+          "start": 27.628,
+          "end": 27.811
+        },
+        {
+          "text": "isn’t.",
+          "start": 27.811,
+          "end": 28.1
+        }
+      ]
+    },
+    {
+      "id": "L09",
+      "text": "And there’s a way to make that difference even stranger.",
+      "start": 28.7,
+      "end": 31.45,
+      "phrases": [
+        {
+          "text": "And there’s a way to make that difference even stranger.",
+          "start": 28.7,
+          "end": 31.45
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 28.7,
+          "end": 28.906
+        },
+        {
+          "text": "there’s",
+          "start": 28.906,
+          "end": 29.25
+        },
+        {
+          "text": "a",
+          "start": 29.25,
+          "end": 29.365
+        },
+        {
+          "text": "way",
+          "start": 29.365,
+          "end": 29.571
+        },
+        {
+          "text": "to",
+          "start": 29.571,
+          "end": 29.731
+        },
+        {
+          "text": "make",
+          "start": 29.731,
+          "end": 29.983
+        },
+        {
+          "text": "that",
+          "start": 29.983,
+          "end": 30.235
+        },
+        {
+          "text": "difference",
+          "start": 30.235,
+          "end": 30.762
+        },
+        {
+          "text": "even",
+          "start": 30.762,
+          "end": 31.015
+        },
+        {
+          "text": "stranger.",
+          "start": 31.015,
+          "end": 31.45
+        }
+      ]
+    },
+    {
+      "id": "L10",
+      "text": "Put an ice cube on each material.",
+      "start": 32.05,
+      "end": 33.97,
+      "phrases": [
+        {
+          "text": "Put an ice cube on each material.",
+          "start": 32.05,
+          "end": 33.97
+        }
+      ],
+      "words": [
+        {
+          "text": "Put",
+          "start": 32.05,
+          "end": 32.287
+        },
+        {
+          "text": "an",
+          "start": 32.287,
+          "end": 32.471
+        },
+        {
+          "text": "ice",
+          "start": 32.471,
+          "end": 32.708
+        },
+        {
+          "text": "cube",
+          "start": 32.708,
+          "end": 32.997
+        },
+        {
+          "text": "on",
+          "start": 32.997,
+          "end": 33.181
+        },
+        {
+          "text": "each",
+          "start": 33.181,
+          "end": 33.47
+        },
+        {
+          "text": "material.",
+          "start": 33.47,
+          "end": 33.97
+        }
+      ]
+    },
+    {
+      "id": "L11",
+      "text": "Under suitable conditions, the metal—the one that feels colder—can melt its ice faster.",
+      "start": 34.57,
+      "end": 40.08,
+      "phrases": [
+        {
+          "text": "Under suitable conditions,",
+          "start": 34.57,
+          "end": 36.07
+        },
+        {
+          "text": "the metal—the one that feels colder—can melt its ice faster.",
+          "start": 36.29,
+          "end": 40.08
+        }
+      ],
+      "words": [
+        {
+          "text": "Under",
+          "start": 34.57,
+          "end": 34.925
+        },
+        {
+          "text": "suitable",
+          "start": 34.925,
+          "end": 35.443
+        },
+        {
+          "text": "conditions,",
+          "start": 35.443,
+          "end": 36.07
+        },
+        {
+          "text": "the",
+          "start": 36.29,
+          "end": 36.561
+        },
+        {
+          "text": "metal—the",
+          "start": 36.561,
+          "end": 37.132
+        },
+        {
+          "text": "one",
+          "start": 37.132,
+          "end": 37.403
+        },
+        {
+          "text": "that",
+          "start": 37.403,
+          "end": 37.734
+        },
+        {
+          "text": "feels",
+          "start": 37.734,
+          "end": 38.125
+        },
+        {
+          "text": "colder—can",
+          "start": 38.125,
+          "end": 38.757
+        },
+        {
+          "text": "melt",
+          "start": 38.757,
+          "end": 39.087
+        },
+        {
+          "text": "its",
+          "start": 39.087,
+          "end": 39.358
+        },
+        {
+          "text": "ice",
+          "start": 39.358,
+          "end": 39.629
+        },
+        {
+          "text": "faster.",
+          "start": 39.629,
+          "end": 40.08
+        }
+      ]
+    },
+    {
+      "id": "L12",
+      "text": "The explanation begins with what happens when your hand touches something.",
+      "start": 41.08,
+      "end": 45.28,
+      "phrases": [
+        {
+          "text": "The explanation begins with what happens when your hand touches something.",
+          "start": 41.08,
+          "end": 45.28
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 41.08,
+          "end": 41.318
+        },
+        {
+          "text": "explanation",
+          "start": 41.318,
+          "end": 41.978
+        },
+        {
+          "text": "begins",
+          "start": 41.978,
+          "end": 42.374
+        },
+        {
+          "text": "with",
+          "start": 42.374,
+          "end": 42.665
+        },
+        {
+          "text": "what",
+          "start": 42.665,
+          "end": 42.955
+        },
+        {
+          "text": "happens",
+          "start": 42.955,
+          "end": 43.405
+        },
+        {
+          "text": "when",
+          "start": 43.405,
+          "end": 43.695
+        },
+        {
+          "text": "your",
+          "start": 43.695,
+          "end": 43.986
+        },
+        {
+          "text": "hand",
+          "start": 43.986,
+          "end": 44.276
+        },
+        {
+          "text": "touches",
+          "start": 44.276,
+          "end": 44.725
+        },
+        {
+          "text": "something.",
+          "start": 44.725,
+          "end": 45.28
+        }
+      ]
+    },
+    {
+      "id": "L13",
+      "text": "Your hand is usually warmer than the objects in a comfortable room.",
+      "start": 45.88,
+      "end": 49.95,
+      "phrases": [
+        {
+          "text": "Your hand is usually warmer than the objects in a comfortable room.",
+          "start": 45.88,
+          "end": 49.95
+        }
+      ],
+      "words": [
+        {
+          "text": "Your",
+          "start": 45.88,
+          "end": 46.187
+        },
+        {
+          "text": "hand",
+          "start": 46.187,
+          "end": 46.493
+        },
+        {
+          "text": "is",
+          "start": 46.493,
+          "end": 46.688
+        },
+        {
+          "text": "usually",
+          "start": 46.688,
+          "end": 47.162
+        },
+        {
+          "text": "warmer",
+          "start": 47.162,
+          "end": 47.58
+        },
+        {
+          "text": "than",
+          "start": 47.58,
+          "end": 47.887
+        },
+        {
+          "text": "the",
+          "start": 47.887,
+          "end": 48.138
+        },
+        {
+          "text": "objects",
+          "start": 48.138,
+          "end": 48.612
+        },
+        {
+          "text": "in",
+          "start": 48.612,
+          "end": 48.807
+        },
+        {
+          "text": "a",
+          "start": 48.807,
+          "end": 48.946
+        },
+        {
+          "text": "comfortable",
+          "start": 48.946,
+          "end": 49.643
+        },
+        {
+          "text": "room.",
+          "start": 49.643,
+          "end": 49.95
+        }
+      ]
+    },
+    {
+      "id": "L14",
+      "text": "When you touch one, thermal energy transfers from your warmer skin into the cooler object.",
+      "start": 50.55,
+      "end": 55.85,
+      "phrases": [
+        {
+          "text": "When you touch one,",
+          "start": 50.55,
+          "end": 51.49
+        },
+        {
+          "text": "thermal energy transfers from your warmer skin into the cooler object.",
+          "start": 51.91,
+          "end": 55.85
+        }
+      ],
+      "words": [
+        {
+          "text": "When",
+          "start": 50.55,
+          "end": 50.796
+        },
+        {
+          "text": "you",
+          "start": 50.796,
+          "end": 50.998
+        },
+        {
+          "text": "touch",
+          "start": 50.998,
+          "end": 51.289
+        },
+        {
+          "text": "one,",
+          "start": 51.289,
+          "end": 51.49
+        },
+        {
+          "text": "thermal",
+          "start": 51.91,
+          "end": 52.354
+        },
+        {
+          "text": "energy",
+          "start": 52.354,
+          "end": 52.745
+        },
+        {
+          "text": "transfers",
+          "start": 52.745,
+          "end": 53.293
+        },
+        {
+          "text": "from",
+          "start": 53.293,
+          "end": 53.58
+        },
+        {
+          "text": "your",
+          "start": 53.58,
+          "end": 53.867
+        },
+        {
+          "text": "warmer",
+          "start": 53.867,
+          "end": 54.258
+        },
+        {
+          "text": "skin",
+          "start": 54.258,
+          "end": 54.545
+        },
+        {
+          "text": "into",
+          "start": 54.545,
+          "end": 54.832
+        },
+        {
+          "text": "the",
+          "start": 54.832,
+          "end": 55.067
+        },
+        {
+          "text": "cooler",
+          "start": 55.067,
+          "end": 55.459
+        },
+        {
+          "text": "object.",
+          "start": 55.459,
+          "end": 55.85
+        }
+      ]
+    },
+    {
+      "id": "L15",
+      "text": "That transfer is called conduction.",
+      "start": 56.45,
+      "end": 58.57,
+      "phrases": [
+        {
+          "text": "That transfer is called conduction.",
+          "start": 56.45,
+          "end": 58.57
+        }
+      ],
+      "words": [
+        {
+          "text": "That",
+          "start": 56.45,
+          "end": 56.761
+        },
+        {
+          "text": "transfer",
+          "start": 56.761,
+          "end": 57.298
+        },
+        {
+          "text": "is",
+          "start": 57.298,
+          "end": 57.496
+        },
+        {
+          "text": "called",
+          "start": 57.496,
+          "end": 57.92
+        },
+        {
+          "text": "conduction.",
+          "start": 57.92,
+          "end": 58.57
+        }
+      ]
+    },
+    {
+      "id": "L16",
+      "text": "But different materials transfer energy at different rates.",
+      "start": 59.17,
+      "end": 62.43,
+      "phrases": [
+        {
+          "text": "But different materials transfer energy at different rates.",
+          "start": 59.17,
+          "end": 62.43
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 59.17,
+          "end": 59.403
+        },
+        {
+          "text": "different",
+          "start": 59.403,
+          "end": 59.946
+        },
+        {
+          "text": "materials",
+          "start": 59.946,
+          "end": 60.49
+        },
+        {
+          "text": "transfer",
+          "start": 60.49,
+          "end": 60.981
+        },
+        {
+          "text": "energy",
+          "start": 60.981,
+          "end": 61.369
+        },
+        {
+          "text": "at",
+          "start": 61.369,
+          "end": 61.55
+        },
+        {
+          "text": "different",
+          "start": 61.55,
+          "end": 62.094
+        },
+        {
+          "text": "rates.",
+          "start": 62.094,
+          "end": 62.43
+        }
+      ]
+    },
+    {
+      "id": "L17",
+      "text": "A metal chair leg conducts heat away from your fingers more readily than wood does.",
+      "start": 63.03,
+      "end": 68.03,
+      "phrases": [
+        {
+          "text": "A metal chair leg conducts heat away from your fingers more readily than wood does.",
+          "start": 63.03,
+          "end": 68.03
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 63.03,
+          "end": 63.168
+        },
+        {
+          "text": "metal",
+          "start": 63.168,
+          "end": 63.527
+        },
+        {
+          "text": "chair",
+          "start": 63.527,
+          "end": 63.886
+        },
+        {
+          "text": "leg",
+          "start": 63.886,
+          "end": 64.135
+        },
+        {
+          "text": "conducts",
+          "start": 64.135,
+          "end": 64.66
+        },
+        {
+          "text": "heat",
+          "start": 64.66,
+          "end": 64.964
+        },
+        {
+          "text": "away",
+          "start": 64.964,
+          "end": 65.268
+        },
+        {
+          "text": "from",
+          "start": 65.268,
+          "end": 65.571
+        },
+        {
+          "text": "your",
+          "start": 65.571,
+          "end": 65.875
+        },
+        {
+          "text": "fingers",
+          "start": 65.875,
+          "end": 66.345
+        },
+        {
+          "text": "more",
+          "start": 66.345,
+          "end": 66.649
+        },
+        {
+          "text": "readily",
+          "start": 66.649,
+          "end": 67.118
+        },
+        {
+          "text": "than",
+          "start": 67.118,
+          "end": 67.422
+        },
+        {
+          "text": "wood",
+          "start": 67.422,
+          "end": 67.726
+        },
+        {
+          "text": "does.",
+          "start": 67.726,
+          "end": 68.03
+        }
+      ]
+    },
+    {
+      "id": "L18",
+      "text": "Your skin cools faster at the contact point.",
+      "start": 68.63,
+      "end": 71.25,
+      "phrases": [
+        {
+          "text": "Your skin cools faster at the contact point.",
+          "start": 68.63,
+          "end": 71.25
+        }
+      ],
+      "words": [
+        {
+          "text": "Your",
+          "start": 68.63,
+          "end": 68.93
+        },
+        {
+          "text": "skin",
+          "start": 68.93,
+          "end": 69.23
+        },
+        {
+          "text": "cools",
+          "start": 69.23,
+          "end": 69.585
+        },
+        {
+          "text": "faster",
+          "start": 69.585,
+          "end": 69.995
+        },
+        {
+          "text": "at",
+          "start": 69.995,
+          "end": 70.186
+        },
+        {
+          "text": "the",
+          "start": 70.186,
+          "end": 70.431
+        },
+        {
+          "text": "contact",
+          "start": 70.431,
+          "end": 70.895
+        },
+        {
+          "text": "point.",
+          "start": 70.895,
+          "end": 71.25
+        }
+      ]
+    },
+    {
+      "id": "L19",
+      "text": "You experience that as a stronger feeling of cold.",
+      "start": 71.85,
+      "end": 74.76,
+      "phrases": [
+        {
+          "text": "You experience that as a stronger feeling of cold.",
+          "start": 71.85,
+          "end": 74.76
+        }
+      ],
+      "words": [
+        {
+          "text": "You",
+          "start": 71.85,
+          "end": 72.09
+        },
+        {
+          "text": "experience",
+          "start": 72.09,
+          "end": 72.704
+        },
+        {
+          "text": "that",
+          "start": 72.704,
+          "end": 72.998
+        },
+        {
+          "text": "as",
+          "start": 72.998,
+          "end": 73.185
+        },
+        {
+          "text": "a",
+          "start": 73.185,
+          "end": 73.318
+        },
+        {
+          "text": "stronger",
+          "start": 73.318,
+          "end": 73.826
+        },
+        {
+          "text": "feeling",
+          "start": 73.826,
+          "end": 74.279
+        },
+        {
+          "text": "of",
+          "start": 74.279,
+          "end": 74.466
+        },
+        {
+          "text": "cold.",
+          "start": 74.466,
+          "end": 74.76
+        }
+      ]
+    },
+    {
+      "id": "L20",
+      "text": "Picture the heat leaving your hand as little moving lights.",
+      "start": 75.76,
+      "end": 79.15,
+      "phrases": [
+        {
+          "text": "Picture the heat leaving your hand as little moving lights.",
+          "start": 75.76,
+          "end": 79.15
+        }
+      ],
+      "words": [
+        {
+          "text": "Picture",
+          "start": 75.76,
+          "end": 76.21
+        },
+        {
+          "text": "the",
+          "start": 76.21,
+          "end": 76.449
+        },
+        {
+          "text": "heat",
+          "start": 76.449,
+          "end": 76.74
+        },
+        {
+          "text": "leaving",
+          "start": 76.74,
+          "end": 77.19
+        },
+        {
+          "text": "your",
+          "start": 77.19,
+          "end": 77.481
+        },
+        {
+          "text": "hand",
+          "start": 77.481,
+          "end": 77.773
+        },
+        {
+          "text": "as",
+          "start": 77.773,
+          "end": 77.958
+        },
+        {
+          "text": "little",
+          "start": 77.958,
+          "end": 78.355
+        },
+        {
+          "text": "moving",
+          "start": 78.355,
+          "end": 78.753
+        },
+        {
+          "text": "lights.",
+          "start": 78.753,
+          "end": 79.15
+        }
+      ]
+    },
+    {
+      "id": "L21",
+      "text": "On the metal side, the lights spread quickly away from the place you touch.",
+      "start": 79.75,
+      "end": 83.84,
+      "phrases": [
+        {
+          "text": "On the metal side,",
+          "start": 79.75,
+          "end": 80.84
+        },
+        {
+          "text": "the lights spread quickly away from the place you touch.",
+          "start": 81.22,
+          "end": 83.84
+        }
+      ],
+      "words": [
+        {
+          "text": "On",
+          "start": 79.75,
+          "end": 79.941
+        },
+        {
+          "text": "the",
+          "start": 79.941,
+          "end": 80.186
+        },
+        {
+          "text": "metal",
+          "start": 80.186,
+          "end": 80.54
+        },
+        {
+          "text": "side,",
+          "start": 80.54,
+          "end": 80.84
+        },
+        {
+          "text": "the",
+          "start": 81.22,
+          "end": 81.413
+        },
+        {
+          "text": "lights",
+          "start": 81.413,
+          "end": 81.735
+        },
+        {
+          "text": "spread",
+          "start": 81.735,
+          "end": 82.058
+        },
+        {
+          "text": "quickly",
+          "start": 82.058,
+          "end": 82.423
+        },
+        {
+          "text": "away",
+          "start": 82.423,
+          "end": 82.659
+        },
+        {
+          "text": "from",
+          "start": 82.659,
+          "end": 82.895
+        },
+        {
+          "text": "the",
+          "start": 82.895,
+          "end": 83.088
+        },
+        {
+          "text": "place",
+          "start": 83.088,
+          "end": 83.368
+        },
+        {
+          "text": "you",
+          "start": 83.368,
+          "end": 83.561
+        },
+        {
+          "text": "touch.",
+          "start": 83.561,
+          "end": 83.84
+        }
+      ]
+    },
+    {
+      "id": "L22",
+      "text": "On the wood side, they spread more slowly.",
+      "start": 84.44,
+      "end": 86.92,
+      "phrases": [
+        {
+          "text": "On the wood side,",
+          "start": 84.44,
+          "end": 85.37
+        },
+        {
+          "text": "they spread more slowly.",
+          "start": 85.64,
+          "end": 86.92
+        }
+      ],
+      "words": [
+        {
+          "text": "On",
+          "start": 84.44,
+          "end": 84.611
+        },
+        {
+          "text": "the",
+          "start": 84.611,
+          "end": 84.832
+        },
+        {
+          "text": "wood",
+          "start": 84.832,
+          "end": 85.101
+        },
+        {
+          "text": "side,",
+          "start": 85.101,
+          "end": 85.37
+        },
+        {
+          "text": "they",
+          "start": 85.64,
+          "end": 85.911
+        },
+        {
+          "text": "spread",
+          "start": 85.911,
+          "end": 86.28
+        },
+        {
+          "text": "more",
+          "start": 86.28,
+          "end": 86.551
+        },
+        {
+          "text": "slowly.",
+          "start": 86.551,
+          "end": 86.92
+        }
+      ]
+    },
+    {
+      "id": "L23",
+      "text": "These lights are just an illustration. Heat doesn’t literally travel as glowing dots.",
+      "start": 87.52,
+      "end": 93.05,
+      "phrases": [
+        {
+          "text": "These lights are just an illustration.",
+          "start": 87.52,
+          "end": 89.7
+        },
+        {
+          "text": "Heat doesn’t literally travel as glowing dots.",
+          "start": 90.24,
+          "end": 93.05
+        }
+      ],
+      "words": [
+        {
+          "text": "These",
+          "start": 87.52,
+          "end": 87.866
+        },
+        {
+          "text": "lights",
+          "start": 87.866,
+          "end": 88.264
+        },
+        {
+          "text": "are",
+          "start": 88.264,
+          "end": 88.504
+        },
+        {
+          "text": "just",
+          "start": 88.504,
+          "end": 88.796
+        },
+        {
+          "text": "an",
+          "start": 88.796,
+          "end": 88.982
+        },
+        {
+          "text": "illustration.",
+          "start": 88.982,
+          "end": 89.7
+        },
+        {
+          "text": "Heat",
+          "start": 90.24,
+          "end": 90.559
+        },
+        {
+          "text": "doesn’t",
+          "start": 90.559,
+          "end": 90.993
+        },
+        {
+          "text": "literally",
+          "start": 90.993,
+          "end": 91.602
+        },
+        {
+          "text": "travel",
+          "start": 91.602,
+          "end": 92.036
+        },
+        {
+          "text": "as",
+          "start": 92.036,
+          "end": 92.239
+        },
+        {
+          "text": "glowing",
+          "start": 92.239,
+          "end": 92.731
+        },
+        {
+          "text": "dots.",
+          "start": 92.731,
+          "end": 93.05
+        }
+      ]
+    },
+    {
+      "id": "L24",
+      "text": "But the difference they represent is real.",
+      "start": 93.65,
+      "end": 95.87,
+      "phrases": [
+        {
+          "text": "But the difference they represent is real.",
+          "start": 93.65,
+          "end": 95.87
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 93.65,
+          "end": 93.87
+        },
+        {
+          "text": "the",
+          "start": 93.87,
+          "end": 94.089
+        },
+        {
+          "text": "difference",
+          "start": 94.089,
+          "end": 94.65
+        },
+        {
+          "text": "they",
+          "start": 94.65,
+          "end": 94.919
+        },
+        {
+          "text": "represent",
+          "start": 94.919,
+          "end": 95.431
+        },
+        {
+          "text": "is",
+          "start": 95.431,
+          "end": 95.602
+        },
+        {
+          "text": "real.",
+          "start": 95.602,
+          "end": 95.87
+        }
+      ]
+    },
+    {
+      "id": "L25",
+      "text": "Metal is a good thermal conductor.",
+      "start": 96.47,
+      "end": 98.58,
+      "phrases": [
+        {
+          "text": "Metal is a good thermal conductor.",
+          "start": 96.47,
+          "end": 98.58
+        }
+      ],
+      "words": [
+        {
+          "text": "Metal",
+          "start": 96.47,
+          "end": 96.841
+        },
+        {
+          "text": "is",
+          "start": 96.841,
+          "end": 97.04
+        },
+        {
+          "text": "a",
+          "start": 97.04,
+          "end": 97.183
+        },
+        {
+          "text": "good",
+          "start": 97.183,
+          "end": 97.496
+        },
+        {
+          "text": "thermal",
+          "start": 97.496,
+          "end": 97.981
+        },
+        {
+          "text": "conductor.",
+          "start": 97.981,
+          "end": 98.58
+        }
+      ]
+    },
+    {
+      "id": "L26",
+      "text": "Wood is a much poorer one.",
+      "start": 99.18,
+      "end": 100.68,
+      "phrases": [
+        {
+          "text": "Wood is a much poorer one.",
+          "start": 99.18,
+          "end": 100.68
+        }
+      ],
+      "words": [
+        {
+          "text": "Wood",
+          "start": 99.18,
+          "end": 99.464
+        },
+        {
+          "text": "is",
+          "start": 99.464,
+          "end": 99.646
+        },
+        {
+          "text": "a",
+          "start": 99.646,
+          "end": 99.775
+        },
+        {
+          "text": "much",
+          "start": 99.775,
+          "end": 100.059
+        },
+        {
+          "text": "poorer",
+          "start": 100.059,
+          "end": 100.447
+        },
+        {
+          "text": "one.",
+          "start": 100.447,
+          "end": 100.68
+        }
+      ]
+    },
+    {
+      "id": "L27",
+      "text": "Your hand is reacting to that exchange of energy—not simply reading a temperature off the surface.",
+      "start": 101.28,
+      "end": 107.57,
+      "phrases": [
+        {
+          "text": "Your hand is reacting to that exchange of energy—not simply reading a temperature off the surface.",
+          "start": 101.28,
+          "end": 107.57
+        }
+      ],
+      "words": [
+        {
+          "text": "Your",
+          "start": 101.28,
+          "end": 101.609
+        },
+        {
+          "text": "hand",
+          "start": 101.609,
+          "end": 101.939
+        },
+        {
+          "text": "is",
+          "start": 101.939,
+          "end": 102.149
+        },
+        {
+          "text": "reacting",
+          "start": 102.149,
+          "end": 102.718
+        },
+        {
+          "text": "to",
+          "start": 102.718,
+          "end": 102.927
+        },
+        {
+          "text": "that",
+          "start": 102.927,
+          "end": 103.257
+        },
+        {
+          "text": "exchange",
+          "start": 103.257,
+          "end": 103.826
+        },
+        {
+          "text": "of",
+          "start": 103.826,
+          "end": 104.036
+        },
+        {
+          "text": "energy—not",
+          "start": 104.036,
+          "end": 104.665
+        },
+        {
+          "text": "simply",
+          "start": 104.665,
+          "end": 105.114
+        },
+        {
+          "text": "reading",
+          "start": 105.114,
+          "end": 105.623
+        },
+        {
+          "text": "a",
+          "start": 105.623,
+          "end": 105.773
+        },
+        {
+          "text": "temperature",
+          "start": 105.773,
+          "end": 106.522
+        },
+        {
+          "text": "off",
+          "start": 106.522,
+          "end": 106.791
+        },
+        {
+          "text": "the",
+          "start": 106.791,
+          "end": 107.061
+        },
+        {
+          "text": "surface.",
+          "start": 107.061,
+          "end": 107.57
+        }
+      ]
+    },
+    {
+      "id": "L28",
+      "text": "Think about a thermometer beside your hand.",
+      "start": 108.57,
+      "end": 110.79,
+      "phrases": [
+        {
+          "text": "Think about a thermometer beside your hand.",
+          "start": 108.57,
+          "end": 110.79
+        }
+      ],
+      "words": [
+        {
+          "text": "Think",
+          "start": 108.57,
+          "end": 108.88
+        },
+        {
+          "text": "about",
+          "start": 108.88,
+          "end": 109.191
+        },
+        {
+          "text": "a",
+          "start": 109.191,
+          "end": 109.31
+        },
+        {
+          "text": "thermometer",
+          "start": 109.31,
+          "end": 109.907
+        },
+        {
+          "text": "beside",
+          "start": 109.907,
+          "end": 110.265
+        },
+        {
+          "text": "your",
+          "start": 110.265,
+          "end": 110.527
+        },
+        {
+          "text": "hand.",
+          "start": 110.527,
+          "end": 110.79
+        }
+      ]
+    },
+    {
+      "id": "L29",
+      "text": "The thermometer helps answer, “What temperature is this object?”",
+      "start": 111.39,
+      "end": 115.11,
+      "phrases": [
+        {
+          "text": "The thermometer helps answer,",
+          "start": 111.39,
+          "end": 112.97
+        },
+        {
+          "text": "“What temperature is this object?”",
+          "start": 113.34,
+          "end": 115.11
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 111.39,
+          "end": 111.619
+        },
+        {
+          "text": "thermometer",
+          "start": 111.619,
+          "end": 112.256
+        },
+        {
+          "text": "helps",
+          "start": 112.256,
+          "end": 112.588
+        },
+        {
+          "text": "answer,",
+          "start": 112.588,
+          "end": 112.97
+        },
+        {
+          "text": "“What",
+          "start": 113.34,
+          "end": 113.622
+        },
+        {
+          "text": "temperature",
+          "start": 113.622,
+          "end": 114.263
+        },
+        {
+          "text": "is",
+          "start": 114.263,
+          "end": 114.443
+        },
+        {
+          "text": "this",
+          "start": 114.443,
+          "end": 114.725
+        },
+        {
+          "text": "object?”",
+          "start": 114.725,
+          "end": 115.11
+        }
+      ]
+    },
+    {
+      "id": "L30",
+      "text": "The sensation in your fingers also depends on, “How quickly is this object changing the temperature of my skin?”",
+      "start": 115.71,
+      "end": 122.71,
+      "phrases": [
+        {
+          "text": "The sensation in your fingers also depends on,",
+          "start": 115.71,
+          "end": 118.6
+        },
+        {
+          "text": "“How quickly is this object changing the temperature of my skin?”",
+          "start": 119.08,
+          "end": 122.71
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 115.71,
+          "end": 115.97
+        },
+        {
+          "text": "sensation",
+          "start": 115.97,
+          "end": 116.577
+        },
+        {
+          "text": "in",
+          "start": 116.577,
+          "end": 116.779
+        },
+        {
+          "text": "your",
+          "start": 116.779,
+          "end": 117.097
+        },
+        {
+          "text": "fingers",
+          "start": 117.097,
+          "end": 117.588
+        },
+        {
+          "text": "also",
+          "start": 117.588,
+          "end": 117.906
+        },
+        {
+          "text": "depends",
+          "start": 117.906,
+          "end": 118.398
+        },
+        {
+          "text": "on,",
+          "start": 118.398,
+          "end": 118.6
+        },
+        {
+          "text": "“How",
+          "start": 119.08,
+          "end": 119.318
+        },
+        {
+          "text": "quickly",
+          "start": 119.318,
+          "end": 119.769
+        },
+        {
+          "text": "is",
+          "start": 119.769,
+          "end": 119.954
+        },
+        {
+          "text": "this",
+          "start": 119.954,
+          "end": 120.246
+        },
+        {
+          "text": "object",
+          "start": 120.246,
+          "end": 120.643
+        },
+        {
+          "text": "changing",
+          "start": 120.643,
+          "end": 121.147
+        },
+        {
+          "text": "the",
+          "start": 121.147,
+          "end": 121.385
+        },
+        {
+          "text": "temperature",
+          "start": 121.385,
+          "end": 122.048
+        },
+        {
+          "text": "of",
+          "start": 122.048,
+          "end": 122.233
+        },
+        {
+          "text": "my",
+          "start": 122.233,
+          "end": 122.419
+        },
+        {
+          "text": "skin?”",
+          "start": 122.419,
+          "end": 122.71
+        }
+      ]
+    },
+    {
+      "id": "L31",
+      "text": "Those questions are related.",
+      "start": 123.31,
+      "end": 125.13,
+      "phrases": [
+        {
+          "text": "Those questions are related.",
+          "start": 123.31,
+          "end": 125.13
+        }
+      ],
+      "words": [
+        {
+          "text": "Those",
+          "start": 123.31,
+          "end": 123.704
+        },
+        {
+          "text": "questions",
+          "start": 123.704,
+          "end": 124.341
+        },
+        {
+          "text": "are",
+          "start": 124.341,
+          "end": 124.614
+        },
+        {
+          "text": "related.",
+          "start": 124.614,
+          "end": 125.13
+        }
+      ]
+    },
+    {
+      "id": "L32",
+      "text": "But they aren’t identical.",
+      "start": 125.73,
+      "end": 127.17,
+      "phrases": [
+        {
+          "text": "But they aren’t identical.",
+          "start": 125.73,
+          "end": 127.17
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 125.73,
+          "end": 125.97
+        },
+        {
+          "text": "they",
+          "start": 125.97,
+          "end": 126.263
+        },
+        {
+          "text": "aren’t",
+          "start": 126.263,
+          "end": 126.61
+        },
+        {
+          "text": "identical.",
+          "start": 126.61,
+          "end": 127.17
+        }
+      ]
+    },
+    {
+      "id": "L33",
+      "text": "That’s why two surfaces can produce the same temperature reading and a different reaction from you.",
+      "start": 127.77,
+      "end": 133.58,
+      "phrases": [
+        {
+          "text": "That’s why two surfaces can produce the same temperature reading and a different reaction from you.",
+          "start": 127.77,
+          "end": 133.58
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 127.77,
+          "end": 128.126
+        },
+        {
+          "text": "why",
+          "start": 128.126,
+          "end": 128.373
+        },
+        {
+          "text": "two",
+          "start": 128.373,
+          "end": 128.62
+        },
+        {
+          "text": "surfaces",
+          "start": 128.62,
+          "end": 129.14
+        },
+        {
+          "text": "can",
+          "start": 129.14,
+          "end": 129.387
+        },
+        {
+          "text": "produce",
+          "start": 129.387,
+          "end": 129.853
+        },
+        {
+          "text": "the",
+          "start": 129.853,
+          "end": 130.099
+        },
+        {
+          "text": "same",
+          "start": 130.099,
+          "end": 130.401
+        },
+        {
+          "text": "temperature",
+          "start": 130.401,
+          "end": 131.086
+        },
+        {
+          "text": "reading",
+          "start": 131.086,
+          "end": 131.552
+        },
+        {
+          "text": "and",
+          "start": 131.552,
+          "end": 131.799
+        },
+        {
+          "text": "a",
+          "start": 131.799,
+          "end": 131.936
+        },
+        {
+          "text": "different",
+          "start": 131.936,
+          "end": 132.511
+        },
+        {
+          "text": "reaction",
+          "start": 132.511,
+          "end": 133.032
+        },
+        {
+          "text": "from",
+          "start": 133.032,
+          "end": 133.333
+        },
+        {
+          "text": "you.",
+          "start": 133.333,
+          "end": 133.58
+        }
+      ]
+    },
+    {
+      "id": "L34",
+      "text": "Now return to those ice cubes.",
+      "start": 134.58,
+      "end": 136.38,
+      "phrases": [
+        {
+          "text": "Now return to those ice cubes.",
+          "start": 134.58,
+          "end": 136.38
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 134.58,
+          "end": 134.825
+        },
+        {
+          "text": "return",
+          "start": 134.825,
+          "end": 135.235
+        },
+        {
+          "text": "to",
+          "start": 135.235,
+          "end": 135.425
+        },
+        {
+          "text": "those",
+          "start": 135.425,
+          "end": 135.78
+        },
+        {
+          "text": "ice",
+          "start": 135.78,
+          "end": 136.025
+        },
+        {
+          "text": "cubes.",
+          "start": 136.025,
+          "end": 136.38
+        }
+      ]
+    },
+    {
+      "id": "L35",
+      "text": "We’ll use a substantial metal block and a wooden block that have both been sitting in the same room.",
+      "start": 136.98,
+      "end": 142.53,
+      "phrases": [
+        {
+          "text": "We’ll use a substantial metal block and a wooden block that have both been sitting in the same room.",
+          "start": 136.98,
+          "end": 142.53
+        }
+      ],
+      "words": [
+        {
+          "text": "We’ll",
+          "start": 136.98,
+          "end": 137.261
+        },
+        {
+          "text": "use",
+          "start": 137.261,
+          "end": 137.492
+        },
+        {
+          "text": "a",
+          "start": 137.492,
+          "end": 137.619
+        },
+        {
+          "text": "substantial",
+          "start": 137.619,
+          "end": 138.259
+        },
+        {
+          "text": "metal",
+          "start": 138.259,
+          "end": 138.591
+        },
+        {
+          "text": "block",
+          "start": 138.591,
+          "end": 138.924
+        },
+        {
+          "text": "and",
+          "start": 138.924,
+          "end": 139.154
+        },
+        {
+          "text": "a",
+          "start": 139.154,
+          "end": 139.282
+        },
+        {
+          "text": "wooden",
+          "start": 139.282,
+          "end": 139.665
+        },
+        {
+          "text": "block",
+          "start": 139.665,
+          "end": 139.998
+        },
+        {
+          "text": "that",
+          "start": 139.998,
+          "end": 140.279
+        },
+        {
+          "text": "have",
+          "start": 140.279,
+          "end": 140.561
+        },
+        {
+          "text": "both",
+          "start": 140.561,
+          "end": 140.842
+        },
+        {
+          "text": "been",
+          "start": 140.842,
+          "end": 141.123
+        },
+        {
+          "text": "sitting",
+          "start": 141.123,
+          "end": 141.558
+        },
+        {
+          "text": "in",
+          "start": 141.558,
+          "end": 141.737
+        },
+        {
+          "text": "the",
+          "start": 141.737,
+          "end": 141.967
+        },
+        {
+          "text": "same",
+          "start": 141.967,
+          "end": 142.249
+        },
+        {
+          "text": "room.",
+          "start": 142.249,
+          "end": 142.53
+        }
+      ]
+    },
+    {
+      "id": "L36",
+      "text": "Both start warmer than the ice.",
+      "start": 143.13,
+      "end": 144.88,
+      "phrases": [
+        {
+          "text": "Both start warmer than the ice.",
+          "start": 143.13,
+          "end": 144.88
+        }
+      ],
+      "words": [
+        {
+          "text": "Both",
+          "start": 143.13,
+          "end": 143.413
+        },
+        {
+          "text": "start",
+          "start": 143.413,
+          "end": 143.748
+        },
+        {
+          "text": "warmer",
+          "start": 143.748,
+          "end": 144.134
+        },
+        {
+          "text": "than",
+          "start": 144.134,
+          "end": 144.417
+        },
+        {
+          "text": "the",
+          "start": 144.417,
+          "end": 144.648
+        },
+        {
+          "text": "ice.",
+          "start": 144.648,
+          "end": 144.88
+        }
+      ]
+    },
+    {
+      "id": "L37",
+      "text": "This time, energy flows from the blocks into the ice.",
+      "start": 145.48,
+      "end": 148.68,
+      "phrases": [
+        {
+          "text": "This time,",
+          "start": 145.48,
+          "end": 146.13
+        },
+        {
+          "text": "energy flows from the blocks into the ice.",
+          "start": 146.42,
+          "end": 148.68
+        }
+      ],
+      "words": [
+        {
+          "text": "This",
+          "start": 145.48,
+          "end": 145.805
+        },
+        {
+          "text": "time,",
+          "start": 145.805,
+          "end": 146.13
+        },
+        {
+          "text": "energy",
+          "start": 146.42,
+          "end": 146.788
+        },
+        {
+          "text": "flows",
+          "start": 146.788,
+          "end": 147.108
+        },
+        {
+          "text": "from",
+          "start": 147.108,
+          "end": 147.378
+        },
+        {
+          "text": "the",
+          "start": 147.378,
+          "end": 147.599
+        },
+        {
+          "text": "blocks",
+          "start": 147.599,
+          "end": 147.968
+        },
+        {
+          "text": "into",
+          "start": 147.968,
+          "end": 148.238
+        },
+        {
+          "text": "the",
+          "start": 148.238,
+          "end": 148.459
+        },
+        {
+          "text": "ice.",
+          "start": 148.459,
+          "end": 148.68
+        }
+      ]
+    },
+    {
+      "id": "L38",
+      "text": "The metal transfers heat to the ice more readily.",
+      "start": 149.28,
+      "end": 151.96,
+      "phrases": [
+        {
+          "text": "The metal transfers heat to the ice more readily.",
+          "start": 149.28,
+          "end": 151.96
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 149.28,
+          "end": 149.505
+        },
+        {
+          "text": "metal",
+          "start": 149.505,
+          "end": 149.831
+        },
+        {
+          "text": "transfers",
+          "start": 149.831,
+          "end": 150.357
+        },
+        {
+          "text": "heat",
+          "start": 150.357,
+          "end": 150.633
+        },
+        {
+          "text": "to",
+          "start": 150.633,
+          "end": 150.808
+        },
+        {
+          "text": "the",
+          "start": 150.808,
+          "end": 151.033
+        },
+        {
+          "text": "ice",
+          "start": 151.033,
+          "end": 151.259
+        },
+        {
+          "text": "more",
+          "start": 151.259,
+          "end": 151.534
+        },
+        {
+          "text": "readily.",
+          "start": 151.534,
+          "end": 151.96
+        }
+      ]
+    },
+    {
+      "id": "L39",
+      "text": "So the ice on the metal can melt faster.",
+      "start": 152.56,
+      "end": 154.86,
+      "phrases": [
+        {
+          "text": "So the ice on the metal can melt faster.",
+          "start": 152.56,
+          "end": 154.86
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 152.56,
+          "end": 152.741
+        },
+        {
+          "text": "the",
+          "start": 152.741,
+          "end": 152.973
+        },
+        {
+          "text": "ice",
+          "start": 152.973,
+          "end": 153.206
+        },
+        {
+          "text": "on",
+          "start": 153.206,
+          "end": 153.387
+        },
+        {
+          "text": "the",
+          "start": 153.387,
+          "end": 153.62
+        },
+        {
+          "text": "metal",
+          "start": 153.62,
+          "end": 153.956
+        },
+        {
+          "text": "can",
+          "start": 153.956,
+          "end": 154.188
+        },
+        {
+          "text": "melt",
+          "start": 154.188,
+          "end": 154.472
+        },
+        {
+          "text": "faster.",
+          "start": 154.472,
+          "end": 154.86
+        }
+      ]
+    },
+    {
+      "id": "L40",
+      "text": "The material that took heat away from your warm hand quickly can also deliver heat to cold ice quickly.",
+      "start": 155.46,
+      "end": 161.76,
+      "phrases": [
+        {
+          "text": "The material that took heat away from your warm hand quickly can also deliver heat to cold ice quickly.",
+          "start": 155.46,
+          "end": 161.76
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 155.46,
+          "end": 155.712
+        },
+        {
+          "text": "material",
+          "start": 155.712,
+          "end": 156.244
+        },
+        {
+          "text": "that",
+          "start": 156.244,
+          "end": 156.552
+        },
+        {
+          "text": "took",
+          "start": 156.552,
+          "end": 156.86
+        },
+        {
+          "text": "heat",
+          "start": 156.86,
+          "end": 157.168
+        },
+        {
+          "text": "away",
+          "start": 157.168,
+          "end": 157.476
+        },
+        {
+          "text": "from",
+          "start": 157.476,
+          "end": 157.784
+        },
+        {
+          "text": "your",
+          "start": 157.784,
+          "end": 158.092
+        },
+        {
+          "text": "warm",
+          "start": 158.092,
+          "end": 158.4
+        },
+        {
+          "text": "hand",
+          "start": 158.4,
+          "end": 158.708
+        },
+        {
+          "text": "quickly",
+          "start": 158.708,
+          "end": 159.184
+        },
+        {
+          "text": "can",
+          "start": 159.184,
+          "end": 159.436
+        },
+        {
+          "text": "also",
+          "start": 159.436,
+          "end": 159.744
+        },
+        {
+          "text": "deliver",
+          "start": 159.744,
+          "end": 160.22
+        },
+        {
+          "text": "heat",
+          "start": 160.22,
+          "end": 160.528
+        },
+        {
+          "text": "to",
+          "start": 160.528,
+          "end": 160.724
+        },
+        {
+          "text": "cold",
+          "start": 160.724,
+          "end": 161.032
+        },
+        {
+          "text": "ice",
+          "start": 161.032,
+          "end": 161.284
+        },
+        {
+          "text": "quickly.",
+          "start": 161.284,
+          "end": 161.76
+        }
+      ]
+    },
+    {
+      "id": "L41",
+      "text": "There’s no contradiction.",
+      "start": 162.36,
+      "end": 163.88,
+      "phrases": [
+        {
+          "text": "There’s no contradiction.",
+          "start": 162.36,
+          "end": 163.88
+        }
+      ],
+      "words": [
+        {
+          "text": "There’s",
+          "start": 162.36,
+          "end": 162.807
+        },
+        {
+          "text": "no",
+          "start": 162.807,
+          "end": 163.016
+        },
+        {
+          "text": "contradiction.",
+          "start": 163.016,
+          "end": 163.88
+        }
+      ]
+    },
+    {
+      "id": "L42",
+      "text": "The direction depends on which object is warmer.",
+      "start": 164.48,
+      "end": 167.39,
+      "phrases": [
+        {
+          "text": "The direction depends on which object is warmer.",
+          "start": 164.48,
+          "end": 167.39
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 164.48,
+          "end": 164.732
+        },
+        {
+          "text": "direction",
+          "start": 164.732,
+          "end": 165.319
+        },
+        {
+          "text": "depends",
+          "start": 165.319,
+          "end": 165.795
+        },
+        {
+          "text": "on",
+          "start": 165.795,
+          "end": 165.991
+        },
+        {
+          "text": "which",
+          "start": 165.991,
+          "end": 166.355
+        },
+        {
+          "text": "object",
+          "start": 166.355,
+          "end": 166.774
+        },
+        {
+          "text": "is",
+          "start": 166.774,
+          "end": 166.97
+        },
+        {
+          "text": "warmer.",
+          "start": 166.97,
+          "end": 167.39
+        }
+      ]
+    },
+    {
+      "id": "L43",
+      "text": "The exact melting speed depends on the setup: the blocks, their size, their starting temperatures, and how well the ice touches them.",
+      "start": 167.99,
+      "end": 176.39,
+      "phrases": [
+        {
+          "text": "The exact melting speed depends on the setup:",
+          "start": 167.99,
+          "end": 170.72
+        },
+        {
+          "text": "the blocks,",
+          "start": 171.24,
+          "end": 171.919
+        },
+        {
+          "text": "their size,",
+          "start": 171.919,
+          "end": 172.598
+        },
+        {
+          "text": "their starting temperatures,",
+          "start": 172.598,
+          "end": 174.268
+        },
+        {
+          "text": "and how well the ice touches them.",
+          "start": 174.268,
+          "end": 176.39
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 167.99,
+          "end": 168.241
+        },
+        {
+          "text": "exact",
+          "start": 168.241,
+          "end": 168.603
+        },
+        {
+          "text": "melting",
+          "start": 168.603,
+          "end": 169.076
+        },
+        {
+          "text": "speed",
+          "start": 169.076,
+          "end": 169.439
+        },
+        {
+          "text": "depends",
+          "start": 169.439,
+          "end": 169.912
+        },
+        {
+          "text": "on",
+          "start": 169.912,
+          "end": 170.107
+        },
+        {
+          "text": "the",
+          "start": 170.107,
+          "end": 170.358
+        },
+        {
+          "text": "setup:",
+          "start": 170.358,
+          "end": 170.72
+        },
+        {
+          "text": "the",
+          "start": 171.24,
+          "end": 171.495
+        },
+        {
+          "text": "blocks,",
+          "start": 171.495,
+          "end": 171.919
+        },
+        {
+          "text": "their",
+          "start": 171.919,
+          "end": 172.287
+        },
+        {
+          "text": "size,",
+          "start": 172.287,
+          "end": 172.598
+        },
+        {
+          "text": "their",
+          "start": 172.598,
+          "end": 172.966
+        },
+        {
+          "text": "starting",
+          "start": 172.966,
+          "end": 173.504
+        },
+        {
+          "text": "temperatures,",
+          "start": 173.504,
+          "end": 174.268
+        },
+        {
+          "text": "and",
+          "start": 174.268,
+          "end": 174.522
+        },
+        {
+          "text": "how",
+          "start": 174.522,
+          "end": 174.777
+        },
+        {
+          "text": "well",
+          "start": 174.777,
+          "end": 175.088
+        },
+        {
+          "text": "the",
+          "start": 175.088,
+          "end": 175.343
+        },
+        {
+          "text": "ice",
+          "start": 175.343,
+          "end": 175.598
+        },
+        {
+          "text": "touches",
+          "start": 175.598,
+          "end": 176.079
+        },
+        {
+          "text": "them.",
+          "start": 176.079,
+          "end": 176.39
+        }
+      ]
+    },
+    {
+      "id": "L44",
+      "text": "Our animation shows the principle. It isn’t a timed laboratory result.",
+      "start": 176.99,
+      "end": 181.7,
+      "phrases": [
+        {
+          "text": "Our animation shows the principle.",
+          "start": 176.99,
+          "end": 178.99
+        },
+        {
+          "text": "It isn’t a timed laboratory result.",
+          "start": 179.49,
+          "end": 181.7
+        }
+      ],
+      "words": [
+        {
+          "text": "Our",
+          "start": 176.99,
+          "end": 177.237
+        },
+        {
+          "text": "animation",
+          "start": 177.237,
+          "end": 177.812
+        },
+        {
+          "text": "shows",
+          "start": 177.812,
+          "end": 178.168
+        },
+        {
+          "text": "the",
+          "start": 178.168,
+          "end": 178.415
+        },
+        {
+          "text": "principle.",
+          "start": 178.415,
+          "end": 178.99
+        },
+        {
+          "text": "It",
+          "start": 179.49,
+          "end": 179.699
+        },
+        {
+          "text": "isn’t",
+          "start": 179.699,
+          "end": 180.028
+        },
+        {
+          "text": "a",
+          "start": 180.028,
+          "end": 180.177
+        },
+        {
+          "text": "timed",
+          "start": 180.177,
+          "end": 180.565
+        },
+        {
+          "text": "laboratory",
+          "start": 180.565,
+          "end": 181.252
+        },
+        {
+          "text": "result.",
+          "start": 181.252,
+          "end": 181.7
+        }
+      ]
+    },
+    {
+      "id": "L45",
+      "text": "And there’s another useful twist.",
+      "start": 182.7,
+      "end": 184.57,
+      "phrases": [
+        {
+          "text": "And there’s another useful twist.",
+          "start": 182.7,
+          "end": 184.57
+        }
+      ],
+      "words": [
+        {
+          "text": "And",
+          "start": 182.7,
+          "end": 182.944
+        },
+        {
+          "text": "there’s",
+          "start": 182.944,
+          "end": 183.35
+        },
+        {
+          "text": "another",
+          "start": 183.35,
+          "end": 183.811
+        },
+        {
+          "text": "useful",
+          "start": 183.811,
+          "end": 184.218
+        },
+        {
+          "text": "twist.",
+          "start": 184.218,
+          "end": 184.57
+        }
+      ]
+    },
+    {
+      "id": "L46",
+      "text": "Metal doesn’t always feel colder.",
+      "start": 185.17,
+      "end": 187.13,
+      "phrases": [
+        {
+          "text": "Metal doesn’t always feel colder.",
+          "start": 185.17,
+          "end": 187.13
+        }
+      ],
+      "words": [
+        {
+          "text": "Metal",
+          "start": 185.17,
+          "end": 185.539
+        },
+        {
+          "text": "doesn’t",
+          "start": 185.539,
+          "end": 185.965
+        },
+        {
+          "text": "always",
+          "start": 185.965,
+          "end": 186.391
+        },
+        {
+          "text": "feel",
+          "start": 186.391,
+          "end": 186.704
+        },
+        {
+          "text": "colder.",
+          "start": 186.704,
+          "end": 187.13
+        }
+      ]
+    },
+    {
+      "id": "L47",
+      "text": "Imagine metal and wood that are both hotter than your skin.",
+      "start": 187.73,
+      "end": 191.13,
+      "phrases": [
+        {
+          "text": "Imagine metal and wood that are both hotter than your skin.",
+          "start": 187.73,
+          "end": 191.13
+        }
+      ],
+      "words": [
+        {
+          "text": "Imagine",
+          "start": 187.73,
+          "end": 188.178
+        },
+        {
+          "text": "metal",
+          "start": 188.178,
+          "end": 188.521
+        },
+        {
+          "text": "and",
+          "start": 188.521,
+          "end": 188.758
+        },
+        {
+          "text": "wood",
+          "start": 188.758,
+          "end": 189.048
+        },
+        {
+          "text": "that",
+          "start": 189.048,
+          "end": 189.338
+        },
+        {
+          "text": "are",
+          "start": 189.338,
+          "end": 189.575
+        },
+        {
+          "text": "both",
+          "start": 189.575,
+          "end": 189.865
+        },
+        {
+          "text": "hotter",
+          "start": 189.865,
+          "end": 190.26
+        },
+        {
+          "text": "than",
+          "start": 190.26,
+          "end": 190.55
+        },
+        {
+          "text": "your",
+          "start": 190.55,
+          "end": 190.84
+        },
+        {
+          "text": "skin.",
+          "start": 190.84,
+          "end": 191.13
+        }
+      ]
+    },
+    {
+      "id": "L48",
+      "text": "Now heat flows toward your hand.",
+      "start": 191.73,
+      "end": 193.53,
+      "phrases": [
+        {
+          "text": "Now heat flows toward your hand.",
+          "start": 191.73,
+          "end": 193.53
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 191.73,
+          "end": 191.961
+        },
+        {
+          "text": "heat",
+          "start": 191.961,
+          "end": 192.244
+        },
+        {
+          "text": "flows",
+          "start": 192.244,
+          "end": 192.579
+        },
+        {
+          "text": "toward",
+          "start": 192.579,
+          "end": 192.964
+        },
+        {
+          "text": "your",
+          "start": 192.964,
+          "end": 193.247
+        },
+        {
+          "text": "hand.",
+          "start": 193.247,
+          "end": 193.53
+        }
+      ]
+    },
+    {
+      "id": "L49",
+      "text": "The metal can transfer that energy into your skin faster, making it feel hotter.",
+      "start": 194.13,
+      "end": 198.76,
+      "phrases": [
+        {
+          "text": "The metal can transfer that energy into your skin faster,",
+          "start": 194.13,
+          "end": 197.21
+        },
+        {
+          "text": "making it feel hotter.",
+          "start": 197.6,
+          "end": 198.76
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 194.13,
+          "end": 194.354
+        },
+        {
+          "text": "metal",
+          "start": 194.354,
+          "end": 194.676
+        },
+        {
+          "text": "can",
+          "start": 194.676,
+          "end": 194.9
+        },
+        {
+          "text": "transfer",
+          "start": 194.9,
+          "end": 195.372
+        },
+        {
+          "text": "that",
+          "start": 195.372,
+          "end": 195.645
+        },
+        {
+          "text": "energy",
+          "start": 195.645,
+          "end": 196.018
+        },
+        {
+          "text": "into",
+          "start": 196.018,
+          "end": 196.291
+        },
+        {
+          "text": "your",
+          "start": 196.291,
+          "end": 196.564
+        },
+        {
+          "text": "skin",
+          "start": 196.564,
+          "end": 196.837
+        },
+        {
+          "text": "faster,",
+          "start": 196.837,
+          "end": 197.21
+        },
+        {
+          "text": "making",
+          "start": 197.6,
+          "end": 197.962
+        },
+        {
+          "text": "it",
+          "start": 197.962,
+          "end": 198.132
+        },
+        {
+          "text": "feel",
+          "start": 198.132,
+          "end": 198.397
+        },
+        {
+          "text": "hotter.",
+          "start": 198.397,
+          "end": 198.76
+        }
+      ]
+    },
+    {
+      "id": "L50",
+      "text": "The same property works in both directions.",
+      "start": 199.36,
+      "end": 201.81,
+      "phrases": [
+        {
+          "text": "The same property works in both directions.",
+          "start": 199.36,
+          "end": 201.81
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 199.36,
+          "end": 199.597
+        },
+        {
+          "text": "same",
+          "start": 199.597,
+          "end": 199.887
+        },
+        {
+          "text": "property",
+          "start": 199.887,
+          "end": 200.387
+        },
+        {
+          "text": "works",
+          "start": 200.387,
+          "end": 200.73
+        },
+        {
+          "text": "in",
+          "start": 200.73,
+          "end": 200.914
+        },
+        {
+          "text": "both",
+          "start": 200.914,
+          "end": 201.204
+        },
+        {
+          "text": "directions.",
+          "start": 201.204,
+          "end": 201.81
+        }
+      ]
+    },
+    {
+      "id": "L51",
+      "text": "That’s why “metal feels cold” is an incomplete rule.",
+      "start": 202.41,
+      "end": 205.73,
+      "phrases": [
+        {
+          "text": "That’s why “metal feels cold” is an incomplete rule.",
+          "start": 202.41,
+          "end": 205.73
+        }
+      ],
+      "words": [
+        {
+          "text": "That’s",
+          "start": 202.41,
+          "end": 202.813
+        },
+        {
+          "text": "why",
+          "start": 202.813,
+          "end": 203.093
+        },
+        {
+          "text": "“metal",
+          "start": 203.093,
+          "end": 203.496
+        },
+        {
+          "text": "feels",
+          "start": 203.496,
+          "end": 203.899
+        },
+        {
+          "text": "cold”",
+          "start": 203.899,
+          "end": 204.241
+        },
+        {
+          "text": "is",
+          "start": 204.241,
+          "end": 204.458
+        },
+        {
+          "text": "an",
+          "start": 204.458,
+          "end": 204.675
+        },
+        {
+          "text": "incomplete",
+          "start": 204.675,
+          "end": 205.389
+        },
+        {
+          "text": "rule.",
+          "start": 205.389,
+          "end": 205.73
+        }
+      ]
+    },
+    {
+      "id": "L52",
+      "text": "A better rule is that metal transfers heat readily.",
+      "start": 206.33,
+      "end": 209.21,
+      "phrases": [
+        {
+          "text": "A better rule is that metal transfers heat readily.",
+          "start": 206.33,
+          "end": 209.21
+        }
+      ],
+      "words": [
+        {
+          "text": "A",
+          "start": 206.33,
+          "end": 206.46
+        },
+        {
+          "text": "better",
+          "start": 206.46,
+          "end": 206.849
+        },
+        {
+          "text": "rule",
+          "start": 206.849,
+          "end": 207.134
+        },
+        {
+          "text": "is",
+          "start": 207.134,
+          "end": 207.316
+        },
+        {
+          "text": "that",
+          "start": 207.316,
+          "end": 207.601
+        },
+        {
+          "text": "metal",
+          "start": 207.601,
+          "end": 207.939
+        },
+        {
+          "text": "transfers",
+          "start": 207.939,
+          "end": 208.484
+        },
+        {
+          "text": "heat",
+          "start": 208.484,
+          "end": 208.769
+        },
+        {
+          "text": "readily.",
+          "start": 208.769,
+          "end": 209.21
+        }
+      ]
+    },
+    {
+      "id": "L53",
+      "text": "Whether that cools you or heats you depends on the temperature difference.",
+      "start": 209.81,
+      "end": 213.88,
+      "phrases": [
+        {
+          "text": "Whether that cools you or heats you depends on the temperature difference.",
+          "start": 209.81,
+          "end": 213.88
+        }
+      ],
+      "words": [
+        {
+          "text": "Whether",
+          "start": 209.81,
+          "end": 210.242
+        },
+        {
+          "text": "that",
+          "start": 210.242,
+          "end": 210.522
+        },
+        {
+          "text": "cools",
+          "start": 210.522,
+          "end": 210.853
+        },
+        {
+          "text": "you",
+          "start": 210.853,
+          "end": 211.082
+        },
+        {
+          "text": "or",
+          "start": 211.082,
+          "end": 211.26
+        },
+        {
+          "text": "heats",
+          "start": 211.26,
+          "end": 211.591
+        },
+        {
+          "text": "you",
+          "start": 211.591,
+          "end": 211.82
+        },
+        {
+          "text": "depends",
+          "start": 211.82,
+          "end": 212.252
+        },
+        {
+          "text": "on",
+          "start": 212.252,
+          "end": 212.43
+        },
+        {
+          "text": "the",
+          "start": 212.43,
+          "end": 212.659
+        },
+        {
+          "text": "temperature",
+          "start": 212.659,
+          "end": 213.295
+        },
+        {
+          "text": "difference.",
+          "start": 213.295,
+          "end": 213.88
+        }
+      ]
+    },
+    {
+      "id": "L54",
+      "text": "One final detail matters.",
+      "start": 214.48,
+      "end": 216.3,
+      "phrases": [
+        {
+          "text": "One final detail matters.",
+          "start": 214.48,
+          "end": 216.3
+        }
+      ],
+      "words": [
+        {
+          "text": "One",
+          "start": 214.48,
+          "end": 214.783
+        },
+        {
+          "text": "final",
+          "start": 214.783,
+          "end": 215.221
+        },
+        {
+          "text": "detail",
+          "start": 215.221,
+          "end": 215.727
+        },
+        {
+          "text": "matters.",
+          "start": 215.727,
+          "end": 216.3
+        }
+      ]
+    },
+    {
+      "id": "L55",
+      "text": "Two objects being in the same room doesn’t guarantee they’re at the same temperature.",
+      "start": 217.3,
+      "end": 222.11,
+      "phrases": [
+        {
+          "text": "Two objects being in the same room doesn’t guarantee they’re at the same temperature.",
+          "start": 217.3,
+          "end": 222.11
+        }
+      ],
+      "words": [
+        {
+          "text": "Two",
+          "start": 217.3,
+          "end": 217.54
+        },
+        {
+          "text": "objects",
+          "start": 217.54,
+          "end": 217.995
+        },
+        {
+          "text": "being",
+          "start": 217.995,
+          "end": 218.342
+        },
+        {
+          "text": "in",
+          "start": 218.342,
+          "end": 218.529
+        },
+        {
+          "text": "the",
+          "start": 218.529,
+          "end": 218.77
+        },
+        {
+          "text": "same",
+          "start": 218.77,
+          "end": 219.064
+        },
+        {
+          "text": "room",
+          "start": 219.064,
+          "end": 219.358
+        },
+        {
+          "text": "doesn’t",
+          "start": 219.358,
+          "end": 219.758
+        },
+        {
+          "text": "guarantee",
+          "start": 219.758,
+          "end": 220.32
+        },
+        {
+          "text": "they’re",
+          "start": 220.32,
+          "end": 220.72
+        },
+        {
+          "text": "at",
+          "start": 220.72,
+          "end": 220.907
+        },
+        {
+          "text": "the",
+          "start": 220.907,
+          "end": 221.148
+        },
+        {
+          "text": "same",
+          "start": 221.148,
+          "end": 221.442
+        },
+        {
+          "text": "temperature.",
+          "start": 221.442,
+          "end": 222.11
+        }
+      ]
+    },
+    {
+      "id": "L56",
+      "text": "Sunlight, a nearby heater, or recent use can change that.",
+      "start": 222.71,
+      "end": 226.46,
+      "phrases": [
+        {
+          "text": "Sunlight,",
+          "start": 222.71,
+          "end": 223.34
+        },
+        {
+          "text": "a nearby heater,",
+          "start": 223.46,
+          "end": 224.41
+        },
+        {
+          "text": "or recent use can change that.",
+          "start": 224.75,
+          "end": 226.46
+        }
+      ],
+      "words": [
+        {
+          "text": "Sunlight,",
+          "start": 222.71,
+          "end": 223.34
+        },
+        {
+          "text": "a",
+          "start": 223.46,
+          "end": 223.596
+        },
+        {
+          "text": "nearby",
+          "start": 223.596,
+          "end": 224.003
+        },
+        {
+          "text": "heater,",
+          "start": 224.003,
+          "end": 224.41
+        },
+        {
+          "text": "or",
+          "start": 224.75,
+          "end": 224.931
+        },
+        {
+          "text": "recent",
+          "start": 224.931,
+          "end": 225.32
+        },
+        {
+          "text": "use",
+          "start": 225.32,
+          "end": 225.553
+        },
+        {
+          "text": "can",
+          "start": 225.553,
+          "end": 225.786
+        },
+        {
+          "text": "change",
+          "start": 225.786,
+          "end": 226.175
+        },
+        {
+          "text": "that.",
+          "start": 226.175,
+          "end": 226.46
+        }
+      ]
+    },
+    {
+      "id": "L57",
+      "text": "Our comparison assumes the objects have had time to settle to the same temperature, away from those influences.",
+      "start": 227.06,
+      "end": 234.19,
+      "phrases": [
+        {
+          "text": "Our comparison assumes the objects have had time to settle to the same temperature,",
+          "start": 227.06,
+          "end": 231.89
+        },
+        {
+          "text": "away from those influences.",
+          "start": 232.42,
+          "end": 234.19
+        }
+      ],
+      "words": [
+        {
+          "text": "Our",
+          "start": 227.06,
+          "end": 227.301
+        },
+        {
+          "text": "comparison",
+          "start": 227.301,
+          "end": 227.919
+        },
+        {
+          "text": "assumes",
+          "start": 227.919,
+          "end": 228.375
+        },
+        {
+          "text": "the",
+          "start": 228.375,
+          "end": 228.616
+        },
+        {
+          "text": "objects",
+          "start": 228.616,
+          "end": 229.072
+        },
+        {
+          "text": "have",
+          "start": 229.072,
+          "end": 229.368
+        },
+        {
+          "text": "had",
+          "start": 229.368,
+          "end": 229.609
+        },
+        {
+          "text": "time",
+          "start": 229.609,
+          "end": 229.904
+        },
+        {
+          "text": "to",
+          "start": 229.904,
+          "end": 230.092
+        },
+        {
+          "text": "settle",
+          "start": 230.092,
+          "end": 230.495
+        },
+        {
+          "text": "to",
+          "start": 230.495,
+          "end": 230.682
+        },
+        {
+          "text": "the",
+          "start": 230.682,
+          "end": 230.924
+        },
+        {
+          "text": "same",
+          "start": 230.924,
+          "end": 231.219
+        },
+        {
+          "text": "temperature,",
+          "start": 231.219,
+          "end": 231.89
+        },
+        {
+          "text": "away",
+          "start": 232.42,
+          "end": 232.756
+        },
+        {
+          "text": "from",
+          "start": 232.756,
+          "end": 233.091
+        },
+        {
+          "text": "those",
+          "start": 233.091,
+          "end": 233.488
+        },
+        {
+          "text": "influences.",
+          "start": 233.488,
+          "end": 234.19
+        }
+      ]
+    },
+    {
+      "id": "L58",
+      "text": "Under those conditions, the difference you feel can come from how the materials exchange heat with your skin.",
+      "start": 234.79,
+      "end": 241.04,
+      "phrases": [
+        {
+          "text": "Under those conditions,",
+          "start": 234.79,
+          "end": 236.11
+        },
+        {
+          "text": "the difference you feel can come from how the materials exchange heat with your skin.",
+          "start": 236.52,
+          "end": 241.04
+        }
+      ],
+      "words": [
+        {
+          "text": "Under",
+          "start": 234.79,
+          "end": 235.14
+        },
+        {
+          "text": "those",
+          "start": 235.14,
+          "end": 235.49
+        },
+        {
+          "text": "conditions,",
+          "start": 235.49,
+          "end": 236.11
+        },
+        {
+          "text": "the",
+          "start": 236.52,
+          "end": 236.74
+        },
+        {
+          "text": "difference",
+          "start": 236.74,
+          "end": 237.302
+        },
+        {
+          "text": "you",
+          "start": 237.302,
+          "end": 237.522
+        },
+        {
+          "text": "feel",
+          "start": 237.522,
+          "end": 237.79
+        },
+        {
+          "text": "can",
+          "start": 237.79,
+          "end": 238.01
+        },
+        {
+          "text": "come",
+          "start": 238.01,
+          "end": 238.279
+        },
+        {
+          "text": "from",
+          "start": 238.279,
+          "end": 238.548
+        },
+        {
+          "text": "how",
+          "start": 238.548,
+          "end": 238.768
+        },
+        {
+          "text": "the",
+          "start": 238.768,
+          "end": 238.988
+        },
+        {
+          "text": "materials",
+          "start": 238.988,
+          "end": 239.501
+        },
+        {
+          "text": "exchange",
+          "start": 239.501,
+          "end": 239.965
+        },
+        {
+          "text": "heat",
+          "start": 239.965,
+          "end": 240.234
+        },
+        {
+          "text": "with",
+          "start": 240.234,
+          "end": 240.502
+        },
+        {
+          "text": "your",
+          "start": 240.502,
+          "end": 240.771
+        },
+        {
+          "text": "skin.",
+          "start": 240.771,
+          "end": 241.04
+        }
+      ]
+    },
+    {
+      "id": "L59",
+      "text": "So next time a metal chair leg feels colder than its wooden seat, remember what your hand is experiencing.",
+      "start": 241.64,
+      "end": 248.13,
+      "phrases": [
+        {
+          "text": "So next time a metal chair leg feels colder than its wooden seat,",
+          "start": 241.64,
+          "end": 245.35
+        },
+        {
+          "text": "remember what your hand is experiencing.",
+          "start": 245.81,
+          "end": 248.13
+        }
+      ],
+      "words": [
+        {
+          "text": "So",
+          "start": 241.64,
+          "end": 241.822
+        },
+        {
+          "text": "next",
+          "start": 241.822,
+          "end": 242.107
+        },
+        {
+          "text": "time",
+          "start": 242.107,
+          "end": 242.392
+        },
+        {
+          "text": "a",
+          "start": 242.392,
+          "end": 242.522
+        },
+        {
+          "text": "metal",
+          "start": 242.522,
+          "end": 242.859
+        },
+        {
+          "text": "chair",
+          "start": 242.859,
+          "end": 243.197
+        },
+        {
+          "text": "leg",
+          "start": 243.197,
+          "end": 243.43
+        },
+        {
+          "text": "feels",
+          "start": 243.43,
+          "end": 243.767
+        },
+        {
+          "text": "colder",
+          "start": 243.767,
+          "end": 244.157
+        },
+        {
+          "text": "than",
+          "start": 244.157,
+          "end": 244.442
+        },
+        {
+          "text": "its",
+          "start": 244.442,
+          "end": 244.675
+        },
+        {
+          "text": "wooden",
+          "start": 244.675,
+          "end": 245.065
+        },
+        {
+          "text": "seat,",
+          "start": 245.065,
+          "end": 245.35
+        },
+        {
+          "text": "remember",
+          "start": 245.81,
+          "end": 246.323
+        },
+        {
+          "text": "what",
+          "start": 246.323,
+          "end": 246.619
+        },
+        {
+          "text": "your",
+          "start": 246.619,
+          "end": 246.916
+        },
+        {
+          "text": "hand",
+          "start": 246.916,
+          "end": 247.213
+        },
+        {
+          "text": "is",
+          "start": 247.213,
+          "end": 247.402
+        },
+        {
+          "text": "experiencing.",
+          "start": 247.402,
+          "end": 248.13
+        }
+      ]
+    },
+    {
+      "id": "L60",
+      "text": "The metal may not have started colder.",
+      "start": 249.13,
+      "end": 251.02,
+      "phrases": [
+        {
+          "text": "The metal may not have started colder.",
+          "start": 249.13,
+          "end": 251.02
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 249.13,
+          "end": 249.335
+        },
+        {
+          "text": "metal",
+          "start": 249.335,
+          "end": 249.631
+        },
+        {
+          "text": "may",
+          "start": 249.631,
+          "end": 249.836
+        },
+        {
+          "text": "not",
+          "start": 249.836,
+          "end": 250.041
+        },
+        {
+          "text": "have",
+          "start": 250.041,
+          "end": 250.291
+        },
+        {
+          "text": "started",
+          "start": 250.291,
+          "end": 250.678
+        },
+        {
+          "text": "colder.",
+          "start": 250.678,
+          "end": 251.02
+        }
+      ]
+    },
+    {
+      "id": "L61",
+      "text": "It’s simply carrying your heat away faster.",
+      "start": 251.62,
+      "end": 253.79,
+      "phrases": [
+        {
+          "text": "It’s simply carrying your heat away faster.",
+          "start": 251.62,
+          "end": 253.79
+        }
+      ],
+      "words": [
+        {
+          "text": "It’s",
+          "start": 251.62,
+          "end": 251.835
+        },
+        {
+          "text": "simply",
+          "start": 251.835,
+          "end": 252.192
+        },
+        {
+          "text": "carrying",
+          "start": 252.192,
+          "end": 252.645
+        },
+        {
+          "text": "your",
+          "start": 252.645,
+          "end": 252.908
+        },
+        {
+          "text": "heat",
+          "start": 252.908,
+          "end": 253.17
+        },
+        {
+          "text": "away",
+          "start": 253.17,
+          "end": 253.432
+        },
+        {
+          "text": "faster.",
+          "start": 253.432,
+          "end": 253.79
+        }
+      ]
+    },
+    {
+      "id": "L62",
+      "text": "Same room.",
+      "start": 254.39,
+      "end": 255.22,
+      "phrases": [
+        {
+          "text": "Same room.",
+          "start": 254.39,
+          "end": 255.22
+        }
+      ],
+      "words": [
+        {
+          "text": "Same",
+          "start": 254.39,
+          "end": 254.805
+        },
+        {
+          "text": "room.",
+          "start": 254.805,
+          "end": 255.22
+        }
+      ]
+    },
+    {
+      "id": "L63",
+      "text": "Same starting temperature.",
+      "start": 255.82,
+      "end": 257.33,
+      "phrases": [
+        {
+          "text": "Same starting temperature.",
+          "start": 255.82,
+          "end": 257.33
+        }
+      ],
+      "words": [
+        {
+          "text": "Same",
+          "start": 255.82,
+          "end": 256.122
+        },
+        {
+          "text": "starting",
+          "start": 256.122,
+          "end": 256.644
+        },
+        {
+          "text": "temperature.",
+          "start": 256.644,
+          "end": 257.33
+        }
+      ]
+    },
+    {
+      "id": "L64",
+      "text": "Different experience.",
+      "start": 257.93,
+      "end": 259.21,
+      "phrases": [
+        {
+          "text": "Different experience.",
+          "start": 257.93,
+          "end": 259.21
+        }
+      ],
+      "words": [
+        {
+          "text": "Different",
+          "start": 257.93,
+          "end": 258.541
+        },
+        {
+          "text": "experience.",
+          "start": 258.541,
+          "end": 259.21
+        }
+      ]
+    },
+    {
+      "id": "L65",
+      "text": "Now you know.",
+      "start": 260.21,
+      "end": 261.07,
+      "phrases": [
+        {
+          "text": "Now you know.",
+          "start": 260.21,
+          "end": 261.07
+        }
+      ],
+      "words": [
+        {
+          "text": "Now",
+          "start": 260.21,
+          "end": 260.477
+        },
+        {
+          "text": "you",
+          "start": 260.477,
+          "end": 260.744
+        },
+        {
+          "text": "know.",
+          "start": 260.744,
+          "end": 261.07
+        }
+      ]
+    },
+    {
+      "id": "L66",
+      "text": "Ordinary has secrets.",
+      "start": 261.67,
+      "end": 263.17,
+      "phrases": [
+        {
+          "text": "Ordinary has secrets.",
+          "start": 261.67,
+          "end": 263.17
+        }
+      ],
+      "words": [
+        {
+          "text": "Ordinary",
+          "start": 261.67,
+          "end": 262.303
+        },
+        {
+          "text": "has",
+          "start": 262.303,
+          "end": 262.603
+        },
+        {
+          "text": "secrets.",
+          "start": 262.603,
+          "end": 263.17
+        }
+      ]
+    }
+  ]
+}

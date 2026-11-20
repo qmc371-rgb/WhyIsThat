@@ -1,0 +1,9 @@
+{
+ "_note": "Same rhythm as EP001-EP003: 1.2 s lead-in, 0.6 s between lines, 1.0 s at section starts, a 2.4 s brand-sting beat after the hook question (L06), 8 s end card.",
+ "lead_in": 1.2,
+ "default": 0.6,
+ "section_pause": 1.0,
+ "section_starts": ["L12", "L20", "L28", "L34", "L45", "L55", "L60", "L65"],
+ "overrides": {"L07": 2.4},
+ "tail": 8.0
+}

@@ -1,0 +1,131 @@
+Touch the wooden part of a chair.
+
+Now touch its metal leg.
+
+The wood feels normal.
+
+The metal feels cold.
+
+They’ve been sitting beside each other all day. No refrigerator. No air conditioner aimed at the chair.
+
+So why does one feel colder?
+
+Here’s the surprise.
+
+Once both have settled to the same room temperature, the metal can feel colder even though it isn’t.
+
+And there’s a way to make that difference even stranger.
+
+Put an ice cube on each material.
+
+Under suitable conditions, the metal—the one that feels colder—can melt its ice faster.
+
+The explanation begins with what happens when your hand touches something.
+
+Your hand is usually warmer than the objects in a comfortable room.
+
+When you touch one, thermal energy transfers from your warmer skin into the cooler object.
+
+That transfer is called conduction.
+
+But different materials transfer energy at different rates.
+
+A metal chair leg conducts heat away from your fingers more readily than wood does.
+
+Your skin cools faster at the contact point.
+
+You experience that as a stronger feeling of cold.
+
+Picture the heat leaving your hand as little moving lights.
+
+On the metal side, the lights spread quickly away from the place you touch.
+
+On the wood side, they spread more slowly.
+
+These lights are just an illustration. Heat doesn’t literally travel as glowing dots.
+
+But the difference they represent is real.
+
+Metal is a good thermal conductor.
+
+Wood is a much poorer one.
+
+Your hand is reacting to that exchange of energy—not simply reading a temperature off the surface.
+
+Think about a thermometer beside your hand.
+
+The thermometer helps answer, “What temperature is this object?”
+
+The sensation in your fingers also depends on, “How quickly is this object changing the temperature of my skin?”
+
+Those questions are related.
+
+But they aren’t identical.
+
+That’s why two surfaces can produce the same temperature reading and a different reaction from you.
+
+Now return to those ice cubes.
+
+We’ll use a substantial metal block and a wooden block that have both been sitting in the same room.
+
+Both start warmer than the ice.
+
+This time, energy flows from the blocks into the ice.
+
+The metal transfers heat to the ice more readily.
+
+So the ice on the metal can melt faster.
+
+The material that took heat away from your warm hand quickly can also deliver heat to cold ice quickly.
+
+There’s no contradiction.
+
+The direction depends on which object is warmer.
+
+The exact melting speed depends on the setup: the blocks, their size, their starting temperatures, and how well the ice touches them.
+
+Our animation shows the principle. It isn’t a timed laboratory result.
+
+And there’s another useful twist.
+
+Metal doesn’t always feel colder.
+
+Imagine metal and wood that are both hotter than your skin.
+
+Now heat flows toward your hand.
+
+The metal can transfer that energy into your skin faster, making it feel hotter.
+
+The same property works in both directions.
+
+That’s why “metal feels cold” is an incomplete rule.
+
+A better rule is that metal transfers heat readily.
+
+Whether that cools you or heats you depends on the temperature difference.
+
+One final detail matters.
+
+Two objects being in the same room doesn’t guarantee they’re at the same temperature.
+
+Sunlight, a nearby heater, or recent use can change that.
+
+Our comparison assumes the objects have had time to settle to the same temperature, away from those influences.
+
+Under those conditions, the difference you feel can come from how the materials exchange heat with your skin.
+
+So next time a metal chair leg feels colder than its wooden seat, remember what your hand is experiencing.
+
+The metal may not have started colder.
+
+It’s simply carrying your heat away faster.
+
+Same room.
+
+Same starting temperature.
+
+Different experience.
+
+Now you know.
+
+Ordinary has secrets.

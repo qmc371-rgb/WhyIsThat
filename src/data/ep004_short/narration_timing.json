@@ -1,0 +1,406 @@
+{
+  "source": "FINAL_kokoro",
+  "notForPublication": false,
+  "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88 (Apache-2.0; approved channel voice)",
+  "audio": "audio/ep004/ep004_short_narration_kokoro.wav",
+  "durationSec": 26.79,
+  "wordTimingMethod": "exact line boundaries (per-paragraph synthesis); phrases pause-anchored; words proportional",
+  "sections": [],
+  "lines": [
+    {
+      "id": "L01",
+      "text": "Which melts ice faster: room-temperature metal or wood?",
+      "start": 0.35,
+      "end": 3.87,
+      "phrases": [
+        {
+          "text": "Which melts ice faster:",
+          "start": 0.35,
+          "end": 1.76
+        },
+        {
+          "text": "room-temperature metal or wood?",
+          "start": 2.12,
+          "end": 3.87
+        }
+      ],
+      "words": [
+        {
+          "text": "Which",
+          "start": 0.35,
+          "end": 0.717
+        },
+        {
+          "text": "melts",
+          "start": 0.717,
+          "end": 1.083
+        },
+        {
+          "text": "ice",
+          "start": 1.083,
+          "end": 1.337
+        },
+        {
+          "text": "faster:",
+          "start": 1.337,
+          "end": 1.76
+        },
+        {
+          "text": "room-temperature",
+          "start": 2.12,
+          "end": 3.022
+        },
+        {
+          "text": "metal",
+          "start": 3.022,
+          "end": 3.378
+        },
+        {
+          "text": "or",
+          "start": 3.378,
+          "end": 3.569
+        },
+        {
+          "text": "wood?",
+          "start": 3.569,
+          "end": 3.87
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "text": "Metal feels colder—but its ice can melt faster.",
+      "start": 4.32,
+      "end": 7.47,
+      "phrases": [
+        {
+          "text": "Metal feels colder—but its ice can melt faster.",
+          "start": 4.32,
+          "end": 7.47
+        }
+      ],
+      "words": [
+        {
+          "text": "Metal",
+          "start": 4.32,
+          "end": 4.729
+        },
+        {
+          "text": "feels",
+          "start": 4.729,
+          "end": 5.139
+        },
+        {
+          "text": "colder—but",
+          "start": 5.139,
+          "end": 5.801
+        },
+        {
+          "text": "its",
+          "start": 5.801,
+          "end": 6.084
+        },
+        {
+          "text": "ice",
+          "start": 6.084,
+          "end": 6.367
+        },
+        {
+          "text": "can",
+          "start": 6.367,
+          "end": 6.651
+        },
+        {
+          "text": "melt",
+          "start": 6.651,
+          "end": 6.998
+        },
+        {
+          "text": "faster.",
+          "start": 6.998,
+          "end": 7.47
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "text": "Why? Your hand is warmer than both materials. Metal carries heat away from your skin quickly, so it feels cold.",
+      "start": 7.92,
+      "end": 14.99,
+      "phrases": [
+        {
+          "text": "Why?",
+          "start": 7.92,
+          "end": 8.37
+        },
+        {
+          "text": "Your hand is warmer than both materials.",
+          "start": 8.48,
+          "end": 10.67
+        },
+        {
+          "text": "Metal carries heat away from your skin quickly,",
+          "start": 11.27,
+          "end": 13.61
+        },
+        {
+          "text": "so it feels cold.",
+          "start": 13.88,
+          "end": 14.99
+        }
+      ],
+      "words": [
+        {
+          "text": "Why?",
+          "start": 7.92,
+          "end": 8.37
+        },
+        {
+          "text": "Your",
+          "start": 8.48,
+          "end": 8.757
+        },
+        {
+          "text": "hand",
+          "start": 8.757,
+          "end": 9.034
+        },
+        {
+          "text": "is",
+          "start": 9.034,
+          "end": 9.21
+        },
+        {
+          "text": "warmer",
+          "start": 9.21,
+          "end": 9.588
+        },
+        {
+          "text": "than",
+          "start": 9.588,
+          "end": 9.864
+        },
+        {
+          "text": "both",
+          "start": 9.864,
+          "end": 10.141
+        },
+        {
+          "text": "materials.",
+          "start": 10.141,
+          "end": 10.67
+        },
+        {
+          "text": "Metal",
+          "start": 11.27,
+          "end": 11.568
+        },
+        {
+          "text": "carries",
+          "start": 11.568,
+          "end": 11.958
+        },
+        {
+          "text": "heat",
+          "start": 11.958,
+          "end": 12.211
+        },
+        {
+          "text": "away",
+          "start": 12.211,
+          "end": 12.463
+        },
+        {
+          "text": "from",
+          "start": 12.463,
+          "end": 12.715
+        },
+        {
+          "text": "your",
+          "start": 12.715,
+          "end": 12.968
+        },
+        {
+          "text": "skin",
+          "start": 12.968,
+          "end": 13.22
+        },
+        {
+          "text": "quickly,",
+          "start": 13.22,
+          "end": 13.61
+        },
+        {
+          "text": "so",
+          "start": 13.88,
+          "end": 14.084
+        },
+        {
+          "text": "it",
+          "start": 14.084,
+          "end": 14.289
+        },
+        {
+          "text": "feels",
+          "start": 14.289,
+          "end": 14.669
+        },
+        {
+          "text": "cold.",
+          "start": 14.669,
+          "end": 14.99
+        }
+      ]
+    },
+    {
+      "id": "L04",
+      "text": "Ice is colder than both. Now metal transfers heat toward the ice.",
+      "start": 15.44,
+      "end": 19.79,
+      "phrases": [
+        {
+          "text": "Ice is colder than both.",
+          "start": 15.44,
+          "end": 16.89
+        },
+        {
+          "text": "Now metal transfers heat toward the ice.",
+          "start": 17.41,
+          "end": 19.79
+        }
+      ],
+      "words": [
+        {
+          "text": "Ice",
+          "start": 15.44,
+          "end": 15.686
+        },
+        {
+          "text": "is",
+          "start": 15.686,
+          "end": 15.878
+        },
+        {
+          "text": "colder",
+          "start": 15.878,
+          "end": 16.288
+        },
+        {
+          "text": "than",
+          "start": 16.288,
+          "end": 16.589
+        },
+        {
+          "text": "both.",
+          "start": 16.589,
+          "end": 16.89
+        },
+        {
+          "text": "Now",
+          "start": 17.41,
+          "end": 17.656
+        },
+        {
+          "text": "metal",
+          "start": 17.656,
+          "end": 18.012
+        },
+        {
+          "text": "transfers",
+          "start": 18.012,
+          "end": 18.586
+        },
+        {
+          "text": "heat",
+          "start": 18.586,
+          "end": 18.887
+        },
+        {
+          "text": "toward",
+          "start": 18.887,
+          "end": 19.298
+        },
+        {
+          "text": "the",
+          "start": 19.298,
+          "end": 19.544
+        },
+        {
+          "text": "ice.",
+          "start": 19.544,
+          "end": 19.79
+        }
+      ]
+    },
+    {
+      "id": "L05",
+      "text": "Same material. Opposite direction.",
+      "start": 20.24,
+      "end": 22.64,
+      "phrases": [
+        {
+          "text": "Same material.",
+          "start": 20.24,
+          "end": 21.18
+        },
+        {
+          "text": "Opposite direction.",
+          "start": 21.52,
+          "end": 22.64
+        }
+      ],
+      "words": [
+        {
+          "text": "Same",
+          "start": 20.24,
+          "end": 20.585
+        },
+        {
+          "text": "material.",
+          "start": 20.585,
+          "end": 21.18
+        },
+        {
+          "text": "Opposite",
+          "start": 21.52,
+          "end": 22.052
+        },
+        {
+          "text": "direction.",
+          "start": 22.052,
+          "end": 22.64
+        }
+      ]
+    },
+    {
+      "id": "L06",
+      "text": "Ordinary has secrets.",
+      "start": 23.09,
+      "end": 24.59,
+      "phrases": [
+        {
+          "text": "Ordinary has secrets.",
+          "start": 23.09,
+          "end": 24.59
+        }
+      ],
+      "words": [
+        {
+          "text": "Ordinary",
+          "start": 23.09,
+          "end": 23.723
+        },
+        {
+          "text": "has",
+          "start": 23.723,
+          "end": 24.023
+        },
+        {
+          "text": "secrets.",
+          "start": 24.023,
+          "end": 24.59
+        }
+      ]
+    }
+  ]
+}

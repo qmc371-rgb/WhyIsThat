@@ -27,6 +27,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--episode", required=True, help="e.g. ep002")
     ap.add_argument("--draft")
+    ap.add_argument("--name", help="output name (default: the episode id), e.g. ep004_short for a standalone Short")
     ap.add_argument("--pauses")
     ap.add_argument("--voice", default="af_heart")
     ap.add_argument("--speed", type=float, default=0.88)
@@ -61,14 +62,15 @@ def main() -> None:
     track = np.concatenate(pieces)
     track = track / (float(np.max(np.abs(track))) or 1.0) * 0.8
 
-    rel = f"audio/{a.episode}/{a.episode}_narration_kokoro.wav"
+    name = a.name or a.episode
+    rel = f"audio/{a.episode}/{name}_narration_kokoro.wav"
     wav = ROOT / "public" / rel
     wav.parent.mkdir(parents=True, exist_ok=True)
     tmp = wav.with_suffix(".24k.wav")
     sf.write(tmp, track, sr0, subtype="PCM_16")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(tmp), "-ar", "48000", "-ac", "1", str(wav)], check=True)
     tmp.unlink()
-    out = ROOT / "src/data" / a.episode / "narration_timing.json"
+    out = ROOT / "src/data" / name / "narration_timing.json"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps({
         "source": "FINAL_kokoro", "notForPublication": False,
@@ -77,7 +79,7 @@ def main() -> None:
         "wordTimingMethod": "exact line boundaries (per-paragraph synthesis); phrases pause-anchored; words proportional",
         "sections": cfg["section_starts"], "lines": out_lines,
     }, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(f"{a.episode}: {len(lines)} lines, {len(track) / sr0:.1f} s -> public/{rel}, {out.relative_to(ROOT)}")
+    print(f"{name}: {len(lines)} lines, {len(track) / sr0:.1f} s -> public/{rel}, {out.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":
