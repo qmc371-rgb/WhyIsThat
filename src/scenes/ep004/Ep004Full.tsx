@@ -272,6 +272,7 @@ const IceScene: React.FC = () => {
           </span>
         ))}
       </div>
+      <Pin label={[960, 470]} side="center" tone="white" k="QUALITATIVE ANIMATION" v="NOT A TIMED LAB RESULT" at={ls('L44') + 0.1} size={30} />
       <MeltNote y={990} />
       <SimpleTag />
     </AbsoluteFill>
@@ -389,7 +390,7 @@ const EndCard: React.FC = () => {
 /* ================================ composition ================================ */
 const Drift: React.FC<{from: number; to: number; children: React.ReactNode}> = ({from, to, children}) => {
   const t = useT();
-  const s = 1 + 0.03 * ramp(t, from, Math.min(to, from + 40), Easing.linear);
+  const s = 1 + 0.03 * ramp(t, from, to, Easing.linear);
   return <AbsoluteFill style={{transform: `scale(${s})`}}>{children}</AbsoluteFill>;
 };
 
