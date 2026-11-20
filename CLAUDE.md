@@ -1,6 +1,8 @@
-# Why Is That? — instructions for Claude
+# Ordinary Has Secrets (formerly "Why Is That?") — instructions for Claude
 
-YouTube explainer channel. A separate project from Beyond the Bulkhead: never mix their files,
+YouTube explainer channel, renamed **Ordinary Has Secrets** from EP004 on. Use only the new name in
+new graphics and metadata; closing line "Now you know. Ordinary has secrets."; logo in `src/brand/ohs.tsx`
+(vector redraw of the mug + question mark; drop the original at `public/brand/ohs_logo.png` to replace it). A separate project from Beyond the Bulkhead: never mix their files,
 Higgsfield projects or brand assets.
 
 ## Non-negotiables
@@ -23,7 +25,7 @@ Higgsfield projects or brand assets.
 - Never display credentials.
 
 ## Brand
-Deep navy / white / golden yellow (`src/brand/tokens.ts`), Fredoka display + Inter UI (OFL),
+Midnight navy / white / golden yellow (`src/brand/tokens.ts`, `src/brand/ohs.tsx`), Fredoka display + Inter UI (OFL),
 1920×1080 at 30 fps, BT.709. One consistent kitchen, white bowl and leftovers (golden curry + rice).
 
 ## Setup (fresh container)

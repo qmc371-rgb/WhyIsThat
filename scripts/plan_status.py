@@ -68,7 +68,7 @@ budget = "OK" if spend < WARN else "WARN (>=50% of cap)" if spend < STOP else "S
 
 week = [m for m in miles if now <= parse_et(m["date"], m["time"]) <= now + timedelta(days=7) and m.get("done", "").lower() != "yes"]
 lines = [
-    f"# Why Is That? — production status ({now.strftime('%a %Y-%m-%d %-I:%M %p ET')})",
+    f"# Ordinary Has Secrets — production status ({now.strftime('%a %Y-%m-%d %-I:%M %p ET')})",
     "",
     f"- **Next release:** {nxt['id']} {nxt['slot']} {nxt['time']} — status {nxt['state']}" if nxt else "- **Next release:** none scheduled",
     f"- **Buffer (finished mains beyond the next release):** {buffer} of 2 → **{health}**",

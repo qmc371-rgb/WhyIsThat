@@ -1,4 +1,4 @@
-# Why Is That? — channel production project
+# Ordinary Has Secrets (formerly "Why Is That?") — channel production project
 
 **Repository:** `github.com/qmc371-rgb/WhyIsThat` (private). Setup steps are in `CLAUDE.md`.
 

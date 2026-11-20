@@ -5,3 +5,8 @@ date,category,item,vendor,quantity,unit,unit_cost_usd,total_usd,status,approval,
 2026-11-20,assets,D2 hand on the metal leg (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-20 (prompt sheet),job 9b375a51; first pass
 2026-11-20,assets,D3 character between metal and wood blocks (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-20 (prompt sheet),job 81048b43; first pass
 2026-11-20,assets,"D4 metal and wood blocks, empty tops (vertical) (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-20 (prompt sheet),job 9f229d67; first pass
+2026-11-20,render,"Full master + opening preview + vertical Short + thumbnail + cover + captions",local container,1,render set,0,0.00,spent,n/a,Remotion + ffmpeg in this session
+TOTAL,,Higgsfield credits used (8 of 40-credit cap; 4 of 4 assets; 0 retakes),Higgsfield,8,credits,0.049,0.392,spent,,Balance 1705.9 -> 1697.9 (confirmed); existing Ultra allowance (no purchase)
+TOTAL,,Cash spent / purchases,,0,,,0.00,,,Nothing bought; nothing published
+TOTAL,,EP004 + Short004 variable cost (credit-equivalent),,,,,0.392,,,EP004+Short cap $10: met
+TOTAL,,Month to date Nov 2026 (EP001-EP004),,40,credits,0.049,1.96,,,$100 monthly cap: OK

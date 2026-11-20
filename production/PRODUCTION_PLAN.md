@@ -1,4 +1,4 @@
-# Why Is That? — release & production plan (v1 · 2026-11-16)
+# Ordinary Has Secrets (formerly "Why Is That?") — release & production plan (v1 · 2026-11-16)
 
 **Cadence:** main videos **Tue + Fri at 6:00 p.m. ET** · one related **Short every Sun at 12:00 p.m. ET**
 **Launch:** **Tue Dec 1, 2026, 6:00 p.m. ET** with EP001, *only if* EP002 and EP003 are finished first

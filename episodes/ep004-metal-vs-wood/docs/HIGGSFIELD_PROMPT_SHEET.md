@@ -1,6 +1,6 @@
 # EP004 + Short004 — Higgsfield prompt sheet (Ordinary Has Secrets)
 
-**Status: AWAITING APPROVAL — nothing generated.** At most **4 new** assets for the main video and
+**Status: APPROVED by the owner 2026-11-20; D1–D4 generated first pass (8 credits, 0 retakes).** At most **4 new** assets for the main video and
 Short combined. The heat-transfer split screen, gold energy arrows, thermometers (no numbers),
 ice cubes, melting, reverse-case diagram, labels and the logo are all drawn in code. Cost preflight
 (Nano Banana Pro 2K, 16:9 or 9:16): **2 credits per image**. Balance 1,705.9 credits (Ultra plan).

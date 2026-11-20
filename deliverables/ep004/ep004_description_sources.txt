@@ -1,0 +1,12 @@
+SOURCES
+• American Physical Society — Getting Warmer / Getting Colder: https://www.aps.org/learning-resources/getting-warmer-colder
+• American Chemical Society — Middle School Chemistry, Chapter 2, Lesson 1: https://www.acs.org/middleschoolchemistry/lessonplans/chapter2/lesson1.html
+• University of Illinois Physics Van — Why do metals feel cold or hot to the touch?: https://van.physics.illinois.edu/ask/listing/44029
+• HyperPhysics (Georgia State University) — Steel and wood at zero Celsius: https://hyperphysics.phy-astr.gsu.edu/hbase/thermo/woodmet.html
+
+The diagrams are simplified illustrations. Conduction is the introductory focus; how a material feels also depends on heat capacity, density, contact, surface coatings and shape. The ice-cube melting is a qualitative animation, not filmed or timed footage, and no temperatures were measured for this video.
+
+CREDITS
+Narration: synthetic voice, Kokoro-82M (Apache-2.0).
+Illustrations: generated with Higgsfield. Diagrams and animation: made in code with Remotion.
+Fonts: Fredoka and Inter (SIL Open Font License). Sound effects: synthesised in code.
