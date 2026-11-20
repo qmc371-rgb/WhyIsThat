@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Which melts ice faster:",
+    "startMs": 350,
+    "endMs": 2080,
+    "timestampMs": 350,
+    "confidence": null
+  },
+  {
+    "text": "room-temperature metal or wood?",
+    "startMs": 2120,
+    "endMs": 4220,
+    "timestampMs": 2120,
+    "confidence": null
+  },
+  {
+    "text": "Metal feels colder—but its ice can melt faster.",
+    "startMs": 4320,
+    "endMs": 7820,
+    "timestampMs": 4320,
+    "confidence": null
+  },
+  {
+    "text": "Why? Your hand is warmer than both materials.",
+    "startMs": 7920,
+    "endMs": 11020,
+    "timestampMs": 7920,
+    "confidence": null
+  },
+  {
+    "text": "Metal carries heat away from your skin quickly,",
+    "startMs": 11270,
+    "endMs": 13840,
+    "timestampMs": 11270,
+    "confidence": null
+  },
+  {
+    "text": "so it feels cold.",
+    "startMs": 13880,
+    "endMs": 15340,
+    "timestampMs": 13880,
+    "confidence": null
+  },
+  {
+    "text": "Ice is colder than both.",
+    "startMs": 15440,
+    "endMs": 17240,
+    "timestampMs": 15440,
+    "confidence": null
+  },
+  {
+    "text": "Now metal transfers heat toward the ice.",
+    "startMs": 17410,
+    "endMs": 20140,
+    "timestampMs": 17410,
+    "confidence": null
+  },
+  {
+    "text": "Same material. Opposite direction.",
+    "startMs": 20240,
+    "endMs": 22990,
+    "timestampMs": 20240,
+    "confidence": null
+  },
+  {
+    "text": "Ordinary has secrets.",
+    "startMs": 23090,
+    "endMs": 24940,
+    "timestampMs": 23090,
+    "confidence": null
+  }
+]

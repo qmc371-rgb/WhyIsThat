@@ -1,0 +1,562 @@
+[
+  {
+    "text": "Touch the wooden part of a chair.",
+    "startMs": 1200,
+    "endMs": 3220,
+    "timestampMs": 1200,
+    "confidence": null
+  },
+  {
+    "text": "Now touch its metal leg.",
+    "startMs": 3470,
+    "endMs": 5360,
+    "timestampMs": 3470,
+    "confidence": null
+  },
+  {
+    "text": "The wood feels normal.",
+    "startMs": 5610,
+    "endMs": 7230,
+    "timestampMs": 5610,
+    "confidence": null
+  },
+  {
+    "text": "The metal feels cold.",
+    "startMs": 7480,
+    "endMs": 9200,
+    "timestampMs": 7480,
+    "confidence": null
+  },
+  {
+    "text": "They’ve been sitting beside each other all day. No refrigerator.",
+    "startMs": 9450,
+    "endMs": 13580,
+    "timestampMs": 9450,
+    "confidence": null
+  },
+  {
+    "text": "No air conditioner aimed at the chair.",
+    "startMs": 13640,
+    "endMs": 16070,
+    "timestampMs": 13640,
+    "confidence": null
+  },
+  {
+    "text": "So why does one feel colder?",
+    "startMs": 16320,
+    "endMs": 18450,
+    "timestampMs": 16320,
+    "confidence": null
+  },
+  {
+    "text": "Here’s the surprise.",
+    "startMs": 20500,
+    "endMs": 22070,
+    "timestampMs": 20500,
+    "confidence": null
+  },
+  {
+    "text": "Once both have settled to the same room temperature,",
+    "startMs": 22320,
+    "endMs": 25330,
+    "timestampMs": 22320,
+    "confidence": null
+  },
+  {
+    "text": "the metal can feel colder even though it isn’t.",
+    "startMs": 25450,
+    "endMs": 28450,
+    "timestampMs": 25450,
+    "confidence": null
+  },
+  {
+    "text": "And there’s a way to make that difference even stranger.",
+    "startMs": 28700,
+    "endMs": 31800,
+    "timestampMs": 28700,
+    "confidence": null
+  },
+  {
+    "text": "Put an ice cube on each material.",
+    "startMs": 32050,
+    "endMs": 34320,
+    "timestampMs": 32050,
+    "confidence": null
+  },
+  {
+    "text": "Under suitable conditions,",
+    "startMs": 34570,
+    "endMs": 36250,
+    "timestampMs": 34570,
+    "confidence": null
+  },
+  {
+    "text": "the metal—the one that feels colder—can melt its ice faster.",
+    "startMs": 36290,
+    "endMs": 40430,
+    "timestampMs": 36290,
+    "confidence": null
+  },
+  {
+    "text": "The explanation begins with what happens when your hand touches something.",
+    "startMs": 41080,
+    "endMs": 45630,
+    "timestampMs": 41080,
+    "confidence": null
+  },
+  {
+    "text": "Your hand is usually warmer than the objects in a comfortable room.",
+    "startMs": 45880,
+    "endMs": 50300,
+    "timestampMs": 45880,
+    "confidence": null
+  },
+  {
+    "text": "When you touch one,",
+    "startMs": 50550,
+    "endMs": 51840,
+    "timestampMs": 50550,
+    "confidence": null
+  },
+  {
+    "text": "thermal energy transfers from your warmer skin into the cooler object.",
+    "startMs": 51910,
+    "endMs": 56200,
+    "timestampMs": 51910,
+    "confidence": null
+  },
+  {
+    "text": "That transfer is called conduction.",
+    "startMs": 56450,
+    "endMs": 58920,
+    "timestampMs": 56450,
+    "confidence": null
+  },
+  {
+    "text": "But different materials transfer energy at different rates.",
+    "startMs": 59170,
+    "endMs": 62780,
+    "timestampMs": 59170,
+    "confidence": null
+  },
+  {
+    "text": "A metal chair leg conducts heat away from your fingers more readily than wood does.",
+    "startMs": 63030,
+    "endMs": 68380,
+    "timestampMs": 63030,
+    "confidence": null
+  },
+  {
+    "text": "Your skin cools faster at the contact point.",
+    "startMs": 68630,
+    "endMs": 71600,
+    "timestampMs": 68630,
+    "confidence": null
+  },
+  {
+    "text": "You experience that as a stronger feeling of cold.",
+    "startMs": 71850,
+    "endMs": 75110,
+    "timestampMs": 71850,
+    "confidence": null
+  },
+  {
+    "text": "Picture the heat leaving your hand as little moving lights.",
+    "startMs": 75760,
+    "endMs": 79500,
+    "timestampMs": 75760,
+    "confidence": null
+  },
+  {
+    "text": "On the metal side, the lights spread quickly away from the place you touch.",
+    "startMs": 79750,
+    "endMs": 84190,
+    "timestampMs": 79750,
+    "confidence": null
+  },
+  {
+    "text": "On the wood side, they spread more slowly.",
+    "startMs": 84440,
+    "endMs": 87270,
+    "timestampMs": 84440,
+    "confidence": null
+  },
+  {
+    "text": "These lights are just an illustration.",
+    "startMs": 87520,
+    "endMs": 90050,
+    "timestampMs": 87520,
+    "confidence": null
+  },
+  {
+    "text": "Heat doesn’t literally travel as glowing dots.",
+    "startMs": 90240,
+    "endMs": 93400,
+    "timestampMs": 90240,
+    "confidence": null
+  },
+  {
+    "text": "But the difference they represent is real.",
+    "startMs": 93650,
+    "endMs": 96220,
+    "timestampMs": 93650,
+    "confidence": null
+  },
+  {
+    "text": "Metal is a good thermal conductor.",
+    "startMs": 96470,
+    "endMs": 98930,
+    "timestampMs": 96470,
+    "confidence": null
+  },
+  {
+    "text": "Wood is a much poorer one.",
+    "startMs": 99180,
+    "endMs": 101030,
+    "timestampMs": 99180,
+    "confidence": null
+  },
+  {
+    "text": "Your hand is reacting to that exchange of energy—not simply reading a temperature",
+    "startMs": 101280,
+    "endMs": 106482,
+    "timestampMs": 101280,
+    "confidence": null
+  },
+  {
+    "text": "off the surface.",
+    "startMs": 106522,
+    "endMs": 107920,
+    "timestampMs": 106522,
+    "confidence": null
+  },
+  {
+    "text": "Think about a thermometer beside your hand.",
+    "startMs": 108570,
+    "endMs": 111140,
+    "timestampMs": 108570,
+    "confidence": null
+  },
+  {
+    "text": "The thermometer helps answer, “What temperature is this object?”",
+    "startMs": 111390,
+    "endMs": 115460,
+    "timestampMs": 111390,
+    "confidence": null
+  },
+  {
+    "text": "The sensation in your fingers also depends on,",
+    "startMs": 115710,
+    "endMs": 118950,
+    "timestampMs": 115710,
+    "confidence": null
+  },
+  {
+    "text": "“How quickly is this object changing the temperature of my skin?”",
+    "startMs": 119080,
+    "endMs": 123060,
+    "timestampMs": 119080,
+    "confidence": null
+  },
+  {
+    "text": "Those questions are related.",
+    "startMs": 123310,
+    "endMs": 125480,
+    "timestampMs": 123310,
+    "confidence": null
+  },
+  {
+    "text": "But they aren’t identical.",
+    "startMs": 125730,
+    "endMs": 127520,
+    "timestampMs": 125730,
+    "confidence": null
+  },
+  {
+    "text": "That’s why two surfaces can produce the same temperature reading and a different",
+    "startMs": 127770,
+    "endMs": 132471,
+    "timestampMs": 127770,
+    "confidence": null
+  },
+  {
+    "text": "reaction from you.",
+    "startMs": 132511,
+    "endMs": 133930,
+    "timestampMs": 132511,
+    "confidence": null
+  },
+  {
+    "text": "Now return to those ice cubes.",
+    "startMs": 134580,
+    "endMs": 136730,
+    "timestampMs": 134580,
+    "confidence": null
+  },
+  {
+    "text": "We’ll use a substantial metal block and a wooden block that have both been sitting",
+    "startMs": 136980,
+    "endMs": 141518,
+    "timestampMs": 136980,
+    "confidence": null
+  },
+  {
+    "text": "in the same room.",
+    "startMs": 141558,
+    "endMs": 142880,
+    "timestampMs": 141558,
+    "confidence": null
+  },
+  {
+    "text": "Both start warmer than the ice.",
+    "startMs": 143130,
+    "endMs": 145230,
+    "timestampMs": 143130,
+    "confidence": null
+  },
+  {
+    "text": "This time, energy flows from the blocks into the ice.",
+    "startMs": 145480,
+    "endMs": 149030,
+    "timestampMs": 145480,
+    "confidence": null
+  },
+  {
+    "text": "The metal transfers heat to the ice more readily.",
+    "startMs": 149280,
+    "endMs": 152310,
+    "timestampMs": 149280,
+    "confidence": null
+  },
+  {
+    "text": "So the ice on the metal can melt faster.",
+    "startMs": 152560,
+    "endMs": 155210,
+    "timestampMs": 152560,
+    "confidence": null
+  },
+  {
+    "text": "The material that took heat away from your warm hand quickly can also deliver heat to",
+    "startMs": 155460,
+    "endMs": 160684,
+    "timestampMs": 155460,
+    "confidence": null
+  },
+  {
+    "text": "cold ice quickly.",
+    "startMs": 160724,
+    "endMs": 162110,
+    "timestampMs": 160724,
+    "confidence": null
+  },
+  {
+    "text": "There’s no contradiction.",
+    "startMs": 162360,
+    "endMs": 164230,
+    "timestampMs": 162360,
+    "confidence": null
+  },
+  {
+    "text": "The direction depends on which object is warmer.",
+    "startMs": 164480,
+    "endMs": 167740,
+    "timestampMs": 164480,
+    "confidence": null
+  },
+  {
+    "text": "The exact melting speed depends on the setup: the blocks, their size,",
+    "startMs": 167990,
+    "endMs": 172558,
+    "timestampMs": 167990,
+    "confidence": null
+  },
+  {
+    "text": "their starting temperatures, and how well the ice touches them.",
+    "startMs": 172598,
+    "endMs": 176740,
+    "timestampMs": 172598,
+    "confidence": null
+  },
+  {
+    "text": "Our animation shows the principle. It isn’t a timed laboratory result.",
+    "startMs": 176990,
+    "endMs": 182050,
+    "timestampMs": 176990,
+    "confidence": null
+  },
+  {
+    "text": "And there’s another useful twist.",
+    "startMs": 182700,
+    "endMs": 184920,
+    "timestampMs": 182700,
+    "confidence": null
+  },
+  {
+    "text": "Metal doesn’t always feel colder.",
+    "startMs": 185170,
+    "endMs": 187480,
+    "timestampMs": 185170,
+    "confidence": null
+  },
+  {
+    "text": "Imagine metal and wood that are both hotter than your skin.",
+    "startMs": 187730,
+    "endMs": 191480,
+    "timestampMs": 187730,
+    "confidence": null
+  },
+  {
+    "text": "Now heat flows toward your hand.",
+    "startMs": 191730,
+    "endMs": 193880,
+    "timestampMs": 191730,
+    "confidence": null
+  },
+  {
+    "text": "The metal can transfer that energy into your skin faster, making it feel hotter.",
+    "startMs": 194130,
+    "endMs": 199110,
+    "timestampMs": 194130,
+    "confidence": null
+  },
+  {
+    "text": "The same property works in both directions.",
+    "startMs": 199360,
+    "endMs": 202160,
+    "timestampMs": 199360,
+    "confidence": null
+  },
+  {
+    "text": "That’s why “metal feels cold” is an incomplete rule.",
+    "startMs": 202410,
+    "endMs": 206080,
+    "timestampMs": 202410,
+    "confidence": null
+  },
+  {
+    "text": "A better rule is that metal transfers heat readily.",
+    "startMs": 206330,
+    "endMs": 209560,
+    "timestampMs": 206330,
+    "confidence": null
+  },
+  {
+    "text": "Whether that cools you or heats you depends on the temperature difference.",
+    "startMs": 209810,
+    "endMs": 214230,
+    "timestampMs": 209810,
+    "confidence": null
+  },
+  {
+    "text": "One final detail matters.",
+    "startMs": 214480,
+    "endMs": 216650,
+    "timestampMs": 214480,
+    "confidence": null
+  },
+  {
+    "text": "Two objects being in the same room doesn’t guarantee they’re at the same temperature.",
+    "startMs": 217300,
+    "endMs": 222460,
+    "timestampMs": 217300,
+    "confidence": null
+  },
+  {
+    "text": "Sunlight, a nearby heater, or recent use can change that.",
+    "startMs": 222710,
+    "endMs": 226810,
+    "timestampMs": 222710,
+    "confidence": null
+  },
+  {
+    "text": "Our comparison assumes the objects have had time to settle to the same",
+    "startMs": 227060,
+    "endMs": 231179,
+    "timestampMs": 227060,
+    "confidence": null
+  },
+  {
+    "text": "temperature, away from those influences.",
+    "startMs": 231219,
+    "endMs": 234540,
+    "timestampMs": 231219,
+    "confidence": null
+  },
+  {
+    "text": "Under those conditions, the difference you feel can come from how the materials",
+    "startMs": 234790,
+    "endMs": 239461,
+    "timestampMs": 234790,
+    "confidence": null
+  },
+  {
+    "text": "exchange heat with your skin.",
+    "startMs": 239501,
+    "endMs": 241390,
+    "timestampMs": 239501,
+    "confidence": null
+  },
+  {
+    "text": "So next time a metal chair leg feels colder than its wooden seat,",
+    "startMs": 241640,
+    "endMs": 245700,
+    "timestampMs": 241640,
+    "confidence": null
+  },
+  {
+    "text": "remember what your hand is experiencing.",
+    "startMs": 245810,
+    "endMs": 248480,
+    "timestampMs": 245810,
+    "confidence": null
+  },
+  {
+    "text": "The metal may not have started colder.",
+    "startMs": 249130,
+    "endMs": 251370,
+    "timestampMs": 249130,
+    "confidence": null
+  },
+  {
+    "text": "It’s simply carrying your heat away faster.",
+    "startMs": 251620,
+    "endMs": 254140,
+    "timestampMs": 251620,
+    "confidence": null
+  },
+  {
+    "text": "Same room.",
+    "startMs": 254390,
+    "endMs": 255570,
+    "timestampMs": 254390,
+    "confidence": null
+  },
+  {
+    "text": "Same starting temperature.",
+    "startMs": 255820,
+    "endMs": 257680,
+    "timestampMs": 255820,
+    "confidence": null
+  },
+  {
+    "text": "Different experience.",
+    "startMs": 257930,
+    "endMs": 259560,
+    "timestampMs": 257930,
+    "confidence": null
+  },
+  {
+    "text": "Now you know.",
+    "startMs": 260210,
+    "endMs": 261420,
+    "timestampMs": 260210,
+    "confidence": null
+  },
+  {
+    "text": "Ordinary has secrets.",
+    "startMs": 261670,
+    "endMs": 263520,
+    "timestampMs": 261670,
+    "confidence": null
+  }
+]

@@ -13,6 +13,10 @@ import {Ep003Full} from './scenes/ep003/Ep003Full';
 import {timing as ep003Timing} from './scenes/ep003/timing';
 import {Ep003Short} from './scenes/ep003/Short';
 import {Ep003Thumbnail} from './scenes/ep003/Thumbnail';
+import {Ep004Full} from './scenes/ep004/Ep004Full';
+import {timing as ep004Timing} from './scenes/ep004/timing';
+import {Short004, Short004Cover, Ep004Thumbnail} from './scenes/ep004/Short004';
+import ep004ShortTiming from './data/ep004_short/narration_timing.json';
 import ep003ShortTiming from './data/ep003_short/narration_timing.json';
 import {Ep002Short} from './scenes/ep002/Short';
 import ep002ShortTiming from './data/ep002_short/narration_timing.json';
@@ -61,6 +65,11 @@ export const RemotionRoot: React.FC = () => (
     <Composition id="Ep003Full" component={Ep003Full} durationInFrames={Math.ceil(ep003Timing.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
     <Composition id="Ep003Opening30" component={Ep003Full} durationInFrames={30 * VIDEO.fps} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
     <Composition id="Ep003Short" component={Ep003Short} durationInFrames={Math.ceil(ep003ShortTiming.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={1080} height={1920} />
+    <Composition id="Ep004Full" component={Ep004Full} durationInFrames={Math.ceil(ep004Timing.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
+    <Composition id="Ep004Opening30" component={Ep004Full} durationInFrames={30 * VIDEO.fps} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
+    <Composition id="Short004" component={Short004} durationInFrames={Math.ceil(ep004ShortTiming.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={1080} height={1920} />
+    <Still id="Short004Cover" component={Short004Cover} width={1080} height={1920} />
+    <Still id="Ep004Thumbnail" component={Ep004Thumbnail} width={1280} height={720} />
     <Still id="Ep003Thumbnail" component={Ep003Thumbnail} width={1280} height={720} />
     <Still id="Ep002Thumbnail" component={Ep002Thumbnail} width={1280} height={720} />
     <Still id="Ep001StyleFrameMap" component={StyleFrameMap} width={VIDEO.width} height={VIDEO.height} />

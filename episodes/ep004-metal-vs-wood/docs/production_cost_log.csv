@@ -1,1 +1,7 @@
 date,category,item,vendor,quantity,unit,unit_cost_usd,total_usd,status,approval,notes
+2026-11-20,inspection,Higgsfield balance + cost preflight (2 cr per 2K image),Higgsfield MCP,0,credits,0.049,0.00,spent,n/a,Read-only; balance 1705.9 (Ultra plan)
+2026-11-20,narration,FINAL narration main L01-L66 + standalone Short S1-S6 (Kokoro-82M; af_heart; 0.88),local,2,render,0,0.00,spent,approved channel voice,Apache-2.0; main 271.2 s incl. 8 s end card; Short 26.8 s
+2026-11-20,assets,D1 hand on the wooden seat (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-20 (prompt sheet),job 4130dfb6; first pass
+2026-11-20,assets,D2 hand on the metal leg (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-20 (prompt sheet),job 9b375a51; first pass
+2026-11-20,assets,D3 character between metal and wood blocks (nano_banana_pro 2k),Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-20 (prompt sheet),job 81048b43; first pass
+2026-11-20,assets,"D4 metal and wood blocks, empty tops (vertical) (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-20 (prompt sheet),job 9f229d67; first pass

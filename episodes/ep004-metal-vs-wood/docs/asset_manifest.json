@@ -1,6 +1,55 @@
 {
-  "episode": "ep004",
+  "episode": "ep004 + short004",
+  "channel": "Ordinary Has Secrets",
   "title": "Why Does Metal Feel Colder Than Wood?",
-  "reused": [],
-  "assets": []
+  "project": "Higgsfield project 42f68dae-e6fc-4ed9-99d3-70d7b481606c (the channel's project)",
+  "model_requested": "nano_banana_pro (reported as nano_banana_2)",
+  "generated": "2026-11-20",
+  "approved_prompt_sheet": "docs/HIGGSFIELD_PROMPT_SHEET.md (D1–D4 approved by owner 2026-11-20)",
+  "credits_total": 8,
+  "retakes": 0,
+  "balance": {
+    "before": 1705.9,
+    "after_expected": 1697.9,
+    "plan": "ultra"
+  },
+  "commercial_terms": "Confirmed by the owner 2026-11-17 (Plus plan); plan is now Ultra.",
+  "assets": [
+    {
+      "id": "D1",
+      "name": "Hand on the wooden seat",
+      "job_id": "4130dfb6-4465-4ce8-871d-d5a8e4927e9e",
+      "credits": 2,
+      "settings": "16:9, 2k, refs EP001 H1 + H4",
+      "file": "public/assets/higgsfield/ep004/D1_hand_wood_v1.png",
+      "render_file": "public/assets/higgsfield/ep004/D1_hand_wood_v1.jpg"
+    },
+    {
+      "id": "D2",
+      "name": "Hand on the metal leg",
+      "job_id": "9b375a51-dbf3-43d4-bac5-d3cb734624a0",
+      "credits": 2,
+      "settings": "16:9, 2k, ref D1",
+      "file": "public/assets/higgsfield/ep004/D2_hand_metal_v1.png",
+      "render_file": "public/assets/higgsfield/ep004/D2_hand_metal_v1.jpg"
+    },
+    {
+      "id": "D3",
+      "name": "Character between metal and wood blocks",
+      "job_id": "81048b43-ebef-4df5-89ec-0142fd8423e4",
+      "credits": 2,
+      "settings": "16:9, 2k, ref EP003 C1",
+      "file": "public/assets/higgsfield/ep004/D3_character_blocks_v1.png",
+      "render_file": "public/assets/higgsfield/ep004/D3_character_blocks_v1.jpg"
+    },
+    {
+      "id": "D4",
+      "name": "Metal and wood blocks, empty tops (vertical)",
+      "job_id": "9f229d67-196f-4df5-97aa-46848ab04503",
+      "credits": 2,
+      "settings": "9:16, 2k, ref D3",
+      "file": "public/assets/higgsfield/ep004/D4_blocks_vertical_v1.png",
+      "render_file": "public/assets/higgsfield/ep004/D4_blocks_vertical_v1.jpg"
+    }
+  ]
 }
