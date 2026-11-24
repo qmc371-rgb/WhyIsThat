@@ -1,0 +1,15 @@
+date,category,item,vendor,quantity,unit,unit_cost_usd,total_usd,status,approval,notes
+2026-11-24,inspection,Higgsfield cost preflight (nano_banana_pro 2K = 2 cr),Higgsfield MCP,0,credits,0.049,0.00,spent,n/a,Read-only; balance 1697.9 (Ultra plan)
+2026-11-24,research,Source check (4 official pages fetched; Starbucks via search excerpts),local,0,,0,0.00,spent,n/a,Network allowlist added for 4 official hosts (owner-approved card)
+2026-11-24,assets,"R1 Roast-beef sandwich (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-24 (prompt sheet),job ffdb1f72; first pass
+2026-11-24,assets,"R2 Established character at a blank menu board (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-24 (prompt sheet),job b474f0ce; first pass
+2026-11-24,assets,"R3 Two 1960s counter workers from behind (generic, no faces) (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-24 (prompt sheet),job d47ef6a8; first pass
+2026-11-24,assets,"R4 Blank mid-century roadside sign at dusk (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-24 (prompt sheet),job bf699e8e; first pass
+2026-11-24,assets,"R5 Stylised mountain map with blank labels (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-24 (prompt sheet),job b6e1175f; first pass
+2026-11-24,assets,"R6 Open book with a whaling-ship illustration (nano_banana_pro 2k)",Higgsfield,2,credits,0.049,0.098,spent,approved by owner 2026-11-24 (prompt sheet),job e140c5a7; first pass
+2026-11-24,narration,FINAL narration v2 L01-L76 (Kokoro-82M; af_heart; 0.88; 3 local re-renders),local,1,render,0,0.00,spent,approved channel voice,Apache-2.0; 256.8 s incl. 8 s end card
+2026-11-24,render,Full master + opening previews + thumbnail draft + captions,local container,1,render set,0,0.00,spent,n/a,Remotion + ffmpeg in this session
+TOTAL,,Higgsfield credits used (12 of 40-credit cap; 6 of 6 assets; 0 retakes),Higgsfield,12,credits,0.049,0.588,spent,,Confirmed in Higgsfield transactions (6 x 2 cr Nano Banana Pro at 2026-11-24 01:31 UTC); existing Ultra allowance (no purchase)
+TOTAL,,Cash spent / purchases,,0,,,0.00,,,Nothing bought; nothing published
+TOTAL,,EP005 variable cost (credit-equivalent),,,,,0.588,,,EP005 cap $10: met
+TOTAL,,Month to date Nov 2026 (EP001-EP005),,52,credits,0.049,2.548,,,$100 monthly cap: OK

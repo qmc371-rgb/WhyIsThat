@@ -1,0 +1,13 @@
+SOURCES
+• Inspire Brands (Arby's parent company) — The Passing of Arby's Legendary Co-Founder Leroy Raffel: https://stories.inspirebrands.com/the-passing-of-arbys-co-founder-leroy-raffel/
+• Wendy's — Dave's Legacy: Founding Wendy's: https://www.wendys.com/who-we-are-daves-legacy-founding-wendys
+• Taco Bell — Glen Bell: https://www.tacobell.com/stories/glen-bell
+• Taco Bell newsroom — Taco Bell celebrates 60 years (2022): https://www.tacobell.com/newsroom/taco-bell-celebrates-60-years
+• Starbucks — company profile: https://about.starbucks.com/uploads/2026/01/AboutUs-Company-Profile-Jan-2026.pdf
+
+Historical scenes are illustrative recreations, not archival images, and the founders are not depicted. Brand names are typeset for identification only; this video is not affiliated with or endorsed by any of these companies.
+
+CREDITS
+Narration: synthetic voice, Kokoro-82M (Apache-2.0).
+Illustrations: generated with Higgsfield. Lettering, diagrams and animation: made in code with Remotion.
+Fonts: Fredoka and Inter (SIL Open Font License). Sound effects: synthesised in code. No music.

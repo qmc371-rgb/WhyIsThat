@@ -1,0 +1,76 @@
+{
+  "episode": "ep005",
+  "channel": "Ordinary Has Secrets",
+  "title": "The Stories Behind 4 Famous Restaurant Names",
+  "project": "Higgsfield project 42f68dae-e6fc-4ed9-99d3-70d7b481606c (the channel's project)",
+  "model_requested": "nano_banana_pro (reported as nano_banana_2)",
+  "generated": "2026-11-24",
+  "approved_prompt_sheet": "docs/HIGGSFIELD_PROMPT_SHEET.md (R1–R6 approved by owner 2026-11-24)",
+  "credits_total": 12,
+  "retakes": 0,
+  "balance": {
+    "before": 1697.9,
+    "after_generation_expected": 1685.9,
+    "checked_2026_11_24": 5977.5,
+    "plan": "ultra",
+    "note": "Balance rose after generation (plan allowance grant, not a purchase by this project). EP005 spend confirmed in transactions: 6 x 2 credits."
+  },
+  "checks": "All six inspected: no text, logos, brand trade dress or founder likenesses.",
+  "assets": [
+    {
+      "id": "R1",
+      "name": "Roast-beef sandwich",
+      "job_id": "ffdb1f72-5ac8-4d2f-a582-f3d6393d996a",
+      "credits": 2,
+      "settings": "16:9, 2k",
+      "file": "public/assets/higgsfield/ep005/R1_sandwich_v1.png",
+      "render_file": "public/assets/higgsfield/ep005/R1_sandwich_v1.jpg"
+    },
+    {
+      "id": "R2",
+      "name": "Established character at a blank menu board",
+      "job_id": "b474f0ce-ac78-4099-9785-e89af3411eb7",
+      "credits": 2,
+      "settings": "16:9, 2k, ref EP004 D3 (81048b43)",
+      "file": "public/assets/higgsfield/ep005/R2_character_board_v1.png",
+      "render_file": "public/assets/higgsfield/ep005/R2_character_board_v1.jpg"
+    },
+    {
+      "id": "R3",
+      "name": "Two 1960s counter workers from behind (generic, no faces)",
+      "job_id": "d47ef6a8-2803-49f8-b40c-814ad7e6f766",
+      "credits": 2,
+      "settings": "16:9, 2k",
+      "file": "public/assets/higgsfield/ep005/R3_brothers_counter_v1.png",
+      "render_file": "public/assets/higgsfield/ep005/R3_brothers_counter_v1.jpg"
+    },
+    {
+      "id": "R4",
+      "name": "Blank mid-century roadside sign at dusk",
+      "job_id": "bf699e8e-fa95-4128-acd0-7886b98eabbc",
+      "credits": 2,
+      "settings": "16:9, 2k",
+      "file": "public/assets/higgsfield/ep005/R4_blank_sign_v1.png",
+      "render_file": "public/assets/higgsfield/ep005/R4_blank_sign_v1.jpg"
+    },
+    {
+      "id": "R5",
+      "name": "Stylised mountain map with blank labels",
+      "job_id": "b6e1175f-d5a6-4073-890a-73076477b235",
+      "credits": 2,
+      "settings": "16:9, 2k",
+      "file": "public/assets/higgsfield/ep005/R5_old_map_v1.png",
+      "render_file": "public/assets/higgsfield/ep005/R5_old_map_v1.jpg",
+      "status": "generated but unused: the Starbo/map detail was dropped (could not be confirmed)"
+    },
+    {
+      "id": "R6",
+      "name": "Open book with a whaling-ship illustration",
+      "job_id": "e140c5a7-27a0-4464-a5df-79e5343acc95",
+      "credits": 2,
+      "settings": "16:9, 2k",
+      "file": "public/assets/higgsfield/ep005/R6_open_book_v1.png",
+      "render_file": "public/assets/higgsfield/ep005/R6_open_book_v1.jpg"
+    }
+  ]
+}
