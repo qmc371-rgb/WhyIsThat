@@ -10,8 +10,10 @@
   "retakes": 0,
   "balance": {
     "before": 1697.9,
-    "after_expected": 1685.9,
-    "plan": "ultra"
+    "after_generation_expected": 1685.9,
+    "checked_2026_11_24": 5977.5,
+    "plan": "ultra",
+    "note": "Balance rose after generation (plan allowance grant, not a purchase by this project). EP005 spend confirmed in transactions: 6 x 2 credits."
   },
   "checks": "All six inspected: no text, logos, brand trade dress or founder likenesses.",
   "assets": [
@@ -58,7 +60,8 @@
       "credits": 2,
       "settings": "16:9, 2k",
       "file": "public/assets/higgsfield/ep005/R5_old_map_v1.png",
-      "render_file": "public/assets/higgsfield/ep005/R5_old_map_v1.jpg"
+      "render_file": "public/assets/higgsfield/ep005/R5_old_map_v1.jpg",
+      "status": "generated but unused: the Starbo/map detail was dropped (could not be confirmed)"
     },
     {
       "id": "R6",

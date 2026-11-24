@@ -3,14 +3,14 @@
   "notForPublication": false,
   "engine": "Kokoro-82M int8 via kokoro-onnx, voice=af_heart, speed=0.88 (Apache-2.0; approved channel voice)",
   "audio": "audio/ep005/ep005_narration_kokoro.wav",
-  "durationSec": 283.36,
+  "durationSec": 256.76,
   "wordTimingMethod": "exact line boundaries (per-paragraph synthesis); phrases pause-anchored; words proportional",
   "sections": [
-    "L24",
-    "L40",
-    "L54",
-    "L71",
-    "L82"
+    "L22",
+    "L38",
+    "L52",
+    "L64",
+    "L75"
   ],
   "lines": [
     {
@@ -315,4266 +315,3791 @@
     },
     {
       "id": "L07",
-      "text": "Let’s start with the sandwich.",
-      "start": 17.12,
-      "end": 18.76,
+      "text": "Picture a roast-beef sandwich beside two enormous letters.",
+      "start": 17.27,
+      "end": 20.74,
       "phrases": [
         {
-          "text": "Let’s start with the sandwich.",
-          "start": 17.12,
-          "end": 18.76
+          "text": "Picture a roast-beef sandwich beside two enormous letters.",
+          "start": 17.27,
+          "end": 20.74
         }
       ],
       "words": [
         {
-          "text": "Let’s",
-          "start": 17.12,
-          "end": 17.406
+          "text": "Picture",
+          "start": 17.27,
+          "end": 17.754
         },
         {
-          "text": "start",
-          "start": 17.406,
-          "end": 17.745
+          "text": "a",
+          "start": 17.754,
+          "end": 17.896
         },
         {
-          "text": "with",
-          "start": 17.745,
-          "end": 18.031
+          "text": "roast-beef",
+          "start": 17.896,
+          "end": 18.493
         },
         {
-          "text": "the",
-          "start": 18.031,
-          "end": 18.265
+          "text": "sandwich",
+          "start": 18.493,
+          "end": 19.033
         },
         {
-          "text": "sandwich.",
-          "start": 18.265,
-          "end": 18.76
+          "text": "beside",
+          "start": 19.033,
+          "end": 19.46
+        },
+        {
+          "text": "two",
+          "start": 19.46,
+          "end": 19.716
+        },
+        {
+          "text": "enormous",
+          "start": 19.716,
+          "end": 20.256
+        },
+        {
+          "text": "letters.",
+          "start": 20.256,
+          "end": 20.74
         }
       ]
     },
     {
       "id": "L08",
-      "text": "Picture a roast-beef sandwich beside two enormous letters.",
-      "start": 19.36,
-      "end": 22.83,
-      "phrases": [
-        {
-          "text": "Picture a roast-beef sandwich beside two enormous letters.",
-          "start": 19.36,
-          "end": 22.83
-        }
-      ],
-      "words": [
-        {
-          "text": "Picture",
-          "start": 19.36,
-          "end": 19.844
-        },
-        {
-          "text": "a",
-          "start": 19.844,
-          "end": 19.986
-        },
-        {
-          "text": "roast-beef",
-          "start": 19.986,
-          "end": 20.583
-        },
-        {
-          "text": "sandwich",
-          "start": 20.583,
-          "end": 21.123
-        },
-        {
-          "text": "beside",
-          "start": 21.123,
-          "end": 21.55
-        },
-        {
-          "text": "two",
-          "start": 21.55,
-          "end": 21.806
-        },
-        {
-          "text": "enormous",
-          "start": 21.806,
-          "end": 22.346
-        },
-        {
-          "text": "letters.",
-          "start": 22.346,
-          "end": 22.83
-        }
-      ]
-    },
-    {
-      "id": "L09",
       "text": "R and B.",
-      "start": 23.28,
-      "end": 24.23,
+      "start": 21.19,
+      "end": 22.14,
       "phrases": [
         {
           "text": "R and B.",
-          "start": 23.28,
-          "end": 24.23
+          "start": 21.19,
+          "end": 22.14
         }
       ],
       "words": [
         {
           "text": "R",
-          "start": 23.28,
-          "end": 23.53
+          "start": 21.19,
+          "end": 21.44
         },
         {
           "text": "and",
-          "start": 23.53,
-          "end": 23.98
+          "start": 21.44,
+          "end": 21.89
         },
         {
           "text": "B.",
-          "start": 23.98,
-          "end": 24.23
+          "start": 21.89,
+          "end": 22.14
         }
       ]
     },
     {
-      "id": "L10",
+      "id": "L09",
       "text": "Say them together.",
-      "start": 24.68,
-      "end": 25.76,
+      "start": 22.59,
+      "end": 23.67,
       "phrases": [
         {
           "text": "Say them together.",
-          "start": 24.68,
-          "end": 25.76
+          "start": 22.59,
+          "end": 23.67
         }
       ],
       "words": [
         {
           "text": "Say",
-          "start": 24.68,
-          "end": 24.929
+          "start": 22.59,
+          "end": 22.839
         },
         {
           "text": "them",
-          "start": 24.929,
-          "end": 25.234
+          "start": 22.839,
+          "end": 23.144
         },
         {
           "text": "together.",
-          "start": 25.234,
-          "end": 25.76
+          "start": 23.144,
+          "end": 23.67
+        }
+      ]
+    },
+    {
+      "id": "L10",
+      "text": "“Arby.”",
+      "start": 24.12,
+      "end": 24.85,
+      "phrases": [
+        {
+          "text": "“Arby.”",
+          "start": 24.12,
+          "end": 24.85
+        }
+      ],
+      "words": [
+        {
+          "text": "“Arby.”",
+          "start": 24.12,
+          "end": 24.85
         }
       ]
     },
     {
       "id": "L11",
-      "text": "“Arby.”",
-      "start": 26.21,
-      "end": 26.94,
+      "text": "But according to Arby’s parent company, the name refers to the Raffel Brothers: Leroy and Forrest.",
+      "start": 25.45,
+      "end": 31.64,
       "phrases": [
         {
-          "text": "“Arby.”",
-          "start": 26.21,
-          "end": 26.94
+          "text": "But according to Arby’s parent company,",
+          "start": 25.45,
+          "end": 27.914
+        },
+        {
+          "text": "the name refers to the Raffel Brothers:",
+          "start": 27.914,
+          "end": 30.468
+        },
+        {
+          "text": "Leroy and Forrest.",
+          "start": 30.468,
+          "end": 31.64
         }
       ],
       "words": [
         {
-          "text": "“Arby.”",
-          "start": 26.21,
-          "end": 26.94
+          "text": "But",
+          "start": 25.45,
+          "end": 25.72
+        },
+        {
+          "text": "according",
+          "start": 25.72,
+          "end": 26.351
+        },
+        {
+          "text": "to",
+          "start": 26.351,
+          "end": 26.562
+        },
+        {
+          "text": "Arby’s",
+          "start": 26.562,
+          "end": 26.952
+        },
+        {
+          "text": "parent",
+          "start": 26.952,
+          "end": 27.403
+        },
+        {
+          "text": "company,",
+          "start": 27.403,
+          "end": 27.914
+        },
+        {
+          "text": "the",
+          "start": 27.914,
+          "end": 28.184
+        },
+        {
+          "text": "name",
+          "start": 28.184,
+          "end": 28.515
+        },
+        {
+          "text": "refers",
+          "start": 28.515,
+          "end": 28.966
+        },
+        {
+          "text": "to",
+          "start": 28.966,
+          "end": 29.176
+        },
+        {
+          "text": "the",
+          "start": 29.176,
+          "end": 29.446
+        },
+        {
+          "text": "Raffel",
+          "start": 29.446,
+          "end": 29.897
+        },
+        {
+          "text": "Brothers:",
+          "start": 29.897,
+          "end": 30.468
+        },
+        {
+          "text": "Leroy",
+          "start": 30.468,
+          "end": 30.859
+        },
+        {
+          "text": "and",
+          "start": 30.859,
+          "end": 31.129
+        },
+        {
+          "text": "Forrest.",
+          "start": 31.129,
+          "end": 31.64
         }
       ]
     },
     {
       "id": "L12",
-      "text": "It’s such a convincing explanation that you barely have to think about it.",
-      "start": 27.39,
-      "end": 31.59,
-      "phrases": [
-        {
-          "text": "It’s such a convincing explanation that you barely have to think about it.",
-          "start": 27.39,
-          "end": 31.59
-        }
-      ],
-      "words": [
-        {
-          "text": "It’s",
-          "start": 27.39,
-          "end": 27.628
-        },
-        {
-          "text": "such",
-          "start": 27.628,
-          "end": 27.918
-        },
-        {
-          "text": "a",
-          "start": 27.918,
-          "end": 28.05
-        },
-        {
-          "text": "convincing",
-          "start": 28.05,
-          "end": 28.658
-        },
-        {
-          "text": "explanation",
-          "start": 28.658,
-          "end": 29.318
-        },
-        {
-          "text": "that",
-          "start": 29.318,
-          "end": 29.609
-        },
-        {
-          "text": "you",
-          "start": 29.609,
-          "end": 29.847
-        },
-        {
-          "text": "barely",
-          "start": 29.847,
-          "end": 30.243
-        },
-        {
-          "text": "have",
-          "start": 30.243,
-          "end": 30.533
-        },
-        {
-          "text": "to",
-          "start": 30.533,
-          "end": 30.718
-        },
-        {
-          "text": "think",
-          "start": 30.718,
-          "end": 31.062
-        },
-        {
-          "text": "about",
-          "start": 31.062,
-          "end": 31.405
-        },
-        {
-          "text": "it.",
-          "start": 31.405,
-          "end": 31.59
-        }
-      ]
-    },
-    {
-      "id": "L13",
-      "text": "But according to Arby’s parent company, the name refers to the Raffel Brothers: Leroy and Forrest.",
-      "start": 32.04,
-      "end": 38.23,
-      "phrases": [
-        {
-          "text": "But according to Arby’s parent company,",
-          "start": 32.04,
-          "end": 34.504
-        },
-        {
-          "text": "the name refers to the Raffel Brothers:",
-          "start": 34.504,
-          "end": 37.058
-        },
-        {
-          "text": "Leroy and Forrest.",
-          "start": 37.058,
-          "end": 38.23
-        }
-      ],
-      "words": [
-        {
-          "text": "But",
-          "start": 32.04,
-          "end": 32.31
-        },
-        {
-          "text": "according",
-          "start": 32.31,
-          "end": 32.941
-        },
-        {
-          "text": "to",
-          "start": 32.941,
-          "end": 33.152
-        },
-        {
-          "text": "Arby’s",
-          "start": 33.152,
-          "end": 33.542
-        },
-        {
-          "text": "parent",
-          "start": 33.542,
-          "end": 33.993
-        },
-        {
-          "text": "company,",
-          "start": 33.993,
-          "end": 34.504
-        },
-        {
-          "text": "the",
-          "start": 34.504,
-          "end": 34.774
-        },
-        {
-          "text": "name",
-          "start": 34.774,
-          "end": 35.105
-        },
-        {
-          "text": "refers",
-          "start": 35.105,
-          "end": 35.556
-        },
-        {
-          "text": "to",
-          "start": 35.556,
-          "end": 35.766
-        },
-        {
-          "text": "the",
-          "start": 35.766,
-          "end": 36.036
-        },
-        {
-          "text": "Raffel",
-          "start": 36.036,
-          "end": 36.487
-        },
-        {
-          "text": "Brothers:",
-          "start": 36.487,
-          "end": 37.058
-        },
-        {
-          "text": "Leroy",
-          "start": 37.058,
-          "end": 37.449
-        },
-        {
-          "text": "and",
-          "start": 37.449,
-          "end": 37.719
-        },
-        {
-          "text": "Forrest.",
-          "start": 37.719,
-          "end": 38.23
-        }
-      ]
-    },
-    {
-      "id": "L14",
       "text": "They founded the restaurant in Boardman, Ohio, in 1964.",
-      "start": 38.83,
-      "end": 43.1,
+      "start": 32.24,
+      "end": 36.51,
       "phrases": [
         {
           "text": "They founded the restaurant in Boardman,",
-          "start": 38.83,
-          "end": 42.023
+          "start": 32.24,
+          "end": 35.433
         },
         {
           "text": "Ohio,",
-          "start": 42.023,
-          "end": 42.432
+          "start": 35.433,
+          "end": 35.842
         },
         {
           "text": "in 1964.",
-          "start": 42.432,
-          "end": 43.1
+          "start": 35.842,
+          "end": 36.51
         }
       ],
       "words": [
         {
           "text": "They",
-          "start": 38.83,
-          "end": 39.238
+          "start": 32.24,
+          "end": 32.648
         },
         {
           "text": "founded",
-          "start": 39.238,
-          "end": 39.87
+          "start": 32.648,
+          "end": 33.28
         },
         {
           "text": "the",
-          "start": 39.87,
-          "end": 40.204
+          "start": 33.28,
+          "end": 33.614
         },
         {
           "text": "restaurant",
-          "start": 40.204,
-          "end": 41.058
+          "start": 33.614,
+          "end": 34.468
         },
         {
           "text": "in",
-          "start": 41.058,
-          "end": 41.318
+          "start": 34.468,
+          "end": 34.728
         },
         {
           "text": "Boardman,",
-          "start": 41.318,
-          "end": 42.023
+          "start": 34.728,
+          "end": 35.433
         },
         {
           "text": "Ohio,",
-          "start": 42.023,
-          "end": 42.432
+          "start": 35.433,
+          "end": 35.842
         },
         {
           "text": "in",
-          "start": 42.432,
-          "end": 42.692
+          "start": 35.842,
+          "end": 36.102
         },
         {
           "text": "1964.",
-          "start": 42.692,
-          "end": 43.1
+          "start": 36.102,
+          "end": 36.51
         }
       ]
     },
     {
-      "id": "L15",
+      "id": "L13",
       "text": "Raffel Brothers.",
-      "start": 43.7,
-      "end": 44.86,
+      "start": 37.11,
+      "end": 38.27,
       "phrases": [
         {
           "text": "Raffel Brothers.",
-          "start": 43.7,
-          "end": 44.86
+          "start": 37.11,
+          "end": 38.27
         }
       ],
       "words": [
         {
           "text": "Raffel",
-          "start": 43.7,
-          "end": 44.212
+          "start": 37.11,
+          "end": 37.622
         },
         {
           "text": "Brothers.",
-          "start": 44.212,
-          "end": 44.86
+          "start": 37.622,
+          "end": 38.27
+        }
+      ]
+    },
+    {
+      "id": "L14",
+      "text": "R. B.",
+      "start": 38.87,
+      "end": 39.9,
+      "phrases": [
+        {
+          "text": "R.",
+          "start": 38.87,
+          "end": 39.31
+        },
+        {
+          "text": "B.",
+          "start": 39.44,
+          "end": 39.9
+        }
+      ],
+      "words": [
+        {
+          "text": "R.",
+          "start": 38.87,
+          "end": 39.31
+        },
+        {
+          "text": "B.",
+          "start": 39.44,
+          "end": 39.9
+        }
+      ]
+    },
+    {
+      "id": "L15",
+      "text": "Arby’s.",
+      "start": 40.5,
+      "end": 41.26,
+      "phrases": [
+        {
+          "text": "Arby’s.",
+          "start": 40.5,
+          "end": 41.26
+        }
+      ],
+      "words": [
+        {
+          "text": "Arby’s.",
+          "start": 40.5,
+          "end": 41.26
         }
       ]
     },
     {
       "id": "L16",
-      "text": "R. B.",
-      "start": 45.46,
-      "end": 46.49,
+      "text": "The initials belong to the founders. The roast beef makes the coincidence especially easy to believe.",
+      "start": 41.86,
+      "end": 48.31,
       "phrases": [
         {
-          "text": "R.",
-          "start": 45.46,
-          "end": 45.9
+          "text": "The initials belong to the founders.",
+          "start": 41.86,
+          "end": 43.85
         },
         {
-          "text": "B.",
-          "start": 46.03,
-          "end": 46.49
+          "text": "The roast beef makes the coincidence especially easy to believe.",
+          "start": 44.44,
+          "end": 48.31
         }
       ],
       "words": [
         {
-          "text": "R.",
-          "start": 45.46,
-          "end": 45.9
+          "text": "The",
+          "start": 41.86,
+          "end": 42.09
         },
         {
-          "text": "B.",
-          "start": 46.03,
-          "end": 46.49
+          "text": "initials",
+          "start": 42.09,
+          "end": 42.574
+        },
+        {
+          "text": "belong",
+          "start": 42.574,
+          "end": 42.957
+        },
+        {
+          "text": "to",
+          "start": 42.957,
+          "end": 43.136
+        },
+        {
+          "text": "the",
+          "start": 43.136,
+          "end": 43.365
+        },
+        {
+          "text": "founders.",
+          "start": 43.365,
+          "end": 43.85
+        },
+        {
+          "text": "The",
+          "start": 44.44,
+          "end": 44.692
+        },
+        {
+          "text": "roast",
+          "start": 44.692,
+          "end": 45.057
+        },
+        {
+          "text": "beef",
+          "start": 45.057,
+          "end": 45.365
+        },
+        {
+          "text": "makes",
+          "start": 45.365,
+          "end": 45.73
+        },
+        {
+          "text": "the",
+          "start": 45.73,
+          "end": 45.982
+        },
+        {
+          "text": "coincidence",
+          "start": 45.982,
+          "end": 46.683
+        },
+        {
+          "text": "especially",
+          "start": 46.683,
+          "end": 47.328
+        },
+        {
+          "text": "easy",
+          "start": 47.328,
+          "end": 47.637
+        },
+        {
+          "text": "to",
+          "start": 47.637,
+          "end": 47.833
+        },
+        {
+          "text": "believe.",
+          "start": 47.833,
+          "end": 48.31
         }
       ]
     },
     {
       "id": "L17",
-      "text": "Arby’s.",
-      "start": 47.09,
-      "end": 47.85,
-      "phrases": [
-        {
-          "text": "Arby’s.",
-          "start": 47.09,
-          "end": 47.85
-        }
-      ],
-      "words": [
-        {
-          "text": "Arby’s.",
-          "start": 47.09,
-          "end": 47.85
-        }
-      ]
-    },
-    {
-      "id": "L18",
-      "text": "The initials belong to the founders. The roast beef makes the coincidence especially easy to believe.",
-      "start": 48.45,
-      "end": 54.9,
-      "phrases": [
-        {
-          "text": "The initials belong to the founders.",
-          "start": 48.45,
-          "end": 50.44
-        },
-        {
-          "text": "The roast beef makes the coincidence especially easy to believe.",
-          "start": 51.03,
-          "end": 54.9
-        }
-      ],
-      "words": [
-        {
-          "text": "The",
-          "start": 48.45,
-          "end": 48.68
-        },
-        {
-          "text": "initials",
-          "start": 48.68,
-          "end": 49.164
-        },
-        {
-          "text": "belong",
-          "start": 49.164,
-          "end": 49.547
-        },
-        {
-          "text": "to",
-          "start": 49.547,
-          "end": 49.726
-        },
-        {
-          "text": "the",
-          "start": 49.726,
-          "end": 49.955
-        },
-        {
-          "text": "founders.",
-          "start": 49.955,
-          "end": 50.44
-        },
-        {
-          "text": "The",
-          "start": 51.03,
-          "end": 51.282
-        },
-        {
-          "text": "roast",
-          "start": 51.282,
-          "end": 51.647
-        },
-        {
-          "text": "beef",
-          "start": 51.647,
-          "end": 51.955
-        },
-        {
-          "text": "makes",
-          "start": 51.955,
-          "end": 52.32
-        },
-        {
-          "text": "the",
-          "start": 52.32,
-          "end": 52.572
-        },
-        {
-          "text": "coincidence",
-          "start": 52.572,
-          "end": 53.273
-        },
-        {
-          "text": "especially",
-          "start": 53.273,
-          "end": 53.918
-        },
-        {
-          "text": "easy",
-          "start": 53.918,
-          "end": 54.227
-        },
-        {
-          "text": "to",
-          "start": 54.227,
-          "end": 54.423
-        },
-        {
-          "text": "believe.",
-          "start": 54.423,
-          "end": 54.9
-        }
-      ]
-    },
-    {
-      "id": "L19",
       "text": "That’s what makes this a good naming mystery.",
-      "start": 55.5,
-      "end": 57.84,
+      "start": 48.91,
+      "end": 51.25,
       "phrases": [
         {
           "text": "That’s what makes this a good naming mystery.",
-          "start": 55.5,
-          "end": 57.84
+          "start": 48.91,
+          "end": 51.25
         }
       ],
       "words": [
         {
           "text": "That’s",
-          "start": 55.5,
-          "end": 55.817
+          "start": 48.91,
+          "end": 49.227
         },
         {
           "text": "what",
-          "start": 55.817,
-          "end": 56.085
+          "start": 49.227,
+          "end": 49.495
         },
         {
           "text": "makes",
-          "start": 56.085,
-          "end": 56.402
+          "start": 49.495,
+          "end": 49.812
         },
         {
           "text": "this",
-          "start": 56.402,
-          "end": 56.67
+          "start": 49.812,
+          "end": 50.08
         },
         {
           "text": "a",
-          "start": 56.67,
-          "end": 56.792
+          "start": 50.08,
+          "end": 50.202
         },
         {
           "text": "good",
-          "start": 56.792,
-          "end": 57.06
+          "start": 50.202,
+          "end": 50.47
         },
         {
           "text": "naming",
-          "start": 57.06,
-          "end": 57.426
+          "start": 50.47,
+          "end": 50.836
         },
         {
           "text": "mystery.",
-          "start": 57.426,
-          "end": 57.84
+          "start": 50.836,
+          "end": 51.25
+        }
+      ]
+    },
+    {
+      "id": "L18",
+      "text": "The answer seems to be sitting right there on the menu.",
+      "start": 51.85,
+      "end": 54.61,
+      "phrases": [
+        {
+          "text": "The answer seems to be sitting right there on the menu.",
+          "start": 51.85,
+          "end": 54.61
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 51.85,
+          "end": 52.055
+        },
+        {
+          "text": "answer",
+          "start": 52.055,
+          "end": 52.397
+        },
+        {
+          "text": "seems",
+          "start": 52.397,
+          "end": 52.694
+        },
+        {
+          "text": "to",
+          "start": 52.694,
+          "end": 52.854
+        },
+        {
+          "text": "be",
+          "start": 52.854,
+          "end": 53.013
+        },
+        {
+          "text": "sitting",
+          "start": 53.013,
+          "end": 53.401
+        },
+        {
+          "text": "right",
+          "start": 53.401,
+          "end": 53.698
+        },
+        {
+          "text": "there",
+          "start": 53.698,
+          "end": 53.994
+        },
+        {
+          "text": "on",
+          "start": 53.994,
+          "end": 54.154
+        },
+        {
+          "text": "the",
+          "start": 54.154,
+          "end": 54.359
+        },
+        {
+          "text": "menu.",
+          "start": 54.359,
+          "end": 54.61
+        }
+      ]
+    },
+    {
+      "id": "L19",
+      "text": "But the real explanation is standing behind the counter.",
+      "start": 55.21,
+      "end": 58.63,
+      "phrases": [
+        {
+          "text": "But the real explanation is standing behind the counter.",
+          "start": 55.21,
+          "end": 58.63
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 55.21,
+          "end": 55.464
+        },
+        {
+          "text": "the",
+          "start": 55.464,
+          "end": 55.719
+        },
+        {
+          "text": "real",
+          "start": 55.719,
+          "end": 56.03
+        },
+        {
+          "text": "explanation",
+          "start": 56.03,
+          "end": 56.736
+        },
+        {
+          "text": "is",
+          "start": 56.736,
+          "end": 56.934
+        },
+        {
+          "text": "standing",
+          "start": 56.934,
+          "end": 57.471
+        },
+        {
+          "text": "behind",
+          "start": 57.471,
+          "end": 57.895
+        },
+        {
+          "text": "the",
+          "start": 57.895,
+          "end": 58.15
+        },
+        {
+          "text": "counter.",
+          "start": 58.15,
+          "end": 58.63
         }
       ]
     },
     {
       "id": "L20",
-      "text": "The answer seems to be sitting right there on the menu.",
-      "start": 58.44,
-      "end": 61.2,
+      "text": "Two brothers whose initials became a name millions of customers would say when ordering lunch.",
+      "start": 59.23,
+      "end": 65.28,
       "phrases": [
         {
-          "text": "The answer seems to be sitting right there on the menu.",
-          "start": 58.44,
-          "end": 61.2
+          "text": "Two brothers whose initials became a name millions of customers would say when ordering lunch.",
+          "start": 59.23,
+          "end": 65.28
         }
       ],
       "words": [
         {
-          "text": "The",
-          "start": 58.44,
-          "end": 58.645
+          "text": "Two",
+          "start": 59.23,
+          "end": 59.498
         },
         {
-          "text": "answer",
-          "start": 58.645,
-          "end": 58.987
+          "text": "brothers",
+          "start": 59.498,
+          "end": 60.064
         },
         {
-          "text": "seems",
-          "start": 58.987,
-          "end": 59.284
+          "text": "whose",
+          "start": 60.064,
+          "end": 60.452
         },
         {
-          "text": "to",
-          "start": 59.284,
-          "end": 59.444
+          "text": "initials",
+          "start": 60.452,
+          "end": 61.018
         },
         {
-          "text": "be",
-          "start": 59.444,
-          "end": 59.603
+          "text": "became",
+          "start": 61.018,
+          "end": 61.465
         },
         {
-          "text": "sitting",
-          "start": 59.603,
-          "end": 59.991
+          "text": "a",
+          "start": 61.465,
+          "end": 61.614
         },
         {
-          "text": "right",
-          "start": 59.991,
-          "end": 60.288
+          "text": "name",
+          "start": 61.614,
+          "end": 61.942
         },
         {
-          "text": "there",
-          "start": 60.288,
-          "end": 60.584
+          "text": "millions",
+          "start": 61.942,
+          "end": 62.508
         },
         {
-          "text": "on",
-          "start": 60.584,
-          "end": 60.744
+          "text": "of",
+          "start": 62.508,
+          "end": 62.717
         },
         {
-          "text": "the",
-          "start": 60.744,
-          "end": 60.949
+          "text": "customers",
+          "start": 62.717,
+          "end": 63.343
         },
         {
-          "text": "menu.",
-          "start": 60.949,
-          "end": 61.2
+          "text": "would",
+          "start": 63.343,
+          "end": 63.73
+        },
+        {
+          "text": "say",
+          "start": 63.73,
+          "end": 63.998
+        },
+        {
+          "text": "when",
+          "start": 63.998,
+          "end": 64.326
+        },
+        {
+          "text": "ordering",
+          "start": 64.326,
+          "end": 64.893
+        },
+        {
+          "text": "lunch.",
+          "start": 64.893,
+          "end": 65.28
         }
       ]
     },
     {
       "id": "L21",
-      "text": "But the real explanation is standing behind the counter.",
-      "start": 61.8,
-      "end": 65.22,
+      "text": "Now let’s move from two brothers to one daughter.",
+      "start": 65.88,
+      "end": 68.3,
       "phrases": [
         {
-          "text": "But the real explanation is standing behind the counter.",
-          "start": 61.8,
-          "end": 65.22
+          "text": "Now let’s move from two brothers to one daughter.",
+          "start": 65.88,
+          "end": 68.3
         }
       ],
       "words": [
         {
-          "text": "But",
-          "start": 61.8,
-          "end": 62.054
+          "text": "Now",
+          "start": 65.88,
+          "end": 66.087
         },
         {
-          "text": "the",
-          "start": 62.054,
-          "end": 62.309
+          "text": "let’s",
+          "start": 66.087,
+          "end": 66.341
         },
         {
-          "text": "real",
-          "start": 62.309,
-          "end": 62.62
+          "text": "move",
+          "start": 66.341,
+          "end": 66.594
         },
         {
-          "text": "explanation",
-          "start": 62.62,
-          "end": 63.326
+          "text": "from",
+          "start": 66.594,
+          "end": 66.848
         },
         {
-          "text": "is",
-          "start": 63.326,
-          "end": 63.524
+          "text": "two",
+          "start": 66.848,
+          "end": 67.055
         },
         {
-          "text": "standing",
-          "start": 63.524,
-          "end": 64.061
+          "text": "brothers",
+          "start": 67.055,
+          "end": 67.493
         },
         {
-          "text": "behind",
-          "start": 64.061,
-          "end": 64.485
+          "text": "to",
+          "start": 67.493,
+          "end": 67.655
         },
         {
-          "text": "the",
-          "start": 64.485,
-          "end": 64.74
+          "text": "one",
+          "start": 67.655,
+          "end": 67.862
         },
         {
-          "text": "counter.",
-          "start": 64.74,
-          "end": 65.22
+          "text": "daughter.",
+          "start": 67.862,
+          "end": 68.3
         }
       ]
     },
     {
       "id": "L22",
-      "text": "Two brothers whose initials became a name millions of customers would say when ordering lunch.",
-      "start": 65.82,
-      "end": 71.87,
-      "phrases": [
-        {
-          "text": "Two brothers whose initials became a name millions of customers would say when ordering lunch.",
-          "start": 65.82,
-          "end": 71.87
-        }
-      ],
-      "words": [
-        {
-          "text": "Two",
-          "start": 65.82,
-          "end": 66.088
-        },
-        {
-          "text": "brothers",
-          "start": 66.088,
-          "end": 66.654
-        },
-        {
-          "text": "whose",
-          "start": 66.654,
-          "end": 67.042
-        },
-        {
-          "text": "initials",
-          "start": 67.042,
-          "end": 67.608
-        },
-        {
-          "text": "became",
-          "start": 67.608,
-          "end": 68.055
-        },
-        {
-          "text": "a",
-          "start": 68.055,
-          "end": 68.204
-        },
-        {
-          "text": "name",
-          "start": 68.204,
-          "end": 68.532
-        },
-        {
-          "text": "millions",
-          "start": 68.532,
-          "end": 69.098
-        },
-        {
-          "text": "of",
-          "start": 69.098,
-          "end": 69.307
-        },
-        {
-          "text": "customers",
-          "start": 69.307,
-          "end": 69.933
-        },
-        {
-          "text": "would",
-          "start": 69.933,
-          "end": 70.32
-        },
-        {
-          "text": "say",
-          "start": 70.32,
-          "end": 70.588
-        },
-        {
-          "text": "when",
-          "start": 70.588,
-          "end": 70.916
-        },
-        {
-          "text": "ordering",
-          "start": 70.916,
-          "end": 71.483
-        },
-        {
-          "text": "lunch.",
-          "start": 71.483,
-          "end": 71.87
-        }
-      ]
-    },
-    {
-      "id": "L23",
-      "text": "Now let’s move from two brothers to one daughter.",
-      "start": 72.47,
-      "end": 74.89,
-      "phrases": [
-        {
-          "text": "Now let’s move from two brothers to one daughter.",
-          "start": 72.47,
-          "end": 74.89
-        }
-      ],
-      "words": [
-        {
-          "text": "Now",
-          "start": 72.47,
-          "end": 72.677
-        },
-        {
-          "text": "let’s",
-          "start": 72.677,
-          "end": 72.931
-        },
-        {
-          "text": "move",
-          "start": 72.931,
-          "end": 73.184
-        },
-        {
-          "text": "from",
-          "start": 73.184,
-          "end": 73.438
-        },
-        {
-          "text": "two",
-          "start": 73.438,
-          "end": 73.645
-        },
-        {
-          "text": "brothers",
-          "start": 73.645,
-          "end": 74.083
-        },
-        {
-          "text": "to",
-          "start": 74.083,
-          "end": 74.245
-        },
-        {
-          "text": "one",
-          "start": 74.245,
-          "end": 74.452
-        },
-        {
-          "text": "daughter.",
-          "start": 74.452,
-          "end": 74.89
-        }
-      ]
-    },
-    {
-      "id": "L24",
       "text": "Who was Wendy?",
-      "start": 75.89,
-      "end": 76.84,
+      "start": 69.3,
+      "end": 70.25,
       "phrases": [
         {
           "text": "Who was Wendy?",
-          "start": 75.89,
-          "end": 76.84
+          "start": 69.3,
+          "end": 70.25
         }
       ],
       "words": [
         {
           "text": "Who",
-          "start": 75.89,
-          "end": 76.166
+          "start": 69.3,
+          "end": 69.576
         },
         {
           "text": "was",
-          "start": 76.166,
-          "end": 76.442
+          "start": 69.576,
+          "end": 69.852
         },
         {
           "text": "Wendy?",
-          "start": 76.442,
-          "end": 76.84
+          "start": 69.852,
+          "end": 70.25
         }
       ]
     },
     {
-      "id": "L25",
+      "id": "L23",
       "text": "If your answer is “the founder’s daughter,” you’re on the right track.",
-      "start": 78.34,
-      "end": 81.77,
+      "start": 71.75,
+      "end": 75.18,
       "phrases": [
         {
           "text": "If your answer is “the founder’s daughter,” you’re on the right track.",
-          "start": 78.34,
-          "end": 81.77
+          "start": 71.75,
+          "end": 75.18
         }
       ],
       "words": [
         {
           "text": "If",
-          "start": 78.34,
-          "end": 78.509
+          "start": 71.75,
+          "end": 71.919
         },
         {
           "text": "your",
-          "start": 78.509,
-          "end": 78.775
+          "start": 71.919,
+          "end": 72.185
         },
         {
           "text": "answer",
-          "start": 78.775,
-          "end": 79.137
+          "start": 72.185,
+          "end": 72.547
         },
         {
           "text": "is",
-          "start": 79.137,
-          "end": 79.306
+          "start": 72.547,
+          "end": 72.716
         },
         {
           "text": "“the",
-          "start": 79.306,
-          "end": 79.524
+          "start": 72.716,
+          "end": 72.934
         },
         {
           "text": "founder’s",
-          "start": 79.524,
-          "end": 79.983
+          "start": 72.934,
+          "end": 73.393
         },
         {
           "text": "daughter,”",
-          "start": 79.983,
-          "end": 80.441
+          "start": 73.393,
+          "end": 73.851
         },
         {
           "text": "you’re",
-          "start": 80.441,
-          "end": 80.755
+          "start": 73.851,
+          "end": 74.165
         },
         {
           "text": "on",
-          "start": 80.755,
-          "end": 80.925
+          "start": 74.165,
+          "end": 74.335
         },
         {
           "text": "the",
-          "start": 80.925,
-          "end": 81.142
+          "start": 74.335,
+          "end": 74.552
         },
         {
           "text": "right",
-          "start": 81.142,
-          "end": 81.456
+          "start": 74.552,
+          "end": 74.866
         },
         {
           "text": "track.",
-          "start": 81.456,
-          "end": 81.77
+          "start": 74.866,
+          "end": 75.18
         }
       ]
     },
     {
-      "id": "L26",
+      "id": "L24",
       "text": "But there’s another detail.",
-      "start": 82.37,
-      "end": 83.78,
+      "start": 75.78,
+      "end": 77.19,
       "phrases": [
         {
           "text": "But there’s another detail.",
-          "start": 82.37,
-          "end": 83.78
+          "start": 75.78,
+          "end": 77.19
         }
       ],
       "words": [
         {
           "text": "But",
-          "start": 82.37,
-          "end": 82.597
+          "start": 75.78,
+          "end": 76.007
         },
         {
           "text": "there’s",
-          "start": 82.597,
-          "end": 82.974
+          "start": 76.007,
+          "end": 76.384
         },
         {
           "text": "another",
-          "start": 82.974,
-          "end": 83.402
+          "start": 76.384,
+          "end": 76.812
         },
         {
           "text": "detail.",
-          "start": 83.402,
-          "end": 83.78
+          "start": 76.812,
+          "end": 77.19
         }
       ]
     },
     {
-      "id": "L27",
+      "id": "L25",
       "text": "Her name was Melinda.",
-      "start": 84.38,
-      "end": 85.78,
+      "start": 77.79,
+      "end": 79.19,
       "phrases": [
         {
           "text": "Her name was Melinda.",
-          "start": 84.38,
-          "end": 85.78
+          "start": 77.79,
+          "end": 79.19
         }
       ],
       "words": [
         {
           "text": "Her",
-          "start": 84.38,
-          "end": 84.654
+          "start": 77.79,
+          "end": 78.064
         },
         {
           "text": "name",
-          "start": 84.654,
-          "end": 84.989
+          "start": 78.064,
+          "end": 78.399
         },
         {
           "text": "was",
-          "start": 84.989,
-          "end": 85.263
+          "start": 78.399,
+          "end": 78.673
         },
         {
           "text": "Melinda.",
-          "start": 85.263,
-          "end": 85.78
+          "start": 78.673,
+          "end": 79.19
         }
       ]
     },
     {
-      "id": "L28",
+      "id": "L26",
       "text": "Dave Thomas considered his children’s names before choosing Melinda’s nickname for the restaurant.",
-      "start": 86.38,
-      "end": 92.01,
+      "start": 79.79,
+      "end": 85.42,
       "phrases": [
         {
           "text": "Dave Thomas considered his children’s names before choosing Melinda’s nickname for the restaurant.",
-          "start": 86.38,
-          "end": 92.01
+          "start": 79.79,
+          "end": 85.42
         }
       ],
       "words": [
         {
           "text": "Dave",
-          "start": 86.38,
-          "end": 86.682
+          "start": 79.79,
+          "end": 80.092
         },
         {
           "text": "Thomas",
-          "start": 86.682,
-          "end": 87.094
+          "start": 80.092,
+          "end": 80.504
         },
         {
           "text": "considered",
-          "start": 87.094,
-          "end": 87.726
+          "start": 80.504,
+          "end": 81.136
         },
         {
           "text": "his",
-          "start": 87.726,
-          "end": 87.973
+          "start": 81.136,
+          "end": 81.383
         },
         {
           "text": "children’s",
-          "start": 87.973,
-          "end": 88.55
+          "start": 81.383,
+          "end": 81.96
         },
         {
           "text": "names",
-          "start": 88.55,
-          "end": 88.907
+          "start": 81.96,
+          "end": 82.317
         },
         {
           "text": "before",
-          "start": 88.907,
-          "end": 89.319
+          "start": 82.317,
+          "end": 82.729
         },
         {
           "text": "choosing",
-          "start": 89.319,
-          "end": 89.84
+          "start": 82.729,
+          "end": 83.25
         },
         {
           "text": "Melinda’s",
-          "start": 89.84,
-          "end": 90.362
+          "start": 83.25,
+          "end": 83.772
         },
         {
           "text": "nickname",
-          "start": 90.362,
-          "end": 90.884
+          "start": 83.772,
+          "end": 84.294
         },
         {
           "text": "for",
-          "start": 90.884,
-          "end": 91.131
+          "start": 84.294,
+          "end": 84.541
         },
         {
           "text": "the",
-          "start": 91.131,
-          "end": 91.378
+          "start": 84.541,
+          "end": 84.788
         },
         {
           "text": "restaurant.",
-          "start": 91.378,
-          "end": 92.01
+          "start": 84.788,
+          "end": 85.42
         }
       ]
     },
     {
-      "id": "L29",
+      "id": "L27",
       "text": "Wendy’s official history explains that her siblings had trouble pronouncing her name. “Wenda” eventually became “Wendy.”",
-      "start": 92.61,
-      "end": 100.71,
+      "start": 86.02,
+      "end": 94.12,
       "phrases": [
         {
           "text": "Wendy’s official history explains that her siblings had trouble pronouncing her name.",
-          "start": 92.61,
-          "end": 98.585
+          "start": 86.02,
+          "end": 91.995
         },
         {
           "text": "“Wenda” eventually became “Wendy.”",
-          "start": 98.585,
-          "end": 100.71
+          "start": 91.995,
+          "end": 94.12
         }
       ],
       "words": [
         {
           "text": "Wendy’s",
-          "start": 92.61,
-          "end": 93.108
+          "start": 86.02,
+          "end": 86.518
         },
         {
           "text": "official",
-          "start": 93.108,
-          "end": 93.739
+          "start": 86.518,
+          "end": 87.149
         },
         {
           "text": "history",
-          "start": 93.739,
-          "end": 94.303
+          "start": 87.149,
+          "end": 87.713
         },
         {
           "text": "explains",
-          "start": 94.303,
-          "end": 94.934
+          "start": 87.713,
+          "end": 88.344
         },
         {
           "text": "that",
-          "start": 94.934,
-          "end": 95.299
+          "start": 88.344,
+          "end": 88.709
         },
         {
           "text": "her",
-          "start": 95.299,
-          "end": 95.598
+          "start": 88.709,
+          "end": 89.008
         },
         {
           "text": "siblings",
-          "start": 95.598,
-          "end": 96.228
+          "start": 89.008,
+          "end": 89.638
         },
         {
           "text": "had",
-          "start": 96.228,
-          "end": 96.527
+          "start": 89.638,
+          "end": 89.937
         },
         {
           "text": "trouble",
-          "start": 96.527,
-          "end": 97.092
+          "start": 89.937,
+          "end": 90.502
         },
         {
           "text": "pronouncing",
-          "start": 97.092,
-          "end": 97.921
+          "start": 90.502,
+          "end": 91.331
         },
         {
           "text": "her",
-          "start": 97.921,
-          "end": 98.22
+          "start": 91.331,
+          "end": 91.63
         },
         {
           "text": "name.",
-          "start": 98.22,
-          "end": 98.585
+          "start": 91.63,
+          "end": 91.995
         },
         {
           "text": "“Wenda”",
-          "start": 98.585,
-          "end": 99.017
+          "start": 91.995,
+          "end": 92.427
         },
         {
           "text": "eventually",
-          "start": 99.017,
-          "end": 99.78
+          "start": 92.427,
+          "end": 93.19
         },
         {
           "text": "became",
-          "start": 99.78,
-          "end": 100.278
+          "start": 93.19,
+          "end": 93.688
         },
         {
           "text": "“Wendy.”",
-          "start": 100.278,
-          "end": 100.71
+          "start": 93.688,
+          "end": 94.12
         }
       ]
     },
     {
-      "id": "L30",
+      "id": "L28",
       "text": "A family nickname became a restaurant name.",
-      "start": 101.31,
-      "end": 103.9,
+      "start": 94.72,
+      "end": 97.31,
       "phrases": [
         {
           "text": "A family nickname became a restaurant name.",
-          "start": 101.31,
-          "end": 103.9
+          "start": 94.72,
+          "end": 97.31
         }
       ],
       "words": [
         {
           "text": "A",
-          "start": 101.31,
-          "end": 101.449
+          "start": 94.72,
+          "end": 94.859
         },
         {
           "text": "family",
-          "start": 101.449,
-          "end": 101.867
+          "start": 94.859,
+          "end": 95.277
         },
         {
           "text": "nickname",
-          "start": 101.867,
-          "end": 102.396
+          "start": 95.277,
+          "end": 95.806
         },
         {
           "text": "became",
-          "start": 102.396,
-          "end": 102.814
+          "start": 95.806,
+          "end": 96.224
         },
         {
           "text": "a",
-          "start": 102.814,
-          "end": 102.953
+          "start": 96.224,
+          "end": 96.363
         },
         {
           "text": "restaurant",
-          "start": 102.953,
-          "end": 103.594
+          "start": 96.363,
+          "end": 97.004
         },
         {
           "text": "name.",
-          "start": 103.594,
-          "end": 103.9
+          "start": 97.004,
+          "end": 97.31
         }
       ]
     },
     {
-      "id": "L31",
+      "id": "L29",
       "text": "Imagine that transformation.",
-      "start": 104.5,
-      "end": 106.3,
+      "start": 97.91,
+      "end": 99.71,
       "phrases": [
         {
           "text": "Imagine that transformation.",
-          "start": 104.5,
-          "end": 106.3
+          "start": 97.91,
+          "end": 99.71
         }
       ],
       "words": [
         {
           "text": "Imagine",
-          "start": 104.5,
-          "end": 105.019
+          "start": 97.91,
+          "end": 98.429
         },
         {
           "text": "that",
-          "start": 105.019,
-          "end": 105.354
+          "start": 98.429,
+          "end": 98.764
         },
         {
           "text": "transformation.",
-          "start": 105.354,
-          "end": 106.3
+          "start": 98.764,
+          "end": 99.71
         }
       ]
     },
     {
-      "id": "L32",
+      "id": "L30",
       "text": "At home, it’s a name your brothers and sisters call you.",
-      "start": 106.9,
-      "end": 110.01,
+      "start": 100.31,
+      "end": 103.42,
       "phrases": [
         {
           "text": "At home,",
-          "start": 106.9,
-          "end": 107.49
+          "start": 100.31,
+          "end": 100.9
         },
         {
           "text": "it’s a name your brothers and sisters call you.",
-          "start": 107.73,
-          "end": 110.01
+          "start": 101.14,
+          "end": 103.42
         }
       ],
       "words": [
         {
           "text": "At",
-          "start": 106.9,
-          "end": 107.129
+          "start": 100.31,
+          "end": 100.539
         },
         {
           "text": "home,",
-          "start": 107.129,
-          "end": 107.49
+          "start": 100.539,
+          "end": 100.9
         },
         {
           "text": "it’s",
-          "start": 107.73,
-          "end": 107.933
+          "start": 101.14,
+          "end": 101.343
         },
         {
           "text": "a",
-          "start": 107.933,
-          "end": 108.046
+          "start": 101.343,
+          "end": 101.456
         },
         {
           "text": "name",
-          "start": 108.046,
-          "end": 108.294
+          "start": 101.456,
+          "end": 101.704
         },
         {
           "text": "your",
-          "start": 108.294,
-          "end": 108.543
+          "start": 101.704,
+          "end": 101.953
         },
         {
           "text": "brothers",
-          "start": 108.543,
-          "end": 108.972
+          "start": 101.953,
+          "end": 102.382
         },
         {
           "text": "and",
-          "start": 108.972,
-          "end": 109.175
+          "start": 102.382,
+          "end": 102.585
         },
         {
           "text": "sisters",
-          "start": 109.175,
-          "end": 109.559
+          "start": 102.585,
+          "end": 102.969
         },
         {
           "text": "call",
-          "start": 109.559,
-          "end": 109.807
+          "start": 102.969,
+          "end": 103.217
         },
         {
           "text": "you.",
-          "start": 109.807,
-          "end": 110.01
+          "start": 103.217,
+          "end": 103.42
+        }
+      ]
+    },
+    {
+      "id": "L31",
+      "text": "Outside, it becomes a sign above a restaurant.",
+      "start": 104.02,
+      "end": 106.79,
+      "phrases": [
+        {
+          "text": "Outside,",
+          "start": 104.02,
+          "end": 104.71
+        },
+        {
+          "text": "it becomes a sign above a restaurant.",
+          "start": 104.89,
+          "end": 106.79
+        }
+      ],
+      "words": [
+        {
+          "text": "Outside,",
+          "start": 104.02,
+          "end": 104.71
+        },
+        {
+          "text": "it",
+          "start": 104.89,
+          "end": 105.054
+        },
+        {
+          "text": "becomes",
+          "start": 105.054,
+          "end": 105.453
+        },
+        {
+          "text": "a",
+          "start": 105.453,
+          "end": 105.57
+        },
+        {
+          "text": "sign",
+          "start": 105.57,
+          "end": 105.828
+        },
+        {
+          "text": "above",
+          "start": 105.828,
+          "end": 106.133
+        },
+        {
+          "text": "a",
+          "start": 106.133,
+          "end": 106.25
+        },
+        {
+          "text": "restaurant.",
+          "start": 106.25,
+          "end": 106.79
+        }
+      ]
+    },
+    {
+      "id": "L32",
+      "text": "Then customers start saying it without knowing anything about the family behind it.",
+      "start": 107.39,
+      "end": 112.16,
+      "phrases": [
+        {
+          "text": "Then customers start saying it without knowing anything about the family behind it.",
+          "start": 107.39,
+          "end": 112.16
+        }
+      ],
+      "words": [
+        {
+          "text": "Then",
+          "start": 107.39,
+          "end": 107.683
+        },
+        {
+          "text": "customers",
+          "start": 107.683,
+          "end": 108.243
+        },
+        {
+          "text": "start",
+          "start": 108.243,
+          "end": 108.589
+        },
+        {
+          "text": "saying",
+          "start": 108.589,
+          "end": 108.989
+        },
+        {
+          "text": "it",
+          "start": 108.989,
+          "end": 109.175
+        },
+        {
+          "text": "without",
+          "start": 109.175,
+          "end": 109.628
+        },
+        {
+          "text": "knowing",
+          "start": 109.628,
+          "end": 110.081
+        },
+        {
+          "text": "anything",
+          "start": 110.081,
+          "end": 110.588
+        },
+        {
+          "text": "about",
+          "start": 110.588,
+          "end": 110.934
+        },
+        {
+          "text": "the",
+          "start": 110.934,
+          "end": 111.174
+        },
+        {
+          "text": "family",
+          "start": 111.174,
+          "end": 111.574
+        },
+        {
+          "text": "behind",
+          "start": 111.574,
+          "end": 111.973
+        },
+        {
+          "text": "it.",
+          "start": 111.973,
+          "end": 112.16
         }
       ]
     },
     {
       "id": "L33",
-      "text": "Outside, it becomes a sign above a restaurant.",
-      "start": 110.61,
-      "end": 113.38,
+      "text": "The name sounds like a person because it came from one.",
+      "start": 112.76,
+      "end": 115.8,
       "phrases": [
         {
-          "text": "Outside,",
-          "start": 110.61,
-          "end": 111.3
-        },
-        {
-          "text": "it becomes a sign above a restaurant.",
-          "start": 111.48,
-          "end": 113.38
+          "text": "The name sounds like a person because it came from one.",
+          "start": 112.76,
+          "end": 115.8
         }
       ],
       "words": [
         {
-          "text": "Outside,",
-          "start": 110.61,
-          "end": 111.3
+          "text": "The",
+          "start": 112.76,
+          "end": 112.986
+        },
+        {
+          "text": "name",
+          "start": 112.986,
+          "end": 113.262
+        },
+        {
+          "text": "sounds",
+          "start": 113.262,
+          "end": 113.639
+        },
+        {
+          "text": "like",
+          "start": 113.639,
+          "end": 113.916
+        },
+        {
+          "text": "a",
+          "start": 113.916,
+          "end": 114.041
+        },
+        {
+          "text": "person",
+          "start": 114.041,
+          "end": 114.418
+        },
+        {
+          "text": "because",
+          "start": 114.418,
+          "end": 114.845
         },
         {
           "text": "it",
-          "start": 111.48,
-          "end": 111.644
+          "start": 114.845,
+          "end": 115.021
         },
         {
-          "text": "becomes",
-          "start": 111.644,
-          "end": 112.043
+          "text": "came",
+          "start": 115.021,
+          "end": 115.298
         },
         {
-          "text": "a",
-          "start": 112.043,
-          "end": 112.16
+          "text": "from",
+          "start": 115.298,
+          "end": 115.574
         },
         {
-          "text": "sign",
-          "start": 112.16,
-          "end": 112.418
-        },
-        {
-          "text": "above",
-          "start": 112.418,
-          "end": 112.723
-        },
-        {
-          "text": "a",
-          "start": 112.723,
-          "end": 112.84
-        },
-        {
-          "text": "restaurant.",
-          "start": 112.84,
-          "end": 113.38
+          "text": "one.",
+          "start": 115.574,
+          "end": 115.8
         }
       ]
     },
     {
       "id": "L34",
-      "text": "Then customers start saying it without knowing anything about the family behind it.",
-      "start": 113.98,
-      "end": 118.75,
+      "text": "But the story sits one layer beneath the obvious answer.",
+      "start": 116.4,
+      "end": 119.88,
       "phrases": [
         {
-          "text": "Then customers start saying it without knowing anything about the family behind it.",
-          "start": 113.98,
-          "end": 118.75
+          "text": "But the story sits one layer beneath the obvious answer.",
+          "start": 116.4,
+          "end": 119.88
         }
       ],
       "words": [
         {
-          "text": "Then",
-          "start": 113.98,
-          "end": 114.273
-        },
-        {
-          "text": "customers",
-          "start": 114.273,
-          "end": 114.833
-        },
-        {
-          "text": "start",
-          "start": 114.833,
-          "end": 115.179
-        },
-        {
-          "text": "saying",
-          "start": 115.179,
-          "end": 115.579
-        },
-        {
-          "text": "it",
-          "start": 115.579,
-          "end": 115.765
-        },
-        {
-          "text": "without",
-          "start": 115.765,
-          "end": 116.218
-        },
-        {
-          "text": "knowing",
-          "start": 116.218,
-          "end": 116.671
-        },
-        {
-          "text": "anything",
-          "start": 116.671,
-          "end": 117.178
-        },
-        {
-          "text": "about",
-          "start": 117.178,
-          "end": 117.524
+          "text": "But",
+          "start": 116.4,
+          "end": 116.657
         },
         {
           "text": "the",
-          "start": 117.524,
-          "end": 117.764
+          "start": 116.657,
+          "end": 116.913
         },
         {
-          "text": "family",
-          "start": 117.764,
-          "end": 118.164
+          "text": "story",
+          "start": 116.913,
+          "end": 117.284
         },
         {
-          "text": "behind",
-          "start": 118.164,
-          "end": 118.563
+          "text": "sits",
+          "start": 117.284,
+          "end": 117.598
         },
         {
-          "text": "it.",
-          "start": 118.563,
-          "end": 118.75
+          "text": "one",
+          "start": 117.598,
+          "end": 117.855
+        },
+        {
+          "text": "layer",
+          "start": 117.855,
+          "end": 118.226
+        },
+        {
+          "text": "beneath",
+          "start": 118.226,
+          "end": 118.71
+        },
+        {
+          "text": "the",
+          "start": 118.71,
+          "end": 118.967
+        },
+        {
+          "text": "obvious",
+          "start": 118.967,
+          "end": 119.452
+        },
+        {
+          "text": "answer.",
+          "start": 119.452,
+          "end": 119.88
         }
       ]
     },
     {
       "id": "L35",
-      "text": "The name sounds like a person because it came from one.",
-      "start": 119.35,
-      "end": 122.39,
+      "text": "Wendy was real.",
+      "start": 120.48,
+      "end": 121.61,
       "phrases": [
         {
-          "text": "The name sounds like a person because it came from one.",
-          "start": 119.35,
-          "end": 122.39
+          "text": "Wendy was real.",
+          "start": 120.48,
+          "end": 121.61
         }
       ],
       "words": [
         {
-          "text": "The",
-          "start": 119.35,
-          "end": 119.576
+          "text": "Wendy",
+          "start": 120.48,
+          "end": 120.925
         },
         {
-          "text": "name",
-          "start": 119.576,
-          "end": 119.852
+          "text": "was",
+          "start": 120.925,
+          "end": 121.233
         },
         {
-          "text": "sounds",
-          "start": 119.852,
-          "end": 120.229
-        },
-        {
-          "text": "like",
-          "start": 120.229,
-          "end": 120.506
-        },
-        {
-          "text": "a",
-          "start": 120.506,
-          "end": 120.631
-        },
-        {
-          "text": "person",
-          "start": 120.631,
-          "end": 121.008
-        },
-        {
-          "text": "because",
-          "start": 121.008,
-          "end": 121.435
-        },
-        {
-          "text": "it",
-          "start": 121.435,
-          "end": 121.611
-        },
-        {
-          "text": "came",
-          "start": 121.611,
-          "end": 121.888
-        },
-        {
-          "text": "from",
-          "start": 121.888,
-          "end": 122.164
-        },
-        {
-          "text": "one.",
-          "start": 122.164,
-          "end": 122.39
+          "text": "real.",
+          "start": 121.233,
+          "end": 121.61
         }
       ]
     },
     {
       "id": "L36",
-      "text": "But the story sits one layer beneath the obvious answer.",
-      "start": 122.99,
-      "end": 126.47,
+      "text": "Wendy was also a nickname.",
+      "start": 122.21,
+      "end": 124.01,
       "phrases": [
         {
-          "text": "But the story sits one layer beneath the obvious answer.",
-          "start": 122.99,
-          "end": 126.47
+          "text": "Wendy was also a nickname.",
+          "start": 122.21,
+          "end": 124.01
         }
       ],
       "words": [
         {
-          "text": "But",
-          "start": 122.99,
-          "end": 123.247
+          "text": "Wendy",
+          "start": 122.21,
+          "end": 122.621
         },
         {
-          "text": "the",
-          "start": 123.247,
-          "end": 123.503
+          "text": "was",
+          "start": 122.621,
+          "end": 122.905
         },
         {
-          "text": "story",
-          "start": 123.503,
-          "end": 123.874
+          "text": "also",
+          "start": 122.905,
+          "end": 123.252
         },
         {
-          "text": "sits",
-          "start": 123.874,
-          "end": 124.188
+          "text": "a",
+          "start": 123.252,
+          "end": 123.41
         },
         {
-          "text": "one",
-          "start": 124.188,
-          "end": 124.445
-        },
-        {
-          "text": "layer",
-          "start": 124.445,
-          "end": 124.816
-        },
-        {
-          "text": "beneath",
-          "start": 124.816,
-          "end": 125.3
-        },
-        {
-          "text": "the",
-          "start": 125.3,
-          "end": 125.557
-        },
-        {
-          "text": "obvious",
-          "start": 125.557,
-          "end": 126.042
-        },
-        {
-          "text": "answer.",
-          "start": 126.042,
-          "end": 126.47
+          "text": "nickname.",
+          "start": 123.41,
+          "end": 124.01
         }
       ]
     },
     {
       "id": "L37",
-      "text": "Wendy was real.",
-      "start": 127.07,
-      "end": 128.2,
+      "text": "Now for a name with something you can actually picture.",
+      "start": 124.61,
+      "end": 127.82,
       "phrases": [
         {
-          "text": "Wendy was real.",
-          "start": 127.07,
-          "end": 128.2
+          "text": "Now for a name with something you can actually picture.",
+          "start": 124.61,
+          "end": 127.82
         }
       ],
       "words": [
         {
-          "text": "Wendy",
-          "start": 127.07,
-          "end": 127.515
+          "text": "Now",
+          "start": 124.61,
+          "end": 124.851
         },
         {
-          "text": "was",
-          "start": 127.515,
-          "end": 127.823
+          "text": "for",
+          "start": 124.851,
+          "end": 125.091
         },
         {
-          "text": "real.",
-          "start": 127.823,
-          "end": 128.2
+          "text": "a",
+          "start": 125.091,
+          "end": 125.225
+        },
+        {
+          "text": "name",
+          "start": 125.225,
+          "end": 125.519
+        },
+        {
+          "text": "with",
+          "start": 125.519,
+          "end": 125.814
+        },
+        {
+          "text": "something",
+          "start": 125.814,
+          "end": 126.375
+        },
+        {
+          "text": "you",
+          "start": 126.375,
+          "end": 126.616
+        },
+        {
+          "text": "can",
+          "start": 126.616,
+          "end": 126.857
+        },
+        {
+          "text": "actually",
+          "start": 126.857,
+          "end": 127.365
+        },
+        {
+          "text": "picture.",
+          "start": 127.365,
+          "end": 127.82
         }
       ]
     },
     {
       "id": "L38",
-      "text": "Wendy was also a nickname.",
-      "start": 128.8,
-      "end": 130.6,
+      "text": "You hear “Taco Bell,” and the words seem perfectly matched to the logo.",
+      "start": 128.82,
+      "end": 132.88,
       "phrases": [
         {
-          "text": "Wendy was also a nickname.",
-          "start": 128.8,
-          "end": 130.6
+          "text": "You hear “Taco Bell,” and the words seem perfectly matched to the logo.",
+          "start": 128.82,
+          "end": 132.88
         }
       ],
       "words": [
         {
-          "text": "Wendy",
-          "start": 128.8,
-          "end": 129.211
+          "text": "You",
+          "start": 128.82,
+          "end": 129.065
         },
         {
-          "text": "was",
-          "start": 129.211,
-          "end": 129.495
+          "text": "hear",
+          "start": 129.065,
+          "end": 129.365
         },
         {
-          "text": "also",
-          "start": 129.495,
-          "end": 129.842
+          "text": "“Taco",
+          "start": 129.365,
+          "end": 129.665
         },
         {
-          "text": "a",
-          "start": 129.842,
-          "end": 130.0
+          "text": "Bell,”",
+          "start": 129.665,
+          "end": 129.964
         },
         {
-          "text": "nickname.",
-          "start": 130.0,
-          "end": 130.6
+          "text": "and",
+          "start": 129.964,
+          "end": 130.21
+        },
+        {
+          "text": "the",
+          "start": 130.21,
+          "end": 130.455
+        },
+        {
+          "text": "words",
+          "start": 130.455,
+          "end": 130.809
+        },
+        {
+          "text": "seem",
+          "start": 130.809,
+          "end": 131.109
+        },
+        {
+          "text": "perfectly",
+          "start": 131.109,
+          "end": 131.681
+        },
+        {
+          "text": "matched",
+          "start": 131.681,
+          "end": 132.144
+        },
+        {
+          "text": "to",
+          "start": 132.144,
+          "end": 132.335
+        },
+        {
+          "text": "the",
+          "start": 132.335,
+          "end": 132.58
+        },
+        {
+          "text": "logo.",
+          "start": 132.58,
+          "end": 132.88
         }
       ]
     },
     {
       "id": "L39",
-      "text": "Now for a name with something you can actually picture.",
-      "start": 131.2,
-      "end": 134.41,
+      "text": "A taco restaurant.",
+      "start": 133.48,
+      "end": 134.82,
       "phrases": [
         {
-          "text": "Now for a name with something you can actually picture.",
-          "start": 131.2,
-          "end": 134.41
+          "text": "A taco restaurant.",
+          "start": 133.48,
+          "end": 134.82
         }
       ],
       "words": [
         {
-          "text": "Now",
-          "start": 131.2,
-          "end": 131.441
+          "text": "A",
+          "start": 133.48,
+          "end": 133.652
         },
         {
-          "text": "for",
-          "start": 131.441,
-          "end": 131.681
+          "text": "taco",
+          "start": 133.652,
+          "end": 134.03
         },
         {
-          "text": "a",
-          "start": 131.681,
-          "end": 131.815
-        },
-        {
-          "text": "name",
-          "start": 131.815,
-          "end": 132.109
-        },
-        {
-          "text": "with",
-          "start": 132.109,
-          "end": 132.404
-        },
-        {
-          "text": "something",
-          "start": 132.404,
-          "end": 132.965
-        },
-        {
-          "text": "you",
-          "start": 132.965,
-          "end": 133.206
-        },
-        {
-          "text": "can",
-          "start": 133.206,
-          "end": 133.447
-        },
-        {
-          "text": "actually",
-          "start": 133.447,
-          "end": 133.955
-        },
-        {
-          "text": "picture.",
-          "start": 133.955,
-          "end": 134.41
+          "text": "restaurant.",
+          "start": 134.03,
+          "end": 134.82
         }
       ]
     },
     {
       "id": "L40",
-      "text": "You hear “Taco Bell,” and the words seem perfectly matched to the logo.",
-      "start": 135.41,
-      "end": 139.47,
+      "text": "A bell.",
+      "start": 135.42,
+      "end": 136.09,
       "phrases": [
         {
-          "text": "You hear “Taco Bell,” and the words seem perfectly matched to the logo.",
-          "start": 135.41,
-          "end": 139.47
+          "text": "A bell.",
+          "start": 135.42,
+          "end": 136.09
         }
       ],
       "words": [
         {
-          "text": "You",
-          "start": 135.41,
-          "end": 135.655
+          "text": "A",
+          "start": 135.42,
+          "end": 135.629
         },
         {
-          "text": "hear",
-          "start": 135.655,
-          "end": 135.955
-        },
-        {
-          "text": "“Taco",
-          "start": 135.955,
-          "end": 136.255
-        },
-        {
-          "text": "Bell,”",
-          "start": 136.255,
-          "end": 136.554
-        },
-        {
-          "text": "and",
-          "start": 136.554,
-          "end": 136.8
-        },
-        {
-          "text": "the",
-          "start": 136.8,
-          "end": 137.045
-        },
-        {
-          "text": "words",
-          "start": 137.045,
-          "end": 137.399
-        },
-        {
-          "text": "seem",
-          "start": 137.399,
-          "end": 137.699
-        },
-        {
-          "text": "perfectly",
-          "start": 137.699,
-          "end": 138.271
-        },
-        {
-          "text": "matched",
-          "start": 138.271,
-          "end": 138.734
-        },
-        {
-          "text": "to",
-          "start": 138.734,
-          "end": 138.925
-        },
-        {
-          "text": "the",
-          "start": 138.925,
-          "end": 139.17
-        },
-        {
-          "text": "logo.",
-          "start": 139.17,
-          "end": 139.47
+          "text": "bell.",
+          "start": 135.629,
+          "end": 136.09
         }
       ]
     },
     {
       "id": "L41",
-      "text": "A taco restaurant.",
-      "start": 140.07,
-      "end": 141.41,
+      "text": "But the Bell is also a person.",
+      "start": 137.49,
+      "end": 139.39,
       "phrases": [
         {
-          "text": "A taco restaurant.",
-          "start": 140.07,
-          "end": 141.41
+          "text": "But the Bell is also a person.",
+          "start": 137.49,
+          "end": 139.39
         }
       ],
       "words": [
         {
-          "text": "A",
-          "start": 140.07,
-          "end": 140.242
+          "text": "But",
+          "start": 137.49,
+          "end": 137.745
         },
         {
-          "text": "taco",
-          "start": 140.242,
-          "end": 140.62
+          "text": "the",
+          "start": 137.745,
+          "end": 138.0
         },
         {
-          "text": "restaurant.",
-          "start": 140.62,
-          "end": 141.41
+          "text": "Bell",
+          "start": 138.0,
+          "end": 138.312
+        },
+        {
+          "text": "is",
+          "start": 138.312,
+          "end": 138.511
+        },
+        {
+          "text": "also",
+          "start": 138.511,
+          "end": 138.823
+        },
+        {
+          "text": "a",
+          "start": 138.823,
+          "end": 138.965
+        },
+        {
+          "text": "person.",
+          "start": 138.965,
+          "end": 139.39
         }
       ]
     },
     {
       "id": "L42",
-      "text": "A bell.",
-      "start": 142.01,
-      "end": 142.68,
-      "phrases": [
-        {
-          "text": "A bell.",
-          "start": 142.01,
-          "end": 142.68
-        }
-      ],
-      "words": [
-        {
-          "text": "A",
-          "start": 142.01,
-          "end": 142.219
-        },
-        {
-          "text": "bell.",
-          "start": 142.219,
-          "end": 142.68
-        }
-      ]
-    },
-    {
-      "id": "L43",
-      "text": "But the Bell is also a person.",
-      "start": 144.08,
-      "end": 145.98,
-      "phrases": [
-        {
-          "text": "But the Bell is also a person.",
-          "start": 144.08,
-          "end": 145.98
-        }
-      ],
-      "words": [
-        {
-          "text": "But",
-          "start": 144.08,
-          "end": 144.335
-        },
-        {
-          "text": "the",
-          "start": 144.335,
-          "end": 144.59
-        },
-        {
-          "text": "Bell",
-          "start": 144.59,
-          "end": 144.902
-        },
-        {
-          "text": "is",
-          "start": 144.902,
-          "end": 145.101
-        },
-        {
-          "text": "also",
-          "start": 145.101,
-          "end": 145.413
-        },
-        {
-          "text": "a",
-          "start": 145.413,
-          "end": 145.555
-        },
-        {
-          "text": "person.",
-          "start": 145.555,
-          "end": 145.98
-        }
-      ]
-    },
-    {
-      "id": "L44",
       "text": "Glen Bell founded the chain, opening its first restaurant in Downey, California, in 1962.",
-      "start": 146.58,
-      "end": 153.31,
+      "start": 139.99,
+      "end": 146.72,
       "phrases": [
         {
           "text": "Glen Bell founded the chain,",
-          "start": 146.58,
-          "end": 148.23
+          "start": 139.99,
+          "end": 141.64
         },
         {
           "text": "opening its first restaurant in Downey,",
-          "start": 148.7,
-          "end": 151.77
+          "start": 142.11,
+          "end": 145.18
         },
         {
           "text": "California,",
-          "start": 152.03,
-          "end": 152.748
+          "start": 145.44,
+          "end": 146.158
         },
         {
           "text": "in 1962.",
-          "start": 152.748,
-          "end": 153.31
+          "start": 146.158,
+          "end": 146.72
         }
       ],
       "words": [
         {
           "text": "Glen",
-          "start": 146.58,
-          "end": 146.878
+          "start": 139.99,
+          "end": 140.288
         },
         {
           "text": "Bell",
-          "start": 146.878,
-          "end": 147.175
+          "start": 140.288,
+          "end": 140.585
         },
         {
           "text": "founded",
-          "start": 147.175,
-          "end": 147.635
+          "start": 140.585,
+          "end": 141.045
         },
         {
           "text": "the",
-          "start": 147.635,
-          "end": 147.878
+          "start": 141.045,
+          "end": 141.288
         },
         {
           "text": "chain,",
-          "start": 147.878,
-          "end": 148.23
+          "start": 141.288,
+          "end": 141.64
         },
         {
           "text": "opening",
-          "start": 148.7,
-          "end": 149.321
+          "start": 142.11,
+          "end": 142.731
         },
         {
           "text": "its",
-          "start": 149.321,
-          "end": 149.65
+          "start": 142.731,
+          "end": 143.06
         },
         {
           "text": "first",
-          "start": 149.65,
-          "end": 150.125
+          "start": 143.06,
+          "end": 143.535
         },
         {
           "text": "restaurant",
-          "start": 150.125,
-          "end": 150.966
+          "start": 143.535,
+          "end": 144.376
         },
         {
           "text": "in",
-          "start": 150.966,
-          "end": 151.222
+          "start": 144.376,
+          "end": 144.632
         },
         {
           "text": "Downey,",
-          "start": 151.222,
-          "end": 151.77
+          "start": 144.632,
+          "end": 145.18
         },
         {
           "text": "California,",
-          "start": 152.03,
-          "end": 152.748
+          "start": 145.44,
+          "end": 146.158
         },
         {
           "text": "in",
-          "start": 152.748,
-          "end": 152.967
+          "start": 146.158,
+          "end": 146.377
         },
         {
           "text": "1962.",
-          "start": 152.967,
-          "end": 153.31
+          "start": 146.377,
+          "end": 146.72
         }
       ]
     },
     {
-      "id": "L45",
+      "id": "L43",
       "text": "His surname is right there in the brand.",
-      "start": 153.91,
-      "end": 155.95,
+      "start": 147.32,
+      "end": 149.36,
       "phrases": [
         {
           "text": "His surname is right there in the brand.",
-          "start": 153.91,
-          "end": 155.95
+          "start": 147.32,
+          "end": 149.36
         }
       ],
       "words": [
         {
           "text": "His",
-          "start": 153.91,
-          "end": 154.119
+          "start": 147.32,
+          "end": 147.529
         },
         {
           "text": "surname",
-          "start": 154.119,
-          "end": 154.513
+          "start": 147.529,
+          "end": 147.923
         },
         {
           "text": "is",
-          "start": 154.513,
-          "end": 154.675
+          "start": 147.923,
+          "end": 148.085
         },
         {
           "text": "right",
-          "start": 154.675,
-          "end": 154.976
+          "start": 148.085,
+          "end": 148.386
         },
         {
           "text": "there",
-          "start": 154.976,
-          "end": 155.278
+          "start": 148.386,
+          "end": 148.688
         },
         {
           "text": "in",
-          "start": 155.278,
-          "end": 155.44
+          "start": 148.688,
+          "end": 148.85
         },
         {
           "text": "the",
-          "start": 155.44,
-          "end": 155.649
+          "start": 148.85,
+          "end": 149.059
         },
         {
           "text": "brand.",
-          "start": 155.649,
-          "end": 155.95
+          "start": 149.059,
+          "end": 149.36
         }
       ]
     },
     {
-      "id": "L46",
+      "id": "L44",
       "text": "Once you know that, the name reads differently.",
-      "start": 156.55,
-      "end": 159.04,
+      "start": 149.96,
+      "end": 152.45,
       "phrases": [
         {
           "text": "Once you know that,",
-          "start": 156.55,
-          "end": 157.52
+          "start": 149.96,
+          "end": 150.93
         },
         {
           "text": "the name reads differently.",
-          "start": 157.77,
-          "end": 159.04
+          "start": 151.18,
+          "end": 152.45
         }
       ],
       "words": [
         {
           "text": "Once",
-          "start": 156.55,
-          "end": 156.804
+          "start": 149.96,
+          "end": 150.214
         },
         {
           "text": "you",
-          "start": 156.804,
-          "end": 157.012
+          "start": 150.214,
+          "end": 150.422
         },
         {
           "text": "know",
-          "start": 157.012,
-          "end": 157.266
+          "start": 150.422,
+          "end": 150.676
         },
         {
           "text": "that,",
-          "start": 157.266,
-          "end": 157.52
+          "start": 150.676,
+          "end": 150.93
         },
         {
           "text": "the",
-          "start": 157.77,
-          "end": 157.967
+          "start": 151.18,
+          "end": 151.377
         },
         {
           "text": "name",
-          "start": 157.967,
-          "end": 158.208
+          "start": 151.377,
+          "end": 151.618
         },
         {
           "text": "reads",
-          "start": 158.208,
-          "end": 158.493
+          "start": 151.618,
+          "end": 151.903
         },
         {
           "text": "differently.",
-          "start": 158.493,
-          "end": 159.04
+          "start": 151.903,
+          "end": 152.45
         }
       ]
     },
     {
-      "id": "L47",
+      "id": "L45",
       "text": "It isn’t simply a food followed by a familiar object.",
-      "start": 159.64,
-      "end": 163.12,
+      "start": 153.05,
+      "end": 156.53,
       "phrases": [
         {
           "text": "It isn’t simply a food followed by a familiar object.",
-          "start": 159.64,
-          "end": 163.12
+          "start": 153.05,
+          "end": 156.53
         }
       ],
       "words": [
         {
           "text": "It",
-          "start": 159.64,
-          "end": 159.854
+          "start": 153.05,
+          "end": 153.264
         },
         {
           "text": "isn’t",
-          "start": 159.854,
-          "end": 160.189
+          "start": 153.264,
+          "end": 153.599
         },
         {
           "text": "simply",
-          "start": 160.189,
-          "end": 160.647
+          "start": 153.599,
+          "end": 154.057
         },
         {
           "text": "a",
-          "start": 160.647,
-          "end": 160.8
+          "start": 154.057,
+          "end": 154.21
         },
         {
           "text": "food",
-          "start": 160.8,
-          "end": 161.136
+          "start": 154.21,
+          "end": 154.546
         },
         {
           "text": "followed",
-          "start": 161.136,
-          "end": 161.716
+          "start": 154.546,
+          "end": 155.126
         },
         {
           "text": "by",
-          "start": 161.716,
-          "end": 161.929
+          "start": 155.126,
+          "end": 155.339
         },
         {
           "text": "a",
-          "start": 161.929,
-          "end": 162.082
+          "start": 155.339,
+          "end": 155.492
         },
         {
           "text": "familiar",
-          "start": 162.082,
-          "end": 162.662
+          "start": 155.492,
+          "end": 156.072
         },
         {
           "text": "object.",
-          "start": 162.662,
-          "end": 163.12
+          "start": 156.072,
+          "end": 156.53
         }
       ]
     },
     {
-      "id": "L48",
+      "id": "L46",
       "text": "It’s the food followed by the founder.",
-      "start": 163.72,
-      "end": 165.75,
+      "start": 157.13,
+      "end": 159.16,
       "phrases": [
         {
           "text": "It’s the food followed by the founder.",
-          "start": 163.72,
-          "end": 165.75
+          "start": 157.13,
+          "end": 159.16
         }
       ],
       "words": [
         {
           "text": "It’s",
-          "start": 163.72,
-          "end": 163.946
+          "start": 157.13,
+          "end": 157.356
         },
         {
           "text": "the",
-          "start": 163.946,
-          "end": 164.171
+          "start": 157.356,
+          "end": 157.581
         },
         {
           "text": "food",
-          "start": 164.171,
-          "end": 164.447
+          "start": 157.581,
+          "end": 157.857
         },
         {
           "text": "followed",
-          "start": 164.447,
-          "end": 164.923
+          "start": 157.857,
+          "end": 158.333
         },
         {
           "text": "by",
-          "start": 164.923,
-          "end": 165.098
+          "start": 158.333,
+          "end": 158.508
         },
         {
           "text": "the",
-          "start": 165.098,
-          "end": 165.324
+          "start": 158.508,
+          "end": 158.734
         },
         {
           "text": "founder.",
-          "start": 165.324,
-          "end": 165.75
+          "start": 158.734,
+          "end": 159.16
+        }
+      ]
+    },
+    {
+      "id": "L47",
+      "text": "The bell symbol makes the name easy to visualize.",
+      "start": 159.76,
+      "end": 162.7,
+      "phrases": [
+        {
+          "text": "The bell symbol makes the name easy to visualize.",
+          "start": 159.76,
+          "end": 162.7
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 159.76,
+          "end": 160.007
+        },
+        {
+          "text": "bell",
+          "start": 160.007,
+          "end": 160.31
+        },
+        {
+          "text": "symbol",
+          "start": 160.31,
+          "end": 160.722
+        },
+        {
+          "text": "makes",
+          "start": 160.722,
+          "end": 161.079
+        },
+        {
+          "text": "the",
+          "start": 161.079,
+          "end": 161.326
+        },
+        {
+          "text": "name",
+          "start": 161.326,
+          "end": 161.628
+        },
+        {
+          "text": "easy",
+          "start": 161.628,
+          "end": 161.931
+        },
+        {
+          "text": "to",
+          "start": 161.931,
+          "end": 162.123
+        },
+        {
+          "text": "visualize.",
+          "start": 162.123,
+          "end": 162.7
+        }
+      ]
+    },
+    {
+      "id": "L48",
+      "text": "But the family name gives it another meaning.",
+      "start": 163.3,
+      "end": 165.85,
+      "phrases": [
+        {
+          "text": "But the family name gives it another meaning.",
+          "start": 163.3,
+          "end": 165.85
+        }
+      ],
+      "words": [
+        {
+          "text": "But",
+          "start": 163.3,
+          "end": 163.534
+        },
+        {
+          "text": "the",
+          "start": 163.534,
+          "end": 163.768
+        },
+        {
+          "text": "family",
+          "start": 163.768,
+          "end": 164.159
+        },
+        {
+          "text": "name",
+          "start": 164.159,
+          "end": 164.445
+        },
+        {
+          "text": "gives",
+          "start": 164.445,
+          "end": 164.783
+        },
+        {
+          "text": "it",
+          "start": 164.783,
+          "end": 164.965
+        },
+        {
+          "text": "another",
+          "start": 164.965,
+          "end": 165.408
+        },
+        {
+          "text": "meaning.",
+          "start": 165.408,
+          "end": 165.85
         }
       ]
     },
     {
       "id": "L49",
-      "text": "The bell symbol makes the name easy to visualize.",
-      "start": 166.35,
-      "end": 169.29,
-      "phrases": [
-        {
-          "text": "The bell symbol makes the name easy to visualize.",
-          "start": 166.35,
-          "end": 169.29
-        }
-      ],
-      "words": [
-        {
-          "text": "The",
-          "start": 166.35,
-          "end": 166.597
-        },
-        {
-          "text": "bell",
-          "start": 166.597,
-          "end": 166.9
-        },
-        {
-          "text": "symbol",
-          "start": 166.9,
-          "end": 167.312
-        },
-        {
-          "text": "makes",
-          "start": 167.312,
-          "end": 167.669
-        },
-        {
-          "text": "the",
-          "start": 167.669,
-          "end": 167.916
-        },
-        {
-          "text": "name",
-          "start": 167.916,
-          "end": 168.218
-        },
-        {
-          "text": "easy",
-          "start": 168.218,
-          "end": 168.521
-        },
-        {
-          "text": "to",
-          "start": 168.521,
-          "end": 168.713
-        },
-        {
-          "text": "visualize.",
-          "start": 168.713,
-          "end": 169.29
-        }
-      ]
-    },
-    {
-      "id": "L50",
-      "text": "But the family name gives it another meaning.",
-      "start": 169.89,
-      "end": 172.44,
-      "phrases": [
-        {
-          "text": "But the family name gives it another meaning.",
-          "start": 169.89,
-          "end": 172.44
-        }
-      ],
-      "words": [
-        {
-          "text": "But",
-          "start": 169.89,
-          "end": 170.124
-        },
-        {
-          "text": "the",
-          "start": 170.124,
-          "end": 170.358
-        },
-        {
-          "text": "family",
-          "start": 170.358,
-          "end": 170.749
-        },
-        {
-          "text": "name",
-          "start": 170.749,
-          "end": 171.035
-        },
-        {
-          "text": "gives",
-          "start": 171.035,
-          "end": 171.373
-        },
-        {
-          "text": "it",
-          "start": 171.373,
-          "end": 171.555
-        },
-        {
-          "text": "another",
-          "start": 171.555,
-          "end": 171.998
-        },
-        {
-          "text": "meaning.",
-          "start": 171.998,
-          "end": 172.44
-        }
-      ]
-    },
-    {
-      "id": "L51",
       "text": "We’ve now found brothers, a daughter’s nickname, and a founder hiding in plain sight.",
-      "start": 173.04,
-      "end": 178.0,
+      "start": 166.45,
+      "end": 171.41,
       "phrases": [
         {
           "text": "We’ve now found brothers,",
-          "start": 173.04,
-          "end": 174.36
+          "start": 166.45,
+          "end": 167.77
         },
         {
           "text": "a daughter’s nickname,",
-          "start": 174.57,
-          "end": 175.58
+          "start": 167.98,
+          "end": 168.99
         },
         {
           "text": "and a founder hiding in plain sight.",
-          "start": 175.93,
-          "end": 178.0
+          "start": 169.34,
+          "end": 171.41
         }
       ],
       "words": [
         {
           "text": "We’ve",
-          "start": 173.04,
-          "end": 173.319
+          "start": 166.45,
+          "end": 166.729
         },
         {
           "text": "now",
-          "start": 173.319,
-          "end": 173.548
+          "start": 166.729,
+          "end": 166.958
         },
         {
           "text": "found",
-          "start": 173.548,
-          "end": 173.878
+          "start": 166.958,
+          "end": 167.288
         },
         {
           "text": "brothers,",
-          "start": 173.878,
-          "end": 174.36
+          "start": 167.288,
+          "end": 167.77
         },
         {
           "text": "a",
-          "start": 174.57,
-          "end": 174.682
+          "start": 167.98,
+          "end": 168.092
         },
         {
           "text": "daughter’s",
-          "start": 174.682,
-          "end": 175.154
+          "start": 168.092,
+          "end": 168.564
         },
         {
           "text": "nickname,",
-          "start": 175.154,
-          "end": 175.58
+          "start": 168.564,
+          "end": 168.99
         },
         {
           "text": "and",
-          "start": 175.93,
-          "end": 176.166
+          "start": 169.34,
+          "end": 169.576
         },
         {
           "text": "a",
-          "start": 176.166,
-          "end": 176.297
+          "start": 169.576,
+          "end": 169.707
         },
         {
           "text": "founder",
-          "start": 176.297,
-          "end": 176.742
+          "start": 169.707,
+          "end": 170.152
         },
         {
           "text": "hiding",
-          "start": 176.742,
-          "end": 177.135
+          "start": 170.152,
+          "end": 170.545
         },
         {
           "text": "in",
-          "start": 177.135,
-          "end": 177.319
+          "start": 170.545,
+          "end": 170.729
         },
         {
           "text": "plain",
-          "start": 177.319,
-          "end": 177.659
+          "start": 170.729,
+          "end": 171.069
         },
         {
           "text": "sight.",
-          "start": 177.659,
-          "end": 178.0
+          "start": 171.069,
+          "end": 171.41
         }
       ]
     },
     {
-      "id": "L52",
+      "id": "L50",
       "text": "Our last stop takes us somewhere quite different.",
-      "start": 178.6,
-      "end": 181.03,
+      "start": 172.01,
+      "end": 174.44,
       "phrases": [
         {
           "text": "Our last stop takes us somewhere quite different.",
-          "start": 178.6,
-          "end": 181.03
+          "start": 172.01,
+          "end": 174.44
         }
       ],
       "words": [
         {
           "text": "Our",
-          "start": 178.6,
-          "end": 178.806
+          "start": 172.01,
+          "end": 172.216
         },
         {
           "text": "last",
-          "start": 178.806,
-          "end": 179.058
+          "start": 172.216,
+          "end": 172.468
         },
         {
           "text": "stop",
-          "start": 179.058,
-          "end": 179.311
+          "start": 172.468,
+          "end": 172.721
         },
         {
           "text": "takes",
-          "start": 179.311,
-          "end": 179.609
+          "start": 172.721,
+          "end": 173.019
         },
         {
           "text": "us",
-          "start": 179.609,
-          "end": 179.769
+          "start": 173.019,
+          "end": 173.179
         },
         {
           "text": "somewhere",
-          "start": 179.769,
-          "end": 180.251
+          "start": 173.179,
+          "end": 173.661
         },
         {
           "text": "quite",
-          "start": 180.251,
-          "end": 180.549
+          "start": 173.661,
+          "end": 173.959
         },
         {
           "text": "different.",
-          "start": 180.549,
-          "end": 181.03
+          "start": 173.959,
+          "end": 174.44
         }
       ]
     },
     {
-      "id": "L53",
-      "text": "A coffee shop name that leads to a map—and a novel.",
-      "start": 181.63,
-      "end": 184.87,
+      "id": "L51",
+      "text": "A coffee shop name that leads to a novel.",
+      "start": 175.04,
+      "end": 177.6,
       "phrases": [
         {
-          "text": "A coffee shop name that leads to a map—and a novel.",
-          "start": 181.63,
-          "end": 184.87
+          "text": "A coffee shop name that leads to a novel.",
+          "start": 175.04,
+          "end": 177.6
         }
       ],
       "words": [
         {
           "text": "A",
-          "start": 181.63,
-          "end": 181.776
+          "start": 175.04,
+          "end": 175.181
         },
         {
           "text": "coffee",
-          "start": 181.776,
-          "end": 182.214
+          "start": 175.181,
+          "end": 175.603
         },
         {
           "text": "shop",
-          "start": 182.214,
-          "end": 182.535
+          "start": 175.603,
+          "end": 175.912
         },
         {
           "text": "name",
-          "start": 182.535,
-          "end": 182.856
+          "start": 175.912,
+          "end": 176.222
         },
         {
           "text": "that",
-          "start": 182.856,
-          "end": 183.177
+          "start": 176.222,
+          "end": 176.531
         },
         {
           "text": "leads",
-          "start": 183.177,
-          "end": 183.556
+          "start": 176.531,
+          "end": 176.897
         },
         {
           "text": "to",
-          "start": 183.556,
-          "end": 183.761
+          "start": 176.897,
+          "end": 177.094
         },
         {
           "text": "a",
-          "start": 183.761,
-          "end": 183.907
-        },
-        {
-          "text": "map—and",
-          "start": 183.907,
-          "end": 184.345
-        },
-        {
-          "text": "a",
-          "start": 184.345,
-          "end": 184.491
+          "start": 177.094,
+          "end": 177.234
         },
         {
           "text": "novel.",
-          "start": 184.491,
-          "end": 184.87
+          "start": 177.234,
+          "end": 177.6
         }
       ]
     },
     {
-      "id": "L54",
+      "id": "L52",
       "text": "Before we reveal this one, take a guess.",
-      "start": 185.87,
-      "end": 188.03,
+      "start": 178.6,
+      "end": 180.76,
       "phrases": [
         {
           "text": "Before we reveal this one,",
-          "start": 185.87,
-          "end": 187.13
+          "start": 178.6,
+          "end": 179.86
         },
         {
           "text": "take a guess.",
-          "start": 187.26,
-          "end": 188.03
+          "start": 179.99,
+          "end": 180.76
         }
       ],
       "words": [
         {
           "text": "Before",
-          "start": 185.87,
-          "end": 186.202
+          "start": 178.6,
+          "end": 178.932
         },
         {
           "text": "we",
-          "start": 186.202,
-          "end": 186.356
+          "start": 178.932,
+          "end": 179.086
         },
         {
           "text": "reveal",
-          "start": 186.356,
-          "end": 186.688
+          "start": 179.086,
+          "end": 179.418
         },
         {
           "text": "this",
-          "start": 186.688,
-          "end": 186.931
+          "start": 179.418,
+          "end": 179.661
         },
         {
           "text": "one,",
-          "start": 186.931,
-          "end": 187.13
+          "start": 179.661,
+          "end": 179.86
         },
         {
           "text": "take",
-          "start": 187.26,
-          "end": 187.552
+          "start": 179.99,
+          "end": 180.282
         },
         {
           "text": "a",
-          "start": 187.552,
-          "end": 187.685
+          "start": 180.282,
+          "end": 180.415
         },
         {
           "text": "guess.",
-          "start": 187.685,
-          "end": 188.03
+          "start": 180.415,
+          "end": 180.76
         }
       ]
     },
     {
-      "id": "L55",
+      "id": "L53",
       "text": "Was Starbucks named after a founder?",
-      "start": 188.63,
-      "end": 190.69,
+      "start": 181.36,
+      "end": 183.42,
       "phrases": [
         {
           "text": "Was Starbucks named after a founder?",
-          "start": 188.63,
-          "end": 190.69
+          "start": 181.36,
+          "end": 183.42
         }
       ],
       "words": [
         {
           "text": "Was",
-          "start": 188.63,
-          "end": 188.868
+          "start": 181.36,
+          "end": 181.598
         },
         {
           "text": "Starbucks",
-          "start": 188.868,
-          "end": 189.422
+          "start": 181.598,
+          "end": 182.152
         },
         {
           "text": "named",
-          "start": 189.422,
-          "end": 189.766
+          "start": 182.152,
+          "end": 182.496
         },
         {
           "text": "after",
-          "start": 189.766,
-          "end": 190.109
+          "start": 182.496,
+          "end": 182.839
         },
         {
           "text": "a",
-          "start": 190.109,
-          "end": 190.241
+          "start": 182.839,
+          "end": 182.971
         },
         {
           "text": "founder?",
-          "start": 190.241,
-          "end": 190.69
+          "start": 182.971,
+          "end": 183.42
         }
       ]
     },
     {
-      "id": "L56",
+      "id": "L54",
       "text": "A type of coffee?",
-      "start": 191.29,
-      "end": 192.4,
+      "start": 184.02,
+      "end": 185.13,
       "phrases": [
         {
           "text": "A type of coffee?",
-          "start": 191.29,
-          "end": 192.4
+          "start": 184.02,
+          "end": 185.13
         }
       ],
       "words": [
         {
           "text": "A",
-          "start": 191.29,
-          "end": 191.436
+          "start": 184.02,
+          "end": 184.166
         },
         {
           "text": "type",
-          "start": 191.436,
-          "end": 191.757
+          "start": 184.166,
+          "end": 184.487
         },
         {
           "text": "of",
-          "start": 191.757,
-          "end": 191.962
+          "start": 184.487,
+          "end": 184.692
         },
         {
           "text": "coffee?",
-          "start": 191.962,
-          "end": 192.4
+          "start": 184.692,
+          "end": 185.13
         }
       ]
     },
     {
-      "id": "L57",
+      "id": "L55",
       "text": "Or a character in a book?",
-      "start": 193.0,
-      "end": 194.36,
+      "start": 185.73,
+      "end": 187.09,
       "phrases": [
         {
           "text": "Or a character in a book?",
-          "start": 193.0,
-          "end": 194.36
+          "start": 185.73,
+          "end": 187.09
         }
       ],
       "words": [
         {
           "text": "Or",
-          "start": 193.0,
-          "end": 193.17
+          "start": 185.73,
+          "end": 185.9
         },
         {
           "text": "a",
-          "start": 193.17,
-          "end": 193.291
+          "start": 185.9,
+          "end": 186.021
         },
         {
           "text": "character",
-          "start": 193.291,
-          "end": 193.801
+          "start": 186.021,
+          "end": 186.531
         },
         {
           "text": "in",
-          "start": 193.801,
-          "end": 193.971
+          "start": 186.531,
+          "end": 186.701
         },
         {
           "text": "a",
-          "start": 193.971,
-          "end": 194.093
+          "start": 186.701,
+          "end": 186.823
         },
         {
           "text": "book?",
-          "start": 194.093,
-          "end": 194.36
+          "start": 186.823,
+          "end": 187.09
+        }
+      ]
+    },
+    {
+      "id": "L56",
+      "text": "The book holds the answer.",
+      "start": 188.69,
+      "end": 190.13,
+      "phrases": [
+        {
+          "text": "The book holds the answer.",
+          "start": 188.69,
+          "end": 190.13
+        }
+      ],
+      "words": [
+        {
+          "text": "The",
+          "start": 188.69,
+          "end": 188.917
+        },
+        {
+          "text": "book",
+          "start": 188.917,
+          "end": 189.195
+        },
+        {
+          "text": "holds",
+          "start": 189.195,
+          "end": 189.524
+        },
+        {
+          "text": "the",
+          "start": 189.524,
+          "end": 189.751
+        },
+        {
+          "text": "answer.",
+          "start": 189.751,
+          "end": 190.13
+        }
+      ]
+    },
+    {
+      "id": "L57",
+      "text": "According to Starbucks, the name was inspired by Starbuck—the first mate aboard the Pequod in Herman Melville’s Moby-Dick.",
+      "start": 190.73,
+      "end": 198.46,
+      "phrases": [
+        {
+          "text": "According to Starbucks,",
+          "start": 190.73,
+          "end": 191.94
+        },
+        {
+          "text": "the name was inspired by Starbuck—the first mate aboard the Pequod in Herman Melville’s Moby-Dick.",
+          "start": 192.25,
+          "end": 198.46
+        }
+      ],
+      "words": [
+        {
+          "text": "According",
+          "start": 190.73,
+          "end": 191.249
+        },
+        {
+          "text": "to",
+          "start": 191.249,
+          "end": 191.421
+        },
+        {
+          "text": "Starbucks,",
+          "start": 191.421,
+          "end": 191.94
+        },
+        {
+          "text": "the",
+          "start": 192.25,
+          "end": 192.523
+        },
+        {
+          "text": "name",
+          "start": 192.523,
+          "end": 192.856
+        },
+        {
+          "text": "was",
+          "start": 192.856,
+          "end": 193.128
+        },
+        {
+          "text": "inspired",
+          "start": 193.128,
+          "end": 193.704
+        },
+        {
+          "text": "by",
+          "start": 193.704,
+          "end": 193.916
+        },
+        {
+          "text": "Starbuck—the",
+          "start": 193.916,
+          "end": 194.673
+        },
+        {
+          "text": "first",
+          "start": 194.673,
+          "end": 195.067
+        },
+        {
+          "text": "mate",
+          "start": 195.067,
+          "end": 195.4
+        },
+        {
+          "text": "aboard",
+          "start": 195.4,
+          "end": 195.855
+        },
+        {
+          "text": "the",
+          "start": 195.855,
+          "end": 196.127
+        },
+        {
+          "text": "Pequod",
+          "start": 196.127,
+          "end": 196.582
+        },
+        {
+          "text": "in",
+          "start": 196.582,
+          "end": 196.794
+        },
+        {
+          "text": "Herman",
+          "start": 196.794,
+          "end": 197.248
+        },
+        {
+          "text": "Melville’s",
+          "start": 197.248,
+          "end": 197.884
+        },
+        {
+          "text": "Moby-Dick.",
+          "start": 197.884,
+          "end": 198.46
         }
       ]
     },
     {
       "id": "L58",
-      "text": "The book is part of the answer.",
-      "start": 195.96,
-      "end": 197.64,
+      "text": "The name we associate with coffee has a literary and seafaring connection.",
+      "start": 199.06,
+      "end": 203.56,
       "phrases": [
         {
-          "text": "The book is part of the answer.",
-          "start": 195.96,
-          "end": 197.64
+          "text": "The name we associate with coffee has a literary and seafaring connection.",
+          "start": 199.06,
+          "end": 203.56
         }
       ],
       "words": [
         {
           "text": "The",
-          "start": 195.96,
-          "end": 196.179
+          "start": 199.06,
+          "end": 199.313
         },
         {
-          "text": "book",
-          "start": 196.179,
-          "end": 196.447
+          "text": "name",
+          "start": 199.313,
+          "end": 199.622
         },
         {
-          "text": "is",
-          "start": 196.447,
-          "end": 196.617
+          "text": "we",
+          "start": 199.622,
+          "end": 199.819
         },
         {
-          "text": "part",
-          "start": 196.617,
-          "end": 196.885
+          "text": "associate",
+          "start": 199.819,
+          "end": 200.41
         },
         {
-          "text": "of",
-          "start": 196.885,
-          "end": 197.056
+          "text": "with",
+          "start": 200.41,
+          "end": 200.719
         },
         {
-          "text": "the",
-          "start": 197.056,
-          "end": 197.275
+          "text": "coffee",
+          "start": 200.719,
+          "end": 201.141
         },
         {
-          "text": "answer.",
-          "start": 197.275,
-          "end": 197.64
+          "text": "has",
+          "start": 201.141,
+          "end": 201.394
+        },
+        {
+          "text": "a",
+          "start": 201.394,
+          "end": 201.535
+        },
+        {
+          "text": "literary",
+          "start": 201.535,
+          "end": 202.069
+        },
+        {
+          "text": "and",
+          "start": 202.069,
+          "end": 202.322
+        },
+        {
+          "text": "seafaring",
+          "start": 202.322,
+          "end": 202.913
+        },
+        {
+          "text": "connection.",
+          "start": 202.913,
+          "end": 203.56
         }
       ]
     },
     {
       "id": "L59",
-      "text": "Starbucks’ own account describes a naming process that included the discovery of “Starbo” on an old map.",
-      "start": 198.24,
-      "end": 205.08,
+      "text": "Picture it on screen.",
+      "start": 204.16,
+      "end": 205.45,
       "phrases": [
         {
-          "text": "Starbucks’ own account describes a naming process that included the discovery of “Starbo” on an old map.",
-          "start": 198.24,
-          "end": 205.08
-        }
-      ],
-      "words": [
-        {
-          "text": "Starbucks’",
-          "start": 198.24,
-          "end": 198.896
-        },
-        {
-          "text": "own",
-          "start": 198.896,
-          "end": 199.177
-        },
-        {
-          "text": "account",
-          "start": 199.177,
-          "end": 199.708
-        },
-        {
-          "text": "describes",
-          "start": 199.708,
-          "end": 200.364
-        },
-        {
-          "text": "a",
-          "start": 200.364,
-          "end": 200.52
-        },
-        {
-          "text": "naming",
-          "start": 200.52,
-          "end": 200.988
-        },
-        {
-          "text": "process",
-          "start": 200.988,
-          "end": 201.519
-        },
-        {
-          "text": "that",
-          "start": 201.519,
-          "end": 201.863
-        },
-        {
-          "text": "included",
-          "start": 201.863,
-          "end": 202.456
-        },
-        {
-          "text": "the",
-          "start": 202.456,
-          "end": 202.738
-        },
-        {
-          "text": "discovery",
-          "start": 202.738,
-          "end": 203.393
-        },
-        {
-          "text": "of",
-          "start": 203.393,
-          "end": 203.612
-        },
-        {
-          "text": "“Starbo”",
-          "start": 203.612,
-          "end": 204.081
-        },
-        {
-          "text": "on",
-          "start": 204.081,
-          "end": 204.299
-        },
-        {
-          "text": "an",
-          "start": 204.299,
-          "end": 204.518
-        },
-        {
-          "text": "old",
-          "start": 204.518,
-          "end": 204.799
-        },
-        {
-          "text": "map.",
-          "start": 204.799,
-          "end": 205.08
-        }
-      ]
-    },
-    {
-      "id": "L60",
-      "text": "That brought the team back to Starbuck—the first mate aboard the Pequod in Herman Melville’s Moby-Dick.",
-      "start": 205.68,
-      "end": 211.69,
-      "phrases": [
-        {
-          "text": "That brought the team back to Starbuck—the first mate aboard the Pequod in Herman Melville’s Moby-Dick.",
-          "start": 205.68,
-          "end": 211.69
-        }
-      ],
-      "words": [
-        {
-          "text": "That",
-          "start": 205.68,
-          "end": 205.986
-        },
-        {
-          "text": "brought",
-          "start": 205.986,
-          "end": 206.459
-        },
-        {
-          "text": "the",
-          "start": 206.459,
-          "end": 206.709
-        },
-        {
-          "text": "team",
-          "start": 206.709,
-          "end": 207.016
-        },
-        {
-          "text": "back",
-          "start": 207.016,
-          "end": 207.322
-        },
-        {
-          "text": "to",
-          "start": 207.322,
-          "end": 207.516
-        },
-        {
-          "text": "Starbuck—the",
-          "start": 207.516,
-          "end": 208.212
-        },
-        {
-          "text": "first",
-          "start": 208.212,
-          "end": 208.574
-        },
-        {
-          "text": "mate",
-          "start": 208.574,
-          "end": 208.88
-        },
-        {
-          "text": "aboard",
-          "start": 208.88,
-          "end": 209.297
-        },
-        {
-          "text": "the",
-          "start": 209.297,
-          "end": 209.548
-        },
-        {
-          "text": "Pequod",
-          "start": 209.548,
-          "end": 209.965
-        },
-        {
-          "text": "in",
-          "start": 209.965,
-          "end": 210.16
-        },
-        {
-          "text": "Herman",
-          "start": 210.16,
-          "end": 210.577
-        },
-        {
-          "text": "Melville’s",
-          "start": 210.577,
-          "end": 211.161
-        },
-        {
-          "text": "Moby-Dick.",
-          "start": 211.161,
-          "end": 211.69
-        }
-      ]
-    },
-    {
-      "id": "L61",
-      "text": "The name we associate with coffee has a literary and seafaring connection.",
-      "start": 212.29,
-      "end": 216.79,
-      "phrases": [
-        {
-          "text": "The name we associate with coffee has a literary and seafaring connection.",
-          "start": 212.29,
-          "end": 216.79
-        }
-      ],
-      "words": [
-        {
-          "text": "The",
-          "start": 212.29,
-          "end": 212.543
-        },
-        {
-          "text": "name",
-          "start": 212.543,
-          "end": 212.852
-        },
-        {
-          "text": "we",
-          "start": 212.852,
-          "end": 213.049
-        },
-        {
-          "text": "associate",
-          "start": 213.049,
-          "end": 213.64
-        },
-        {
-          "text": "with",
-          "start": 213.64,
-          "end": 213.949
-        },
-        {
-          "text": "coffee",
-          "start": 213.949,
-          "end": 214.371
-        },
-        {
-          "text": "has",
-          "start": 214.371,
-          "end": 214.624
-        },
-        {
-          "text": "a",
-          "start": 214.624,
-          "end": 214.765
-        },
-        {
-          "text": "literary",
-          "start": 214.765,
-          "end": 215.299
-        },
-        {
-          "text": "and",
-          "start": 215.299,
-          "end": 215.552
-        },
-        {
-          "text": "seafaring",
-          "start": 215.552,
-          "end": 216.143
-        },
-        {
-          "text": "connection.",
-          "start": 216.143,
-          "end": 216.79
-        }
-      ]
-    },
-    {
-      "id": "L62",
-      "text": "It wasn’t simply a matter of opening a book and pointing at a page.",
-      "start": 217.39,
-      "end": 221.18,
-      "phrases": [
-        {
-          "text": "It wasn’t simply a matter of opening a book and pointing at a page.",
-          "start": 217.39,
-          "end": 221.18
-        }
-      ],
-      "words": [
-        {
-          "text": "It",
-          "start": 217.39,
-          "end": 217.572
-        },
-        {
-          "text": "wasn’t",
-          "start": 217.572,
-          "end": 217.909
-        },
-        {
-          "text": "simply",
-          "start": 217.909,
-          "end": 218.299
-        },
-        {
-          "text": "a",
-          "start": 218.299,
-          "end": 218.428
-        },
-        {
-          "text": "matter",
-          "start": 218.428,
-          "end": 218.818
-        },
-        {
-          "text": "of",
-          "start": 218.818,
-          "end": 218.999
-        },
-        {
-          "text": "opening",
-          "start": 218.999,
-          "end": 219.441
-        },
-        {
-          "text": "a",
-          "start": 219.441,
-          "end": 219.571
-        },
-        {
-          "text": "book",
-          "start": 219.571,
-          "end": 219.856
-        },
-        {
-          "text": "and",
-          "start": 219.856,
-          "end": 220.09
-        },
-        {
-          "text": "pointing",
-          "start": 220.09,
-          "end": 220.583
-        },
-        {
-          "text": "at",
-          "start": 220.583,
-          "end": 220.765
-        },
-        {
-          "text": "a",
-          "start": 220.765,
-          "end": 220.894
-        },
-        {
-          "text": "page.",
-          "start": 220.894,
-          "end": 221.18
-        }
-      ]
-    },
-    {
-      "id": "L63",
-      "text": "The sound of a place name helped lead them toward a character’s name.",
-      "start": 221.78,
-      "end": 225.49,
-      "phrases": [
-        {
-          "text": "The sound of a place name helped lead them toward a character’s name.",
-          "start": 221.78,
-          "end": 225.49
-        }
-      ],
-      "words": [
-        {
-          "text": "The",
-          "start": 221.78,
-          "end": 222.004
-        },
-        {
-          "text": "sound",
-          "start": 222.004,
-          "end": 222.328
-        },
-        {
-          "text": "of",
-          "start": 222.328,
-          "end": 222.502
-        },
-        {
-          "text": "a",
-          "start": 222.502,
-          "end": 222.627
-        },
-        {
-          "text": "place",
-          "start": 222.627,
-          "end": 222.95
-        },
-        {
-          "text": "name",
-          "start": 222.95,
-          "end": 223.224
-        },
-        {
-          "text": "helped",
-          "start": 223.224,
-          "end": 223.598
-        },
-        {
-          "text": "lead",
-          "start": 223.598,
-          "end": 223.872
-        },
-        {
-          "text": "them",
-          "start": 223.872,
-          "end": 224.145
-        },
-        {
-          "text": "toward",
-          "start": 224.145,
-          "end": 224.519
-        },
-        {
-          "text": "a",
-          "start": 224.519,
-          "end": 224.643
-        },
-        {
-          "text": "character’s",
-          "start": 224.643,
-          "end": 225.216
-        },
-        {
-          "text": "name.",
-          "start": 225.216,
-          "end": 225.49
-        }
-      ]
-    },
-    {
-      "id": "L64",
-      "text": "Picture the journey on screen.",
-      "start": 226.09,
-      "end": 227.74,
-      "phrases": [
-        {
-          "text": "Picture the journey on screen.",
-          "start": 226.09,
-          "end": 227.74
+          "text": "Picture it on screen.",
+          "start": 204.16,
+          "end": 205.45
         }
       ],
       "words": [
         {
           "text": "Picture",
-          "start": 226.09,
-          "end": 226.522
+          "start": 204.16,
+          "end": 204.637
         },
         {
-          "text": "the",
-          "start": 226.522,
-          "end": 226.75
-        },
-        {
-          "text": "journey",
-          "start": 226.75,
-          "end": 227.182
+          "text": "it",
+          "start": 204.637,
+          "end": 204.833
         },
         {
           "text": "on",
-          "start": 227.182,
-          "end": 227.359
+          "start": 204.833,
+          "end": 205.029
         },
         {
           "text": "screen.",
-          "start": 227.359,
-          "end": 227.74
+          "start": 205.029,
+          "end": 205.45
         }
       ]
     },
     {
-      "id": "L65",
-      "text": "An old map.",
-      "start": 228.34,
-      "end": 229.28,
-      "phrases": [
-        {
-          "text": "An old map.",
-          "start": 228.34,
-          "end": 229.28
-        }
-      ],
-      "words": [
-        {
-          "text": "An",
-          "start": 228.34,
-          "end": 228.603
-        },
-        {
-          "text": "old",
-          "start": 228.603,
-          "end": 228.942
-        },
-        {
-          "text": "map.",
-          "start": 228.942,
-          "end": 229.28
-        }
-      ]
-    },
-    {
-      "id": "L66",
-      "text": "The word “Starbo.”",
-      "start": 229.88,
-      "end": 231.07,
-      "phrases": [
-        {
-          "text": "The word “Starbo.”",
-          "start": 229.88,
-          "end": 231.07
-        }
-      ],
-      "words": [
-        {
-          "text": "The",
-          "start": 229.88,
-          "end": 230.186
-        },
-        {
-          "text": "word",
-          "start": 230.186,
-          "end": 230.56
-        },
-        {
-          "text": "“Starbo.”",
-          "start": 230.56,
-          "end": 231.07
-        }
-      ]
-    },
-    {
-      "id": "L67",
+      "id": "L60",
       "text": "A book opening.",
-      "start": 231.67,
-      "end": 232.68,
+      "start": 206.05,
+      "end": 207.06,
       "phrases": [
         {
           "text": "A book opening.",
-          "start": 231.67,
-          "end": 232.68
+          "start": 206.05,
+          "end": 207.06
         }
       ],
       "words": [
         {
           "text": "A",
-          "start": 231.67,
-          "end": 231.823
+          "start": 206.05,
+          "end": 206.203
         },
         {
           "text": "book",
-          "start": 231.823,
-          "end": 232.16
+          "start": 206.203,
+          "end": 206.54
         },
         {
           "text": "opening.",
-          "start": 232.16,
-          "end": 232.68
+          "start": 206.54,
+          "end": 207.06
         }
       ]
     },
     {
-      "id": "L68",
+      "id": "L61",
       "text": "“Starbuck.”",
-      "start": 233.28,
-      "end": 234.11,
+      "start": 207.66,
+      "end": 208.49,
       "phrases": [
         {
           "text": "“Starbuck.”",
-          "start": 233.28,
-          "end": 234.11
+          "start": 207.66,
+          "end": 208.49
         }
       ],
       "words": [
         {
           "text": "“Starbuck.”",
-          "start": 233.28,
-          "end": 234.11
+          "start": 207.66,
+          "end": 208.49
         }
       ]
     },
     {
-      "id": "L69",
+      "id": "L62",
       "text": "Then the familiar coffee-shop name.",
-      "start": 234.71,
-      "end": 236.56,
+      "start": 209.09,
+      "end": 210.94,
       "phrases": [
         {
           "text": "Then the familiar coffee-shop name.",
-          "start": 234.71,
-          "end": 236.56
+          "start": 209.09,
+          "end": 210.94
         }
       ],
       "words": [
         {
           "text": "Then",
-          "start": 234.71,
-          "end": 234.989
+          "start": 209.09,
+          "end": 209.369
         },
         {
           "text": "the",
-          "start": 234.989,
-          "end": 235.217
+          "start": 209.369,
+          "end": 209.597
         },
         {
           "text": "familiar",
-          "start": 235.217,
-          "end": 235.698
+          "start": 209.597,
+          "end": 210.078
         },
         {
           "text": "coffee-shop",
-          "start": 235.698,
-          "end": 236.281
+          "start": 210.078,
+          "end": 210.661
         },
         {
           "text": "name.",
-          "start": 236.281,
-          "end": 236.56
+          "start": 210.661,
+          "end": 210.94
         }
       ]
     },
     {
-      "id": "L70",
+      "id": "L63",
       "text": "A surprising route to something we now read without a second thought.",
-      "start": 237.16,
-      "end": 241.13,
+      "start": 211.54,
+      "end": 215.51,
       "phrases": [
         {
           "text": "A surprising route to something we now read without a second thought.",
-          "start": 237.16,
-          "end": 241.13
+          "start": 211.54,
+          "end": 215.51
         }
       ],
       "words": [
         {
           "text": "A",
-          "start": 237.16,
-          "end": 237.292
+          "start": 211.54,
+          "end": 211.672
         },
         {
           "text": "surprising",
-          "start": 237.292,
-          "end": 237.901
+          "start": 211.672,
+          "end": 212.281
         },
         {
           "text": "route",
-          "start": 237.901,
-          "end": 238.245
+          "start": 212.281,
+          "end": 212.625
         },
         {
           "text": "to",
-          "start": 238.245,
-          "end": 238.43
+          "start": 212.625,
+          "end": 212.81
         },
         {
           "text": "something",
-          "start": 238.43,
-          "end": 238.986
+          "start": 212.81,
+          "end": 213.366
         },
         {
           "text": "we",
-          "start": 238.986,
-          "end": 239.171
+          "start": 213.366,
+          "end": 213.551
         },
         {
           "text": "now",
-          "start": 239.171,
-          "end": 239.41
+          "start": 213.551,
+          "end": 213.79
         },
         {
           "text": "read",
-          "start": 239.41,
-          "end": 239.701
+          "start": 213.79,
+          "end": 214.081
         },
         {
           "text": "without",
-          "start": 239.701,
-          "end": 240.151
+          "start": 214.081,
+          "end": 214.531
         },
         {
           "text": "a",
-          "start": 240.151,
-          "end": 240.283
+          "start": 214.531,
+          "end": 214.663
         },
         {
           "text": "second",
-          "start": 240.283,
-          "end": 240.68
+          "start": 214.663,
+          "end": 215.06
         },
         {
           "text": "thought.",
-          "start": 240.68,
-          "end": 241.13
+          "start": 215.06,
+          "end": 215.51
         }
       ]
     },
     {
-      "id": "L71",
+      "id": "L64",
       "text": "Four familiar names.",
-      "start": 242.13,
-      "end": 243.41,
+      "start": 216.51,
+      "end": 217.79,
       "phrases": [
         {
           "text": "Four familiar names.",
-          "start": 242.13,
-          "end": 243.41
+          "start": 216.51,
+          "end": 217.79
         }
       ],
       "words": [
         {
           "text": "Four",
-          "start": 242.13,
-          "end": 242.457
+          "start": 216.51,
+          "end": 216.837
         },
         {
           "text": "familiar",
-          "start": 242.457,
-          "end": 243.023
+          "start": 216.837,
+          "end": 217.403
         },
         {
           "text": "names.",
-          "start": 243.023,
-          "end": 243.41
+          "start": 217.403,
+          "end": 217.79
         }
       ]
     },
     {
-      "id": "L72",
+      "id": "L65",
       "text": "Two brothers.",
-      "start": 244.01,
-      "end": 244.93,
+      "start": 218.39,
+      "end": 219.31,
       "phrases": [
         {
           "text": "Two brothers.",
-          "start": 244.01,
-          "end": 244.93
+          "start": 218.39,
+          "end": 219.31
         }
       ],
       "words": [
         {
           "text": "Two",
-          "start": 244.01,
-          "end": 244.306
+          "start": 218.39,
+          "end": 218.686
         },
         {
           "text": "brothers.",
-          "start": 244.306,
-          "end": 244.93
+          "start": 218.686,
+          "end": 219.31
         }
       ]
     },
     {
-      "id": "L73",
+      "id": "L66",
       "text": "A family nickname.",
-      "start": 245.53,
-      "end": 246.73,
+      "start": 219.91,
+      "end": 221.11,
       "phrases": [
         {
           "text": "A family nickname.",
-          "start": 245.53,
-          "end": 246.73
+          "start": 219.91,
+          "end": 221.11
         }
       ],
       "words": [
         {
           "text": "A",
-          "start": 245.53,
-          "end": 245.684
+          "start": 219.91,
+          "end": 220.064
         },
         {
           "text": "family",
-          "start": 245.684,
-          "end": 246.145
+          "start": 220.064,
+          "end": 220.525
         },
         {
           "text": "nickname.",
-          "start": 246.145,
-          "end": 246.73
+          "start": 220.525,
+          "end": 221.11
         }
       ]
     },
     {
-      "id": "L74",
+      "id": "L67",
       "text": "A founder’s surname.",
-      "start": 247.33,
-      "end": 248.54,
+      "start": 221.71,
+      "end": 222.92,
       "phrases": [
         {
           "text": "A founder’s surname.",
-          "start": 247.33,
-          "end": 248.54
+          "start": 221.71,
+          "end": 222.92
         }
       ],
       "words": [
         {
           "text": "A",
-          "start": 247.33,
-          "end": 247.478
+          "start": 221.71,
+          "end": 221.858
         },
         {
           "text": "founder’s",
-          "start": 247.478,
-          "end": 248.038
+          "start": 221.858,
+          "end": 222.418
         },
         {
           "text": "surname.",
-          "start": 248.038,
-          "end": 248.54
+          "start": 222.418,
+          "end": 222.92
         }
       ]
     },
     {
-      "id": "L75",
-      "text": "And a trail from an old map to a literary sailor.",
-      "start": 249.14,
-      "end": 252.14,
+      "id": "L68",
+      "text": "And a sailor from a classic novel.",
+      "start": 223.52,
+      "end": 225.54,
       "phrases": [
         {
-          "text": "And a trail from an old map to a literary sailor.",
-          "start": 249.14,
-          "end": 252.14
+          "text": "And a sailor from a classic novel.",
+          "start": 223.52,
+          "end": 225.54
         }
       ],
       "words": [
         {
           "text": "And",
-          "start": 249.14,
-          "end": 249.388
+          "start": 223.52,
+          "end": 223.762
         },
         {
           "text": "a",
-          "start": 249.388,
-          "end": 249.525
+          "start": 223.762,
+          "end": 223.897
         },
         {
-          "text": "trail",
-          "start": 249.525,
-          "end": 249.883
+          "text": "sailor",
+          "start": 223.897,
+          "end": 224.301
         },
         {
           "text": "from",
-          "start": 249.883,
-          "end": 250.186
-        },
-        {
-          "text": "an",
-          "start": 250.186,
-          "end": 250.379
-        },
-        {
-          "text": "old",
-          "start": 250.379,
-          "end": 250.626
-        },
-        {
-          "text": "map",
-          "start": 250.626,
-          "end": 250.874
-        },
-        {
-          "text": "to",
-          "start": 250.874,
-          "end": 251.067
+          "start": 224.301,
+          "end": 224.597
         },
         {
           "text": "a",
-          "start": 251.067,
-          "end": 251.204
+          "start": 224.597,
+          "end": 224.732
         },
         {
-          "text": "literary",
-          "start": 251.204,
-          "end": 251.727
+          "text": "classic",
+          "start": 224.732,
+          "end": 225.19
         },
         {
-          "text": "sailor.",
-          "start": 251.727,
-          "end": 252.14
+          "text": "novel.",
+          "start": 225.19,
+          "end": 225.54
         }
       ]
     },
     {
-      "id": "L76",
+      "id": "L69",
       "text": "You don’t need to know any of those stories to order lunch.",
-      "start": 252.74,
-      "end": 255.46,
+      "start": 226.14,
+      "end": 228.86,
       "phrases": [
         {
           "text": "You don’t need to know any of those stories to order lunch.",
-          "start": 252.74,
-          "end": 255.46
+          "start": 226.14,
+          "end": 228.86
         }
       ],
       "words": [
         {
           "text": "You",
-          "start": 252.74,
-          "end": 252.931
+          "start": 226.14,
+          "end": 226.331
         },
         {
           "text": "don’t",
-          "start": 252.931,
-          "end": 253.165
+          "start": 226.331,
+          "end": 226.565
         },
         {
           "text": "need",
-          "start": 253.165,
-          "end": 253.399
+          "start": 226.565,
+          "end": 226.799
         },
         {
           "text": "to",
-          "start": 253.399,
-          "end": 253.547
+          "start": 226.799,
+          "end": 226.947
         },
         {
           "text": "know",
-          "start": 253.547,
-          "end": 253.781
+          "start": 226.947,
+          "end": 227.181
         },
         {
           "text": "any",
-          "start": 253.781,
-          "end": 253.972
+          "start": 227.181,
+          "end": 227.372
         },
         {
           "text": "of",
-          "start": 253.972,
-          "end": 254.121
+          "start": 227.372,
+          "end": 227.521
         },
         {
           "text": "those",
-          "start": 254.121,
-          "end": 254.397
+          "start": 227.521,
+          "end": 227.797
         },
         {
           "text": "stories",
-          "start": 254.397,
-          "end": 254.759
+          "start": 227.797,
+          "end": 228.159
         },
         {
           "text": "to",
-          "start": 254.759,
-          "end": 254.907
+          "start": 228.159,
+          "end": 228.307
         },
         {
           "text": "order",
-          "start": 254.907,
-          "end": 255.184
+          "start": 228.307,
+          "end": 228.584
         },
         {
           "text": "lunch.",
-          "start": 255.184,
-          "end": 255.46
+          "start": 228.584,
+          "end": 228.86
         }
       ]
     },
     {
-      "id": "L77",
+      "id": "L70",
       "text": "But knowing them changes what you notice.",
-      "start": 256.06,
-      "end": 258.21,
+      "start": 229.46,
+      "end": 231.61,
       "phrases": [
         {
           "text": "But knowing them changes what you notice.",
-          "start": 256.06,
-          "end": 258.21
+          "start": 229.46,
+          "end": 231.61
         }
       ],
       "words": [
         {
           "text": "But",
-          "start": 256.06,
-          "end": 256.277
+          "start": 229.46,
+          "end": 229.677
         },
         {
           "text": "knowing",
-          "start": 256.277,
-          "end": 256.688
+          "start": 229.677,
+          "end": 230.088
         },
         {
           "text": "them",
-          "start": 256.688,
-          "end": 256.954
+          "start": 230.088,
+          "end": 230.354
         },
         {
           "text": "changes",
-          "start": 256.954,
-          "end": 257.364
+          "start": 230.354,
+          "end": 230.764
         },
         {
           "text": "what",
-          "start": 257.364,
-          "end": 257.63
+          "start": 230.764,
+          "end": 231.03
         },
         {
           "text": "you",
-          "start": 257.63,
-          "end": 257.848
+          "start": 231.03,
+          "end": 231.248
         },
         {
           "text": "notice.",
-          "start": 257.848,
-          "end": 258.21
+          "start": 231.248,
+          "end": 231.61
         }
       ]
     },
     {
-      "id": "L78",
+      "id": "L71",
       "text": "Next time you pass one of those signs, you’ll see more than a restaurant name.",
-      "start": 258.81,
-      "end": 262.94,
+      "start": 232.21,
+      "end": 236.34,
       "phrases": [
         {
           "text": "Next time you pass one of those signs,",
-          "start": 258.81,
-          "end": 260.85
+          "start": 232.21,
+          "end": 234.25
         },
         {
           "text": "you’ll see more than a restaurant name.",
-          "start": 261.23,
-          "end": 262.94
+          "start": 234.63,
+          "end": 236.34
         }
       ],
       "words": [
         {
           "text": "Next",
-          "start": 258.81,
-          "end": 259.077
+          "start": 232.21,
+          "end": 232.477
         },
         {
           "text": "time",
-          "start": 259.077,
-          "end": 259.344
+          "start": 232.477,
+          "end": 232.744
         },
         {
           "text": "you",
-          "start": 259.344,
-          "end": 259.563
+          "start": 232.744,
+          "end": 232.963
         },
         {
           "text": "pass",
-          "start": 259.563,
-          "end": 259.83
+          "start": 232.963,
+          "end": 233.23
         },
         {
           "text": "one",
-          "start": 259.83,
-          "end": 260.049
+          "start": 233.23,
+          "end": 233.449
         },
         {
           "text": "of",
-          "start": 260.049,
-          "end": 260.219
+          "start": 233.449,
+          "end": 233.619
         },
         {
           "text": "those",
-          "start": 260.219,
-          "end": 260.534
+          "start": 233.619,
+          "end": 233.934
         },
         {
           "text": "signs,",
-          "start": 260.534,
-          "end": 260.85
+          "start": 233.934,
+          "end": 234.25
         },
         {
           "text": "you’ll",
-          "start": 261.23,
-          "end": 261.498
+          "start": 234.63,
+          "end": 234.898
         },
         {
           "text": "see",
-          "start": 261.498,
-          "end": 261.683
+          "start": 234.898,
+          "end": 235.083
         },
         {
           "text": "more",
-          "start": 261.683,
-          "end": 261.91
+          "start": 235.083,
+          "end": 235.31
         },
         {
           "text": "than",
-          "start": 261.91,
-          "end": 262.137
+          "start": 235.31,
+          "end": 235.537
         },
         {
           "text": "a",
-          "start": 262.137,
-          "end": 262.24
+          "start": 235.537,
+          "end": 235.64
         },
         {
           "text": "restaurant",
-          "start": 262.24,
-          "end": 262.713
+          "start": 235.64,
+          "end": 236.113
         },
         {
           "text": "name.",
-          "start": 262.713,
-          "end": 262.94
+          "start": 236.113,
+          "end": 236.34
         }
       ]
     },
     {
-      "id": "L79",
+      "id": "L72",
       "text": "You’ll see a little piece of how it began.",
-      "start": 263.54,
-      "end": 265.62,
+      "start": 236.94,
+      "end": 239.02,
       "phrases": [
         {
           "text": "You’ll see a little piece of how it began.",
-          "start": 263.54,
-          "end": 265.62
+          "start": 236.94,
+          "end": 239.02
         }
       ],
       "words": [
         {
           "text": "You’ll",
-          "start": 263.54,
-          "end": 263.837
+          "start": 236.94,
+          "end": 237.237
         },
         {
           "text": "see",
-          "start": 263.837,
-          "end": 264.043
+          "start": 237.237,
+          "end": 237.443
         },
         {
           "text": "a",
-          "start": 264.043,
-          "end": 264.157
+          "start": 237.443,
+          "end": 237.557
         },
         {
           "text": "little",
-          "start": 264.157,
-          "end": 264.5
+          "start": 237.557,
+          "end": 237.9
         },
         {
           "text": "piece",
-          "start": 264.5,
-          "end": 264.797
+          "start": 237.9,
+          "end": 238.197
         },
         {
           "text": "of",
-          "start": 264.797,
-          "end": 264.957
+          "start": 238.197,
+          "end": 238.357
         },
         {
           "text": "how",
-          "start": 264.957,
-          "end": 265.163
+          "start": 238.357,
+          "end": 238.563
         },
         {
           "text": "it",
-          "start": 265.163,
-          "end": 265.323
+          "start": 238.563,
+          "end": 238.723
         },
         {
           "text": "began.",
-          "start": 265.323,
-          "end": 265.62
+          "start": 238.723,
+          "end": 239.02
         }
       ]
     },
     {
-      "id": "L80",
+      "id": "L73",
       "text": "Which story surprised you most?",
-      "start": 266.22,
-      "end": 267.99,
+      "start": 239.62,
+      "end": 241.39,
       "phrases": [
         {
           "text": "Which story surprised you most?",
-          "start": 266.22,
-          "end": 267.99
+          "start": 239.62,
+          "end": 241.39
         }
       ],
       "words": [
         {
           "text": "Which",
-          "start": 266.22,
-          "end": 266.563
+          "start": 239.62,
+          "end": 239.963
         },
         {
           "text": "story",
-          "start": 266.563,
-          "end": 266.907
+          "start": 239.963,
+          "end": 240.307
         },
         {
           "text": "surprised",
-          "start": 266.907,
-          "end": 267.462
+          "start": 240.307,
+          "end": 240.862
         },
         {
           "text": "you",
-          "start": 267.462,
-          "end": 267.699
+          "start": 240.862,
+          "end": 241.099
         },
         {
           "text": "most?",
-          "start": 267.699,
-          "end": 267.99
+          "start": 241.099,
+          "end": 241.39
         }
       ]
     },
     {
-      "id": "L81",
+      "id": "L74",
       "text": "And what company name should we investigate next?",
-      "start": 268.59,
-      "end": 271.4,
+      "start": 241.99,
+      "end": 244.8,
       "phrases": [
         {
           "text": "And what company name should we investigate next?",
-          "start": 268.59,
-          "end": 271.4
+          "start": 241.99,
+          "end": 244.8
         }
       ],
       "words": [
         {
           "text": "And",
-          "start": 268.59,
-          "end": 268.829
+          "start": 241.99,
+          "end": 242.229
         },
         {
           "text": "what",
-          "start": 268.829,
-          "end": 269.12
+          "start": 242.229,
+          "end": 242.52
         },
         {
           "text": "company",
-          "start": 269.12,
-          "end": 269.571
+          "start": 242.52,
+          "end": 242.971
         },
         {
           "text": "name",
-          "start": 269.571,
-          "end": 269.862
+          "start": 242.971,
+          "end": 243.262
         },
         {
           "text": "should",
-          "start": 269.862,
-          "end": 270.26
+          "start": 243.262,
+          "end": 243.66
         },
         {
           "text": "we",
-          "start": 270.26,
-          "end": 270.446
+          "start": 243.66,
+          "end": 243.846
         },
         {
           "text": "investigate",
-          "start": 270.446,
-          "end": 271.108
+          "start": 243.846,
+          "end": 244.508
         },
         {
           "text": "next?",
-          "start": 271.108,
-          "end": 271.4
+          "start": 244.508,
+          "end": 244.8
         }
       ]
     },
     {
-      "id": "L82",
+      "id": "L75",
       "text": "Now you know.",
-      "start": 272.4,
-      "end": 273.26,
+      "start": 245.8,
+      "end": 246.66,
       "phrases": [
         {
           "text": "Now you know.",
-          "start": 272.4,
-          "end": 273.26
+          "start": 245.8,
+          "end": 246.66
         }
       ],
       "words": [
         {
           "text": "Now",
-          "start": 272.4,
-          "end": 272.667
+          "start": 245.8,
+          "end": 246.067
         },
         {
           "text": "you",
-          "start": 272.667,
-          "end": 272.934
+          "start": 246.067,
+          "end": 246.334
         },
         {
           "text": "know.",
-          "start": 272.934,
-          "end": 273.26
+          "start": 246.334,
+          "end": 246.66
         }
       ]
     },
     {
-      "id": "L83",
+      "id": "L76",
       "text": "Ordinary has secrets.",
-      "start": 273.86,
-      "end": 275.36,
+      "start": 247.26,
+      "end": 248.76,
       "phrases": [
         {
           "text": "Ordinary has secrets.",
-          "start": 273.86,
-          "end": 275.36
+          "start": 247.26,
+          "end": 248.76
         }
       ],
       "words": [
         {
           "text": "Ordinary",
-          "start": 273.86,
-          "end": 274.493
+          "start": 247.26,
+          "end": 247.893
         },
         {
           "text": "has",
-          "start": 274.493,
-          "end": 274.793
+          "start": 247.893,
+          "end": 248.193
         },
         {
           "text": "secrets.",
-          "start": 274.793,
-          "end": 275.36
+          "start": 248.193,
+          "end": 248.76
         }
       ]
     }
