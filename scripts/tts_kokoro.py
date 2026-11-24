@@ -40,6 +40,10 @@ def main() -> None:
     pfile = Path(a.pauses) if a.pauses else epdir / "narration/pauses.json"
     cfg = {**DEFAULTS, **{k: v for k, v in (json.loads(pfile.read_text()) if pfile.exists() else {}).items() if not k.startswith("_")}}
     lines = read_draft_lines(draft)
+    # Optional narration/spoken.json: {"written": "spoken"} substitutions sent to the voice only
+    # (e.g. "1962" -> "nineteen sixty-two"); captions and timing keep the written text.
+    sfile = epdir / "narration/spoken.json"
+    spoken = {k: v for k, v in json.loads(sfile.read_text()).items() if not k.startswith("_")} if sfile.exists() and not a.name else {}
     if not lines or lines[0][1].startswith("PASTE"):
         raise SystemExit(f"{draft} is empty or still the placeholder")
 
@@ -49,6 +53,8 @@ def main() -> None:
     pieces, out_lines, cursor, sr0 = [], [], 0.0, None
     for i, (lid, text) in enumerate(lines):
         clean = text.replace("’", "'").replace("“", '"').replace("”", '"')
+        for k, v in spoken.items():
+            clean = clean.replace(k, v)
         samples, sr = kokoro.create(clean, voice=a.voice, speed=a.speed, lang="en-us")
         sr0 = sr0 or sr
         audio = trim_silence(np.asarray(samples, dtype=np.float32), sr)

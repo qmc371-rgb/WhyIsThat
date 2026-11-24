@@ -1,6 +1,6 @@
 # EP005 — Higgsfield prompt sheet (Ordinary Has Secrets)
 
-**Status: AWAITING APPROVAL — nothing generated.** Six reusable illustrative assets at most; this sheet
+**Status: APPROVED by the owner 2026-11-24 (all six).** Six reusable illustrative assets at most; this sheet
 asks for **6**. Cost preflight (Nano Banana Pro 2K, 16:9): **2 credits per image** →
 **12 credits ≈ $0.59** at the ≈ $0.049/credit valuation (cap $10). Balance 1,697.9 credits (Ultra).
 

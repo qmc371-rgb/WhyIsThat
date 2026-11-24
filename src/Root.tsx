@@ -17,6 +17,8 @@ import {Ep004Full} from './scenes/ep004/Ep004Full';
 import {timing as ep004Timing} from './scenes/ep004/timing';
 import {Short004, Short004Cover, Ep004Thumbnail} from './scenes/ep004/Short004';
 import ep004ShortTiming from './data/ep004_short/narration_timing.json';
+import {Ep005Full} from './scenes/ep005/Ep005Full';
+import {timing as ep005Timing} from './scenes/ep005/timing';
 import ep003ShortTiming from './data/ep003_short/narration_timing.json';
 import {Ep002Short} from './scenes/ep002/Short';
 import ep002ShortTiming from './data/ep002_short/narration_timing.json';
@@ -67,6 +69,9 @@ export const RemotionRoot: React.FC = () => (
     <Composition id="Ep003Short" component={Ep003Short} durationInFrames={Math.ceil(ep003ShortTiming.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={1080} height={1920} />
     <Composition id="Ep004Full" component={Ep004Full} durationInFrames={Math.ceil(ep004Timing.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
     <Composition id="Ep004Opening30" component={Ep004Full} durationInFrames={30 * VIDEO.fps} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
+    <Composition id="Ep005Full" component={Ep005Full} durationInFrames={Math.ceil(ep005Timing.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
+    <Composition id="Ep005Opening30" component={Ep005Full} durationInFrames={30 * VIDEO.fps} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
+    <Composition id="Ep005OpeningArbys" component={Ep005Full} durationInFrames={56 * VIDEO.fps} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
     <Composition id="Short004" component={Short004} durationInFrames={Math.ceil(ep004ShortTiming.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={1080} height={1920} />
     <Still id="Short004Cover" component={Short004Cover} width={1080} height={1920} />
     <Still id="Ep004Thumbnail" component={Ep004Thumbnail} width={1280} height={720} />

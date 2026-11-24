@@ -38,7 +38,7 @@ page; re-check the live page in a browser before publishing · ⚠️ flagged wo
 | L13 | Per Arby's parent company, the name refers to the Raffel Brothers, Leroy and Forrest | 1 (Inspire Brands is Arby's parent) | ✅ spelling "Leroy", "Forrest" as on the page |
 | L14 | Founded in Boardman, Ohio, in 1964 | 1 | ✅ |
 | L15–L18 | Raffel Brothers → R.B. → Arby's; the initials belong to the founders | 1 ("RB and the namesake of the brand") | ✅ |
-| L22 | "Two brothers whose **surname** became something millions of customers would say" | 1 | ⚠️ the brand comes from their **initials** (R.B.), not the surname itself; suggested fix: "Two brothers whose initials became a name millions of customers would say when ordering lunch." |
+| L22 | "Two brothers whose **surname** became something millions of customers would say" | 1 | ✅ corrected with the owner's approval 2026-11-24: recorded as "Two brothers whose **initials** became a name millions of customers would say when ordering lunch." (the approved draft said "surname") |
 | L25–L27 | Wendy = the founder's daughter; her name was Melinda | 2 | ✅ |
 | L28 | Dave Thomas considered his children's names before choosing Melinda's nickname | 2 ("trying all five of his children's names") | ✅ |
 | L29 | Siblings had trouble pronouncing her name; "Wenda" became "Wendy" | 2 | ✅ |

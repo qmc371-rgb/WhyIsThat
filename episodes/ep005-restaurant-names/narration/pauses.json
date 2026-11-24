@@ -1,9 +1,31 @@
 {
-  "_note": "section_starts: line IDs that open a new section (they get section_pause). overrides: {'L06': 2.6} etc.",
-  "lead_in": 1.2,
-  "default": 0.6,
-  "section_pause": 1.0,
-  "section_starts": [],
-  "overrides": {},
-  "tail": 8.0
+ "_note": "Same rhythm as EP001-EP004: 1.2 s lead-in, 0.6 s between lines, 1.0 s at section starts, 8 s end card. Guessing beats: a longer pause after each question before its reveal (L25, L43, L58). Opening (L01\u2013L13) tightened: 0.5 s lead-in, 0.45 s gaps, so the episode starts on 'Arby's' and reaches the Raffel Brothers reveal as early as natural pacing allows.",
+ "lead_in": 0.5,
+ "default": 0.6,
+ "section_pause": 1.0,
+ "section_starts": [
+  "L24",
+  "L40",
+  "L54",
+  "L71",
+  "L82"
+ ],
+ "overrides": {
+  "L02": 0.45,
+  "L03": 0.45,
+  "L04": 0.45,
+  "L05": 0.45,
+  "L06": 0.45,
+  "L07": 0.45,
+  "L08": 0.6,
+  "L09": 0.45,
+  "L10": 0.45,
+  "L11": 0.45,
+  "L12": 0.45,
+  "L13": 0.45,
+  "L25": 1.5,
+  "L43": 1.4,
+  "L58": 1.6
+ },
+ "tail": 8.0
 }

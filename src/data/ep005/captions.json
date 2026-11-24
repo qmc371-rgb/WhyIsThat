@@ -1,0 +1,660 @@
+[
+  {
+    "text": "Arby’s.",
+    "startMs": 500,
+    "endMs": 1610,
+    "timestampMs": 500,
+    "confidence": null
+  },
+  {
+    "text": "R. B.",
+    "startMs": 1710,
+    "endMs": 3090,
+    "timestampMs": 1710,
+    "confidence": null
+  },
+  {
+    "text": "Roast beef.",
+    "startMs": 3190,
+    "endMs": 4500,
+    "timestampMs": 3190,
+    "confidence": null
+  },
+  {
+    "text": "That sounds like a mystery solved.",
+    "startMs": 4600,
+    "endMs": 6840,
+    "timestampMs": 4600,
+    "confidence": null
+  },
+  {
+    "text": "Except those letters stand for something else.",
+    "startMs": 6940,
+    "endMs": 9720,
+    "timestampMs": 6940,
+    "confidence": null
+  },
+  {
+    "text": "And once you learn the stories behind these four restaurant names,",
+    "startMs": 9820,
+    "endMs": 13410,
+    "timestampMs": 9820,
+    "confidence": null
+  },
+  {
+    "text": "you might never read their signs quite the same way again.",
+    "startMs": 13540,
+    "endMs": 17020,
+    "timestampMs": 13540,
+    "confidence": null
+  },
+  {
+    "text": "Let’s start with the sandwich.",
+    "startMs": 17120,
+    "endMs": 19110,
+    "timestampMs": 17120,
+    "confidence": null
+  },
+  {
+    "text": "Picture a roast-beef sandwich beside two enormous letters.",
+    "startMs": 19360,
+    "endMs": 23180,
+    "timestampMs": 19360,
+    "confidence": null
+  },
+  {
+    "text": "R and B.",
+    "startMs": 23280,
+    "endMs": 24580,
+    "timestampMs": 23280,
+    "confidence": null
+  },
+  {
+    "text": "Say them together.",
+    "startMs": 24680,
+    "endMs": 26110,
+    "timestampMs": 24680,
+    "confidence": null
+  },
+  {
+    "text": "“Arby.”",
+    "startMs": 26210,
+    "endMs": 27290,
+    "timestampMs": 26210,
+    "confidence": null
+  },
+  {
+    "text": "It’s such a convincing explanation that you barely have to think about it.",
+    "startMs": 27390,
+    "endMs": 31940,
+    "timestampMs": 27390,
+    "confidence": null
+  },
+  {
+    "text": "But according to Arby’s parent company, the name refers to the Raffel Brothers:",
+    "startMs": 32040,
+    "endMs": 37018,
+    "timestampMs": 32040,
+    "confidence": null
+  },
+  {
+    "text": "Leroy and Forrest.",
+    "startMs": 37058,
+    "endMs": 38580,
+    "timestampMs": 37058,
+    "confidence": null
+  },
+  {
+    "text": "They founded the restaurant in Boardman, Ohio, in 1964.",
+    "startMs": 38830,
+    "endMs": 43450,
+    "timestampMs": 38830,
+    "confidence": null
+  },
+  {
+    "text": "Raffel Brothers.",
+    "startMs": 43700,
+    "endMs": 45210,
+    "timestampMs": 43700,
+    "confidence": null
+  },
+  {
+    "text": "R. B.",
+    "startMs": 45460,
+    "endMs": 46840,
+    "timestampMs": 45460,
+    "confidence": null
+  },
+  {
+    "text": "Arby’s.",
+    "startMs": 47090,
+    "endMs": 48200,
+    "timestampMs": 47090,
+    "confidence": null
+  },
+  {
+    "text": "The initials belong to the founders.",
+    "startMs": 48450,
+    "endMs": 50790,
+    "timestampMs": 48450,
+    "confidence": null
+  },
+  {
+    "text": "The roast beef makes the coincidence especially easy to believe.",
+    "startMs": 51030,
+    "endMs": 55250,
+    "timestampMs": 51030,
+    "confidence": null
+  },
+  {
+    "text": "That’s what makes this a good naming mystery.",
+    "startMs": 55500,
+    "endMs": 58190,
+    "timestampMs": 55500,
+    "confidence": null
+  },
+  {
+    "text": "The answer seems to be sitting right there on the menu.",
+    "startMs": 58440,
+    "endMs": 61550,
+    "timestampMs": 58440,
+    "confidence": null
+  },
+  {
+    "text": "But the real explanation is standing behind the counter.",
+    "startMs": 61800,
+    "endMs": 65570,
+    "timestampMs": 61800,
+    "confidence": null
+  },
+  {
+    "text": "Two brothers whose initials became a name millions of customers would say when",
+    "startMs": 65820,
+    "endMs": 70876,
+    "timestampMs": 65820,
+    "confidence": null
+  },
+  {
+    "text": "ordering lunch.",
+    "startMs": 70916,
+    "endMs": 72220,
+    "timestampMs": 70916,
+    "confidence": null
+  },
+  {
+    "text": "Now let’s move from two brothers to one daughter.",
+    "startMs": 72470,
+    "endMs": 75240,
+    "timestampMs": 72470,
+    "confidence": null
+  },
+  {
+    "text": "Who was Wendy?",
+    "startMs": 75890,
+    "endMs": 77190,
+    "timestampMs": 75890,
+    "confidence": null
+  },
+  {
+    "text": "If your answer is “the founder’s daughter,” you’re on the right track.",
+    "startMs": 78340,
+    "endMs": 82120,
+    "timestampMs": 78340,
+    "confidence": null
+  },
+  {
+    "text": "But there’s another detail.",
+    "startMs": 82370,
+    "endMs": 84130,
+    "timestampMs": 82370,
+    "confidence": null
+  },
+  {
+    "text": "Her name was Melinda.",
+    "startMs": 84380,
+    "endMs": 86130,
+    "timestampMs": 84380,
+    "confidence": null
+  },
+  {
+    "text": "Dave Thomas considered his children’s names before choosing Melinda’s nickname",
+    "startMs": 86380,
+    "endMs": 90844,
+    "timestampMs": 86380,
+    "confidence": null
+  },
+  {
+    "text": "for the restaurant.",
+    "startMs": 90884,
+    "endMs": 92360,
+    "timestampMs": 90884,
+    "confidence": null
+  },
+  {
+    "text": "Wendy’s official history explains that her siblings had trouble pronouncing her name.",
+    "startMs": 92610,
+    "endMs": 98545,
+    "timestampMs": 92610,
+    "confidence": null
+  },
+  {
+    "text": "“Wenda” eventually became “Wendy.”",
+    "startMs": 98585,
+    "endMs": 101060,
+    "timestampMs": 98585,
+    "confidence": null
+  },
+  {
+    "text": "A family nickname became a restaurant name.",
+    "startMs": 101310,
+    "endMs": 104250,
+    "timestampMs": 101310,
+    "confidence": null
+  },
+  {
+    "text": "Imagine that transformation.",
+    "startMs": 104500,
+    "endMs": 106650,
+    "timestampMs": 104500,
+    "confidence": null
+  },
+  {
+    "text": "At home, it’s a name your brothers and sisters call you.",
+    "startMs": 106900,
+    "endMs": 110360,
+    "timestampMs": 106900,
+    "confidence": null
+  },
+  {
+    "text": "Outside, it becomes a sign above a restaurant.",
+    "startMs": 110610,
+    "endMs": 113730,
+    "timestampMs": 110610,
+    "confidence": null
+  },
+  {
+    "text": "Then customers start saying it without knowing anything about the",
+    "startMs": 113980,
+    "endMs": 117724,
+    "timestampMs": 113980,
+    "confidence": null
+  },
+  {
+    "text": "family behind it.",
+    "startMs": 117764,
+    "endMs": 119100,
+    "timestampMs": 117764,
+    "confidence": null
+  },
+  {
+    "text": "The name sounds like a person because it came from one.",
+    "startMs": 119350,
+    "endMs": 122740,
+    "timestampMs": 119350,
+    "confidence": null
+  },
+  {
+    "text": "But the story sits one layer beneath the obvious answer.",
+    "startMs": 122990,
+    "endMs": 126820,
+    "timestampMs": 122990,
+    "confidence": null
+  },
+  {
+    "text": "Wendy was real.",
+    "startMs": 127070,
+    "endMs": 128550,
+    "timestampMs": 127070,
+    "confidence": null
+  },
+  {
+    "text": "Wendy was also a nickname.",
+    "startMs": 128800,
+    "endMs": 130950,
+    "timestampMs": 128800,
+    "confidence": null
+  },
+  {
+    "text": "Now for a name with something you can actually picture.",
+    "startMs": 131200,
+    "endMs": 134760,
+    "timestampMs": 131200,
+    "confidence": null
+  },
+  {
+    "text": "You hear “Taco Bell,” and the words seem perfectly matched to the logo.",
+    "startMs": 135410,
+    "endMs": 139820,
+    "timestampMs": 135410,
+    "confidence": null
+  },
+  {
+    "text": "A taco restaurant.",
+    "startMs": 140070,
+    "endMs": 141760,
+    "timestampMs": 140070,
+    "confidence": null
+  },
+  {
+    "text": "A bell.",
+    "startMs": 142010,
+    "endMs": 143030,
+    "timestampMs": 142010,
+    "confidence": null
+  },
+  {
+    "text": "But the Bell is also a person.",
+    "startMs": 144080,
+    "endMs": 146330,
+    "timestampMs": 144080,
+    "confidence": null
+  },
+  {
+    "text": "Glen Bell founded the chain, opening its first restaurant in Downey,",
+    "startMs": 146580,
+    "endMs": 151990,
+    "timestampMs": 146580,
+    "confidence": null
+  },
+  {
+    "text": "California, in 1962.",
+    "startMs": 152030,
+    "endMs": 153660,
+    "timestampMs": 152030,
+    "confidence": null
+  },
+  {
+    "text": "His surname is right there in the brand.",
+    "startMs": 153910,
+    "endMs": 156300,
+    "timestampMs": 153910,
+    "confidence": null
+  },
+  {
+    "text": "Once you know that, the name reads differently.",
+    "startMs": 156550,
+    "endMs": 159390,
+    "timestampMs": 156550,
+    "confidence": null
+  },
+  {
+    "text": "It isn’t simply a food followed by a familiar object.",
+    "startMs": 159640,
+    "endMs": 163470,
+    "timestampMs": 159640,
+    "confidence": null
+  },
+  {
+    "text": "It’s the food followed by the founder.",
+    "startMs": 163720,
+    "endMs": 166100,
+    "timestampMs": 163720,
+    "confidence": null
+  },
+  {
+    "text": "The bell symbol makes the name easy to visualize.",
+    "startMs": 166350,
+    "endMs": 169640,
+    "timestampMs": 166350,
+    "confidence": null
+  },
+  {
+    "text": "But the family name gives it another meaning.",
+    "startMs": 169890,
+    "endMs": 172790,
+    "timestampMs": 169890,
+    "confidence": null
+  },
+  {
+    "text": "We’ve now found brothers, a daughter’s nickname,",
+    "startMs": 173040,
+    "endMs": 175890,
+    "timestampMs": 173040,
+    "confidence": null
+  },
+  {
+    "text": "and a founder hiding in plain sight.",
+    "startMs": 175930,
+    "endMs": 178350,
+    "timestampMs": 175930,
+    "confidence": null
+  },
+  {
+    "text": "Our last stop takes us somewhere quite different.",
+    "startMs": 178600,
+    "endMs": 181380,
+    "timestampMs": 178600,
+    "confidence": null
+  },
+  {
+    "text": "A coffee shop name that leads to a map—and a novel.",
+    "startMs": 181630,
+    "endMs": 185220,
+    "timestampMs": 181630,
+    "confidence": null
+  },
+  {
+    "text": "Before we reveal this one, take a guess.",
+    "startMs": 185870,
+    "endMs": 188380,
+    "timestampMs": 185870,
+    "confidence": null
+  },
+  {
+    "text": "Was Starbucks named after a founder?",
+    "startMs": 188630,
+    "endMs": 191040,
+    "timestampMs": 188630,
+    "confidence": null
+  },
+  {
+    "text": "A type of coffee?",
+    "startMs": 191290,
+    "endMs": 192750,
+    "timestampMs": 191290,
+    "confidence": null
+  },
+  {
+    "text": "Or a character in a book?",
+    "startMs": 193000,
+    "endMs": 194710,
+    "timestampMs": 193000,
+    "confidence": null
+  },
+  {
+    "text": "The book is part of the answer.",
+    "startMs": 195960,
+    "endMs": 197990,
+    "timestampMs": 195960,
+    "confidence": null
+  },
+  {
+    "text": "Starbucks’ own account describes a naming process that included the discovery of",
+    "startMs": 198240,
+    "endMs": 203572,
+    "timestampMs": 198240,
+    "confidence": null
+  },
+  {
+    "text": "“Starbo” on an old map.",
+    "startMs": 203612,
+    "endMs": 205430,
+    "timestampMs": 203612,
+    "confidence": null
+  },
+  {
+    "text": "That brought the team back to Starbuck—the first mate aboard the Pequod in Herman",
+    "startMs": 205680,
+    "endMs": 210537,
+    "timestampMs": 205680,
+    "confidence": null
+  },
+  {
+    "text": "Melville’s Moby-Dick.",
+    "startMs": 210577,
+    "endMs": 212040,
+    "timestampMs": 210577,
+    "confidence": null
+  },
+  {
+    "text": "The name we associate with coffee has a literary and seafaring connection.",
+    "startMs": 212290,
+    "endMs": 217140,
+    "timestampMs": 212290,
+    "confidence": null
+  },
+  {
+    "text": "It wasn’t simply a matter of opening a book and pointing at a page.",
+    "startMs": 217390,
+    "endMs": 221530,
+    "timestampMs": 217390,
+    "confidence": null
+  },
+  {
+    "text": "The sound of a place name helped lead them toward a character’s name.",
+    "startMs": 221780,
+    "endMs": 225840,
+    "timestampMs": 221780,
+    "confidence": null
+  },
+  {
+    "text": "Picture the journey on screen.",
+    "startMs": 226090,
+    "endMs": 228090,
+    "timestampMs": 226090,
+    "confidence": null
+  },
+  {
+    "text": "An old map.",
+    "startMs": 228340,
+    "endMs": 229630,
+    "timestampMs": 228340,
+    "confidence": null
+  },
+  {
+    "text": "The word “Starbo.”",
+    "startMs": 229880,
+    "endMs": 231420,
+    "timestampMs": 229880,
+    "confidence": null
+  },
+  {
+    "text": "A book opening.",
+    "startMs": 231670,
+    "endMs": 233030,
+    "timestampMs": 231670,
+    "confidence": null
+  },
+  {
+    "text": "“Starbuck.”",
+    "startMs": 233280,
+    "endMs": 234460,
+    "timestampMs": 233280,
+    "confidence": null
+  },
+  {
+    "text": "Then the familiar coffee-shop name.",
+    "startMs": 234710,
+    "endMs": 236910,
+    "timestampMs": 234710,
+    "confidence": null
+  },
+  {
+    "text": "A surprising route to something we now read without a second thought.",
+    "startMs": 237160,
+    "endMs": 241480,
+    "timestampMs": 237160,
+    "confidence": null
+  },
+  {
+    "text": "Four familiar names.",
+    "startMs": 242130,
+    "endMs": 243760,
+    "timestampMs": 242130,
+    "confidence": null
+  },
+  {
+    "text": "Two brothers.",
+    "startMs": 244010,
+    "endMs": 245280,
+    "timestampMs": 244010,
+    "confidence": null
+  },
+  {
+    "text": "A family nickname.",
+    "startMs": 245530,
+    "endMs": 247080,
+    "timestampMs": 245530,
+    "confidence": null
+  },
+  {
+    "text": "A founder’s surname.",
+    "startMs": 247330,
+    "endMs": 248890,
+    "timestampMs": 247330,
+    "confidence": null
+  },
+  {
+    "text": "And a trail from an old map to a literary sailor.",
+    "startMs": 249140,
+    "endMs": 252490,
+    "timestampMs": 249140,
+    "confidence": null
+  },
+  {
+    "text": "You don’t need to know any of those stories to order lunch.",
+    "startMs": 252740,
+    "endMs": 255810,
+    "timestampMs": 252740,
+    "confidence": null
+  },
+  {
+    "text": "But knowing them changes what you notice.",
+    "startMs": 256060,
+    "endMs": 258560,
+    "timestampMs": 256060,
+    "confidence": null
+  },
+  {
+    "text": "Next time you pass one of those signs, you’ll see more than a restaurant name.",
+    "startMs": 258810,
+    "endMs": 263290,
+    "timestampMs": 258810,
+    "confidence": null
+  },
+  {
+    "text": "You’ll see a little piece of how it began.",
+    "startMs": 263540,
+    "endMs": 265970,
+    "timestampMs": 263540,
+    "confidence": null
+  },
+  {
+    "text": "Which story surprised you most?",
+    "startMs": 266220,
+    "endMs": 268340,
+    "timestampMs": 266220,
+    "confidence": null
+  },
+  {
+    "text": "And what company name should we investigate next?",
+    "startMs": 268590,
+    "endMs": 271750,
+    "timestampMs": 268590,
+    "confidence": null
+  },
+  {
+    "text": "Now you know.",
+    "startMs": 272400,
+    "endMs": 273610,
+    "timestampMs": 272400,
+    "confidence": null
+  },
+  {
+    "text": "Ordinary has secrets.",
+    "startMs": 273860,
+    "endMs": 275710,
+    "timestampMs": 273860,
+    "confidence": null
+  }
+]
