@@ -20,6 +20,8 @@ import ep004ShortTiming from './data/ep004_short/narration_timing.json';
 import {Ep005Full} from './scenes/ep005/Ep005Full';
 import {timing as ep005Timing} from './scenes/ep005/timing';
 import {Ep005Thumbnail} from './scenes/ep005/Thumbnail';
+import {Short005, Short005Cover} from './scenes/ep005/Short005';
+import ep005ShortTiming from './data/ep005_short/narration_timing.json';
 import ep003ShortTiming from './data/ep003_short/narration_timing.json';
 import {Ep002Short} from './scenes/ep002/Short';
 import ep002ShortTiming from './data/ep002_short/narration_timing.json';
@@ -71,6 +73,8 @@ export const RemotionRoot: React.FC = () => (
     <Composition id="Ep004Full" component={Ep004Full} durationInFrames={Math.ceil(ep004Timing.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
     <Composition id="Ep004Opening30" component={Ep004Full} durationInFrames={30 * VIDEO.fps} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
     <Composition id="Ep005Full" component={Ep005Full} durationInFrames={Math.ceil(ep005Timing.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
+    <Composition id="Short005" component={Short005} durationInFrames={Math.ceil(ep005ShortTiming.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={1080} height={1920} />
+    <Still id="Short005Cover" component={Short005Cover} width={1080} height={1920} />
     <Still id="Ep005Thumbnail" component={Ep005Thumbnail} width={1280} height={720} />
     <Composition id="Ep005Opening30" component={Ep005Full} durationInFrames={30 * VIDEO.fps} fps={VIDEO.fps} width={VIDEO.width} height={VIDEO.height} defaultProps={{showDraftBug: false, showCaptions: false}} />
     <Composition id="Short004" component={Short004} durationInFrames={Math.ceil(ep004ShortTiming.durationSec * VIDEO.fps)} fps={VIDEO.fps} width={1080} height={1920} />
